@@ -1,0 +1,1003 @@
+{
+ "XC-F1": {
+  "status": "supported with notes",
+  "rows_checked": 30,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 25,
+  "authors": [
+   "reddit:TopicActual",
+   "reddit:sharpie_da_p",
+   "tiktok:abughazi277",
+   "tiktok:adrian_neely",
+   "tiktok:alexketchem",
+   "tiktok:bagschase",
+   "tiktok:charissaakinfenwa",
+   "tiktok:filthy.hits",
+   "tiktok:jadeybird",
+   "tiktok:limanty",
+   "tiktok:mmazullah",
+   "tiktok:nataliaspotts",
+   "tiktok:nerdy.niamh",
+   "tiktok:pixelatederica",
+   "tiktok:pokeswpz",
+   "tiktok:realchadlindberg",
+   "tiktok:sameoldseth",
+   "tiktok:schatzjaegerjr",
+   "tiktok:siranda_manchez",
+   "tiktok:tidycollectables",
+   "tiktok:ttaanyaa",
+   "tiktok:westcoastgemstones",
+   "tiktok:yulingwu",
+   "youtube-commenter:@TheRepoMan360",
+   "youtube-commenter:@whatevertheshit"
+  ],
+  "shared_reddit_rows": [],
+  "notes": [
+   "local_e1a367bc: the caption is a hashtag mention (#ebaylivestream) with no announcement; role unknown. Statement corrected: 8 untagged captions are announcements or a tool ad, 1 is a hashtag-only mention.",
+   "Repeated creator: local_627a60aa and local_57f2669b are the same partner creator (yulingwu); 13 tagged captions come from 12 creators."
+  ]
+ },
+ "XC-F2": {
+  "status": "supported",
+  "rows_checked": 30,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 26,
+  "authors": [
+   "reddit:Apprehensive-File552",
+   "reddit:Available-Active9707",
+   "reddit:Comfortable_Chef_364",
+   "reddit:DeGuyWithDeOpinion",
+   "reddit:FreakinSaprykin",
+   "reddit:KingJason31",
+   "reddit:Leather_Alternative8",
+   "reddit:LostCharizardTCG",
+   "reddit:NaoTeChateies",
+   "reddit:User264785824",
+   "reddit:Visit_Excellent",
+   "reddit:Warcraft_Fan",
+   "reddit:dsellmusic",
+   "reddit:germr",
+   "reddit:hexadecimaldump",
+   "reddit:itworkaccount_new",
+   "reddit:jf7fsu",
+   "reddit:job_hunter17",
+   "reddit:mikeybo2004",
+   "reddit:petrifiedpunkx",
+   "reddit:traditionalshallot",
+   "tiktok:oh_anthonio",
+   "youtube-commenter:@JJfreshOfficial",
+   "youtube-commenter:@MDR6531-hn2yz",
+   "youtube-commenter:@MoDzAudio",
+   "youtube-commenter:@jerseyneil1"
+  ],
+  "shared_reddit_rows": [
+   "reddit:t3_1u2j162"
+  ],
+  "notes": []
+ },
+ "XC-F3": {
+  "status": "supported",
+  "rows_checked": 9,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 7,
+  "authors": [
+   "reddit:Ap3X_GunT3R",
+   "reddit:Exciting_Penalty_512",
+   "reddit:Ok-Ranger-4518",
+   "reddit:bradl102",
+   "reddit:cloud_dizzle",
+   "reddit:roxywalker",
+   "reddit:sharpie_da_p"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "XC-F4": {
+  "status": "code count (no cited rows)",
+  "rows_checked": 0,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 0,
+  "authors": [],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "XC-F5": {
+  "status": "supported",
+  "rows_checked": 9,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 9,
+  "authors": [
+   "reddit:TomMaWa21",
+   "tiktok:365dayez",
+   "tiktok:annava__",
+   "tiktok:beckymon_",
+   "tiktok:bethnicole.1",
+   "tiktok:idktrains",
+   "tiktok:kishamameridian",
+   "tiktok:schatzjaegerjr",
+   "tiktok:sophieloshier"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "SC-F1": {
+  "status": "supported",
+  "rows_checked": 15,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 12,
+  "authors": [
+   "reddit:Background-Treat55",
+   "reddit:Severe-Ad-6853",
+   "reddit:banktcg",
+   "reddit:boobie_miles35",
+   "reddit:dansFC1",
+   "reddit:jnthn98",
+   "reddit:natmercado12",
+   "reddit:traditionalshallot",
+   "tiktok:adamdrewpalmer",
+   "tiktok:doubleyoicards",
+   "tiktok:kingofthekards",
+   "tiktok:synergycards"
+  ],
+  "shared_reddit_rows": [
+   "reddit:t3_1u5s64o",
+   "reddit:t3_1om8vct"
+  ],
+  "notes": []
+ },
+ "SC-F2": {
+  "status": "supported with notes",
+  "rows_checked": 22,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 7,
+  "authors": [
+   "tiktok:burtonbreaks",
+   "youtube-channel:Best Card Breaks",
+   "youtube-channel:Bomber Sports Cards",
+   "youtube-channel:Roper's Rips",
+   "youtube-channel:SD BREAKS",
+   "youtube-channel:TRIKE Sports Cards",
+   "youtube-channel:Wayne Collection"
+  ],
+  "shared_reddit_rows": [],
+  "notes": [
+   "Repeated creators: the 4 read TikTok Shop captions are one creator (burtonbreaks); the 10 eBay-break titles come from 4 channels (Bomber Sports Cards 5, Roper's Rips 3, Best Card Breaks 1, SD Breaks 1); the entertainment titles come from 2 channels (TRIKE 3, Wayne Collection 3)."
+  ]
+ },
+ "SC-F3": {
+  "status": "supported",
+  "rows_checked": 1,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 1,
+  "authors": [
+   "youtube-commenter:@TheRepoMan360"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "SC-F4": {
+  "status": "supported",
+  "rows_checked": 12,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 11,
+  "authors": [
+   "reddit:Budget_Chocolate_647",
+   "reddit:Exciting_Penalty_512",
+   "reddit:Fearless-Vintage",
+   "reddit:GuidancePrize",
+   "reddit:Ok-Ranger-4518",
+   "reddit:Rancidintentions",
+   "reddit:bophus-again",
+   "reddit:bradl102",
+   "reddit:cloud_dizzle",
+   "reddit:cornyape",
+   "reddit:tungdiep"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "SC-F5": {
+  "status": "supported",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "tiktok:burtonbreaks",
+   "tiktok:ynadamashalamadrid"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "SC-H1": {
+  "status": "supported",
+  "rows_checked": 5,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 4,
+  "authors": [
+   "reddit:FreakinSaprykin",
+   "reddit:traditionalshallot",
+   "tiktok:chipsrippn",
+   "tiktok:juwhang"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "SC-H2": {
+  "status": "supported",
+  "rows_checked": 3,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 3,
+  "authors": [
+   "reddit:sharpie_da_p",
+   "tiktok:doubleyoicards",
+   "tiktok:synergycards"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "PK-F1": {
+  "status": "supported",
+  "rows_checked": 10,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 7,
+  "authors": [
+   "tiktok:deeppocketmonster",
+   "tiktok:dose.of.mon",
+   "tiktok:exoticz.cookz",
+   "tiktok:hyperiontcg",
+   "tiktok:realcostcofan",
+   "tiktok:stinszn",
+   "tiktok:sujoee"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "PK-F2": {
+  "status": "supported",
+  "rows_checked": 14,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 13,
+  "authors": [
+   "reddit:Commercial_Ease8053",
+   "reddit:Interesting-Buy-7433",
+   "reddit:KsoChZ7285",
+   "reddit:LostCharizardTCG",
+   "reddit:ModernZombies",
+   "reddit:[deleted]",
+   "reddit:cosmicturnip",
+   "reddit:dsellmusic",
+   "reddit:gazillionaire1",
+   "reddit:harrogen",
+   "reddit:job_hunter17",
+   "reddit:pepperthief11",
+   "youtube-commenter:@JJfreshOfficial"
+  ],
+  "shared_reddit_rows": [
+   "reddit:t3_1u2j162"
+  ],
+  "notes": []
+ },
+ "PK-F3": {
+  "status": "supported",
+  "rows_checked": 3,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 3,
+  "authors": [
+   "chat:@JKJWick",
+   "tiktok-commenter:exoticmorty",
+   "tiktok-commenter:veddady"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "PK-F4": {
+  "status": "supported",
+  "rows_checked": 5,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 5,
+  "authors": [
+   "tiktok:alexketchem",
+   "tiktok:filthy.hits",
+   "tiktok:nerdy.niamh",
+   "tiktok:pokeswpz",
+   "tiktok:tidycollectables"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "PK-F5": {
+  "status": "supported",
+  "rows_checked": 5,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 5,
+  "authors": [
+   "reddit:CyberdankDragon",
+   "reddit:DeGuyWithDeOpinion",
+   "reddit:Oops_All_Tokens",
+   "reddit:icantsppell",
+   "youtube-commenter:@Drew-Bravo"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "PK-H1": {
+  "status": "supported",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "tiktok:deeppocketmonster",
+   "tiktok:sujoee"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "PK-H2": {
+  "status": "supported",
+  "rows_checked": 1,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 1,
+  "authors": [
+   "reddit:gazillionaire1"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "SN-F1": {
+  "status": "supported with notes",
+  "rows_checked": 16,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 14,
+  "authors": [
+   "reddit:DeGuyWithDeOpinion",
+   "reddit:J-Stacks",
+   "reddit:KingJason31",
+   "reddit:Leather_Alternative8",
+   "reddit:NaoTeChateies",
+   "reddit:NoNotez",
+   "tiktok:365dayez",
+   "tiktok:greygorilla215",
+   "tiktok:ilovelili6969",
+   "tiktok:kishamameridian",
+   "tiktok:rummagerescuers",
+   "tiktok:topshelfkicks",
+   "tiktok:tracenew66",
+   "youtube-commenter:@MoDzAudio"
+  ],
+  "shared_reddit_rows": [],
+  "notes": [
+   "t1_ns0iwn6 and t3_1pcpv9c (cited in PK-F5) are the same person (DeGuyWithDeOpinion): one AU buyer, not two."
+  ]
+ },
+ "SN-F2": {
+  "status": "supported",
+  "rows_checked": 4,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 3,
+  "authors": [
+   "reddit:Warcraft_Fan",
+   "reddit:mikeybo2004",
+   "youtube-commenter:@bigwig2258"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "SN-F3": {
+  "status": "supported",
+  "rows_checked": 4,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 4,
+  "authors": [
+   "reddit:DeGuyWithDeOpinion",
+   "tiktok:365dayez",
+   "tiktok:kishamameridian",
+   "tiktok:tracenew66"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "SN-H1": {
+  "status": "supported",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "reddit:KingJason31",
+   "tiktok:kishamameridian"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "SN-H2": {
+  "status": "supported",
+  "rows_checked": 1,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 1,
+  "authors": [
+   "tiktok:flyshtdrew"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "LX-HB-F1": {
+  "status": "supported",
+  "rows_checked": 11,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 11,
+  "authors": [
+   "reddit:Visit_Excellent",
+   "tiktok:annava__",
+   "tiktok:bougiebagsandplans",
+   "tiktok:deandraduhh",
+   "tiktok:jadesshenker",
+   "tiktok:juliarxcg",
+   "tiktok:kellahawk",
+   "tiktok:loveagne",
+   "tiktok:rsbrownfield",
+   "youtube-channel:Jay",
+   "youtube-channel:Takireaaa"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "LX-HB-F2": {
+  "status": "supported",
+  "rows_checked": 11,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 10,
+  "authors": [
+   "reddit:Comfortable_Chef_364",
+   "reddit:ExtraGib",
+   "reddit:User264785824",
+   "reddit:Visit_Excellent",
+   "reddit:petrifiedpunkx",
+   "reddit:qsx11",
+   "reddit:xdummy_angel",
+   "tiktok:oh_anthonio",
+   "tiktok:qcconsigns",
+   "youtube-commenter:@MDR6531-hn2yz"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "LX-HB-F3": {
+  "status": "supported",
+  "rows_checked": 5,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 3,
+  "authors": [
+   "reddit:Dry-Buy4328",
+   "reddit:KarmatheGOAT01",
+   "reddit:rickabe"
+  ],
+  "shared_reddit_rows": [
+   "reddit:t3_1oe3rv0",
+   "reddit:t1_nkykxsw",
+   "reddit:t1_nkynsy1"
+  ],
+  "notes": []
+ },
+ "LX-HB-H1": {
+  "status": "supported",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "tiktok:annava__",
+   "tiktok:kellahawk"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "LX-HB-H2": {
+  "status": "supported",
+  "rows_checked": 3,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 3,
+  "authors": [
+   "tiktok:luxebyrick",
+   "tiktok:luxuryharborus",
+   "youtube-channel:Luxury Designer Bag"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "LX-W-F1": {
+  "status": "supported with notes",
+  "rows_checked": 16,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 14,
+  "authors": [
+   "reddit:Bithbo",
+   "reddit:NeutralMilkHotel_00",
+   "reddit:Rangercleo1",
+   "reddit:ShallotStrong3227",
+   "reddit:Willing_Crew_8055",
+   "reddit:improvthismoment",
+   "reddit:itworkaccount_new",
+   "reddit:jf7fsu",
+   "reddit:nib4nib",
+   "reddit:thugish08",
+   "tiktok:natereviewsit",
+   "tiktok:watchhospitalnyc",
+   "youtube-commenter:@MDR6531-hn2yz",
+   "youtube-commenter:@jerseyneil1"
+  ],
+  "shared_reddit_rows": [],
+  "notes": [
+   "local_d21a49d8 is hashtags only (#watchhospital \u2026 #ebay); 'watch repair' is inferred from the hashtag and handle, not stated. t1_p5gb6s4 and t1_p5gbcao are the same commenter (improvthismoment)."
+  ]
+ },
+ "LX-W-H1": {
+  "status": "supported",
+  "rows_checked": 4,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 3,
+  "authors": [
+   "reddit:itworkaccount_new",
+   "youtube-channel:Brian E. Niskala",
+   "youtube-commenter:@jerseyneil1"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "LX-VD-F1": {
+  "status": "supported",
+  "rows_checked": 6,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 6,
+  "authors": [
+   "tiktok:bethnicole.1",
+   "tiktok:elliot_duprey",
+   "tiktok:kkatieccasper",
+   "tiktok:lh.lvlup",
+   "tiktok:nixscents",
+   "youtube-channel:TheFragranceStandard"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "EL-F1": {
+  "status": "supported",
+  "rows_checked": 19,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 18,
+  "authors": [
+   "reddit:Mindestiny",
+   "reddit:Traditional-Guide604",
+   "reddit:W_town",
+   "reddit:jonjohnjonjohn",
+   "tiktok:alec_adventures",
+   "tiktok:aleeahy",
+   "tiktok:bwuubbles",
+   "tiktok:chromavault.co",
+   "tiktok:finestflips",
+   "tiktok:igage.it",
+   "tiktok:itssarahgracee",
+   "tiktok:nailsxlona",
+   "tiktok:realgingerjoe",
+   "tiktok:realvintage831",
+   "tiktok:salemtechsperts",
+   "tiktok:tgfinds17",
+   "tiktok:thegizmogarage",
+   "tiktok:topfoxdeals"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "EL-F2": {
+  "status": "supported with notes",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 1,
+  "authors": [
+   "tiktok:finestflips"
+  ],
+  "shared_reddit_rows": [],
+  "notes": [
+   "Repeated creator: both what-sold rows are one creator (finestflips)."
+  ]
+ },
+ "EL-H1": {
+  "status": "supported",
+  "rows_checked": 4,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 4,
+  "authors": [
+   "reddit:Traditional-Guide604",
+   "tiktok:robertscreations",
+   "tiktok:salemtechsperts",
+   "tiktok:thegizmogarage"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "EL-H2": {
+  "status": "supported",
+  "rows_checked": 4,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 3,
+  "authors": [
+   "tiktok:alec_adventures",
+   "tiktok:itssarahgracee",
+   "tiktok:topfoxdeals"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "TY-F1": {
+  "status": "supported with notes",
+  "rows_checked": 32,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 27,
+  "authors": [
+   "reddit:WellShitWhatYallDoin",
+   "reddit:beamerboykells",
+   "reddit:cuddly_degenerate",
+   "reddit:scubastevie",
+   "tiktok:3mmaheartstofu",
+   "tiktok:bibbidi.bobbidi.beard",
+   "tiktok:brattyc0rpse",
+   "tiktok:christifritz",
+   "tiktok:collectormood",
+   "tiktok:dfwtrainshows",
+   "tiktok:finestflips",
+   "tiktok:flawlesshtx",
+   "tiktok:idktrains",
+   "tiktok:jeanesiitaa1",
+   "tiktok:jrideflips",
+   "tiktok:lemonade.archive",
+   "tiktok:lizbethrinaa",
+   "tiktok:missremiashten",
+   "tiktok:popmartunboxing.us",
+   "tiktok:ready_set_resell",
+   "tiktok:robertscreations",
+   "tiktok:robguetstudios",
+   "tiktok:rodimusstrong",
+   "tiktok:smiskiville",
+   "tiktok:toprailroad",
+   "tiktok:uzirpudding",
+   "tiktok:wellslifka"
+  ],
+  "shared_reddit_rows": [],
+  "notes": [
+   "Repeated creator: the two train captions naming eBay (local_99a07423, local_3cc532cf) are from two creators (idktrains, robertscreations); local_13a61846 and local_4defa3ab are also idktrains. Statement corrected to name creators.",
+   "local_0e1abd6b is from the handle popmartunboxing.us; whether it is Pop Mart itself is unverified (report \u00a73.6 block 6 corrected)."
+  ]
+ },
+ "TY-F2": {
+  "status": "supported",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "tiktok-commenter:rbyxqb",
+   "tiktok:mlpkingdom"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "TY-F3": {
+  "status": "supported",
+  "rows_checked": 1,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 1,
+  "authors": [
+   "tiktok:whatnot"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "TY-H1": {
+  "status": "supported",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "tiktok-commenter:rbyxqb",
+   "tiktok:mlpkingdom"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "TY-H2": {
+  "status": "supported with notes",
+  "rows_checked": 4,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "tiktok:idktrains",
+   "tiktok:robertscreations"
+  ],
+  "shared_reddit_rows": [],
+  "notes": [
+   "As TY-F1: eBay is named in captions from two train creators, one of whom (idktrains) also runs a shop."
+  ]
+ },
+ "CN-F1": {
+  "status": "supported with notes",
+  "rows_checked": 11,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 11,
+  "authors": [
+   "reddit:Apprehensive-File552",
+   "reddit:Available-Active9707",
+   "reddit:KDI777",
+   "reddit:Known_Notice_8382",
+   "reddit:Severe-Object6650",
+   "reddit:TheDurianMage",
+   "reddit:coinversenow",
+   "reddit:floridabeach9",
+   "reddit:hexadecimaldump",
+   "reddit:wastingtime101-",
+   "tiktok:patchpursuit4"
+  ],
+  "shared_reddit_rows": [],
+  "notes": [
+   "local_6bcfb3ca asks whether police departments give collectors free coins; 'challenge coin' is inferred from the patch-collector context, not stated."
+  ]
+ },
+ "CN-F2": {
+  "status": "supported",
+  "rows_checked": 6,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 4,
+  "authors": [
+   "reddit:Lazza____",
+   "reddit:Nighttime_Ninja_5893",
+   "reddit:roxywalker",
+   "reddit:sharpie_da_p"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "CN-H1": {
+  "status": "supported",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "reddit:coinversenow",
+   "reddit:sharpie_da_p"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "AB-TV-F1": {
+  "status": "supported with notes",
+  "rows_checked": 12,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 12,
+  "authors": [
+   "tiktok:dineinherecontent",
+   "tiktok:fdfromthefuture",
+   "tiktok:kendelle.hi",
+   "tiktok:leagrca",
+   "tiktok:marlene.memories",
+   "tiktok:noahrwalters",
+   "tiktok:selloutartist",
+   "tiktok:sophieloshier",
+   "tiktok:soyvero_g",
+   "tiktok:susiecheong_",
+   "tiktok:thicknickthrifts",
+   "tiktok:zzzwatson"
+  ],
+  "shared_reddit_rows": [],
+  "notes": [
+   "local_8ecc6ac8 is a Vinted haul in French and does not name eBay; it is cited for the Vinted-alongside-eBay point only. local_bcddb583 carries #AD (promotion)."
+  ]
+ },
+ "AB-TV-H1": {
+  "status": "supported",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "tiktok:dineinherecontent",
+   "tiktok:selloutartist"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "AB-PP-F1": {
+  "status": "supported",
+  "rows_checked": 12,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 10,
+  "authors": [
+   "tiktok:3mmaheartstofu",
+   "tiktok:battlejacketslondonuk",
+   "tiktok:bellakatdesignco",
+   "tiktok:crust_young",
+   "tiktok:jijidraws",
+   "tiktok:khaseemcollection",
+   "tiktok:patchpursuit4",
+   "tiktok:rewirediaries",
+   "tiktok:unfilteredmelanin",
+   "tiktok:victoriotober"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "AB-PM-F1": {
+  "status": "supported",
+  "rows_checked": 5,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 5,
+  "authors": [
+   "tiktok:blurayfiend871",
+   "tiktok:chino_collects",
+   "tiktok:jevycollects",
+   "tiktok:totally_gadgets",
+   "tiktok:vintagemoontravels"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "AB-PA-F1": {
+  "status": "supported with notes",
+  "rows_checked": 11,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 11,
+  "authors": [
+   "reddit:0rang3p0p",
+   "reddit:Yourmomisagianth0e",
+   "reddit:c3powil",
+   "tiktok:autodemolizionedilorenz",
+   "tiktok:autoparts263",
+   "tiktok:boostedlou631",
+   "tiktok:buptyognome2002",
+   "tiktok:daltonparreira51",
+   "tiktok:gbody.parts.place",
+   "tiktok:richoffparts",
+   "tiktok:the_grim_reefer.x_x"
+  ],
+  "shared_reddit_rows": [
+   "reddit:t3_1qjabr7"
+  ],
+  "notes": [
+   "local_21b424cb ('Wholesale of auto parts for Audi\u2026') does not name eBay in its caption; it sits in the eBay-term pull. It is a parts-seller presence row, not an eBay-store routing row. Statement corrected."
+  ]
+ },
+ "AB-PA-H1": {
+  "status": "supported",
+  "rows_checked": 2,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 2,
+  "authors": [
+   "reddit:c3powil",
+   "tiktok:the_grim_reefer.x_x"
+  ],
+  "shared_reddit_rows": [
+   "reddit:t3_1qjabr7"
+  ],
+  "notes": []
+ },
+ "AB-SL-F1": {
+  "status": "supported",
+  "rows_checked": 18,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 15,
+  "authors": [
+   "reddit:Content_Suggestion67",
+   "reddit:CsXAway9001",
+   "reddit:ExpensivePen8055",
+   "reddit:FuzzyRace3752",
+   "reddit:LeRoiCasoar",
+   "reddit:ToYourCredit",
+   "reddit:TopicActual",
+   "reddit:backflipkick101",
+   "reddit:dmlvr101",
+   "reddit:nothing2fearWheniovr",
+   "reddit:roxywalker",
+   "reddit:sharpie_da_p",
+   "youtube-commenter:@TheRepoMan360",
+   "youtube-commenter:@anonymousnostalgia7674",
+   "youtube-commenter:@whatevertheshit"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "AB-SL-F2": {
+  "status": "supported",
+  "rows_checked": 6,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 4,
+  "authors": [
+   "reddit:Extension-Matter-732",
+   "reddit:GenericNameUsed",
+   "reddit:Rancidintentions",
+   "reddit:bophus-again"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "AB-SL-F3": {
+  "status": "supported",
+  "rows_checked": 9,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 8,
+  "authors": [
+   "chat:@ChaChingKingPicking",
+   "chat:@TheCostumeJeweler",
+   "chat:@beckysvintageandmore",
+   "youtube-channel:Charmaine Yee",
+   "youtube-channel:Levi Salas | Whatnot Selling & Liquidation",
+   "youtube-channel:Shop House",
+   "youtube-channel:eBay Live UK",
+   "youtube-channel:ebay"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ },
+ "AB-SL-H1": {
+  "status": "supported",
+  "rows_checked": 6,
+  "missing": [],
+  "no_key_phrase": [],
+  "distinct_authors": 6,
+  "authors": [
+   "reddit:Ok-Ranger-4518",
+   "reddit:TopicActual",
+   "reddit:cloud_dizzle",
+   "reddit:sharpie_da_p",
+   "youtube-commenter:@TheRepoMan360",
+   "youtube-commenter:@whatevertheshit"
+  ],
+  "shared_reddit_rows": [],
+  "notes": []
+ }
+}

@@ -69,6 +69,15 @@ Candidate pools are source-text regex hits over the deduplicated index (system/e
 - C18. Quote wording drift found by the quote check (§5): "best way to win an eBay auction EVERY time" is "best ya to win" in the caption; "they move so fast" is "theu move so fast"; "authenticator made a mistake" is the post title "eBay authenticator makes a mistake"; "bought probably 1000 items" is "bought probably a 1000 items"; "$1,000 negotiation" is "$1,000 Sports Card Negotiation for 1/1 Collection GRAIL". Stage 4 quotes verbatim or marks [sic].
 - C19. Carried from Stage 1: owner/moderator-flagged chat messages are 329 (inventory said 330); flags are not proof of host role; chat types kept separate (1,416 messages, 10 system, 6 error, 2 membership, 1 super chat).
 
+Corrections found by the claim support check (§10), applied to the ledger and the report after first delivery:
+- C20. XC-F1: of the 9 untagged eBay Live captions, one (local_e1a367bc…, "The Infamous Unc Em strikes again! #rgbmew #ebaylivestream") is a hashtag-only mention with no announcement and an unknown role; the other 8 are show announcements or a pricing-tool ad. The 13 tagged captions come from 12 creators (yulingwu posted two).
+- C21. SC-F2: the 10 channel-run eBay break titles come from 4 channels (Bomber Sports Cards 5, Roper's Rips 3, Best Card Breaks 1, SD Breaks 1); the entertainment titles from 2 channels (TRIKE Sports Cards 3, Wayne Collection 3). Units are titles, creators are fewer.
+- C22. TY-F1 and TY-H2: the train captions naming eBay come from two creators; idktrains posted three of the four cited train captions (including the KATO layout and a "check this out on my shop" caption). The Pop Mart-themed caption local_0e1abd6b… is from the handle popmartunboxing.us, not verifiably Pop Mart itself; the report no longer says "Pop Mart itself".
+- C23. EL-F2: both what-sold rows are one creator (finestflips).
+- C24. AB-PA-F1: local_21b424cb… ("Wholesale of auto parts for Audi…") does not name eBay in its caption; it is in the eBay-term pull but is not an "eBay store routing" row. Statement corrected.
+- C25. Same person cited twice: t1_ns0iwn6 and t3_1pcpv9c are one r/Sneakers poster (one AU buyer, not two); t1_p5gb6s4 and t1_p5gbcao are one r/Watches commenter. The watch-repair caption local_d21a49d8… is hashtags only; "repair" is inferred from the handle.
+- C26. Shared Reddit rows: seven cited rows exist in both Reddit files (t3_1oe3rv0, t1_nkykxsw, t1_nkynsy1, t3_1om8vct, t3_1qjabr7, t3_1u2j162, t3_1u5s64o). Each carries one evidence ID, is counted once, and is now marked in the ledger's "Shared Reddit rows cited" column.
+
 ## 4. Recounts with denominators (deduplicated units; `derived/stage3_recounts.json`)
 
 | Number in Stage 2 | Recount | Numerator / denominator / unit | Status |
@@ -182,6 +191,10 @@ Ledger integrity: 54 claims (37 findings, 17 hypotheses); 394 cited full IDs; ev
 - P6 (new, analyst time, $0 model cost): hand-read the 206 unread authentication rows and code each as positive, negative or mixed with speaker role, so the AG balance per community becomes a count with a denominator instead of examples.
 - P7 (new, analyst time): read the 93 `retro_gaming_collectibles` comments and the 40 remaining Whatnot-first-person rows; both pools were only sampled.
 - P8 (new, scoping needed): the eBay Live UK Chanel unboxing (P-F3SpVz-CQ) and the eBay Live seller webinar titles are the only creator- and brand-side eBay Live videos in the collection; watching them is outside this run (video content was never watched) and would need its own provenance rule.
+
+## 10. Claim support check (`derived/stage3_claim_support_check.py`, output `stage3_claim_support_report.json`)
+
+An ID that resolves proves a citation exists; it does not prove the row supports the claim. After first delivery, every row cited in `claim_ledger.csv` (303 unique rows: 394 citations plus counterevidence) was re-read in its read window (the first `read_chars` characters printed in this run, from `reviewed_evidence.csv`; the dump is `derived/cited_rows_read_window.txt`) and given a key phrase, the specific words that make the row support the claim it is cited for. The script checks that each phrase is present inside that window, so a citation cannot rest on text beyond what was read. Result: 303 of 303 rows carry their phrase; 53 claims supported (8 of them with notes), 1 claim is a code count with no cited rows (XC-F4). The notes are corrections C20 to C26 above. The script also counts distinct authors per claim (TikTok creator handle from the link, Reddit author, YouTube channel, comment or chat author) and marks shared Reddit rows; both are new ledger columns. Repeated creators inside a claim's evidence are now visible: burtonbreaks (SC-F2), yulingwu (XC-F1), idktrains (TY-F1, TY-H2), finestflips (EL-F2), improvthismoment (LX-W-F1), DeGuyWithDeOpinion (SN-F1 and PK-F5), Bomber Sports Cards, Roper's Rips, TRIKE and Wayne Collection (SC-F2). Reading stayed within the 1,200-row register: no new row was read for this check.
 
 ## 9. Unresolved after Stage 3 (carried to `RESEARCH_CHECKPOINT.md` v7 §5)
 
