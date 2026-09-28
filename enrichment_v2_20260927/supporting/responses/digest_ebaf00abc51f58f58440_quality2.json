@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"findings\": [\n    {\n      \"kind\": \"position\",\n      \"claim\": \"Some sellers report significant earnings on Whatnot, with one seller's son making over $250k since February and another reporting $8000 per bi-weekly 5-hour show for a year.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"reddit:t1_nn9afue\", \"reddit:t1_nn5szlo\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"frustration\",\n      \"claim\": \"Several sellers express that achieving success on Whatnot requires an 'absolute grind' of long hours, including sourcing, live shows, and shipping, leading to burnout.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"reddit:t1_nn3chs4\", \"reddit:t1_nn5szlo\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"position\",\n      \"claim\": \"Many sellers find Whatnot to be a low-margin, high-volume platform where items often sell for low prices, making it difficult for casual sellers to profit significantly.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"reddit:t1_nn2ytwy\", \"reddit:t1_nn3fg2c\", \"reddit:t1_no39bxl\", \"reddit:t1_nnail2k\", \"reddit:t1_nobmxal\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"motivation\",\n      \"claim\": \"One buyer uses Whatnot to find 'great prices and good deals,' while another collector reports getting valuable items at a substantially lower cost than on other platforms like eBay.\",\n      \"speaker_role\": \"buyer\",\n      \"evidence_ids\": [\"reddit:t1_nn2wuoc\", \"reddit:t1_nn3r7l8\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"shared_knowledge\",\n      \"claim\": \"Commenters discuss different types of successful Whatnot sellers, including those with large existing followings, those with 'golden goose' sources for legit items, and those who rely on gimmicks or games.\",\n      \"speaker_role\": \"unknown\",\n      \"evidence_ids\": [\"reddit:t1_nn2x73b\", \"reddit:t1_nn3fg2c\", \"reddit:t1_nn69yj9\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"platform_mechanic\",\n      \"claim\": \"Some sellers use Whatnot for offloading large quantities of low-priced merchandise or inventory that couldn't be moved elsewhere, sometimes cross-listing BIN items.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"reddit:t1_nn3c2n3\", \"reddit:t1_nn3fg2c\", \"reddit:t1_nnail2k\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"counterexample\",\n      \"claim\": \"Despite claims of low margins, one small seller of books reports making a $4500 net profit in 3 hours from a $450 investment, indicating high profitability is possible in specific niches.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"reddit:t1_o26dd8y\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"frustration\",\n      \"claim\": \"Some sellers struggle to build an audience and get bids going on Whatnot, even after many shows, observing that top traffic often goes to bigger shows.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"reddit:t1_nn4d6vm\", \"reddit:t1_nobmxal\"],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"quotes\": [\n    {\n      \"evidence_id\": \"reddit:t1_nn2wuoc\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nn3chs4\",\n      \"span_id\": \"text:360\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nn3fg2c\",\n      \"span_id\": \"text:1440\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nn5szlo\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nn9afue\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nobmxal\",\n      \"span_id\": \"text:0\"\n    }\n  ],\n  \"resolution\": {\n    \"observed\": false,\n    \"description\": \"No resolution was observed in the collected conversation.\",\n    \"evidence_ids\": []\n  },\n  \"limitations\": [\n    \"The conversation is limited to Reddit users' opinions and experiences, not verified platform data.\",\n    \"Specific financial figures are self-reported and not independently verified.\",\n    \"The discussion does not cover all categories or types of sellers on Whatnot.\",\n    \"The exact definition of 'killing it' varies among speakers.\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 14659,
+    "candidatesTokenCount": 1247,
+    "totalTokenCount": 16922,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 14659
+      }
+    ],
+    "thoughtsTokenCount": 1016,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "QE-5at61LuODmtkPw4yFoAU"
+}

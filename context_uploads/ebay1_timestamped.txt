@@ -1,0 +1,600 @@
+Transcript for ebay1.mp4
+Language: en (99.98%)
+Model: large-v3-turbo
+
+[00:00:00.000 - 00:00:02.400] Well, Cortez, do you want to take the mic?
+[00:00:03.000 - 00:00:05.520] I will gladly take the mic.
+[00:00:06.140 - 00:00:10.960] And, you know, there's this really fun quirk of mine where I love being the center of attention.
+[00:00:11.300 - 00:00:15.260] So this is just, you know, a great meeting.
+[00:00:15.580 - 00:00:17.160] I'm very excited to be here.
+[00:00:17.640 - 00:00:19.120] Very excited to meet all of you.
+[00:00:19.740 - 00:00:23.540] There's quite a few of us new faces that are here.
+[00:00:23.540 - 00:00:32.720] But because we're so short with time, I just want to give a larger overview of who some of those team members are and who some of the faces are.
+[00:00:33.300 - 00:00:40.460] Just a quick shout out so you guys know who's part of the team that's really helping us build this.
+[00:00:40.460 - 00:00:49.420] So you'll see a couple of the strategists of the Banner team here, U.S.-based, Hannah Zook, Kelly Mooney, and George Alejandros.
+[00:00:49.420 - 00:01:01.620] You will also see Andy Valdez, who is part of our analytics team, who is going to be helping us put a little more data rigor into our recommendation overall.
+[00:01:01.620 - 00:01:09.020] And then, of course, many of you know Connor and Alan and Marcus and Sean from previous conversations as well.
+[00:01:10.500 - 00:01:15.240] Because I'm on Zoom, I want to make sure I am doing this correctly.
+[00:01:15.760 - 00:01:18.120] So I'm going to go back to share.
+[00:01:18.120 - 00:01:22.060] I'm going to go back to the deck.
+[00:01:22.700 - 00:01:24.240] And hopefully this pops up.
+[00:01:25.960 - 00:01:27.260] Are you guys seeing anything?
+[00:01:27.500 - 00:01:27.660] Yes, we see it.
+[00:01:28.080 - 00:01:28.740] We see it.
+[00:01:29.280 - 00:01:29.940] Okay, excellent.
+[00:01:30.080 - 00:01:30.820] So I see your faces.
+[00:01:31.040 - 00:01:32.320] I don't see the slides.
+[00:01:33.240 - 00:01:34.680] Let me work on that.
+[00:01:36.200 - 00:01:43.380] Okay, so really quickly, as I sort of multitask this world of what we're doing,
+[00:01:43.380 - 00:01:55.920] one of the key things is, is as we come together as a group, I think it's really important to set the foundations of what it is we are trying to achieve today.
+[00:01:55.920 - 00:02:01.760] Okay, and I'll say that, like, the brief is very clear, and we absolutely love it.
+[00:02:01.760 - 00:02:08.960] But today is going to be a little bit more about conversation and how we build this together overall.
+[00:02:09.580 - 00:02:09.820] Okay.
+[00:02:12.040 - 00:02:12.520] Shoot.
+[00:02:12.780 - 00:02:13.500] Hold on, team.
+[00:02:16.700 - 00:02:19.220] Abby, is there any chance you can drive?
+[00:02:19.220 - 00:02:23.600] Because I am having a heck of a time trying to.
+[00:02:24.700 - 00:02:25.220] Yes.
+[00:02:28.600 - 00:02:29.800] We've all been there.
+[00:02:30.120 - 00:02:30.600] Don't worry.
+[00:02:30.840 - 00:02:30.980] Yeah.
+[00:02:34.600 - 00:02:35.900] I'm sorry about the flow.
+[00:02:36.340 - 00:02:37.320] No worries.
+[00:02:38.100 - 00:02:38.700] Are you okay?
+[00:02:38.960 - 00:02:41.760] Do you want to just Slack me the most up to date?
+[00:02:41.760 - 00:02:42.520] The latest and greatest?
+[00:02:42.700 - 00:02:44.560] Yes, because I did work on it this morning.
+[00:02:44.880 - 00:02:46.100] And so, of course.
+[00:02:46.580 - 00:02:46.960] Perfect.
+[00:02:46.960 - 00:02:47.960] Thank you.
+[00:02:49.640 - 00:02:51.660] And when I say working on it.
+[00:02:51.980 - 00:02:53.760] As well, the deck, that would be great.
+[00:02:54.280 - 00:02:54.600] Thank you.
+[00:02:54.620 - 00:02:54.900] Okay.
+[00:02:55.140 - 00:02:55.500] Great.
+[00:02:55.920 - 00:02:56.460] Here we go.
+[00:02:57.400 - 00:02:58.480] Apologize about that.
+[00:02:59.000 - 00:03:02.620] And when I say working on it this morning, I was just beautifying, beautifying images.
+[00:03:03.520 - 00:03:04.180] That's it.
+[00:03:04.640 - 00:03:06.260] The thinking was all there in place.
+[00:03:06.480 - 00:03:06.660] Okay.
+[00:03:06.660 - 00:03:08.640] So, real quickly.
+[00:03:08.820 - 00:03:09.320] I'll let you know.
+[00:03:10.120 - 00:03:10.380] Yeah.
+[00:03:13.360 - 00:03:14.420] So, really quickly.
+[00:03:16.960 - 00:03:20.460] Just to review a little bit of where we are with the brief on slide two.
+[00:03:23.540 - 00:03:24.980] The brief was very clear.
+[00:03:25.760 - 00:03:30.720] And we're really excited about being able to share with you some of the progress that we've been making.
+[00:03:30.720 - 00:03:38.280] Really, if you strip this down to its core work, it comes down to us trying to answer these four connected decisions that are all coming together.
+[00:03:38.980 - 00:03:41.160] Where should eBay focus?
+[00:03:41.540 - 00:03:44.420] And what role does each platform play?
+[00:03:45.240 - 00:03:49.880] But also, how do we look at handle architecture?
+[00:03:50.120 - 00:03:51.120] And what does that look like?
+[00:03:51.420 - 00:03:58.660] And I think this is where it can get, like, multi-pronged, multiple markets, multiple categories or communities.
+[00:03:58.660 - 00:04:00.460] And that's where it can start to get difficult.
+[00:04:00.460 - 00:04:06.640] So, we're really thinking about how to simplify and make the right decisions here at this strategic level.
+[00:04:06.760 - 00:04:08.520] And this is where the focus is going to be today.
+[00:04:08.660 - 00:04:26.520] Because we believe that if we don't align on some of the core ways we want to simplify and handle decisions here, then the stuff on the right, content, distribution approach, the platform opportunities, actually become tactical in a way that they shouldn't way too soon.
+[00:04:26.520 - 00:04:37.400] So, the focus today is to really, next slide, show you that we are trying to make a couple of decisions early on that are going to help us align.
+[00:04:37.960 - 00:04:40.760] I want to talk a little bit about our overall ambition.
+[00:04:41.340 - 00:04:50.780] Because when we take this brief in and ingest it and interrogate it, I think when we look at where we want to go,
+[00:04:50.780 - 00:04:57.540] this is really about building a social presence that we feel is going to help us earn relevance with eBay's communities.
+[00:04:57.900 - 00:05:02.880] And that's a very critical statement in and of itself because we are starting with the communities.
+[00:05:03.300 - 00:05:10.280] We want to understand their behaviors because we think that that's going to help create pathways to commerce, right?
+[00:05:10.280 - 00:05:21.700] So, it's like build the relevance within each one of the communities, understand how eBay can show up, and then use that relevance as a means to create pathways to commerce.
+[00:05:21.820 - 00:05:29.280] And commerce is eBay Live, which is part of the social ecosystem, but will also be some of the other retail behaviors overall.
+[00:05:29.280 - 00:05:37.540] So, it all starts with relevance in the communities, and then understanding how to use that relevance to create those pathways.
+[00:05:37.880 - 00:05:39.740] Does that feel fairly straightforward?
+[00:05:39.960 - 00:05:41.080] Everyone feeling good about that?
+[00:05:41.540 - 00:05:45.420] Oh, the only rule in this presentation is it shouldn't be a presentation.
+[00:05:45.620 - 00:05:49.560] Please interrupt, ask questions at any point in time.
+[00:05:49.640 - 00:05:54.120] We definitely want to make this a little bit more of a discussion as we're looking at things overall.
+[00:05:57.060 - 00:05:57.500] Fair?
+[00:05:57.820 - 00:05:58.080] Good.
+[00:05:58.900 - 00:06:05.400] So, today what we want to do is we want to align on how we are approaching this overall problem.
+[00:06:05.560 - 00:06:16.020] We want to show you some of the work that we've done already that's helped, which is all about the structure and the foundations that we're laying and how we're approaching the problem.
+[00:06:16.340 - 00:06:26.240] We want to use some conversation to align on that foundation and make sure you're feeling good about where we're going or if there's any watchouts, you have been in this business longer than we have.
+[00:06:26.240 - 00:06:33.680] And so, we really want to respect the fact that you probably have a point of view and some legacy knowledge that will help us make this better.
+[00:06:33.680 - 00:06:37.960] And then the third thing we want to do is ask a couple of questions around business context.
+[00:06:38.100 - 00:06:40.960] We've had a lot of conversations as teams.
+[00:06:41.140 - 00:06:43.080] We've had different conversations as markets.
+[00:06:43.560 - 00:06:53.980] But I think this is a good opportunity now that we're all going to be in the same room to just align on a couple of key things or at least start the discussion on how we want to align on direction and then keep moving forward.
+[00:06:53.980 - 00:07:02.600] I just want to note that the finished recommendation is something that would definitely be coming on later on, but want to treat this definitely as a bit of a work session.
+[00:07:05.920 - 00:07:06.360] Alrighty.
+[00:07:06.760 - 00:07:16.520] So, with that, I want to start off with a statement of it's going to be a really difficult endeavor to go off for a couple of weeks.
+[00:07:16.640 - 00:07:18.380] Many of you remember me saying this in New York.
+[00:07:18.380 - 00:07:27.620] It's like going off for a couple of weeks and coming back with, ta-da, here's the answer, here's what your ecosystem looks like, here's what the communities look like, and here's where they're going to go.
+[00:07:27.980 - 00:07:31.820] And we have the final answer, and let's just build and let's just go off and kick ass.
+[00:07:31.820 - 00:07:49.100] Really want to talk a little bit about how we're approaching this from a model standpoint, how our model of relevance can help us create the ecosystem that we need today, but also grow into the ecosystem we're going to need tomorrow.
+[00:07:49.540 - 00:08:00.340] And if you all have, you know, Sean, I'm sure, has waxed poetic about our Boehner approach, but the way we want to build our overall social presence is going to be much the same, right?
+[00:08:00.340 - 00:08:15.320] We're going to start off by really understanding who are some of the core communities that are already active in our different markets, who are already, you know, a part of the conversations and are active from a retail standpoint.
+[00:08:15.780 - 00:08:19.740] We want to understand who it is and where they're showing up.
+[00:08:19.740 - 00:08:27.860] Then we want to make sure that when we reach out to them, we reach out to them from a relevant standpoint as eBay.
+[00:08:28.180 - 00:08:30.040] We want to tell stories.
+[00:08:30.260 - 00:08:31.140] We want to connect with them.
+[00:08:31.220 - 00:08:32.420] We want to connect them with sellers.
+[00:08:32.980 - 00:08:35.060] We want to build and create consistency.
+[00:08:35.620 - 00:08:44.720] And then as we keep seeing more and more momentum against those communities, then we can start asking ourselves, is it worth scaling and activating in bigger ways?
+[00:08:44.840 - 00:08:46.920] Is it worth having more investment?
+[00:08:46.920 - 00:09:01.780] So the model is going to help us determine what communities we want to keep pursuing and what is the level of commitment and investment, whether it's a new handle or activations or more live sessions, et cetera, et cetera.
+[00:09:01.780 - 00:09:14.900] So we're going to start with a very base opportunity and then allow our model per market to permeate, to expand, and to grow based on where opportunities lie.
+[00:09:16.920 - 00:09:28.560] So, the way we're going to do that initially is really going to start with an overlap between two big inputs.
+[00:09:28.920 - 00:09:34.720] And, you know, I wouldn't be a strategist if I couldn't work some Venn diagram into a deck at some point in time.
+[00:09:34.780 - 00:09:35.360] So here it is.
+[00:09:35.420 - 00:09:36.060] Here you have it.
+[00:09:36.420 - 00:09:37.240] We check the box.
+[00:09:37.300 - 00:09:37.980] We can move on.
+[00:09:37.980 - 00:09:40.440] But there's two things that we want to do.
+[00:09:41.200 - 00:09:44.700] On one side, we want to really understand the community opportunity.
+[00:09:45.700 - 00:09:48.740] We want to understand where attention is.
+[00:09:48.860 - 00:09:49.900] We want to map that attention.
+[00:09:50.100 - 00:09:57.100] We want to understand the behaviors within those communities because we don't believe that we should assume that they're automatically going to be the same.
+[00:09:57.100 - 00:10:07.120] And we're going to try to understand what the scale is of these communities and what cultural momentum they may have, a.k.a. how viable of a retail opportunity may they be, where they may be.
+[00:10:07.660 - 00:10:11.880] The other thing we want to overlay there is a little bit more of like a data mindset.
+[00:10:12.540 - 00:10:21.180] We want to understand what sort of retail or business opportunities these different communities really are.
+[00:10:21.180 - 00:10:35.240] And so we want to work with your team, see if there's any data that you may have that we could start inputting more, working with our own team to see if we can find the scale of different communities and different activity.
+[00:10:35.800 - 00:10:40.260] And with the intersection of those two, we think that that's going to be the basis of where we start.
+[00:10:40.480 - 00:10:42.240] This is where eBay should play today.
+[00:10:42.240 - 00:10:51.660] And then we will keep looking at what's growing, how the communities are evolving, what new communities may be coming on board, and we scale and grow there.
+[00:10:51.860 - 00:11:01.660] So given that, we wanted to first talk to you about who are some of those core communities that we wanted to approach.
+[00:11:01.960 - 00:11:05.960] But I'm hoping the silence means all of this makes sense right now.
+[00:11:06.440 - 00:11:09.680] Good, because now let's go on to slide seven, Abby.
+[00:11:09.680 - 00:11:14.540] Obviously, this is going to be a point of discussion, a place to start.
+[00:11:15.480 - 00:11:25.960] First of all, I just want to know that, you know, now that we've established what the model is all about and where we'd like to go, we had to make a decision of where we wanted to start.
+[00:11:25.960 - 00:11:44.680] And so what we've done is done some preliminary work, understanding, you know, the inputs from your business priorities that you've shared with us, and combine that with an initial read of where we think we might be seeing some meaningful social and commerce behaviors that we can start going after.
+[00:11:44.680 - 00:11:49.680] Sometimes you have to, in order to take a step, you have to take a step somewhere.
+[00:11:49.860 - 00:11:53.240] So we wrote a line in the sand and said, this is where we'd like to start.
+[00:11:53.680 - 00:12:00.820] And we think it's going to give us a focused starting point to start really understanding more about what each and one of these communities are.
+[00:12:00.820 - 00:12:12.420] So we started with sports cards, the TCG Pokemon World, sneakers and streetwear, luxury fashion, electronics, and toys and collectibles.
+[00:12:13.340 - 00:12:20.400] And what our teams are doing is trying to map the attention underneath that in those different platforms you're looking at.
+[00:12:20.400 - 00:12:33.600] So think of this as us initially doing social listening and understanding, like, what the behaviors are so we can really tell you from a deeper level our understanding of where we think there may be opportunity to be.
+[00:12:33.660 - 00:12:38.200] So I want to pause here and see if you're feeling pretty good about what this looks like.
+[00:12:38.240 - 00:12:49.380] We understand this will differ by market, but we have deployed our teams to initially start looking here in the U.S., in the U.K., and in, Alan, keep me honest, Germany.
+[00:12:50.400 - 00:13:02.180] And started here, but we will be coming back with a sense of what we've learned and where we think opportunities will lie here and if there's any sort of differences in market.
+[00:13:02.560 - 00:13:11.120] I'll pause here just to make sure everyone's tracking or if there's any reactions to the six categories or communities that we've started to identify.
+[00:13:13.620 - 00:13:16.260] Broadly speaking, I think they make sense.
+[00:13:16.260 - 00:13:24.920] I think there's, like, toys and collectibles, quite a big, sorry, I'm in a cafe, quite a big category with a myriad of communities.
+[00:13:25.060 - 00:13:29.460] We'd just love to, like, are we focusing on certain types there, or how are you thinking about that?
+[00:13:31.460 - 00:13:39.700] We started off with that larger sort of group because I believe that those sub-communities might differ by market, maybe.
+[00:13:39.700 - 00:13:46.120] So we definitely can see if we want to break those down more, because you're right.
+[00:13:46.200 - 00:13:51.560] I think all of these, to a certain extent, have sub-communities and could be bigger in scale.
+[00:13:52.700 - 00:13:56.360] But, yeah, I mean, we can definitely make a watch out there.
+[00:13:57.100 - 00:14:04.800] Maybe that one is too big of a catch-all because there's a lot of different verticals overall.
+[00:14:04.800 - 00:14:06.940] So we can definitely rethink that if you want.
+[00:14:08.060 - 00:14:16.040] I think the approach we wanted to take was let's go in there and then let's start to see where the teams are finding differences
+[00:14:16.040 - 00:14:19.660] and then seeing, like, what that means for us overall.
+[00:14:20.380 - 00:14:22.000] Yeah, these are just starting points.
+[00:14:22.180 - 00:14:27.000] So they'll splinter out into multiple different communities within these as well.
+[00:14:27.000 - 00:14:30.380] So I wouldn't expect to see this as where we end.
+[00:14:31.000 - 00:14:33.280] This is just the very start of the journey.
+[00:14:34.820 - 00:14:40.120] Yeah, I think you'll have the same kind of findings with fashion luxury, potentially.
+[00:14:40.360 - 00:14:43.220] Like, the handbags community is very different than the watches community.
+[00:14:43.660 - 00:14:46.640] So I think, like, I'm really excited about the exploration here.
+[00:14:46.860 - 00:14:53.480] I'm also really excited to get the findings because I think we can start to understand, like,
+[00:14:53.480 - 00:15:03.860] these are our top categories, although sneakers for eBay Live is probably not going to be a big focus.
+[00:15:04.240 - 00:15:07.340] But it'll be really interesting to see if there's heat within that community,
+[00:15:07.340 - 00:15:12.220] which we then can kind of provide as more of a feedback loop to the eBay Live team.
+[00:15:12.300 - 00:15:14.900] So I'm really excited about kind of the findings through this.
+[00:15:14.900 - 00:15:21.520] One thing to think about, or one thing that is not on here that I'm interested in you exploring is coins.
+[00:15:22.120 - 00:15:27.100] And that has been, like, a big focus and green shoot for live.
+[00:15:27.320 - 00:15:33.180] But I'm not actually sure how much of that community is on social in a meaningful way.
+[00:15:33.640 - 00:15:38.860] So I'd be interested if you could just explore, if that had come up in any of your kind of...
+[00:15:38.860 - 00:15:39.680] It has. It has.
+[00:15:39.780 - 00:15:39.960] Okay.
+[00:15:39.960 - 00:15:43.380] It's interesting. Like, we had coins, and then we removed it.
+[00:15:44.060 - 00:15:50.360] And the conversation, interestingly enough, parallels a lot of what we've talked about before we made this selection.
+[00:15:50.360 - 00:15:53.240] Because we kept asking ourselves, like, how do we show where we're starting?
+[00:15:53.920 - 00:15:56.580] And this is very much an organizing principle.
+[00:15:56.940 - 00:16:02.660] I would say collectibles and coins, it's a little bit of, like, Alex's point beforehand.
+[00:16:02.840 - 00:16:04.300] There's a lot underneath that.
+[00:16:04.300 - 00:16:12.120] So, yeah, we definitely have a vision into making sure we can include coins and talk about where that's showing up.
+[00:16:12.180 - 00:16:17.200] And if we think, from a sizing standpoint, what that opportunity tends to look like.
+[00:16:18.480 - 00:16:19.860] Yeah, I think that makes sense.
+[00:16:19.980 - 00:16:28.900] And I will send through with getting some more details on, like, our category strategies from the live BU.
+[00:16:28.900 - 00:16:34.700] I think, I don't know if we share them with it, like, the UK broadly tracks to this.
+[00:16:34.800 - 00:16:36.640] It's just, like, one layer down.
+[00:16:36.780 - 00:16:41.460] Because fashion, lower ASP is less of an opportunity for us.
+[00:16:42.160 - 00:16:47.140] Because of, kind of, the role of luxury, luxury audiences, AG, and things like that.
+[00:16:47.180 - 00:16:53.200] So I think if we dig into the number of audiences within these subcategories, we can then identify where we focus there.
+[00:16:53.700 - 00:16:56.540] Alex, that is a segue to the next couple of slides.
+[00:16:56.680 - 00:16:57.340] Thank you so much.
+[00:16:57.340 - 00:17:00.320] One really quick one, not to mess up the segue, sorry.
+[00:17:01.120 - 00:17:03.540] One of the questions we also had was around P&A.
+[00:17:03.700 - 00:17:09.440] I know that's one, like, just the auto space, like, debating where and how we want to lean into that.
+[00:17:10.100 - 00:17:14.320] Where would your head be on, on terms of looking at that?
+[00:17:16.080 - 00:17:17.200] I'm glad you asked that.
+[00:17:17.920 - 00:17:18.740] Oh, sorry.
+[00:17:19.300 - 00:17:20.680] Oh, I'm glad you asked that, Marcus.
+[00:17:20.680 - 00:17:29.780] So there have been a few shifts in our organization on the business side, which will ripple down to impacts to our strategy.
+[00:17:29.920 - 00:17:37.420] But essentially, the idea is eBay Live is kind of being consolidated or kind of shifted into kind of our focus category business unit.
+[00:17:37.420 - 00:17:42.520] Which means there's going to be a lot more connectivity between live and our core business.
+[00:17:43.200 - 00:17:49.420] And so one of the categories that's not represented, you know, in live today is P&A in a meaningful way.
+[00:17:49.500 - 00:17:54.200] We're going to actually start selling vehicles in the U.S. for SEMA this year.
+[00:17:54.200 - 00:17:56.240] So that will be a good test.
+[00:17:56.320 - 00:18:01.520] But I do think we're going to start to see a lot more evolution of the category strategy on live.
+[00:18:01.680 - 00:18:05.280] To Alex's point, we'll have it for what we know today.
+[00:18:05.480 - 00:18:13.060] But it will probably evolve and get closer to, I think, some connectivity with the core business.
+[00:18:13.560 - 00:18:15.380] So I think what we do is we start here.
+[00:18:15.700 - 00:18:18.260] I don't think P&A is one of the things that we start with.
+[00:18:18.260 - 00:18:24.300] But I do think as we kind of grow our communities, that will be another big focus that's not represented here today.
+[00:18:24.800 - 00:18:31.720] And as we start from January, we've talked about how you will at least do kind of maintenance on our core channels.
+[00:18:31.980 - 00:18:36.640] And so there will be some other communities that maybe aren't so live that we still want to speak to.
+[00:18:36.760 - 00:18:38.980] And our P&A enthusiast community is a big one of those.
+[00:18:39.900 - 00:18:40.220] Absolutely.
+[00:18:40.220 - 00:18:53.120] And I think the vision for us is to make sure that we look at our social ecosystem as iterative and always optimizing to where we're seeing growth potential that connects to commerce.
+[00:18:53.380 - 00:19:00.500] And so the starting point could be a community that already lives in eBay but may not be a live shopping community yet.
+[00:19:00.500 - 00:19:07.740] And then there's also opportunities in the social ecosystem of communities that already exist.
+[00:19:07.820 - 00:19:09.220] And they're on TikTok and they're on whatnot.
+[00:19:09.420 - 00:19:13.780] But asking ourselves, how do we bring them over and become a part of our world?
+[00:19:13.940 - 00:19:16.920] So we definitely want to look at that from both sides.
+[00:19:17.260 - 00:19:18.860] And your pushes are good ones.
+[00:19:18.880 - 00:19:20.300] And we'll make sure we show them.
+[00:19:20.780 - 00:19:25.400] I want to also show you how we're going to take one step deeper.
+[00:19:25.400 - 00:19:36.000] But then also how we're going to, how our model is going to help us evolve towards how we cater to some of these different communities, especially as they're growing and they start showing us momentum.
+[00:19:39.420 - 00:19:39.860] Good.
+[00:19:40.980 - 00:19:41.420] Sorry.
+[00:19:43.320 - 00:19:43.960] No worries.
+[00:19:43.980 - 00:19:44.840] I don't know if this happened.
+[00:19:44.940 - 00:19:45.580] Give me one moment.
+[00:19:48.260 - 00:19:51.320] So because I know these slides by heart.
+[00:19:52.240 - 00:19:52.980] Next slide.
+[00:19:53.120 - 00:19:53.860] Slide nine.
+[00:19:53.860 - 00:20:02.240] It really starts to talk about how we start to look a little bit more into what those behaviors are.
+[00:20:03.740 - 00:20:11.500] I think something that just very quickly got us thinking was there's already established communities.
+[00:20:11.500 - 00:20:13.200] There's already purchased behaviors.
+[00:20:13.200 - 00:20:23.980] But we want to, within our recommendation, think about how those different communities, a.k.a. cohorts, might show up differently by platform.
+[00:20:24.300 - 00:20:28.280] One of the big walkaways in the brief was, well, how are we going to show up on Facebook?
+[00:20:28.780 - 00:20:30.260] How are we going to show up on Discord?
+[00:20:30.580 - 00:20:32.080] How are we going to show up on TikTok?
+[00:20:32.080 - 00:20:42.460] And the first reaction we had was, well, it depends on the community and it depends on the behaviors that they exhibit on the different platforms.
+[00:20:42.460 - 00:20:51.600] So we may not have just a Facebook strategy, per se, whereas we may have how do we approach Facebook for this community versus the other.
+[00:20:51.600 - 00:21:06.140] So in taking a deeper dive, one of the things that we started to look at really quickly is we want to understand on what platforms do they spend their time, where are they, and what are they, more importantly, what are they doing there?
+[00:21:06.520 - 00:21:13.660] We want to understand what kind of content is getting their attention and what kind of content is it that they're creating themselves.
+[00:21:13.660 - 00:21:27.140] We want to understand who are going to be the authoritative voices, and then we want to understand what are the current commerce behaviors, are they showing up on live or not, a.k.a. very similar to the conversation we just had about P&A.
+[00:21:27.140 - 00:21:39.960] So our initial work is going to come back and take a look at that deeper understanding of what it is that these different communities are doing.
+[00:21:39.960 - 00:21:51.520] And then we're going to start overlaying, and then we're going to start overlaying the platform realities, understanding what are some of those native behaviors, and understanding what type of content gets the most distribution over all.
+[00:21:52.900 - 00:21:58.040] On the next slide, we just want to show you like a little bit under the hood of how we've been approaching this.
+[00:21:58.580 - 00:22:04.240] This slide initially looked like a matrix, but we wanted to try to simplify that very much.
+[00:22:04.240 - 00:22:10.280] But this is where we go from, right now, how we've defined some of these larger communities, for example, sports cars.
+[00:22:10.520 - 00:22:14.200] But we understand that there may be many sub-communities within that, right?
+[00:22:14.380 - 00:22:21.560] So, as you can see here, there could be key segments within that sports car world that we want to understand.
+[00:22:21.920 - 00:22:29.820] The next thing we need to do is understand how those show up, because there may be market differences in what those communities are,
+[00:22:29.820 - 00:22:36.760] but also how they show up culturally in different ways in different countries, and then we map those behaviors.
+[00:22:36.760 - 00:22:43.200] What we think this is going to allow us to do is really get us to understand how eBay can credibly play in these spaces,
+[00:22:43.540 - 00:22:51.000] how they can join conversations, how they can add value in a way that feels very native to that market
+[00:22:51.000 - 00:22:56.880] and the behaviors that are exhibited by people in those markets as well.
+[00:22:56.880 - 00:23:03.180] So, we think this is going to allow us to find all of those different opportunities and react accordingly.
+[00:23:03.820 - 00:23:06.520] So, I think this covers—go ahead.
+[00:23:07.100 - 00:23:08.480] Oh, dude, sorry, just really quickly.
+[00:23:09.060 - 00:23:15.840] Are we looking at where eBay is already naturally showing up in conversation
+[00:23:15.840 - 00:23:24.320] and also looking at conversations that we should be participating in based on the audience that we do want to acquire?
+[00:23:24.320 - 00:23:30.860] Yeah, we're—I would say we're—right now, we're starting to just assume here are the communities,
+[00:23:31.060 - 00:23:36.380] these are the conversations, where they're at, and then we do look at is eBay already in there or not,
+[00:23:36.460 - 00:23:38.040] and what sort of role should we play?
+[00:23:39.400 - 00:23:39.840] Perfect.
+[00:23:40.660 - 00:23:41.100] Yep.
+[00:23:41.640 - 00:23:45.600] I think it covers up on both of those questions you asked, right?
+[00:23:45.660 - 00:23:49.220] Like, just understanding the communities overall and what the conversations are,
+[00:23:49.220 - 00:23:53.600] and then seeing if there's a role he needs, but they're not already in there.
+[00:23:54.100 - 00:23:54.840] Yep, that's great.
+[00:23:55.040 - 00:23:59.980] Yeah, I think it'd be really interesting to see the communities, the ones that are most—
+[00:23:59.980 - 00:24:04.640] the ones that we're already playing in, the ones that our competitors are playing in instead of us,
+[00:24:05.120 - 00:24:07.760] and what are the most important ones for us to focus on growing.
+[00:24:07.900 - 00:24:08.820] I think that'll be a great—
+[00:24:08.820 - 00:24:13.760] Exactly, and then I think that's where the data overlay starts to become important,
+[00:24:13.760 - 00:24:19.380] because there's going to be size, scale, activity, and then retail potential on each one of those,
+[00:24:19.380 - 00:24:25.340] and those are factors that we're trying to make sure that we're thinking about as part of what our recommendation.
+[00:24:25.340 - 00:24:34.760] The next thing, just really quickly, we want to cover is our teams are really really starting to look at
+[00:24:34.760 - 00:24:39.180] and trying to understand what's going to be universal, and then what might change.
+[00:24:39.180 - 00:24:46.860] And the way we're thinking about that is universal behaviors aren't just, like, opportunities for efficiencies,
+[00:24:47.020 - 00:24:50.960] but may even help inform what should be more global in nature.
+[00:24:50.960 - 00:24:55.300] But then really trying to break out what's going to be community-specific,
+[00:24:55.580 - 00:24:58.500] what sort of behaviors might one community do versus the other,
+[00:24:58.680 - 00:25:00.520] and then what's going to be market-specific.
+[00:25:01.200 - 00:25:08.260] And our teams—and I think this is also a really important reason why our different market teams
+[00:25:08.260 - 00:25:14.560] need to be constantly in the conversation and understanding what's happening and what might be changing,
+[00:25:15.140 - 00:25:19.940] and then discussing with brand teams on a very—on a recurring basis,
+[00:25:19.940 - 00:25:27.200] so that we can really start to make sure our ecosystems serve our communities and how they behave in each market.
+[00:25:27.200 - 00:25:33.000] So I wanted to show you some initial findings of what this looks like, but this is going to help.
+[00:25:33.140 - 00:25:37.240] The big point here is it's going to be important for our teams to understand that, like,
+[00:25:37.300 - 00:25:44.540] we need to stay in conversation, and we need to, as Vayner, show you the potential of where are things growing
+[00:25:44.540 - 00:25:49.920] and where opportunities lie so that we can activate in real-time and in a way that's going to help our brands.
+[00:25:49.920 - 00:25:57.180] An early read of what we're seeing right now in terms of platforms—
+[00:25:57.180 - 00:26:01.400] next slide, please—in terms of how—what we're seeing on platforms,
+[00:26:01.720 - 00:26:05.060] some of these won't feel very, very surprising to you,
+[00:26:05.140 - 00:26:08.300] but we did want to show you that, like, as our teams are looking at it,
+[00:26:08.360 - 00:26:10.900] here are some of the common themes that we're seeing,
+[00:26:10.900 - 00:26:15.220] and we want our markets to almost start here and then tell us what's different.
+[00:26:15.860 - 00:26:21.240] For TikTok, it really is a little bit—it's still, you know, a cultural incubator.
+[00:26:21.660 - 00:26:24.980] It's still a place that sort of brings people into the conversation
+[00:26:24.980 - 00:26:27.400] or allows a moment of discovery.
+[00:26:28.060 - 00:26:32.180] YouTube, we're just seeing this is the space where there's deeper dives,
+[00:26:32.240 - 00:26:37.440] and it allows communities and sellers to turn their doubt on the nuances of their passion points
+[00:26:37.440 - 00:26:38.440] and connect over that.
+[00:26:39.380 - 00:26:40.940] Instagram inspires.
+[00:26:41.360 - 00:26:44.540] There's still quite a bit of visual discovery that's allowable,
+[00:26:44.680 - 00:26:47.340] a little bit of, like, a behavior of, like,
+[00:26:47.400 - 00:26:50.140] look how beautiful this is with your passion port.
+[00:26:50.640 - 00:26:56.620] Facebook, I think people are leveraging established communities there and groups,
+[00:26:56.620 - 00:27:02.840] and it acts a little bit like a market of sorts.
+[00:27:03.280 - 00:27:05.360] Reddit is where you get the real, real conversation.
+[00:27:05.360 - 00:27:11.920] Pretty unfiltered, if you want real answers from real experts, that's where you go.
+[00:27:12.060 - 00:27:16.380] And then live, very interestingly enough, as our teams have been talking about it,
+[00:27:16.420 - 00:27:21.300] one of the things that we're noticing is that there's a really fun and cool interplay
+[00:27:21.300 - 00:27:27.640] of entertainment, commerce, but also a space of connection.
+[00:27:27.640 - 00:27:35.400] I think live is really starting to replace some of these, you know, conferences where people come together.
+[00:27:35.660 - 00:27:38.600] It's giving people moments who, when they say to themselves,
+[00:27:38.820 - 00:27:43.380] I love this thing and I'd love to surround myself with people who love the same thing.
+[00:27:43.520 - 00:27:45.380] It's allowing them to have those moments as well.
+[00:27:45.380 - 00:27:51.720] So, really preliminary spaces of where we're at, and we're using this as a tool where we say,
+[00:27:51.820 - 00:27:54.780] hey, Germany, this is how things look in general.
+[00:27:55.180 - 00:27:59.380] Talk to us about this community and talk to us about their behaviors on these platforms.
+[00:27:59.540 - 00:28:00.920] Do you see some major differences?
+[00:28:00.920 - 00:28:09.220] Hopefully, what you can see here is the beginning of what we would call a platform strategy,
+[00:28:09.480 - 00:28:11.800] but understanding the need for nuance.
+[00:28:12.180 - 00:28:13.440] All right, so a couple of examples.
+[00:28:13.660 - 00:28:16.640] Our team has already started going into the social conversation,
+[00:28:16.900 - 00:28:20.260] bringing back some really cool and interesting findings.
+[00:28:20.700 - 00:28:26.160] We want to show you what this looks like so you can get a sense for what we think could be
+[00:28:26.160 - 00:28:30.960] the type of conversations we have and the opportunities we'd like to build towards in the future, right?
+[00:28:31.100 - 00:28:37.800] So, already we're starting to see some changes in how people use different platforms.
+[00:28:37.940 - 00:28:43.040] So, different platforms can play different roles in the world of cards.
+[00:28:43.800 - 00:28:48.600] Reddit and Discord is more about discovery and understanding what's coming out
+[00:28:48.600 - 00:28:50.980] and sending alerts of, like, what's in stock
+[00:28:50.980 - 00:28:58.180] and, like, how to maximize your, you know, how to have the best strategy
+[00:28:58.180 - 00:29:03.700] and maximize your winnings or your, you know, getting the right cards.
+[00:29:04.460 - 00:29:05.960] What are your strategies to do that?
+[00:29:06.040 - 00:29:10.280] Whereas watches and coins, it's a little bit more about that expertise
+[00:29:10.280 - 00:29:14.700] and what's people's real opinion about X, Y, and Z,
+[00:29:15.180 - 00:29:17.560] where that's going on right now.
+[00:29:17.560 - 00:29:24.060] For cultural expressions, this is really, really fun.
+[00:29:24.320 - 00:29:29.680] And the teams came back from Europe and showed us some really, really fun things here, right?
+[00:29:29.700 - 00:29:34.060] So, like, we can talk about sneakers and streetwear, but the way,
+[00:29:34.260 - 00:29:38.520] so that may feel like it's the same category, but the way it starts to show up
+[00:29:38.520 - 00:29:43.520] and the expressions of that in culture are distinctly local.
+[00:29:44.280 - 00:29:47.520] So, like, for sneakers and streetwear in the U.K.,
+[00:29:47.520 - 00:29:51.040] you have the influence of football terrorist culture,
+[00:29:51.140 - 00:29:54.600] which, yes, I had to look up because I'm not an expert in U.K. culture,
+[00:29:55.180 - 00:29:58.860] but it's really, I've learned, it's the proper use of football,
+[00:29:59.220 - 00:30:01.780] soccer for those Americans on the call.
+[00:30:01.780 - 00:30:07.420] But it's like, okay, you know, how is, you know, the love of your team
+[00:30:07.420 - 00:30:10.860] and the scarves that you wear and the fandom that you have,
+[00:30:10.920 - 00:30:12.600] how's that influencing your streetwear?
+[00:30:13.480 - 00:30:15.620] London fashion also influencing that.
+[00:30:15.740 - 00:30:18.200] Whereas in Germany, which I do know a little bit more,
+[00:30:18.280 - 00:30:21.540] I'm a big fan of BTSN, you know, you have your Adidas heritage,
+[00:30:22.080 - 00:30:26.820] you have a slightly different view of European streetwear and technical outdoors.
+[00:30:26.820 - 00:30:30.520] So it's really interesting to see how, what country you're in,
+[00:30:30.700 - 00:30:33.300] how that influences the choices you have in streetwear
+[00:30:33.300 - 00:30:35.200] and some small nuances within that.
+[00:30:35.540 - 00:30:38.140] And we just want to make sure that we're just very true to that
+[00:30:38.140 - 00:30:42.420] as we start going through and we figure not only are they different expressions,
+[00:30:42.720 - 00:30:47.100] but the way you talk about and what's trending, you need to be on top of.
+[00:30:47.100 - 00:30:56.980] And then the last thing is we're really starting to see how those live experiences
+[00:30:56.980 - 00:31:01.160] start to be more than just retail moments,
+[00:31:01.160 - 00:31:05.920] but start to become those moments of connection.
+[00:31:06.280 - 00:31:10.880] One of the things that really wowed me with some of the findings from the team originally
+[00:31:10.880 - 00:31:16.780] is sometimes these live sessions break borders and it makes people feel like
+[00:31:16.780 - 00:31:20.060] they're part of a community of people who have like interests.
+[00:31:20.260 - 00:31:26.580] So we think live has a very interesting role that it can play in terms of community.
+[00:31:27.460 - 00:31:29.740] I'm a big history buff.
+[00:31:29.740 - 00:31:38.300] And the only parallel I could think of is how people in the past use church on Sundays
+[00:31:38.300 - 00:31:43.500] as a means to like go and be a part of a community and be with like-minded people.
+[00:31:43.860 - 00:31:48.000] I think there's something very interesting that's going on there with live as well.
+[00:31:50.900 - 00:31:52.720] Good. No pauses.
+[00:31:52.720 - 00:31:58.140] No, I think it's helpful just to see how you're going to kind of dig into this
+[00:31:58.140 - 00:32:01.100] and then overlay all of those different elements.
+[00:32:01.320 - 00:32:03.180] I have no immediate questions.
+[00:32:04.080 - 00:32:04.220] Okay.
+[00:32:05.800 - 00:32:13.080] Is the intention of platform to be quite choiceful around the communities and the platforms
+[00:32:13.080 - 00:32:15.620] so that we don't spread ourselves too thin?
+[00:32:17.140 - 00:32:17.660] Yes.
+[00:32:18.800 - 00:32:21.660] Let's go, Abby, really quickly.
+[00:32:22.720 - 00:32:26.900] Let's go, Abby, to slide 16.
+[00:32:31.280 - 00:32:36.560] Our directional recommendation right now, just so you can see the foundations of what it's
+[00:32:36.560 - 00:32:44.060] going to look like, is to deploy immediately and start with our core handles, eBay and eBay
+[00:32:44.060 - 00:32:51.360] Live, and look at these communities and start asking ourselves, what is the creative, what
+[00:32:51.360 - 00:32:57.960] the conversations we need to support for the influencers slash sellers that we need to collaborate
+[00:32:57.960 - 00:33:04.120] with in order to explore the opportunities and the reception of eBay within these spaces.
+[00:33:04.120 - 00:33:06.960] Of course, building on the work that we've already done.
+[00:33:06.960 - 00:33:24.220] The next thing that we want to do is provide a breadth of different content across these different communities to really start finding where we're getting more reception, where we have a right to play, and where we're linking that to commerce.
+[00:33:24.220 - 00:33:32.900] And so what happens is the relevance and the retail gives us investment instead of the other way around.
+[00:33:32.900 - 00:33:36.180] Investment is just intended to grow the retail.
+[00:33:36.180 - 00:33:54.240] And so in the long run, yes, we could have multiple handles, but those handles will only be the byproduct of multiple content series, multiple live sessions, multiple retail behaviors that we establish, and we understand that there's demand.
+[00:33:54.240 - 00:33:59.240] And therefore, there will be more handles in the long term.
+[00:33:59.240 - 00:34:01.240] And then channels, you'd still be focused.
+[00:34:01.240 - 00:34:07.240] So, you know, in the previous slide, you had Discord and Reddit as your core, like bodges and sneakers.
+[00:34:07.240 - 00:34:11.240] We're not going to also throw sneakers on Instagram, and we're going to be quite focused around that.
+[00:34:11.240 - 00:34:24.240] Yeah, we are going to match the channel strategy with the way the communities intake their information, right?
+[00:34:24.240 - 00:34:33.240] So, let's say this is a bad and maybe an oversimplification, but let's pretend sneaker culture does not exist on Facebook, right?
+[00:34:33.240 - 00:34:34.240] We wouldn't show up there.
+[00:34:34.240 - 00:34:38.240] But if it's really big on TikTok, then we make sure that we do show up there.
+[00:34:38.240 - 00:34:46.240] I guess it probably exists across loads of channels, but we're just identifying the highest impact ones.
+[00:34:46.240 - 00:34:56.240] Yes, where we think the most opportunity lies, and where there are examples of those opportunities.
+[00:34:56.240 - 00:35:03.240] Like the behavior is already like maybe it does exist on Facebook, but there's not a retail focus or angle on Facebook.
+[00:35:03.240 - 00:35:05.240] Let's not try to create that.
+[00:35:05.240 - 00:35:08.240] Let's go to the channels where it does exist.
+[00:35:08.240 - 00:35:09.240] That makes sense.
+[00:35:09.240 - 00:35:10.240] Thank you.
+[00:35:10.240 - 00:35:11.240] Good.
+[00:35:11.240 - 00:35:12.240] Yeah.
+[00:35:12.240 - 00:35:31.240] And I think the key thing here is the approach is to start there and understand what it looks like by market and then evolve based on the nuances of the market and the successes we have in terms of what's working from a retail standpoint, not just a cultural standpoint.
+[00:35:31.240 - 00:35:32.240] Good.
+[00:35:32.240 - 00:35:33.240] Good.
+[00:35:33.240 - 00:35:34.240] Good.
+[00:35:34.240 - 00:35:35.240] Good.
+[00:35:35.240 - 00:35:36.240] Thank you.
+[00:35:36.240 - 00:35:37.240] Alrighty.
+[00:35:37.240 - 00:35:38.240] So back to slide 15.
+[00:35:38.240 - 00:35:40.240] There were a couple of things just being cognizant of time.
+[00:35:40.240 - 00:35:41.240] There were a couple of things we wanted to talk about.
+[00:35:41.240 - 00:35:42.240] And, you know, we have had our teams are working together.
+[00:35:42.240 - 00:35:46.240] We're starting into, we've been internalizing everything and we are definitely catching everything that's coming your way, our way.
+[00:35:46.240 - 00:35:47.240] But there were three almost like three things here.
+[00:35:47.240 - 00:35:53.240] And I would call them almost like questions that have occurred to us that we think we could run into down the road that we would love to hear.
+[00:35:53.240 - 00:35:54.240] Your thoughts on.
+[00:35:54.240 - 00:35:59.240] So we're not just making assumptions and come back and all of a sudden there's misalignment which could influence our recommendation.
+[00:35:59.240 - 00:36:06.240] And I would break them out into these three questions.
+[00:36:06.240 - 00:36:07.240] I would say the first two are, are, are somewhat related, right?
+[00:36:07.240 - 00:36:08.240] But we're going to work with our analytics team.
+[00:36:08.240 - 00:36:09.240] We are, we are gathering data that you've got.
+[00:36:09.240 - 00:36:10.240] You've got data that you've got.
+[00:36:10.240 - 00:36:11.240] You've got data that you've got data that you've got.
+[00:36:11.240 - 00:36:24.240] You've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data.
+[00:36:24.240 - 00:36:27.240] And I would break them out into these three questions.
+[00:36:27.240 - 00:36:30.240] I would say the first two are, are, are somewhat related, right?
+[00:36:30.240 - 00:36:34.240] But we're going to work with our analytics team.
+[00:36:34.240 - 00:36:37.240] We are, we are gathering data that you, you will give us.
+[00:36:37.240 - 00:36:51.240] But one of the things that we're asking ourselves is like, well, what signals or what sort of data points do we, do you use that helps to determine where a category or community might warrant greater investment.
+[00:36:51.240 - 00:36:54.240] And I know we've started this conversation from a community standpoint.
+[00:36:54.240 - 00:36:59.240] So you may be thinking it from a category standpoint, but is there any work that you've done?
+[00:36:59.240 - 00:37:08.240] And I know, Alex, there's a lot you have sent to, to the, our UK team, but I wanted to talk about this universally across markets.
+[00:37:08.240 - 00:37:20.240] It's like, how do we, how have you, and what data have you used to understand where there may be the, the greatest opportunity or the greatest retail opportunity we want to pursue?
+[00:37:20.240 - 00:37:31.240] And given that, what might be the data sources that you use to identify what those opportunities are, because we're trying to come back with a recommendation that's, that's going to work for every market.
+[00:37:31.240 - 00:37:37.240] And we're just wondering if there's multiple sources of data, or if you guys have standardized that overall.
+[00:37:37.240 - 00:37:38.240] Does that make sense?
+[00:37:38.240 - 00:37:52.240] I think so. I think, because from a, like, eBay live category perspective, so they're looking at what were the categories that drive the most GMB.
+[00:37:52.240 - 00:38:00.240] Some of that would be competitive. So how do we look at our competitors who are making the market? What categories are we seeing most growth in?
+[00:38:00.240 - 00:38:10.240] Some of that's format based. And then like, also, if you look at GMB, it's value based. So watches, great GMB for us, smaller community.
+[00:38:10.240 - 00:38:19.240] So I was just like, is it that sort of view you're looking at from like a commercial perspective, how we're thinking about category expansion, just to help you understand that?
+[00:38:19.240 - 00:38:46.240] Okay, I don't know how systematic it is, Kate, we can dig into that. But we have, we know the UK and Germany are looking at their category strategies, and there are inputs into that in terms of TAM, total addressable market, size, size of the price, competitive, like, growth, but also potentially white space, and like eBay right to own, or win.
+[00:38:46.240 - 00:39:02.680] So I will, I think, share the slide that just shows like right to win categories and like, maintain categories. But if I can try and get the data behind that, that's inputted into it, that's probably what you need.
+[00:39:03.000 - 00:39:16.180] Kate, we can see whether the US has the same, I have a feeling it's probably not wholly systematic. But I do know that inputs are definitely right to win, size of TAM, current GMB, current core audience.
+[00:39:16.240 - 00:39:24.240] That we can also mine from versus new audience that we need to acquire, all of those dimensions, and I'll see whether I can, what I can get and dig up for you.
+[00:39:24.240 - 00:39:25.240] Does that work?
+[00:39:25.240 - 00:39:44.240] Yes, that's, that's wonderful. And even if we can create a framework that is similar in terms of approach, because we, you know, we have our analytics team, as well, that can, that can help us work towards seeing if there's any data sources that we have, from our point of view, that helps us put a scale to the size of it.
+[00:39:44.240 - 00:39:54.240] A scale to the size of the community, etc. And then we can use all those tools and create a framework by which we are analyzing what growth will need to look like.
+[00:39:54.240 - 00:40:04.240] I think, I think the big message from us is we don't want to just assume because there is a big and active community, that that's the only input into retail opportunity.
+[00:40:04.240 - 00:40:10.240] Yes, and we did some work with IPRO as well to identify the size of these communities.
+[00:40:10.240 - 00:40:11.240] Oh, great.
+[00:40:11.240 - 00:40:20.240] We were doing it a little bit more based on like media target, which is sometimes they can be a little bit blunt.
+[00:40:20.240 - 00:40:21.240] Yeah.
+[00:40:21.240 - 00:40:30.240] Versus community and then like retail opportunities. But let me gather it all up and package it up and send it over to you all.
+[00:40:30.240 - 00:40:39.240] Wonderful. And this, and what we should do is make this a part of a workflow that helps us with our longer term vision on how we make recommendations.
+[00:40:39.240 - 00:40:43.240] It won't stop us from saying here's where we would like to start in our sprint.
+[00:40:43.240 - 00:40:53.240] But like if we can just align on this could be a really great input as we start thinking about, you know, the year plan, the two year plan, etc.
+[00:40:53.240 - 00:40:57.240] And then we create a similar framework. I think that could be extremely helpful for us.
+[00:40:57.240 - 00:41:00.240] Agree, because things are going to adjust and change.
+[00:41:00.240 - 00:41:02.240] Exactly. Exactly.
+[00:41:02.240 - 00:41:10.240] It's more of a request of like, if you like the creation of a framework and a like minded way of talking about where we think growth goes.
+[00:41:10.240 - 00:41:16.240] And we use that as a means for our teams to talk to your teams about where we think there's going to be potential.
+[00:41:16.240 - 00:41:21.240] It becomes less of like an agency just telling you, hey, there's momentum, there's cultural relevance.
+[00:41:21.240 - 00:41:25.240] It becomes a recommendation that's grounded in your retail focus.
+[00:41:25.240 - 00:41:27.240] That makes sense.
+[00:41:27.240 - 00:41:28.240] Right.
+[00:41:28.240 - 00:41:41.240] OK. And then this last question is is in many ways related to what Marcus was talking about with the P&A conversation, where it's there.
+[00:41:41.240 - 00:41:48.240] There are examples of where there could be an eBay community right now, but maybe there's not live potential.
+[00:41:48.240 - 00:41:56.240] And I think what we talked about beforehand is from a P&A standpoint, from a P&A standpoint, it may not be the priority.
+[00:41:56.240 - 00:42:01.240] We may want to grow them later. But I think that that in general, that question still stands right.
+[00:42:01.240 - 00:42:08.240] Like there may be communities that exist in a eBay already, but they haven't naturally translated to live.
+[00:42:08.240 - 00:42:13.240] So should we focus on live or should we focus where the behavior already exists?
+[00:42:13.240 - 00:42:15.240] I think we have the answer already.
+[00:42:15.240 - 00:42:20.240] We should probably focus where the behavior exists as a priority in like our first three to six month sprint.
+[00:42:20.240 - 00:42:32.240] Yeah, it's a really interesting one because I was just going to jump in and also say like, you know, not to like fully walk back my answer earlier.
+[00:42:32.240 - 00:42:39.240] But I do like I do think when we're getting started, you know, our first step should be oriented around live, right?
+[00:42:39.240 - 00:42:41.240] That is the most urgent problem to solve.
+[00:42:41.240 - 00:42:49.240] But as we think about this as a broader, always on relevance engine for eBay overall, of which eBay live is a part.
+[00:42:49.240 - 00:42:58.240] We know there are going to be communities that we are going to want to serve and have a right, a right to participate in.
+[00:42:58.240 - 00:43:03.240] And P&A is going to be one of those.
+[00:43:03.240 - 00:43:09.240] And so I do think it's worthwhile doing the exploration of what are the other communities that are out there.
+[00:43:09.240 - 00:43:12.240] Maybe we don't do a strategy against them in the first three months.
+[00:43:12.240 - 00:43:25.240] Maybe it's still focused online, but at least as we're getting into 2027 planning, we can start to connect the dots across where there's already heat across social and where the business is asking us to participate in.
+[00:43:25.240 - 00:43:30.240] And we can kind of we can prioritize from there, if that makes sense.
+[00:43:30.240 - 00:43:32.240] It completely makes sense.
+[00:43:32.240 - 00:43:34.240] And we're very aligned to that.
+[00:43:34.240 - 00:43:43.240] And I think when the nuance here is there's degree of investment and focus and where we want to start.
+[00:43:43.240 - 00:43:56.240] But completely aligned with capturing what those communities are and asking ourselves, what do we see as the the the potential of this community and where would we prioritize it?
+[00:43:56.240 - 00:44:10.240] I'm not saying we create a tiering system, but I do think it becomes important for us to capture and understand and then make decisions as where where we want to focus our our creative efforts and our in our investment efforts.
+[00:44:10.240 - 00:44:23.240] And I read that question slightly differently as well, just in so far as you also say, like, where does our like we 90 percent of our live customers are eBay core customers first?
+[00:44:23.240 - 00:44:24.240] Yes.
+[00:44:24.240 - 00:44:25.240] Yes.
+[00:44:25.240 - 00:44:32.240] And so looking at the categories where we have a rich existing audience has been to our growth.
+[00:44:32.240 - 00:44:50.240] But what we are tasked with is also making sure that we are acquiring customers, which is where this point of like your hunch of like live high potentials, potential categories is probably where we start in order to make sure that we are delivering against our commercial goals.
+[00:44:50.240 - 00:44:51.240] Yeah.
+[00:44:51.240 - 00:45:01.240] Yeah, that's what I was going to make there, Alex is we need to create room for opportunistic moments that just crop up like we have a gut feel that this is going to blow up, become a trend.
+[00:45:01.240 - 00:45:04.240] And I think, you know, a category that's going to be big.
+[00:45:04.240 - 00:45:08.240] Hopefully, as we get more into doing this, we will start to see those things in advance.
+[00:45:08.240 - 00:45:09.240] So we can first move at advantage.
+[00:45:09.240 - 00:45:11.240] Based on the life behaviors.
+[00:45:11.240 - 00:45:25.240] And I think I also agree with with Kate's point in and that the way I interpret Kate's point is we're going to know what these different communities and sub communities are.
+[00:45:25.240 - 00:45:29.240] And we're going to know their behaviors in terms of are they using live or not?
+[00:45:29.240 - 00:45:35.240] Are they an eBay, you know, community that's that's retail focused in different ways.
+[00:45:35.240 - 00:45:43.240] And we'll have to ask ourselves what level of investment in terms of time, creative and an effort do we put against that?
+[00:45:43.240 - 00:45:47.240] And so that's why I talk a little bit about a tiering system as well.
+[00:45:47.240 - 00:45:50.240] Does it sound like we're on the same page?
+[00:45:50.240 - 00:45:51.240] Sounds good.
+[00:45:51.240 - 00:45:52.240] Yep.
+[00:45:52.240 - 00:46:03.240] Great. Amazing. So with that, basically what we wanted to show you was we feel good.
+[00:46:03.240 - 00:46:04.240] Thank you for the answer to the questions.
+[00:46:04.240 - 00:46:05.240] We're capturing that.
+[00:46:05.240 - 00:46:09.240] Thank you for the follow up on any of the data that will come our way.
+[00:46:09.240 - 00:46:15.240] Let's just talk to you about what the next couple of weeks will look like and what you can anticipate moving forward.
+[00:46:15.240 - 00:46:20.240] So actually, can you go to the previous slide?
+[00:46:20.240 - 00:46:25.240] So here's what everything's going to look like.
+[00:46:25.240 - 00:46:36.240] We're going to come back and we're going to look at each community and we're going to talk a lot more about their behaviors, both from a retail standpoint and their behaviors per platform.
+[00:46:36.240 - 00:46:55.240] Because we believe our recommendation, although it starts on eBay and eBay live, we owe you a point of view of what we think are going to be some of those most viable retail opportunities within those communities and start talking about how that makes us initiate where we show up, the content we make and the collaborations we have.
+[00:46:55.240 - 00:47:07.240] So that starting point that that road map as a part of that, we will talk to you about what is the core handbook architecture and what we think may be some of the starting spaces.
+[00:47:07.240 - 00:47:21.240] We may want to think differently in terms of might there be a handle strategy we want to start off with if our current platform strategy may not be enough to reach all of the different communities.
+[00:47:21.240 - 00:47:26.240] We will then talk about some of the trending communities that we see that are coming up.
+[00:47:26.240 - 00:47:32.240] I know in the U.S. for some reason, trains and like toy trains are really starting to pick up the steam.
+[00:47:32.240 - 00:47:39.240] So we will talk to you a little bit more about what what's trending and what we think could really be interesting moving forward.
+[00:47:39.240 - 00:47:54.240] And then we'll give you a sense of where our our ecosystem is today and an expansion model of where we think it could be in three months, given some three to six months, given the opportunities presented overall.
+[00:47:54.240 - 00:48:01.240] So the first step will we want to we'll go beyond like, hey, our recommendation is eBay and eBay Live.
+[00:48:01.240 - 00:48:06.240] It's like, no, it's eBay, eBay Live here, the communities and here is how we're showing up by platform.
+[00:48:06.240 - 00:48:08.240] Here's where we think there's growth potential.
+[00:48:08.240 - 00:48:15.240] And with that, when that all comes together, this is what expansion could look like in the next three to six months.
+[00:48:15.240 - 00:48:17.240] Good. Thumbs up.
+[00:48:17.240 - 00:48:19.240] We like that output.
+[00:48:19.240 - 00:48:20.240] Yes.
+[00:48:20.240 - 00:48:21.240] All right.
+[00:48:21.240 - 00:48:23.240] So let's talk timing.
+[00:48:24.240 - 00:48:32.240] So from now to end of the month, we'll keep building our POV.
+[00:48:32.240 - 00:48:37.240] We'll if you can send us any of those things coming our way, that'll be fantastic.
+[00:48:37.240 - 00:48:40.240] We have teams deployed here in the U.S.
+[00:48:40.240 - 00:48:44.240] We are looking into the behaviors in the U.K., Germany.
+[00:48:44.240 - 00:48:47.240] And I think there is conversation around France and Italy.
+[00:48:47.240 - 00:48:51.240] We will follow up with you with how far we're going to be able to go across all of those.
+[00:48:51.240 - 00:49:01.240] Then the next time we meet, what we're going to do is we're going to show you a work in progress of what these recommendations look like.
+[00:49:01.240 - 00:49:05.240] And let us know if you'd like us to start with the U.K. and Germany and the U.S.
+[00:49:05.240 - 00:49:07.240] Like, let us know.
+[00:49:07.240 - 00:49:15.240] But we want to talk about what deployment starts to look like and show you like how we're talking about where we'd like to prioritize,
+[00:49:15.240 - 00:49:26.240] what we think might be some of the spaces we want to grow into, what we learned after we analyze the data in terms of what we think those priorities look like and get reactions from you.
+[00:49:26.240 - 00:49:32.240] So that then in that first ten six to ten seven, we've taken those inputs.
+[00:49:32.240 - 00:49:43.240] We come back with something that feels like we've built it together and we use that as this is the starting point of what we're saying our platform and channel strategy looks like today.
+[00:49:43.240 - 00:49:47.240] And here's the architecture by market and here's the growth potential by market as well.
+[00:49:47.240 - 00:49:56.240] That sounds great. Thank you. And sorry, we've been less chatty than we would otherwise be.
+[00:49:56.240 - 00:49:59.240] I think we're in like slightly awkward places right now.
+[00:49:59.240 - 00:50:08.240] It's also a lot and it's a little bit more of like how we're approaching the problem than the recommendation itself.
+[00:50:08.240 - 00:50:21.240] But we really wanted to make sure that these foundations felt right to you, because if we didn't have this check in, the tactical expressions of this would have gone into a direction that would feel very, very off.
+[00:50:21.240 - 00:50:26.240] No, I think the process and approach is right. I think the overarching category communities is right.
+[00:50:26.240 - 00:50:30.240] And then I think we need to just dig into those in more detail.
+[00:50:30.240 - 00:50:44.240] I like being choiceful around channels and my watch out this year on the eBay thing is we want to produce more content, be less precious about the quality of the content.
+[00:50:44.240 - 00:50:48.240] If we're leveraging our core channels, how do we make sure we still have the freedom to do that?
+[00:50:48.240 - 00:50:57.240] I think we need to have a discussion about that because I don't want us to suddenly feel like we have to control everything because we feel nervous because it's more branded.
+[00:50:57.240 - 00:51:01.240] So just a few of those things coming up. I think the process fully makes sense.
+[00:51:01.240 - 00:51:07.240] I think where you're headed is right. We'll try and give you more inputs to dig into those categories of more detail.
+[00:51:07.240 - 00:51:14.240] And Alex, something that we can do is we can make sure that as our teams are talking about this, the type of content that wins by community, by platform,
+[00:51:14.240 - 00:51:24.240] we can start to show what that looks like and we can show that it's not so precious and like, you know, Hollywood style, but it really feels like it's being made by, I don't know.
+[00:51:24.240 - 00:51:29.240] You're so right around that. Like what are the Watchers communities talking about on Discord?
+[00:51:29.240 - 00:51:34.240] How do we then react? What kind of content do we do? Like all of, yes, that would be really valuable.
+[00:51:34.240 - 00:51:36.240] Okay. We can, yeah, we'll show you.
+[00:51:36.240 - 00:51:42.240] Yeah, I was going to, I think that that's perfect. I just, not to interrupt, but I, David, I was going to ask the same question is when we get to,
+[00:51:42.240 - 00:51:49.240] when do we get to the content strategy? Because the, this helps really answer like the handle architecture piece of it all.
+[00:51:49.240 - 00:51:58.240] But, um, to that point of, you know, uh, what content is coming from sellers and creators? What content is coming from us?
+[00:51:58.240 - 00:52:06.240] And how do we, uh, how do we think about it as it relates to all the different pieces of content that we need to produce across these handles?
+[00:52:06.240 - 00:52:20.240] I would really love to be able to put a, put a bow on the starting point with the platform and the handle strategy and then quickly follow it up with the strategy, um, afterwards.
+[00:52:20.240 - 00:52:35.240] Um, and, and, and, and, uh, and, and I think you'll see a, a pretty quick turn in terms of, cause the content strategy I think is going to be based on the communities and the type of content they look like and deploying against that.
+[00:52:35.240 - 00:52:38.240] Right. Showing, using signals of like, this is what we're seeing.
+[00:52:38.240 - 00:52:47.240] Like, it's not just about talking about trains. It's about talking about trains in this way, um, or with these type of shots or about this type of content within that.
+[00:52:47.240 - 00:52:55.240] And I think you'll start to see that that starts to dictate, um, where we want to go short term in a, in a very responsive way to the market.
+[00:52:55.240 - 00:53:03.240] Uh, I think one of the content strategy mistakes we can make is feel like we've planned the year around these sort of different pillars of content.
+[00:53:03.240 - 00:53:13.240] Uh, when we really need to be responsive to like, this is market, this is laissez-faire. This is, you know, people are going to talk about passion points and the way they talk about it and how it show up changes.
+[00:53:13.240 - 00:53:19.240] So like, we just want to make sure we move ourselves in a direction where we're saying, this is the community.
+[00:53:19.240 - 00:53:25.240] Oh, cute dog, Ellen. Uh, this is the community. This is what they're, this is what they're really hyped about right now.
+[00:53:25.240 - 00:53:33.240] Let's make content against that. And then let's see how far we can take that from a, a retail standpoint, keep digging after things overall.
+[00:53:33.240 - 00:53:41.240] You know what I'm saying? So the content plan looks like, here's what we know, here's where the opportunity lies. This is what the type of content should be. And we continue.
+[00:53:41.240 - 00:53:47.240] I think if we share content examples through this strategy, that would be really valuable.
+[00:53:47.240 - 00:53:55.240] We will make sure we collect it because usually we don't like, we use it as signals later on for briefing, but I think you want to see what it looks like.
+[00:53:55.240 - 00:54:03.240] And we can show you exactly where it will take us. I think, I think it would help just in, you know, just this is the content that it's a, it's a great push.
+[00:54:03.240 - 00:54:09.240] We'll make sure we add that in. Okay. Thank you guys. I'm going to run, but I really appreciate this. It was great to catch.
+[00:54:09.240 - 00:54:11.240] Thank you all. Thank you for your attention.

@@ -1,0 +1,123 @@
+
+======== TikTok DIRECT 1007
+unique links: 1007 dup links: 0
+post date present: 0 | range: None -> None
+track date range: 2026-09-24 11:40:11 -> 2026-09-24 15:18:14
+source: [('Research downloads', 1007)]
+pulled_as: [('ebay_expanded_search_fast_frames', 1007)]
+status: [('gemini_done', 1001), ('gemini_failed', 6)] | audio_transcript nonempty: 1001 | notable_text nonempty: 752
+eBay in caption+hashtags: 684 | eBay in transcript: 270 | eBay in on-screen text: 145 | eBay in ad_description (Gemini): 791
+live/whatnot/tiktok shop in caption|hashtags|transcript|onscreen: 54
+ebay_relevance (Gemini): [('high', 923), ('medium', 61), ('low', 11), ('', 6), ('Medium', 3), ('high.', 2), ('High', 1)]
+buyer_or_seller_angle (Gemini): [('buyer', 475), ('reseller', 156), ('seller', 141), ('buyer, collector', 57), ('collector', 38), ('unclear', 34), ('collector, reseller', 14), ('seller, reseller', 13)]
+flash_community (multi, AI-coded): {'Other / emerging': 367, 'Electronics': 157, 'Sneakers/Streetwear': 145, 'Luxury Fashion': 144, 'Toys/Collectibles': 118, 'General marketplace': 77, 'TCG/Pokemon': 77, 'Sports Cards': 19, 'Unclear': 9}
+flash_confidence: [('high', 899), ('medium', 99), ('low', 9)]
+comments blank: 116 views blank: 0
+
+======== TikTok COMMUNITY 914
+unique links: 914 dup links: 0
+post date present: 0 | range: None -> None
+track date range: 2026-09-24 15:48:19 -> 2026-09-24 18:43:30
+source: [('Research downloads', 914)]
+pulled_as: [('ebay_expanded_search_fast_frames', 914)]
+status: [('gemini_done', 908), ('gemini_failed', 6)] | audio_transcript nonempty: 908 | notable_text nonempty: 716
+eBay in caption+hashtags: 8 | eBay in transcript: 3 | eBay in on-screen text: 1 | eBay in ad_description (Gemini): 173
+live/whatnot/tiktok shop in caption|hashtags|transcript|onscreen: 45
+ebay_relevance (Gemini): [('high', 716), ('medium', 148), ('low', 38), ('', 6), ('Medium', 5), ('high.', 1)]
+buyer_or_seller_angle (Gemini): [('collector', 338), ('buyer', 191), ('unclear', 80), ('seller', 74), ('collector, buyer', 55), ('collector, reseller', 51), ('reseller', 28), ('reseller, collector', 18)]
+flash_community (multi, AI-coded): {'Other / emerging': 316, 'Electronics': 188, 'Toys/Collectibles': 137, 'Sneakers/Streetwear': 88, 'TCG/Pokemon': 87, 'Sports Cards': 62, 'Luxury Fashion': 61, 'Unclear': 25, 'Coins': 1, 'General marketplace': 1}
+flash_confidence: [('high', 875), ('medium', 35), ('low', 4)]
+comments blank: 58 views blank: 0
+
+======== TikTok direct vs community overlap
+shared links: 0
+
+======== TikTok COMMENTS 500
+videos: 50 | comment_id unique: 500
+of those videos in DIRECT: 13 in COMMUNITY: 37
+comment_created_at range: 2021-03-08T20:15:05.000Z -> 2026-09-25T04:08:25.000Z
+item_category of parent videos (Gemini): [('sneakers', 5), ('Toy, collectible', 4), ('Sneakers', 4), ('clothing', 3), ('Trading card', 3), ('electronics', 2), ('trading card', 2), ('Electronics', 2), ('toy, collectible', 2), ('bag', 2)]
+eBay in comment_text: 6 | live terms: 0
+flash_community: {'Sneakers/Streetwear': 114, 'Toys/Collectibles': 97, 'Other / emerging': 83, 'Electronics': 55, 'TCG/Pokemon': 50, 'Luxury Fashion': 49, 'Unclear': 34, 'General marketplace': 12, 'Sports Cards': 10}
+confidence: [('high', 330), ('medium', 108), ('low', 62)]
+
+======== REDDIT broad 100 convos
+row_type: [('comment', 1998), ('post', 100)]
+unique post_id (posts): 100 | comments per post: mean 20.0 max 30
+bucket: [('trust_scams_authenticity', 25), ('competitor_platform_live', 25), ('general_viral', 15), ('cards_collectibles', 14), ('luxury_authentication', 13), ('vintage_finds_nostalgia', 8)]
+subreddits (posts): [('Ebay', 22), ('whatnotapp', 10), ('PokemonTCG', 8), ('TikTokshop', 8), ('IsMyPokemonCardFake', 6), ('baseballcards', 5), ('Flipping', 4), ('mildlyinfuriating', 3), ('Superstonk', 3), ('technology', 3), ('sportscards', 2), ('Watches', 2), ('eBaySellerAdvice', 2), ('rolex', 2), ('handbags', 2), ('Sneakers', 2), ('interestingasfuck', 1), ('BeAmazed', 1), ('mildlyinteresting', 1), ('Steam', 1)]
+posted_at range (posts):  -> 2026-09-18T23:54:04Z
+eBay in post title/text: 88 / 100 | eBay in comments: 443 / 1998
+live terms in posts: 26 | in comments: 177
+depth: [('0', 1008), ('1', 513), ('2', 267), ('3', 111), ('', 100), ('4', 53)]
+flash_community (posts): {'General marketplace': 22, 'TCG/Pokemon': 22, 'Sports Cards': 18, 'Other / emerging': 17, 'Luxury Fashion': 12, 'Electronics': 9, 'Toys/Collectibles': 5, 'Sneakers/Streetwear': 3, 'Coins': 2, 'Unclear': 2}
+flash_community (comments): {'General marketplace': 526, 'TCG/Pokemon': 515, 'Sports Cards': 362, 'Other / emerging': 302, 'Luxury Fashion': 191, 'Electronics': 118, 'Toys/Collectibles': 72, 'Unclear': 70, 'Sneakers/Streetwear': 37, 'Coins': 34}
+confidence: [('high', 1701), ('medium', 309), ('low', 88)]
+
+======== REDDIT r/Ebay 137 posts
+row_type: [('comment', 632), ('post', 137)]
+unique post_id (posts): 137 | comments per post: mean 4.6 max 5
+bucket: [('general_recent', 25), ('authenticity_fakes', 24), ('fees_payments_holds', 22), ('buyer_seller_pain', 19), ('collectibles_cards', 18), ('shipping_delivery', 15), ('current_recent', 14)]
+subreddits (posts): [('Ebay', 137)]
+posted_at range (posts): 2025-09-26T12:13:29Z -> 2026-09-25T14:00:33Z
+eBay in post title/text: 100 / 137 | eBay in comments: 199 / 632
+live terms in posts: 3 | in comments: 4
+depth: [('0', 459), ('1', 141), ('', 137), ('2', 29), ('3', 2), ('4', 1)]
+flash_community (posts): {'General marketplace': 63, 'Other / emerging': 26, 'TCG/Pokemon': 17, 'Electronics': 10, 'Luxury Fashion': 10, 'Toys/Collectibles': 7, 'Sports Cards': 6, 'Sneakers/Streetwear': 2, 'Unclear': 2, 'Coins': 2}
+flash_community (comments): {'General marketplace': 375, 'TCG/Pokemon': 69, 'Other / emerging': 65, 'Electronics': 44, 'Luxury Fashion': 37, 'Toys/Collectibles': 27, 'Sports Cards': 25, 'Sneakers/Streetwear': 11, 'Coins': 9, 'Unclear': 7}
+confidence: [('high', 646), ('medium', 103), ('low', 20)]
+
+======== Reddit overlap between pulls
+shared post_id: 7 | shared comment_id: 32
+
+======== YOUTUBE VIDEOS 248
+unique video_id: 248 | lane: [('pokemon_cards_auth', 33), ('sports_cards_breaks', 20), ('luxury_bags_auth', 20), ('watches_auth', 20), ('sneakers_auth', 20), ('reseller_what_sold', 20), ('reseller_sourcing', 20), ('cameras_electronics', 20), ('whatnot_vs_ebay_live', 20), ('retro_gaming_collectibles', 19), ('tiktok_shop_live', 19), ('buyer_experience', 17)]
+type: [('video', 248)] | date present: 248 range: 10d ago -> Streamed 9h ago
+eBay in title: 150 | live terms in title: 45
+flash_community: {'General marketplace': 109, 'Other / emerging': 29, 'TCG/Pokemon': 29, 'Sports Cards': 23, 'Sneakers/Streetwear': 18, 'Luxury Fashion': 18, 'Toys/Collectibles': 17, 'Electronics': 16, 'Unclear': 4}
+
+======== YOUTUBE COMMENTS 1407
+videos with comments: 192 | of which in 248 list: 192 | lane: [('pokemon_cards_auth', 237), ('reseller_what_sold', 192), ('buyer_experience', 141), ('reseller_sourcing', 135), ('luxury_bags_auth', 111), ('sports_cards_breaks', 101), ('whatnot_vs_ebay_live', 101), ('sneakers_auth', 98), ('retro_gaming_collectibles', 93), ('cameras_electronics', 69), ('tiktok_shop_live', 69), ('watches_auth', 60)]
+comments per video: mean 7.3 max 10
+published present: 0 | comment_id unique: 1407
+eBay in comment_text: 159 | live terms: 72
+flash_community: {'General marketplace': 412, 'Other / emerging': 227, 'TCG/Pokemon': 225, 'Unclear': 138, 'Sports Cards': 137, 'Luxury Fashion': 113, 'Sneakers/Streetwear': 111, 'Electronics': 64, 'Toys/Collectibles': 62}
+confidence: [('high', 1080), ('medium', 236), ('low', 91)]
+
+======== YOUTUBE LIVE CHAT 1435
+videos: 15 | in 248 list: 0 | in comments videos: 0
+event_type: [('message', 1416), ('system', 10), ('error', 6), ('membership', 2), ('super_chat', 1)] | stream_status: [('replay', 1429), ('', 6)]
+rows per video: {'min': 1.0, '50%': 41.0, 'max': 250.0}
+    7ZUsxHRr94c |  | 
+    F7otWfCpugY |  | 
+    Ix3OdRpYZiU |  | 
+    9fzi4mMrWRk |  | 
+    S5WhbYdjgm8 |  | 
+    9RKmfDiyOfQ |  | 
+    xEEbvhyMOnE | Buyaparcel eBay LIVE Spotlight on Dewalt | £1 Auctions | Live ONLY Flash Sale | Buyaparcel
+    GKYH-awLpo0 | eBay- 2025 Bowman Chrome Baseball FIVE CASE Pick Your Player Break #1! - 9/24/25 | Best Card Breaks
+    F13yNlNDTvY | 6/28 Discord Breaks! (eBay Returns Wed) | Cams Cards
+    ojbDMXmv-OY | 🔥 Triple Header Break Night B#2103/#2105/2107 NOW LIVE! 🔥 | Flying V Sports Cards & Breaks
+    wbUy3gK7kFE | Live eBay Reseller Q&A | The Nurse Flipper Sonny Las Vegas Pickin Thriftin Treas | The Nurse Flipper
+    77jAv66lLio | 9/24 1/2 Signature Class // 1/2 Bowman Chrome (Thur Night eBay Breaks) | Cams Cards
+    AW9J0zZl0yE | 2022 Bowman Draft Jumbo 2-Box Modified Reno Break | Grand Salami Sports Cards
+    RHonjdvsRRY | Bidding on Pokémon Card Auctions LIVE — Slab Hunting on Whatnot | Jul 17 | Cloud Shape Interpreting
+    19bmF518whA | LIVE Pokemon RIP N SHIP! DESTINED RIVALS ETB HIT OF NIGHT BONUS! | Nostalgia Nomics
+super_chat rows: 1 | members: 221 | owner/mod msgs: 330
+eBay in message: 50 | live terms: 18 | flash_community: {'Sports Cards': 777, 'TCG/Pokemon': 319, 'Unclear': 153, 'General marketplace': 149, 'Other / emerging': 36, 'Toys/Collectibles': 7, 'Electronics': 3}
+confidence: [('high', 572), ('medium', 458), ('low', 405)]
+published_at range:  -> 2026-09-25T17:06:24.935Z
+
+======== 150-row sample -> full-file membership
+D sample ids present: 25
+C sample ids present: 25
+TC sample ids present: 0
+R1 sample ids present: 50
+R2 sample ids present: 4
+YV sample ids present: 0
+YC sample ids present: 50
+YL sample ids present: 0
+sample reddit ids in R2 only: 0
+
+======== evidence id uniqueness across all eight
+total rows: 8378 | unique ids: 8339 | blank ids: 0

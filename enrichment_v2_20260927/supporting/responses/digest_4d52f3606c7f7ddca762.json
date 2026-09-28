@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\": [{\"kind\": \"platform_mechanic\", \"claim\": \"The live stream is an eBay break, as indicated by the title \\\"eBay- 2025 Bowman Chrome Baseball FIVE CASE Pick Your Player Break #1! - 9/24/25\\\".\", \"speaker_role\": \"unknown\", \"evidence_ids\": [\"youtube_live:GKYH-awLpo0:10\"], \"confidence\": \"high\"}, {\"kind\": \"motivation\", \"claim\": \"Participants express a desire for specific rare cards, such as a \\\"super\\\" or \\\"Superfractor,\\\" indicating a pursuit of high-value pulls.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"youtube_live:GKYH-awLpo0:11\", \"youtube_live:GKYH-awLpo0:14\", \"youtube_live:GKYH-awLpo0:45\", \"youtube_live:GKYH-awLpo0:133\", \"youtube_live:GKYH-awLpo0:161\", \"youtube_live:GKYH-awLpo0:162\"], \"confidence\": \"high\"}, {\"kind\": \"frustration\", \"claim\": \"Some participants express frustration with the card grading process, specifically with PSA, due to perceived inconsistencies in grading times.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"youtube_live:GKYH-awLpo0:51\"], \"confidence\": \"high\"}, {\"kind\": \"shared_knowledge\", \"claim\": \"Participants discuss the market value of cards, citing recent sales prices for specific cards to gauge potential value.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"youtube_live:GKYH-awLpo0:35\", \"youtube_live:GKYH-awLpo0:36\", \"youtube_live:GKYH-awLpo0:37\"], \"confidence\": \"high\"}, {\"kind\": \"chat_pattern\", \"claim\": \"Participants frequently make predictions about upcoming card pulls, often jokingly or with a sense of anticipation.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"youtube_live:GKYH-awLpo0:87\", \"youtube_live:GKYH-awLpo0:88\", \"youtube_live:GKYH-awLpo0:107\", \"youtube_live:GKYH-awLpo0:108\", \"youtube_live:GKYH-awLpo0:123\", \"youtube_live:GKYH-awLpo0:139\", \"youtube_live:GKYH-awLpo0:204\"], \"confidence\": \"high\"}, {\"kind\": \"frustration\", \"claim\": \"A participant expresses frustration with the live stream's sound quality, asking \\\"is it me or is his sound bad?\\\".\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"youtube_live:GKYH-awLpo0:95\"], \"confidence\": \"high\"}, {\"kind\": \"motivation\", \"claim\": \"A participant states their intention to return for future breaks, indicating satisfaction with the current breaks.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"youtube_live:GKYH-awLpo0:129\"], \"confidence\": \"high\"}, {\"kind\": \"frustration\", \"claim\": \"A participant expresses disappointment about not pulling an auto for a player they bought, despite it being a \\\"worst guy in the checklist.\\\"\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"youtube_live:GKYH-awLpo0:212\"], \"confidence\": \"high\"}], \"quotes\": [{\"evidence_id\": \"youtube_live:GKYH-awLpo0:11\", \"span_id\": \"message:0\"}, {\"evidence_id\": \"youtube_live:GKYH-awLpo0:51\", \"span_id\": \"message:0\"}, {\"evidence_id\": \"youtube_live:GKYH-awLpo0:35\", \"span_id\": \"message:0\"}, {\"evidence_id\": \"youtube_live:GKYH-awLpo0:87\", \"span_id\": \"message:0\"}, {\"evidence_id\": \"youtube_live:GKYH-awLpo0:95\", \"span_id\": \"message:0\"}, {\"evidence_id\": \"youtube_live:GKYH-awLpo0:129\", \"span_id\": \"message:0\"}], \"resolution\": {\"observed\": false, \"description\": \"not observed\", \"evidence_ids\": []}, \"limitations\": [\"The collected data is limited to chat messages and does not include audio or video from the live stream, which could provide additional context.\", \"The data is a snapshot from a single live stream, limiting generalizability to other breaks or platforms.\", \"Speaker roles are inferred from chat content and may not fully represent their actual involvement or identity.\", \"The future dates for the events (2025) suggest this is a replay or pre-recorded content, which might affect the immediacy of interactions.\", \"The absence of direct responses to some questions or comments makes it difficult to determine if all interactions were acknowledged or resolved.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 49084,
+    "candidatesTokenCount": 1165,
+    "totalTokenCount": 50249,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 49084
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "4U25ar69DKODqtsPxYWOuAU"
+}

@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\": [{\"kind\": \"position\", \"claim\": \"The video poster advertised a 3-piece Labubu doll set with a price of 4500.\", \"speaker_role\": \"seller\", \"evidence_ids\": [\"tiktok_video:local_16e7309a12013a8aea1bc09ec7fdb3297b27c958ed88d52b673ec2846c5ecfa7\"], \"confidence\": \"high\"}, {\"kind\": \"motivation\", \"claim\": \"Several commenters expressed interest in purchasing the Labubu dolls, with some specifying a quantity.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7531879334803751681\", \"tiktok_comment:7527911801608110866\", \"tiktok_comment:7548092220253438726\"], \"confidence\": \"high\"}, {\"kind\": \"frustration\", \"claim\": \"Multiple commenters asked for the price of the dolls, despite the price being stated in the video caption.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7548092220253438726\", \"tiktok_comment:7535802024676459282\", \"tiktok_comment:7536862377342878471\", \"tiktok_comment:7561766836045398805\"], \"confidence\": \"high\"}, {\"kind\": \"position\", \"claim\": \"One commenter reported having purchased a pink Labubu doll for Rs 2500, which differs from the 4500 price mentioned in the video caption.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7536841183874040584\"], \"confidence\": \"high\"}, {\"kind\": \"position\", \"claim\": \"One commenter reported that their parents believed the dolls contained 'jins' and would haunt people, which prevented them from buying.\", \"speaker_role\": \"unknown\", \"evidence_ids\": [\"tiktok_comment:7539023278191903506\"], \"confidence\": \"high\"}, {\"kind\": \"chat_pattern\", \"claim\": \"One commenter requested a response from the poster.\", \"speaker_role\": \"unknown\", \"evidence_ids\": [\"tiktok_comment:7678921814575465223\"], \"confidence\": \"high\"}], \"quotes\": [{\"evidence_id\": \"tiktok_video:local_16e7309a12013a8aea1bc09ec7fdb3297b27c958ed88d52b673ec2846c5ecfa7\", \"span_id\": \"caption:0\"}, {\"evidence_id\": \"tiktok_comment:7548092220253438726\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7531879334803751681\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7536841183874040584\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7539023278191903506\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7678921814575465223\", \"span_id\": \"comment_text:0\"}], \"resolution\": {\"observed\": false, \"description\": \"No resolution was observed in the provided comments, such as the seller responding to price inquiries or addressing the claim about 'jins'.\", \"evidence_ids\": []}, \"limitations\": [\"The currency for the price 4500 in the video caption is not explicitly stated.\", \"No seller responses to comments are included in the provided data.\", \"The context of the 'jins' claim is limited to a single comment.\", \"It is unclear if commenters asking for price missed the caption or sought clarification.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 5399,
+    "candidatesTokenCount": 1031,
+    "totalTokenCount": 7452,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5399
+      }
+    ],
+    "thoughtsTokenCount": 1022,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "Dk-5auXnFJCDqtsPw4uDYA"
+}

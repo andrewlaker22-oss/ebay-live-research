@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"frustration\",\"claim\":\"Several commenters report receiving items damaged during eBay's authentication process, including marks on a 1/1 card, a damaged corner, and a cracked PSA 9 slab.\",\"speaker_role\":\"commenter\",\"evidence_ids\":[\"youtube_comment:UgwMZJkFRvRYo929_IR4AaABAg\",\"youtube_comment:Ugxf10qYlgAU2IW1_3R4AaABAg\",\"youtube_comment:UgxT5qAV4jpKW60MoUB4AaABAg\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"One commenter reports receiving two 'empty box' packages from authentication, while another states that 4 out of 5 cards arrived with the card hanging out of the sleeve.\",\"speaker_role\":\"buyer\",\"evidence_ids\":[\"youtube_comment:UgyzItjVn8VudcI_pF54AaABAg\",\"youtube_comment:UgxAb09SNubgLsOScmt4AaABAg\"],\"confidence\":\"high\"},{\"kind\":\"platform_mechanic\",\"claim\":\"One seller learned that eBay's authentication process discards anything considered a 'Gift' per their terms, resulting in extra items sent with a purchase not reaching the buyer.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"youtube_comment:UgyAxpk2iGPoxRu0A614AaABAg\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"A buyer reports that cards received from eBay authenticator took an average of 8 extra days to arrive.\",\"speaker_role\":\"buyer\",\"evidence_ids\":[\"youtube_comment:UgxAb09SNubgLsOScmt4AaABAg\"],\"confidence\":\"high\"},{\"kind\":\"shared_knowledge\",\"claim\":\"One commenter suggests a workaround for eBay authentication by shipping to a PO box for cards over $250 to avoid direct shipping and potential delays.\",\"speaker_role\":\"commenter\",\"evidence_ids\":[\"youtube_comment:Ugyf5205ZedROVY_vId4AaABAg\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"One commenter expresses a strong negative opinion about PSA and Fanatics, stating that their inability to be sued indicates a corrupt system.\",\"speaker_role\":\"commenter\",\"evidence_ids\":[\"youtube_comment:UgxYEXDXDWSVi1wR2Jh4AaABAg\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"youtube_comment:UgwMZJkFRvRYo929_IR4AaABAg\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"youtube_comment:UgyAxpk2iGPoxRu0A614AaABAg\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"youtube_comment:UgxAb09SNubgLsOScmt4AaABAg\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"youtube_comment:Ugyf5205ZedROVY_vId4AaABAg\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"youtube_comment:UgyzItjVn8VudcI_pF54AaABAg\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"youtube_comment:UgxYEXDXDWSVi1wR2Jh4AaABAg\",\"span_id\":\"comment_text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The dates for the comments are unverified.\",\"The collected comments are a sample and not a full conversation thread.\",\"The title provides context but does not represent the opinion of every commenter.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 3860,
+    "candidatesTokenCount": 794,
+    "totalTokenCount": 5553,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 3860
+      }
+    ],
+    "thoughtsTokenCount": 899,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "6E65at3MCvnFqtsPrciUkA8"
+}

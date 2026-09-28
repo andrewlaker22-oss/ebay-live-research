@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"position\",\"claim\":\"Some sellers on Whatnot achieve significant sales, with reports of $6,000+ weekly gross or $250,000+ in less than a year, but this often requires extensive work hours.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"reddit:t3_1oobr33\",\"reddit:t1_nn5tcfv\",\"reddit:t1_nn5szlo\",\"reddit:t1_nn9afue\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"Many sellers find Whatnot unsustainable due to low profit margins, the need for cheap inventory, difficulty building an audience, and the demanding nature of live shows.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"reddit:t1_nn2ytwy\",\"reddit:t1_nn3chs4\",\"reddit:t1_no39bxl\",\"reddit:t1_nn4d6vm\",\"reddit:t1_nnail2k\",\"reddit:t1_nobmxal\"],\"confidence\":\"high\"},{\"kind\":\"platform_mechanic\",\"claim\":\"Whatnot's live auction format drives sales through the thrill of the hunt and FOMO (fear of missing out), which can lead to higher sales than static listings on platforms like eBay.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"reddit:t1_nn3bmcw\"],\"confidence\":\"medium\"},{\"kind\":\"shared_knowledge\",\"claim\":\"Buyers on Whatnot often find good deals and lower prices compared to other platforms like eBay or major auction houses, sometimes even sourcing items for resale.\",\"speaker_role\":\"buyer\",\"evidence_ids\":[\"reddit:t1_nn2wuoc\",\"reddit:t1_nn3r7l8\",\"reddit:t1_nn835mc\",\"reddit:t1_nn8l04b\",\"reddit:t1_nnail2k\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"Success on Whatnot often depends on having an established following, a niche, consistent shows, and good hosting skills, rather than just having cheap inventory.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"reddit:t1_nn2x73b\",\"reddit:t1_nn3bmcw\",\"reddit:t1_nn69yj9\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"The extensive time commitment for sourcing, setting up shows, live broadcasting, and shipping leads to burnout for some sellers, despite potential high earnings.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"reddit:t1_nn3chs4\",\"reddit:t1_nn5szlo\"],\"confidence\":\"high\"},{\"kind\":\"platform_mechanic\",\"claim\":\"Whatnot sellers are categorized by their inventory type, selling strategy (e.g., volume, gambling, niche), and authenticity, with some categories having a higher risk of sketchy practices.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"reddit:t1_nn3fg2c\"],\"confidence\":\"high\"},{\"kind\":\"counterexample\",\"claim\":\"Not all sellers on Whatnot are \"  ,\"speaker_role\":\"seller\",\"evidence_ids\":[\"reddit:t1_nn2ytwy\",\"reddit:t1_nn4d6vm\",\"reddit:t1_nnail2k\",\"reddit:t1_nobmxal\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"reddit:t1_nn5szlo\",\"span_id\":\"text:0\"},{\"evidence_id\":\"reddit:t1_nn3chs4\",\"span_id\":\"text:360\"},{\"evidence_id\":\"reddit:t1_nn2wuoc\",\"span_id\":\"text:0\"},{\"evidence_id\":\"reddit:t1_nn3bmcw\",\"span_id\":\"text:720\"},{\"evidence_id\":\"reddit:t1_nn69yj9\",\"span_id\":\"text:0\"},{\"evidence_id\":\"reddit:t1_nn3fg2c\",\"span_id\":\"text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The collected data is from Reddit, which may not represent the full spectrum of Whatnot users.\",\"The dates of the comments are in 2025-2026, which is in the future relative to the current date.\",\"Some claims about earnings are anecdotal and not independently verified.\",\"The sample size is small, limiting generalizability.\",\"The context of some replies' immediate parents is missing.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 14419,
+    "candidatesTokenCount": 948,
+    "totalTokenCount": 15367,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 14419
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "ak65atBZx-Oq2w-c3MLoDA"
+}

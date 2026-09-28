@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"rows\":[{\"evidence_id\":\"tiktok_video:local_ac1e0967b04907d31576e249b85bd72a1952a5a2942b28c260be878a1a9ecefa\",\"speaker_role\":\"creator\",\"ebay_role\":\"none_stated\",\"named_platforms\":[\"TikTok\"],\"live_stance\":\"none_stated\",\"motive\":\"sharing content about collecting/opening Pokemon cards\",\"frustration\":\"none\",\"sponsored_or_brand\":\"none_stated\",\"geo_signal\":\"none_stated\",\"chat_type\":\"video_caption\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"tiktok_comment:7053611964606645038\",\"speaker_role\":\"commenter\",\"ebay_role\":\"none_stated\",\"named_platforms\":[\"TikTok\"],\"live_stance\":\"none_stated\",\"motive\":\"commenting on video content\",\"frustration\":\"none\",\"sponsored_or_brand\":\"not_sponsored\",\"geo_signal\":\"none_stated\",\"chat_type\":\"comment\",\"unexpected_live_signal\":false,\"quote_span_id\":\"comment_text:0\",\"confidence\":\"high\"},{\"evidence_id\":\"tiktok_video:local_55aea1bb170ccce657423a66c39bb9625aa8b52d89aa8756e91e81652a905286\",\"speaker_role\":\"creator\",\"ebay_role\":\"none_stated\",\"named_platforms\":[\"TikTok\"],\"live_stance\":\"none_stated\",\"motive\":\"showcasing a product\",\"frustration\":\"none\",\"sponsored_or_brand\":\"none_stated\",\"geo_signal\":\"none_stated\",\"chat_type\":\"video_caption\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"reddit:t3_1sgt5p1\",\"speaker_role\":\"seller\",\"ebay_role\":\"seller\",\"named_platforms\":[\"eBay\",\"Reddit\"],\"live_stance\":\"not_applicable\",\"motive\":\"seeking advice or discussion about selling expensive items\",\"frustration\":\"hesitation to sell expensive items due to bad buyers\",\"sponsored_or_brand\":\"not_sponsored\",\"geo_signal\":\"none_stated\",\"chat_type\":\"post\",\"unexpected_live_signal\":false,\"quote_span_id\":\"text:0\",\"confidence\":\"high\"},{\"evidence_id\":\"tiktok_video:local_90556459e9093bf949ed35673038ba89aab063f56758781cc6886d35864c1fb4\",\"speaker_role\":\"creator\",\"ebay_role\":\"none_stated\",\"named_platforms\":[\"TikTok\"],\"live_stance\":\"none_stated\",\"motive\":\"sharing content about model trains\",\"frustration\":\"none\",\"sponsored_or_brand\":\"none_stated\",\"geo_signal\":\"none_stated\",\"chat_type\":\"video_caption\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"reddit:t1_odxeqlg\",\"speaker_role\":\"commenter\",\"ebay_role\":\"commenter\",\"named_platforms\":[\"eBay\",\"Reddit\"],\"live_stance\":\"not_applicable\",\"motive\":\"warning about potential fee evasion and loss of buyer protection\",\"frustration\":\"none\",\"sponsored_or_brand\":\"not_sponsored\",\"geo_signal\":\"none_stated\",\"chat_type\":\"comment\",\"unexpected_live_signal\":false,\"quote_span_id\":\"text:0\",\"confidence\":\"high\"},{\"evidence_id\":\"tiktok_video:local_bc8b636c087e2be6e4524e461bb35fcd02d4e7c884210a7754245b9fbf98db27\",\"speaker_role\":\"creator\",\"ebay_role\":\"none_stated\",\"named_platforms\":[\"TikTok\"],\"live_stance\":\"none_stated\",\"motive\":\"sharing content about collecting vintage buttons\",\"frustration\":\"none\",\"sponsored_or_brand\":\"none_stated\",\"geo_signal\":\"US\",\"chat_type\":\"video_caption\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"tiktok_video:local_5ce18eea50d2f1645bef969f739540a83bcfec1ab4816fe8a1b7999f4a0d8bb\",\"speaker_role\":\"creator\",\"ebay_role\":\"buyer\",\"named_platforms\":[\"eBay\",\"TikTok\"],\"live_stance\":\"none_stated\",\"motive\":\"sharing tips for finding vintage items\",\"frustration\":\"none\",\"sponsored_or_brand\":\"not_sponsored\",\"geo_signal\":\"none_stated\",\"chat_type\":\"video_caption\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"tiktok_video:local_a0b7f7aaa81612a53416a09b4713fadb8c640c631bead25c7869efb0ca08e85a\",\"speaker_role\":\"creator\",\"ebay_role\":\"none_stated\",\"named_platforms\":[\"TikTok\"],\"live_stance\":\"none_stated\",\"motive\":\"sharing recent sneaker purchases\",\"frustration\":\"none\",\"sponsored_or_brand\":\"none_stated\",\"geo_signal\":\"none_stated\",\"chat_type\":\"video_caption\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"tiktok_video:local_acc9ad028e2902b15c679360a50ad88ccdd72213f265c9bd1a27ed63e9547a8e\",\"speaker_role\":\"creator\",\"ebay_role\":\"none_stated\",\"named_platforms\":[\"TikTok\"],\"live_stance\":\"none_stated\",\"motive\":\"sharing fashion trend predictions\",\"frustration\":\"none\",\"sponsored_or_brand\":\"none_stated\",\"geo_signal\":\"none_stated\",\"chat_type\":\"video_caption\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"}]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 4484,
+    "candidatesTokenCount": 1451,
+    "totalTokenCount": 6856,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4484
+      }
+    ],
+    "thoughtsTokenCount": 921,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "u0-5arHAF9_-qtsPkoSNmAs"
+}

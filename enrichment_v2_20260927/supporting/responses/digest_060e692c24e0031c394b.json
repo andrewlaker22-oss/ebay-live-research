@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"motivation\",\"claim\":\"One commenter requests a video about how the creator sources and evaluates liquidation pallets.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R1\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"Several commenters express appreciation for the creator's direct and transparent approach to reselling advice, contrasting it with other channels.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R2\",\"R5\",\"R8\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"One seller reports that focusing on a smaller, active store with higher-profit items is more effective than maintaining a large number of listings, especially after experiencing slow sales on eBay.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R4\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"One seller describes eBay sales as a \\\"ghost town\\\" when they had many listings and expresses dislike for low-dollar items due to the effort required versus profit after fees.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R4\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"One seller, who has been on eBay since 1998, reports making over $300 by implementing the creator's suggestion to run a sale on aged items.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R6\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"One seller was inspired to reduce their store's inventory from 1900 to 1300 items, aligning with the creator's strategy.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R7\"],\"confidence\":\"high\"},{\"kind\":\"shared_knowledge\",\"claim\":\"One commenter suggests an \\\"abundance mindset\\\" and notes an \\\"over abundance in America\\\" in response to the idea of leaving money on the table.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R3\"],\"confidence\":\"medium\"},{\"kind\":\"motivation\",\"claim\":\"A new reseller, starting with items from home and limited space, plans to keep their inventory simple and focus on moving items through sales.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R8\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"R1\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R2\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R4\",\"span_id\":\"comment_text:180\"},{\"evidence_id\":\"R6\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R7\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R8\",\"span_id\":\"comment_text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The dates for the comments are unverified.\",\"The specific content of the YouTube video is not provided, only its title.\",\"The speaker roles are inferred for some commenters based on their statements about selling.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 4230,
+    "candidatesTokenCount": 608,
+    "totalTokenCount": 5692,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4230
+      }
+    ],
+    "thoughtsTokenCount": 854,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "bVG5aufeEK7oqtsP-snKSQ"
+}

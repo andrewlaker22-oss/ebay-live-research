@@ -1,0 +1,596 @@
+Well, Cortez, do you want to take the mic?
+I will gladly take the mic.
+And, you know, there's this really fun quirk of mine where I love being the center of attention.
+So this is just, you know, a great meeting.
+I'm very excited to be here.
+Very excited to meet all of you.
+There's quite a few of us new faces that are here.
+But because we're so short with time, I just want to give a larger overview of who some of those team members are and who some of the faces are.
+Just a quick shout out so you guys know who's part of the team that's really helping us build this.
+So you'll see a couple of the strategists of the Banner team here, U.S.-based, Hannah Zook, Kelly Mooney, and George Alejandros.
+You will also see Andy Valdez, who is part of our analytics team, who is going to be helping us put a little more data rigor into our recommendation overall.
+And then, of course, many of you know Connor and Alan and Marcus and Sean from previous conversations as well.
+Because I'm on Zoom, I want to make sure I am doing this correctly.
+So I'm going to go back to share.
+I'm going to go back to the deck.
+And hopefully this pops up.
+Are you guys seeing anything?
+Yes, we see it.
+We see it.
+Okay, excellent.
+So I see your faces.
+I don't see the slides.
+Let me work on that.
+Okay, so really quickly, as I sort of multitask this world of what we're doing,
+one of the key things is, is as we come together as a group, I think it's really important to set the foundations of what it is we are trying to achieve today.
+Okay, and I'll say that, like, the brief is very clear, and we absolutely love it.
+But today is going to be a little bit more about conversation and how we build this together overall.
+Okay.
+Shoot.
+Hold on, team.
+Abby, is there any chance you can drive?
+Because I am having a heck of a time trying to.
+Yes.
+We've all been there.
+Don't worry.
+Yeah.
+I'm sorry about the flow.
+No worries.
+Are you okay?
+Do you want to just Slack me the most up to date?
+The latest and greatest?
+Yes, because I did work on it this morning.
+And so, of course.
+Perfect.
+Thank you.
+And when I say working on it.
+As well, the deck, that would be great.
+Thank you.
+Okay.
+Great.
+Here we go.
+Apologize about that.
+And when I say working on it this morning, I was just beautifying, beautifying images.
+That's it.
+The thinking was all there in place.
+Okay.
+So, real quickly.
+I'll let you know.
+Yeah.
+So, really quickly.
+Just to review a little bit of where we are with the brief on slide two.
+The brief was very clear.
+And we're really excited about being able to share with you some of the progress that we've been making.
+Really, if you strip this down to its core work, it comes down to us trying to answer these four connected decisions that are all coming together.
+Where should eBay focus?
+And what role does each platform play?
+But also, how do we look at handle architecture?
+And what does that look like?
+And I think this is where it can get, like, multi-pronged, multiple markets, multiple categories or communities.
+And that's where it can start to get difficult.
+So, we're really thinking about how to simplify and make the right decisions here at this strategic level.
+And this is where the focus is going to be today.
+Because we believe that if we don't align on some of the core ways we want to simplify and handle decisions here, then the stuff on the right, content, distribution approach, the platform opportunities, actually become tactical in a way that they shouldn't way too soon.
+So, the focus today is to really, next slide, show you that we are trying to make a couple of decisions early on that are going to help us align.
+I want to talk a little bit about our overall ambition.
+Because when we take this brief in and ingest it and interrogate it, I think when we look at where we want to go,
+this is really about building a social presence that we feel is going to help us earn relevance with eBay's communities.
+And that's a very critical statement in and of itself because we are starting with the communities.
+We want to understand their behaviors because we think that that's going to help create pathways to commerce, right?
+So, it's like build the relevance within each one of the communities, understand how eBay can show up, and then use that relevance as a means to create pathways to commerce.
+And commerce is eBay Live, which is part of the social ecosystem, but will also be some of the other retail behaviors overall.
+So, it all starts with relevance in the communities, and then understanding how to use that relevance to create those pathways.
+Does that feel fairly straightforward?
+Everyone feeling good about that?
+Oh, the only rule in this presentation is it shouldn't be a presentation.
+Please interrupt, ask questions at any point in time.
+We definitely want to make this a little bit more of a discussion as we're looking at things overall.
+Fair?
+Good.
+So, today what we want to do is we want to align on how we are approaching this overall problem.
+We want to show you some of the work that we've done already that's helped, which is all about the structure and the foundations that we're laying and how we're approaching the problem.
+We want to use some conversation to align on that foundation and make sure you're feeling good about where we're going or if there's any watchouts, you have been in this business longer than we have.
+And so, we really want to respect the fact that you probably have a point of view and some legacy knowledge that will help us make this better.
+And then the third thing we want to do is ask a couple of questions around business context.
+We've had a lot of conversations as teams.
+We've had different conversations as markets.
+But I think this is a good opportunity now that we're all going to be in the same room to just align on a couple of key things or at least start the discussion on how we want to align on direction and then keep moving forward.
+I just want to note that the finished recommendation is something that would definitely be coming on later on, but want to treat this definitely as a bit of a work session.
+Alrighty.
+So, with that, I want to start off with a statement of it's going to be a really difficult endeavor to go off for a couple of weeks.
+Many of you remember me saying this in New York.
+It's like going off for a couple of weeks and coming back with, ta-da, here's the answer, here's what your ecosystem looks like, here's what the communities look like, and here's where they're going to go.
+And we have the final answer, and let's just build and let's just go off and kick ass.
+Really want to talk a little bit about how we're approaching this from a model standpoint, how our model of relevance can help us create the ecosystem that we need today, but also grow into the ecosystem we're going to need tomorrow.
+And if you all have, you know, Sean, I'm sure, has waxed poetic about our Boehner approach, but the way we want to build our overall social presence is going to be much the same, right?
+We're going to start off by really understanding who are some of the core communities that are already active in our different markets, who are already, you know, a part of the conversations and are active from a retail standpoint.
+We want to understand who it is and where they're showing up.
+Then we want to make sure that when we reach out to them, we reach out to them from a relevant standpoint as eBay.
+We want to tell stories.
+We want to connect with them.
+We want to connect them with sellers.
+We want to build and create consistency.
+And then as we keep seeing more and more momentum against those communities, then we can start asking ourselves, is it worth scaling and activating in bigger ways?
+Is it worth having more investment?
+So the model is going to help us determine what communities we want to keep pursuing and what is the level of commitment and investment, whether it's a new handle or activations or more live sessions, et cetera, et cetera.
+So we're going to start with a very base opportunity and then allow our model per market to permeate, to expand, and to grow based on where opportunities lie.
+So, the way we're going to do that initially is really going to start with an overlap between two big inputs.
+And, you know, I wouldn't be a strategist if I couldn't work some Venn diagram into a deck at some point in time.
+So here it is.
+Here you have it.
+We check the box.
+We can move on.
+But there's two things that we want to do.
+On one side, we want to really understand the community opportunity.
+We want to understand where attention is.
+We want to map that attention.
+We want to understand the behaviors within those communities because we don't believe that we should assume that they're automatically going to be the same.
+And we're going to try to understand what the scale is of these communities and what cultural momentum they may have, a.k.a. how viable of a retail opportunity may they be, where they may be.
+The other thing we want to overlay there is a little bit more of like a data mindset.
+We want to understand what sort of retail or business opportunities these different communities really are.
+And so we want to work with your team, see if there's any data that you may have that we could start inputting more, working with our own team to see if we can find the scale of different communities and different activity.
+And with the intersection of those two, we think that that's going to be the basis of where we start.
+This is where eBay should play today.
+And then we will keep looking at what's growing, how the communities are evolving, what new communities may be coming on board, and we scale and grow there.
+So given that, we wanted to first talk to you about who are some of those core communities that we wanted to approach.
+But I'm hoping the silence means all of this makes sense right now.
+Good, because now let's go on to slide seven, Abby.
+Obviously, this is going to be a point of discussion, a place to start.
+First of all, I just want to know that, you know, now that we've established what the model is all about and where we'd like to go, we had to make a decision of where we wanted to start.
+And so what we've done is done some preliminary work, understanding, you know, the inputs from your business priorities that you've shared with us, and combine that with an initial read of where we think we might be seeing some meaningful social and commerce behaviors that we can start going after.
+Sometimes you have to, in order to take a step, you have to take a step somewhere.
+So we wrote a line in the sand and said, this is where we'd like to start.
+And we think it's going to give us a focused starting point to start really understanding more about what each and one of these communities are.
+So we started with sports cards, the TCG Pokemon World, sneakers and streetwear, luxury fashion, electronics, and toys and collectibles.
+And what our teams are doing is trying to map the attention underneath that in those different platforms you're looking at.
+So think of this as us initially doing social listening and understanding, like, what the behaviors are so we can really tell you from a deeper level our understanding of where we think there may be opportunity to be.
+So I want to pause here and see if you're feeling pretty good about what this looks like.
+We understand this will differ by market, but we have deployed our teams to initially start looking here in the U.S., in the U.K., and in, Alan, keep me honest, Germany.
+And started here, but we will be coming back with a sense of what we've learned and where we think opportunities will lie here and if there's any sort of differences in market.
+I'll pause here just to make sure everyone's tracking or if there's any reactions to the six categories or communities that we've started to identify.
+Broadly speaking, I think they make sense.
+I think there's, like, toys and collectibles, quite a big, sorry, I'm in a cafe, quite a big category with a myriad of communities.
+We'd just love to, like, are we focusing on certain types there, or how are you thinking about that?
+We started off with that larger sort of group because I believe that those sub-communities might differ by market, maybe.
+So we definitely can see if we want to break those down more, because you're right.
+I think all of these, to a certain extent, have sub-communities and could be bigger in scale.
+But, yeah, I mean, we can definitely make a watch out there.
+Maybe that one is too big of a catch-all because there's a lot of different verticals overall.
+So we can definitely rethink that if you want.
+I think the approach we wanted to take was let's go in there and then let's start to see where the teams are finding differences
+and then seeing, like, what that means for us overall.
+Yeah, these are just starting points.
+So they'll splinter out into multiple different communities within these as well.
+So I wouldn't expect to see this as where we end.
+This is just the very start of the journey.
+Yeah, I think you'll have the same kind of findings with fashion luxury, potentially.
+Like, the handbags community is very different than the watches community.
+So I think, like, I'm really excited about the exploration here.
+I'm also really excited to get the findings because I think we can start to understand, like,
+these are our top categories, although sneakers for eBay Live is probably not going to be a big focus.
+But it'll be really interesting to see if there's heat within that community,
+which we then can kind of provide as more of a feedback loop to the eBay Live team.
+So I'm really excited about kind of the findings through this.
+One thing to think about, or one thing that is not on here that I'm interested in you exploring is coins.
+And that has been, like, a big focus and green shoot for live.
+But I'm not actually sure how much of that community is on social in a meaningful way.
+So I'd be interested if you could just explore, if that had come up in any of your kind of...
+It has. It has.
+Okay.
+It's interesting. Like, we had coins, and then we removed it.
+And the conversation, interestingly enough, parallels a lot of what we've talked about before we made this selection.
+Because we kept asking ourselves, like, how do we show where we're starting?
+And this is very much an organizing principle.
+I would say collectibles and coins, it's a little bit of, like, Alex's point beforehand.
+There's a lot underneath that.
+So, yeah, we definitely have a vision into making sure we can include coins and talk about where that's showing up.
+And if we think, from a sizing standpoint, what that opportunity tends to look like.
+Yeah, I think that makes sense.
+And I will send through with getting some more details on, like, our category strategies from the live BU.
+I think, I don't know if we share them with it, like, the UK broadly tracks to this.
+It's just, like, one layer down.
+Because fashion, lower ASP is less of an opportunity for us.
+Because of, kind of, the role of luxury, luxury audiences, AG, and things like that.
+So I think if we dig into the number of audiences within these subcategories, we can then identify where we focus there.
+Alex, that is a segue to the next couple of slides.
+Thank you so much.
+One really quick one, not to mess up the segue, sorry.
+One of the questions we also had was around P&A.
+I know that's one, like, just the auto space, like, debating where and how we want to lean into that.
+Where would your head be on, on terms of looking at that?
+I'm glad you asked that.
+Oh, sorry.
+Oh, I'm glad you asked that, Marcus.
+So there have been a few shifts in our organization on the business side, which will ripple down to impacts to our strategy.
+But essentially, the idea is eBay Live is kind of being consolidated or kind of shifted into kind of our focus category business unit.
+Which means there's going to be a lot more connectivity between live and our core business.
+And so one of the categories that's not represented, you know, in live today is P&A in a meaningful way.
+We're going to actually start selling vehicles in the U.S. for SEMA this year.
+So that will be a good test.
+But I do think we're going to start to see a lot more evolution of the category strategy on live.
+To Alex's point, we'll have it for what we know today.
+But it will probably evolve and get closer to, I think, some connectivity with the core business.
+So I think what we do is we start here.
+I don't think P&A is one of the things that we start with.
+But I do think as we kind of grow our communities, that will be another big focus that's not represented here today.
+And as we start from January, we've talked about how you will at least do kind of maintenance on our core channels.
+And so there will be some other communities that maybe aren't so live that we still want to speak to.
+And our P&A enthusiast community is a big one of those.
+Absolutely.
+And I think the vision for us is to make sure that we look at our social ecosystem as iterative and always optimizing to where we're seeing growth potential that connects to commerce.
+And so the starting point could be a community that already lives in eBay but may not be a live shopping community yet.
+And then there's also opportunities in the social ecosystem of communities that already exist.
+And they're on TikTok and they're on whatnot.
+But asking ourselves, how do we bring them over and become a part of our world?
+So we definitely want to look at that from both sides.
+And your pushes are good ones.
+And we'll make sure we show them.
+I want to also show you how we're going to take one step deeper.
+But then also how we're going to, how our model is going to help us evolve towards how we cater to some of these different communities, especially as they're growing and they start showing us momentum.
+Good.
+Sorry.
+No worries.
+I don't know if this happened.
+Give me one moment.
+So because I know these slides by heart.
+Next slide.
+Slide nine.
+It really starts to talk about how we start to look a little bit more into what those behaviors are.
+I think something that just very quickly got us thinking was there's already established communities.
+There's already purchased behaviors.
+But we want to, within our recommendation, think about how those different communities, a.k.a. cohorts, might show up differently by platform.
+One of the big walkaways in the brief was, well, how are we going to show up on Facebook?
+How are we going to show up on Discord?
+How are we going to show up on TikTok?
+And the first reaction we had was, well, it depends on the community and it depends on the behaviors that they exhibit on the different platforms.
+So we may not have just a Facebook strategy, per se, whereas we may have how do we approach Facebook for this community versus the other.
+So in taking a deeper dive, one of the things that we started to look at really quickly is we want to understand on what platforms do they spend their time, where are they, and what are they, more importantly, what are they doing there?
+We want to understand what kind of content is getting their attention and what kind of content is it that they're creating themselves.
+We want to understand who are going to be the authoritative voices, and then we want to understand what are the current commerce behaviors, are they showing up on live or not, a.k.a. very similar to the conversation we just had about P&A.
+So our initial work is going to come back and take a look at that deeper understanding of what it is that these different communities are doing.
+And then we're going to start overlaying, and then we're going to start overlaying the platform realities, understanding what are some of those native behaviors, and understanding what type of content gets the most distribution over all.
+On the next slide, we just want to show you like a little bit under the hood of how we've been approaching this.
+This slide initially looked like a matrix, but we wanted to try to simplify that very much.
+But this is where we go from, right now, how we've defined some of these larger communities, for example, sports cars.
+But we understand that there may be many sub-communities within that, right?
+So, as you can see here, there could be key segments within that sports car world that we want to understand.
+The next thing we need to do is understand how those show up, because there may be market differences in what those communities are,
+but also how they show up culturally in different ways in different countries, and then we map those behaviors.
+What we think this is going to allow us to do is really get us to understand how eBay can credibly play in these spaces,
+how they can join conversations, how they can add value in a way that feels very native to that market
+and the behaviors that are exhibited by people in those markets as well.
+So, we think this is going to allow us to find all of those different opportunities and react accordingly.
+So, I think this covers—go ahead.
+Oh, dude, sorry, just really quickly.
+Are we looking at where eBay is already naturally showing up in conversation
+and also looking at conversations that we should be participating in based on the audience that we do want to acquire?
+Yeah, we're—I would say we're—right now, we're starting to just assume here are the communities,
+these are the conversations, where they're at, and then we do look at is eBay already in there or not,
+and what sort of role should we play?
+Perfect.
+Yep.
+I think it covers up on both of those questions you asked, right?
+Like, just understanding the communities overall and what the conversations are,
+and then seeing if there's a role he needs, but they're not already in there.
+Yep, that's great.
+Yeah, I think it'd be really interesting to see the communities, the ones that are most—
+the ones that we're already playing in, the ones that our competitors are playing in instead of us,
+and what are the most important ones for us to focus on growing.
+I think that'll be a great—
+Exactly, and then I think that's where the data overlay starts to become important,
+because there's going to be size, scale, activity, and then retail potential on each one of those,
+and those are factors that we're trying to make sure that we're thinking about as part of what our recommendation.
+The next thing, just really quickly, we want to cover is our teams are really really starting to look at
+and trying to understand what's going to be universal, and then what might change.
+And the way we're thinking about that is universal behaviors aren't just, like, opportunities for efficiencies,
+but may even help inform what should be more global in nature.
+But then really trying to break out what's going to be community-specific,
+what sort of behaviors might one community do versus the other,
+and then what's going to be market-specific.
+And our teams—and I think this is also a really important reason why our different market teams
+need to be constantly in the conversation and understanding what's happening and what might be changing,
+and then discussing with brand teams on a very—on a recurring basis,
+so that we can really start to make sure our ecosystems serve our communities and how they behave in each market.
+So I wanted to show you some initial findings of what this looks like, but this is going to help.
+The big point here is it's going to be important for our teams to understand that, like,
+we need to stay in conversation, and we need to, as Vayner, show you the potential of where are things growing
+and where opportunities lie so that we can activate in real-time and in a way that's going to help our brands.
+An early read of what we're seeing right now in terms of platforms—
+next slide, please—in terms of how—what we're seeing on platforms,
+some of these won't feel very, very surprising to you,
+but we did want to show you that, like, as our teams are looking at it,
+here are some of the common themes that we're seeing,
+and we want our markets to almost start here and then tell us what's different.
+For TikTok, it really is a little bit—it's still, you know, a cultural incubator.
+It's still a place that sort of brings people into the conversation
+or allows a moment of discovery.
+YouTube, we're just seeing this is the space where there's deeper dives,
+and it allows communities and sellers to turn their doubt on the nuances of their passion points
+and connect over that.
+Instagram inspires.
+There's still quite a bit of visual discovery that's allowable,
+a little bit of, like, a behavior of, like,
+look how beautiful this is with your passion port.
+Facebook, I think people are leveraging established communities there and groups,
+and it acts a little bit like a market of sorts.
+Reddit is where you get the real, real conversation.
+Pretty unfiltered, if you want real answers from real experts, that's where you go.
+And then live, very interestingly enough, as our teams have been talking about it,
+one of the things that we're noticing is that there's a really fun and cool interplay
+of entertainment, commerce, but also a space of connection.
+I think live is really starting to replace some of these, you know, conferences where people come together.
+It's giving people moments who, when they say to themselves,
+I love this thing and I'd love to surround myself with people who love the same thing.
+It's allowing them to have those moments as well.
+So, really preliminary spaces of where we're at, and we're using this as a tool where we say,
+hey, Germany, this is how things look in general.
+Talk to us about this community and talk to us about their behaviors on these platforms.
+Do you see some major differences?
+Hopefully, what you can see here is the beginning of what we would call a platform strategy,
+but understanding the need for nuance.
+All right, so a couple of examples.
+Our team has already started going into the social conversation,
+bringing back some really cool and interesting findings.
+We want to show you what this looks like so you can get a sense for what we think could be
+the type of conversations we have and the opportunities we'd like to build towards in the future, right?
+So, already we're starting to see some changes in how people use different platforms.
+So, different platforms can play different roles in the world of cards.
+Reddit and Discord is more about discovery and understanding what's coming out
+and sending alerts of, like, what's in stock
+and, like, how to maximize your, you know, how to have the best strategy
+and maximize your winnings or your, you know, getting the right cards.
+What are your strategies to do that?
+Whereas watches and coins, it's a little bit more about that expertise
+and what's people's real opinion about X, Y, and Z,
+where that's going on right now.
+For cultural expressions, this is really, really fun.
+And the teams came back from Europe and showed us some really, really fun things here, right?
+So, like, we can talk about sneakers and streetwear, but the way,
+so that may feel like it's the same category, but the way it starts to show up
+and the expressions of that in culture are distinctly local.
+So, like, for sneakers and streetwear in the U.K.,
+you have the influence of football terrorist culture,
+which, yes, I had to look up because I'm not an expert in U.K. culture,
+but it's really, I've learned, it's the proper use of football,
+soccer for those Americans on the call.
+But it's like, okay, you know, how is, you know, the love of your team
+and the scarves that you wear and the fandom that you have,
+how's that influencing your streetwear?
+London fashion also influencing that.
+Whereas in Germany, which I do know a little bit more,
+I'm a big fan of BTSN, you know, you have your Adidas heritage,
+you have a slightly different view of European streetwear and technical outdoors.
+So it's really interesting to see how, what country you're in,
+how that influences the choices you have in streetwear
+and some small nuances within that.
+And we just want to make sure that we're just very true to that
+as we start going through and we figure not only are they different expressions,
+but the way you talk about and what's trending, you need to be on top of.
+And then the last thing is we're really starting to see how those live experiences
+start to be more than just retail moments,
+but start to become those moments of connection.
+One of the things that really wowed me with some of the findings from the team originally
+is sometimes these live sessions break borders and it makes people feel like
+they're part of a community of people who have like interests.
+So we think live has a very interesting role that it can play in terms of community.
+I'm a big history buff.
+And the only parallel I could think of is how people in the past use church on Sundays
+as a means to like go and be a part of a community and be with like-minded people.
+I think there's something very interesting that's going on there with live as well.
+Good. No pauses.
+No, I think it's helpful just to see how you're going to kind of dig into this
+and then overlay all of those different elements.
+I have no immediate questions.
+Okay.
+Is the intention of platform to be quite choiceful around the communities and the platforms
+so that we don't spread ourselves too thin?
+Yes.
+Let's go, Abby, really quickly.
+Let's go, Abby, to slide 16.
+Our directional recommendation right now, just so you can see the foundations of what it's
+going to look like, is to deploy immediately and start with our core handles, eBay and eBay
+Live, and look at these communities and start asking ourselves, what is the creative, what
+the conversations we need to support for the influencers slash sellers that we need to collaborate
+with in order to explore the opportunities and the reception of eBay within these spaces.
+Of course, building on the work that we've already done.
+The next thing that we want to do is provide a breadth of different content across these different communities to really start finding where we're getting more reception, where we have a right to play, and where we're linking that to commerce.
+And so what happens is the relevance and the retail gives us investment instead of the other way around.
+Investment is just intended to grow the retail.
+And so in the long run, yes, we could have multiple handles, but those handles will only be the byproduct of multiple content series, multiple live sessions, multiple retail behaviors that we establish, and we understand that there's demand.
+And therefore, there will be more handles in the long term.
+And then channels, you'd still be focused.
+So, you know, in the previous slide, you had Discord and Reddit as your core, like bodges and sneakers.
+We're not going to also throw sneakers on Instagram, and we're going to be quite focused around that.
+Yeah, we are going to match the channel strategy with the way the communities intake their information, right?
+So, let's say this is a bad and maybe an oversimplification, but let's pretend sneaker culture does not exist on Facebook, right?
+We wouldn't show up there.
+But if it's really big on TikTok, then we make sure that we do show up there.
+I guess it probably exists across loads of channels, but we're just identifying the highest impact ones.
+Yes, where we think the most opportunity lies, and where there are examples of those opportunities.
+Like the behavior is already like maybe it does exist on Facebook, but there's not a retail focus or angle on Facebook.
+Let's not try to create that.
+Let's go to the channels where it does exist.
+That makes sense.
+Thank you.
+Good.
+Yeah.
+And I think the key thing here is the approach is to start there and understand what it looks like by market and then evolve based on the nuances of the market and the successes we have in terms of what's working from a retail standpoint, not just a cultural standpoint.
+Good.
+Good.
+Good.
+Good.
+Thank you.
+Alrighty.
+So back to slide 15.
+There were a couple of things just being cognizant of time.
+There were a couple of things we wanted to talk about.
+And, you know, we have had our teams are working together.
+We're starting into, we've been internalizing everything and we are definitely catching everything that's coming your way, our way.
+But there were three almost like three things here.
+And I would call them almost like questions that have occurred to us that we think we could run into down the road that we would love to hear.
+Your thoughts on.
+So we're not just making assumptions and come back and all of a sudden there's misalignment which could influence our recommendation.
+And I would break them out into these three questions.
+I would say the first two are, are, are somewhat related, right?
+But we're going to work with our analytics team.
+We are, we are gathering data that you've got.
+You've got data that you've got.
+You've got data that you've got data that you've got.
+You've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data that you've got data.
+And I would break them out into these three questions.
+I would say the first two are, are, are somewhat related, right?
+But we're going to work with our analytics team.
+We are, we are gathering data that you, you will give us.
+But one of the things that we're asking ourselves is like, well, what signals or what sort of data points do we, do you use that helps to determine where a category or community might warrant greater investment.
+And I know we've started this conversation from a community standpoint.
+So you may be thinking it from a category standpoint, but is there any work that you've done?
+And I know, Alex, there's a lot you have sent to, to the, our UK team, but I wanted to talk about this universally across markets.
+It's like, how do we, how have you, and what data have you used to understand where there may be the, the greatest opportunity or the greatest retail opportunity we want to pursue?
+And given that, what might be the data sources that you use to identify what those opportunities are, because we're trying to come back with a recommendation that's, that's going to work for every market.
+And we're just wondering if there's multiple sources of data, or if you guys have standardized that overall.
+Does that make sense?
+I think so. I think, because from a, like, eBay live category perspective, so they're looking at what were the categories that drive the most GMB.
+Some of that would be competitive. So how do we look at our competitors who are making the market? What categories are we seeing most growth in?
+Some of that's format based. And then like, also, if you look at GMB, it's value based. So watches, great GMB for us, smaller community.
+So I was just like, is it that sort of view you're looking at from like a commercial perspective, how we're thinking about category expansion, just to help you understand that?
+Okay, I don't know how systematic it is, Kate, we can dig into that. But we have, we know the UK and Germany are looking at their category strategies, and there are inputs into that in terms of TAM, total addressable market, size, size of the price, competitive, like, growth, but also potentially white space, and like eBay right to own, or win.
+So I will, I think, share the slide that just shows like right to win categories and like, maintain categories. But if I can try and get the data behind that, that's inputted into it, that's probably what you need.
+Kate, we can see whether the US has the same, I have a feeling it's probably not wholly systematic. But I do know that inputs are definitely right to win, size of TAM, current GMB, current core audience.
+That we can also mine from versus new audience that we need to acquire, all of those dimensions, and I'll see whether I can, what I can get and dig up for you.
+Does that work?
+Yes, that's, that's wonderful. And even if we can create a framework that is similar in terms of approach, because we, you know, we have our analytics team, as well, that can, that can help us work towards seeing if there's any data sources that we have, from our point of view, that helps us put a scale to the size of it.
+A scale to the size of the community, etc. And then we can use all those tools and create a framework by which we are analyzing what growth will need to look like.
+I think, I think the big message from us is we don't want to just assume because there is a big and active community, that that's the only input into retail opportunity.
+Yes, and we did some work with IPRO as well to identify the size of these communities.
+Oh, great.
+We were doing it a little bit more based on like media target, which is sometimes they can be a little bit blunt.
+Yeah.
+Versus community and then like retail opportunities. But let me gather it all up and package it up and send it over to you all.
+Wonderful. And this, and what we should do is make this a part of a workflow that helps us with our longer term vision on how we make recommendations.
+It won't stop us from saying here's where we would like to start in our sprint.
+But like if we can just align on this could be a really great input as we start thinking about, you know, the year plan, the two year plan, etc.
+And then we create a similar framework. I think that could be extremely helpful for us.
+Agree, because things are going to adjust and change.
+Exactly. Exactly.
+It's more of a request of like, if you like the creation of a framework and a like minded way of talking about where we think growth goes.
+And we use that as a means for our teams to talk to your teams about where we think there's going to be potential.
+It becomes less of like an agency just telling you, hey, there's momentum, there's cultural relevance.
+It becomes a recommendation that's grounded in your retail focus.
+That makes sense.
+Right.
+OK. And then this last question is is in many ways related to what Marcus was talking about with the P&A conversation, where it's there.
+There are examples of where there could be an eBay community right now, but maybe there's not live potential.
+And I think what we talked about beforehand is from a P&A standpoint, from a P&A standpoint, it may not be the priority.
+We may want to grow them later. But I think that that in general, that question still stands right.
+Like there may be communities that exist in a eBay already, but they haven't naturally translated to live.
+So should we focus on live or should we focus where the behavior already exists?
+I think we have the answer already.
+We should probably focus where the behavior exists as a priority in like our first three to six month sprint.
+Yeah, it's a really interesting one because I was just going to jump in and also say like, you know, not to like fully walk back my answer earlier.
+But I do like I do think when we're getting started, you know, our first step should be oriented around live, right?
+That is the most urgent problem to solve.
+But as we think about this as a broader, always on relevance engine for eBay overall, of which eBay live is a part.
+We know there are going to be communities that we are going to want to serve and have a right, a right to participate in.
+And P&A is going to be one of those.
+And so I do think it's worthwhile doing the exploration of what are the other communities that are out there.
+Maybe we don't do a strategy against them in the first three months.
+Maybe it's still focused online, but at least as we're getting into 2027 planning, we can start to connect the dots across where there's already heat across social and where the business is asking us to participate in.
+And we can kind of we can prioritize from there, if that makes sense.
+It completely makes sense.
+And we're very aligned to that.
+And I think when the nuance here is there's degree of investment and focus and where we want to start.
+But completely aligned with capturing what those communities are and asking ourselves, what do we see as the the the potential of this community and where would we prioritize it?
+I'm not saying we create a tiering system, but I do think it becomes important for us to capture and understand and then make decisions as where where we want to focus our our creative efforts and our in our investment efforts.
+And I read that question slightly differently as well, just in so far as you also say, like, where does our like we 90 percent of our live customers are eBay core customers first?
+Yes.
+Yes.
+And so looking at the categories where we have a rich existing audience has been to our growth.
+But what we are tasked with is also making sure that we are acquiring customers, which is where this point of like your hunch of like live high potentials, potential categories is probably where we start in order to make sure that we are delivering against our commercial goals.
+Yeah.
+Yeah, that's what I was going to make there, Alex is we need to create room for opportunistic moments that just crop up like we have a gut feel that this is going to blow up, become a trend.
+And I think, you know, a category that's going to be big.
+Hopefully, as we get more into doing this, we will start to see those things in advance.
+So we can first move at advantage.
+Based on the life behaviors.
+And I think I also agree with with Kate's point in and that the way I interpret Kate's point is we're going to know what these different communities and sub communities are.
+And we're going to know their behaviors in terms of are they using live or not?
+Are they an eBay, you know, community that's that's retail focused in different ways.
+And we'll have to ask ourselves what level of investment in terms of time, creative and an effort do we put against that?
+And so that's why I talk a little bit about a tiering system as well.
+Does it sound like we're on the same page?
+Sounds good.
+Yep.
+Great. Amazing. So with that, basically what we wanted to show you was we feel good.
+Thank you for the answer to the questions.
+We're capturing that.
+Thank you for the follow up on any of the data that will come our way.
+Let's just talk to you about what the next couple of weeks will look like and what you can anticipate moving forward.
+So actually, can you go to the previous slide?
+So here's what everything's going to look like.
+We're going to come back and we're going to look at each community and we're going to talk a lot more about their behaviors, both from a retail standpoint and their behaviors per platform.
+Because we believe our recommendation, although it starts on eBay and eBay live, we owe you a point of view of what we think are going to be some of those most viable retail opportunities within those communities and start talking about how that makes us initiate where we show up, the content we make and the collaborations we have.
+So that starting point that that road map as a part of that, we will talk to you about what is the core handbook architecture and what we think may be some of the starting spaces.
+We may want to think differently in terms of might there be a handle strategy we want to start off with if our current platform strategy may not be enough to reach all of the different communities.
+We will then talk about some of the trending communities that we see that are coming up.
+I know in the U.S. for some reason, trains and like toy trains are really starting to pick up the steam.
+So we will talk to you a little bit more about what what's trending and what we think could really be interesting moving forward.
+And then we'll give you a sense of where our our ecosystem is today and an expansion model of where we think it could be in three months, given some three to six months, given the opportunities presented overall.
+So the first step will we want to we'll go beyond like, hey, our recommendation is eBay and eBay Live.
+It's like, no, it's eBay, eBay Live here, the communities and here is how we're showing up by platform.
+Here's where we think there's growth potential.
+And with that, when that all comes together, this is what expansion could look like in the next three to six months.
+Good. Thumbs up.
+We like that output.
+Yes.
+All right.
+So let's talk timing.
+So from now to end of the month, we'll keep building our POV.
+We'll if you can send us any of those things coming our way, that'll be fantastic.
+We have teams deployed here in the U.S.
+We are looking into the behaviors in the U.K., Germany.
+And I think there is conversation around France and Italy.
+We will follow up with you with how far we're going to be able to go across all of those.
+Then the next time we meet, what we're going to do is we're going to show you a work in progress of what these recommendations look like.
+And let us know if you'd like us to start with the U.K. and Germany and the U.S.
+Like, let us know.
+But we want to talk about what deployment starts to look like and show you like how we're talking about where we'd like to prioritize,
+what we think might be some of the spaces we want to grow into, what we learned after we analyze the data in terms of what we think those priorities look like and get reactions from you.
+So that then in that first ten six to ten seven, we've taken those inputs.
+We come back with something that feels like we've built it together and we use that as this is the starting point of what we're saying our platform and channel strategy looks like today.
+And here's the architecture by market and here's the growth potential by market as well.
+That sounds great. Thank you. And sorry, we've been less chatty than we would otherwise be.
+I think we're in like slightly awkward places right now.
+It's also a lot and it's a little bit more of like how we're approaching the problem than the recommendation itself.
+But we really wanted to make sure that these foundations felt right to you, because if we didn't have this check in, the tactical expressions of this would have gone into a direction that would feel very, very off.
+No, I think the process and approach is right. I think the overarching category communities is right.
+And then I think we need to just dig into those in more detail.
+I like being choiceful around channels and my watch out this year on the eBay thing is we want to produce more content, be less precious about the quality of the content.
+If we're leveraging our core channels, how do we make sure we still have the freedom to do that?
+I think we need to have a discussion about that because I don't want us to suddenly feel like we have to control everything because we feel nervous because it's more branded.
+So just a few of those things coming up. I think the process fully makes sense.
+I think where you're headed is right. We'll try and give you more inputs to dig into those categories of more detail.
+And Alex, something that we can do is we can make sure that as our teams are talking about this, the type of content that wins by community, by platform,
+we can start to show what that looks like and we can show that it's not so precious and like, you know, Hollywood style, but it really feels like it's being made by, I don't know.
+You're so right around that. Like what are the Watchers communities talking about on Discord?
+How do we then react? What kind of content do we do? Like all of, yes, that would be really valuable.
+Okay. We can, yeah, we'll show you.
+Yeah, I was going to, I think that that's perfect. I just, not to interrupt, but I, David, I was going to ask the same question is when we get to,
+when do we get to the content strategy? Because the, this helps really answer like the handle architecture piece of it all.
+But, um, to that point of, you know, uh, what content is coming from sellers and creators? What content is coming from us?
+And how do we, uh, how do we think about it as it relates to all the different pieces of content that we need to produce across these handles?
+I would really love to be able to put a, put a bow on the starting point with the platform and the handle strategy and then quickly follow it up with the strategy, um, afterwards.
+Um, and, and, and, and, uh, and, and I think you'll see a, a pretty quick turn in terms of, cause the content strategy I think is going to be based on the communities and the type of content they look like and deploying against that.
+Right. Showing, using signals of like, this is what we're seeing.
+Like, it's not just about talking about trains. It's about talking about trains in this way, um, or with these type of shots or about this type of content within that.
+And I think you'll start to see that that starts to dictate, um, where we want to go short term in a, in a very responsive way to the market.
+Uh, I think one of the content strategy mistakes we can make is feel like we've planned the year around these sort of different pillars of content.
+Uh, when we really need to be responsive to like, this is market, this is laissez-faire. This is, you know, people are going to talk about passion points and the way they talk about it and how it show up changes.
+So like, we just want to make sure we move ourselves in a direction where we're saying, this is the community.
+Oh, cute dog, Ellen. Uh, this is the community. This is what they're, this is what they're really hyped about right now.
+Let's make content against that. And then let's see how far we can take that from a, a retail standpoint, keep digging after things overall.
+You know what I'm saying? So the content plan looks like, here's what we know, here's where the opportunity lies. This is what the type of content should be. And we continue.
+I think if we share content examples through this strategy, that would be really valuable.
+We will make sure we collect it because usually we don't like, we use it as signals later on for briefing, but I think you want to see what it looks like.
+And we can show you exactly where it will take us. I think, I think it would help just in, you know, just this is the content that it's a, it's a great push.
+We'll make sure we add that in. Okay. Thank you guys. I'm going to run, but I really appreciate this. It was great to catch.
+Thank you all. Thank you for your attention.

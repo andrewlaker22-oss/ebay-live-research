@@ -1,0 +1,696 @@
+Transcript for ebay12.mp4
+Language: en (99.98%)
+Model: large-v3-turbo
+
+[00:00:00.000 - 00:00:14.000] the same page every step of the way because then things get missed because if you assume if you assume that people already know things, then things get missed and then you're like, just not on the same page moving forward so I agree.
+[00:00:14.000 - 00:00:32.000] Hi, Caitlin. Good to see you again. And Andy. Everybody, I got a little story to tell you about this guy called Andy who wears LA Dodger hats to meetings where there won't be everybody from LA.
+[00:00:32.000 - 00:00:42.000] So last night I was, I was thinking about the meeting we're going to have today and there was a part of me that was wondering, are they going to have data, right?
+[00:00:42.000 - 00:00:47.000] Like, are they going to have data on their end? That's going to help us prioritize opportunities.
+[00:00:47.000 - 00:00:55.000] And so I reached out to Carly and I asked her the question of like, well, what would you do in this position? And she said, I'd reach out to Andy.
+[00:00:55.000 - 00:01:05.000] So like nine o'clock at night Andy will six o'clock his time is getting slacks from Carly and I about like, hey, there's this thing that we're doing and we're wondering what we would do and we have meetings.
+[00:01:05.000 - 00:01:15.000] He's like, oh, cool. Can I join the meetings? Next thing you know, Andy is with us on the call with clients and joining us to
+[00:01:15.000 - 00:01:21.000] Andy, there's, there's a briefing and stuff that we'll need to do to catch you up.
+[00:01:21.000 - 00:01:28.000] So I'm going to go to the team. Andy, what I think is going to be really important and interesting is
+[00:01:28.000 - 00:01:35.000] using, as you guys saw in the presentation today, like just really understanding, like where we're mapping
+[00:01:35.000 - 00:01:40.000] community behaviors and where we think there's opportunities to create new handles.
+[00:01:40.000 - 00:01:46.000] One of the things JT said to me was they've already tried to play in what they're calling these different categories.
+[00:01:46.000 - 00:01:53.000] Not successfully. So I think there's a part of like, we just don't recommend multiple handles because we think it's good for the community.
+[00:01:53.000 - 00:02:03.000] It's like it's got to be tried to drive. It's got to be related to some sort of rationale that talks about potential where we go. Caitlin, I you were in the meeting, correct?
+[00:02:03.000 - 00:02:14.000] Yeah. So we're hoping that that's something that we can start to fold in overall and make part of the conversations longer term.
+[00:02:14.000 - 00:02:20.000] And Andy is going to help us spear spearhead that. Alan says he'll be in about five minutes.
+[00:02:20.000 - 00:02:24.000] The rationale that you're talking about is data.
+[00:02:24.000 - 00:02:32.000] There's going to be some. Yeah. I mean, I, Hannah, I still want you to do what you do and go, when I look at this, this is where I think there's opportunities.
+[00:02:32.000 - 00:02:41.000] That's definitely going to be an input, but I think we want to pressure test it and talk to clients about like prioritization and where we'd want to deploy.
+[00:02:41.000 - 00:02:47.000] So I almost look at what your recommendation would be as like the potential of where things could go given today's reality.
+[00:02:47.000 - 00:02:51.000] Yeah. And then we got to talk about market realities. OK, that makes total sense.
+[00:02:51.000 - 00:02:55.000] And I'm really glad that the clients were like, we don't want to spread ourselves way too thin.
+[00:02:55.000 - 00:03:00.000] So we really want to be like choiceful about where we show up on what.
+[00:03:00.000 - 00:03:08.000] So I actually think that that's the right. I'm glad that they feel that way, because like I think it doesn't always deploy in that that way.
+[00:03:08.000 - 00:03:14.000] Right. Like, let's be honest. Yeah. Yes. And I feel like with this business, it's going to be huge.
+[00:03:14.000 - 00:03:19.000] So we're going to have to like be a little bit.
+[00:03:19.000 - 00:03:27.000] I mean, the problem with this business, it's so big and could go in so many directions that it just it can get crazy.
+[00:03:27.000 - 00:03:34.000] So as Alan joins us team, I know we have an hour.
+[00:03:34.000 - 00:03:38.000] I did look at what the U.S. team put together.
+[00:03:38.000 - 00:03:43.000] And I think the plan now is just a little bit more of like show and tell or what are we seeing?
+[00:03:43.000 - 00:03:46.000] What are we learning? Where would we like to go?
+[00:03:46.000 - 00:03:50.000] And so like to me, the goal is only let's get in a room.
+[00:03:50.000 - 00:03:53.000] Let's share what we're what we're seeing.
+[00:03:53.000 - 00:03:56.000] And I think given the work that we've done, we don't have to.
+[00:03:56.000 - 00:04:02.000] I don't think we have to show slides, but maybe what we do is we share each other's decks with one another.
+[00:04:02.000 - 00:04:05.000] And maybe we just start the conversation with what are we seeing?
+[00:04:05.000 - 00:04:07.000] What do we think is impactful? What do we think is important?
+[00:04:07.000 - 00:04:12.000] What are some of the key walkaways that we would like to bring to the room in terms of what we're learning?
+[00:04:12.000 - 00:04:21.000] And I know this is going to be a fun game of who wants to start because, you know, like no one wants to wants to start this up.
+[00:04:21.000 - 00:04:28.000] But I would say why not Hannah and George, you put your deck together.
+[00:04:28.000 - 00:04:36.000] I don't think we have to present all decks, but like maybe there's some really important things that you're seeing and you're starting to say, hey, maybe we should consider X, Y and Z.
+[00:04:36.000 - 00:04:40.000] So higher level, not necessarily just the findings.
+[00:04:40.000 - 00:04:42.000] Perfect. Okay.
+[00:04:42.000 - 00:04:46.000] Sophie, does that feel good on your end or were you guys dying to start startup?
+[00:04:46.000 - 00:04:48.000] No. Okay.
+[00:04:48.000 - 00:04:50.000] Okay. Perfect.
+[00:04:50.000 - 00:04:58.000] I'm sure that we can almost use this one as like a discussion for like, what did you find versus what didn't you see?
+[00:04:58.000 - 00:05:02.000] Like, it doesn't even have to be like you share and then, or we share and then you share.
+[00:05:02.000 - 00:05:06.000] So like, feel free to just jump in like conversation wise.
+[00:05:06.000 - 00:05:13.000] And then I think obviously like being, I want to say English versus language in both countries.
+[00:05:13.000 - 00:05:18.000] Like, I think there's going to be a lot, well, we get a lot of American content showing up in our feeds anyway.
+[00:05:18.000 - 00:05:27.000] So we can't, there's no, we, we're not going to dismiss everything that you, we're going to like, yes and it into like British culture rather than like, you know.
+[00:05:27.000 - 00:05:30.000] I was hoping you would dismiss us a little bit.
+[00:05:30.000 - 00:05:32.000] But that was going to make this up really fun.
+[00:05:32.000 - 00:05:33.000] Yeah.
+[00:05:33.000 - 00:05:34.000] Yeah.
+[00:05:34.000 - 00:05:43.000] It was, it's surprising when you just do like, even just like the basic searches for like, I was just doing like, explainers, all the new random shit on TikTok.
+[00:05:43.000 - 00:05:45.000] And like, obviously American people coming up.
+[00:05:45.000 - 00:05:48.000] So yeah, all this stuff still does.
+[00:05:48.000 - 00:05:51.000] I mean, obviously not baseball cards, because we wouldn't touch those with a barge pole.
+[00:05:51.000 - 00:05:52.000] But yeah.
+[00:05:52.000 - 00:05:53.000] Okay.
+[00:05:53.000 - 00:05:54.000] Perfect.
+[00:05:54.000 - 00:05:55.000] Perfect.
+[00:05:55.000 - 00:05:56.000] Perfect.
+[00:05:56.000 - 00:05:57.000] Perfect.
+[00:05:57.000 - 00:06:01.000] Well, with that being said, I think we're going to bop around.
+[00:06:01.000 - 00:06:02.000] So don't take this.
+[00:06:02.000 - 00:06:07.000] Kelly, do you mind if we start with yours or would you like me to skip along to mine?
+[00:06:07.000 - 00:06:08.000] Okay, perfect.
+[00:06:08.000 - 00:06:09.000] Okay.
+[00:06:09.000 - 00:06:12.000] We'll start with luxury fashion, which is like, obviously a huge category.
+[00:06:12.000 - 00:06:13.000] Mm-hmm.
+[00:06:13.000 - 00:06:14.000] Yeah.
+[00:06:14.000 - 00:06:17.000] Just quickly, just give the overview of who they are.
+[00:06:17.000 - 00:06:19.000] Really ranges from Gen Z to Gen X.
+[00:06:19.000 - 00:06:30.000] Generally what I found was that depending on their age, their need and their reason to go to social is far different from each other, especially as the luxury space becomes a lot more accessible.
+[00:06:30.000 - 00:06:32.000] That's a very interesting conversation online.
+[00:06:32.000 - 00:06:39.000] The younger audience seems to be talking about the areas as the client's mentioned is very dominated by handbags.
+[00:06:39.000 - 00:06:43.000] The rest of the fashion luxury space kind of gets drowned out by that.
+[00:06:43.000 - 00:06:55.000] But they're there for handbags, the aspirational content, the resales, and then the older audience is there more about the quality, the preservation, the authenticity of the product as well.
+[00:06:55.000 - 00:06:59.000] And just overall, they're on social to stay informed and educated.
+[00:06:59.000 - 00:07:02.000] Kelly, I was doing a little bit of like auditing myself.
+[00:07:02.000 - 00:07:13.000] And I think something that like really I thought was really interesting was how people were talking about their finds and how it made luxury super accessible.
+[00:07:13.000 - 00:07:14.000] Right.
+[00:07:14.000 - 00:07:15.000] Yeah.
+[00:07:15.000 - 00:07:22.000] And then I think also something else that's really interesting is that like a lot of people don't think of this as entry points into luxury brands.
+[00:07:22.000 - 00:07:23.000] Right.
+[00:07:23.000 - 00:07:28.000] But in many ways, it is like your first Chanel is something that you bought at eBay.
+[00:07:28.000 - 00:07:31.000] Is this a really interesting sort of finding an insight?
+[00:07:31.000 - 00:07:38.000] And I think that lives on like TikTok culture and Instagram culture in a big way.
+[00:07:38.000 - 00:07:44.000] So I just think that there's a little energy of celebration and accessibility of luxury.
+[00:07:44.000 - 00:07:49.000] That becomes really interesting thematically for us in terms of this community and how we show up.
+[00:07:49.000 - 00:07:50.000] Definitely.
+[00:07:50.000 - 00:07:51.000] I agree.
+[00:07:51.000 - 00:07:59.000] Or even on, like you said, TikTok Live or space like whatnot, that entry to luxury for younger people can even be like they're buying a charm from their bag.
+[00:07:59.000 - 00:08:00.000] Right.
+[00:08:00.000 - 00:08:01.000] One of these places.
+[00:08:01.000 - 00:08:08.000] Maybe they're not ready to buy the bag just yet, but they want to be able to get into that space earlier and there are now more avenues for them to do so.
+[00:08:08.000 - 00:08:09.000] And let me ask you.
+[00:08:09.000 - 00:08:10.000] Oh, I'm sorry.
+[00:08:10.000 - 00:08:11.000] Go ahead.
+[00:08:11.000 - 00:08:12.000] No, no.
+[00:08:12.000 - 00:08:13.000] I'll say it after.
+[00:08:13.000 - 00:08:14.000] Go ahead.
+[00:08:14.000 - 00:08:24.000] I just think also, I feel like because eBay has had like just, you can go to eBay and buy some of these luxury items.
+[00:08:24.000 - 00:08:30.000] I think this is, I think this is a established eBay community that could have some potential into live.
+[00:08:30.000 - 00:08:38.000] If you start to showcase the type of things that you're finding, which I think is really interesting because these behaviors are on other platforms, but I think they can translate.
+[00:08:38.000 - 00:08:41.000] And then George, please cover your ears when I do this.
+[00:08:41.000 - 00:08:46.000] And I have a lot of conversations like this, but these like collectible bro types, like who live and whatnot.
+[00:08:46.000 - 00:08:51.000] I think it's really interesting for us to understand if the whatnot behavior.
+[00:08:51.000 - 00:09:03.000] Is similar as to what we're seeing on the eBay, like find space, if that conversation lives there or not, because I think that becomes a proxy of can we create live behaviors or like beat whatnot in that space.
+[00:09:03.000 - 00:09:07.000] I've seen lots of luxury life sellers.
+[00:09:07.000 - 00:09:10.000] I don't know if you haven't missed them, but that's something I have seen.
+[00:09:10.000 - 00:09:11.000] Hi Alan.
+[00:09:11.000 - 00:09:17.000] So we just, we started to dig in and we're having a little bit of conversation around what we've learned.
+[00:09:17.000 - 00:09:20.000] And what we said was, you know, an hours can go by very quickly.
+[00:09:20.000 - 00:09:23.000] So let's go through some of the highlights of where we're at.
+[00:09:23.000 - 00:09:28.000] And we started with a luxury and fashion overall.
+[00:09:28.000 - 00:09:29.000] Caitlin, I am so sorry.
+[00:09:29.000 - 00:09:33.000] I wanted to welcome Alan and, and I was, I was trying to be kind to Alan.
+[00:09:33.000 - 00:09:36.000] And, but then I ended up being rude to you by interrupting you.
+[00:09:36.000 - 00:09:40.000] Well, make for change.
+[00:09:40.000 - 00:09:41.000] Someone being rude to Kate.
+[00:09:41.000 - 00:09:42.000] It's it's it's.
+[00:09:46.000 - 00:09:48.000] I've already seen these guys on, on live.
+[00:09:48.000 - 00:09:50.000] So I think that's somebody, a behavior we're seeing.
+[00:09:50.000 - 00:09:56.000] And I I've seen those people make TikToks of what they're having on their live shops, like the handbags that can then be selling and stuff like that.
+[00:09:56.000 - 00:09:57.000] So great.
+[00:09:57.000 - 00:09:58.000] Okay.
+[00:09:58.000 - 00:09:59.000] Okay.
+[00:09:59.000 - 00:10:05.000] I think that the thing that, and we're, we'll probably have this conversation with every category, but I think the nice thing about.
+[00:10:05.000 - 00:10:11.000] eBay and the real, real, I'm saying the real, real, not because we're auditing them, but just because it's the same conversation.
+[00:10:11.000 - 00:10:18.000] It seems like there's like this innate trust within buying within these platforms that are not the same within discord and whatnot.
+[00:10:18.000 - 00:10:19.000] Yeah.
+[00:10:19.000 - 00:10:21.000] That's what I'm seeing across categories.
+[00:10:21.000 - 00:10:22.000] That's cool.
+[00:10:22.000 - 00:10:27.000] So especially with luxury fashion, which Kelly, now that you're talking about it, I've had friends.
+[00:10:27.000 - 00:10:40.000] It's actually funny because I'm thinking of Kate Naughton, but like, it makes sense that handbags and like maybe even like shoes and accessories would be where we would go for live because fashion sizing is a fucking nightmare.
+[00:10:40.000 - 00:10:49.000] I remember the first time I bought like a dress on the real, real that was like Dior or something, which it wasn't that expensive, but it came and it was like fucking minuscule.
+[00:10:49.000 - 00:10:50.000] I was like, Oh, right.
+[00:10:50.000 - 00:10:51.000] I was like, Oh, right.
+[00:10:51.000 - 00:10:53.000] This is a dress for a child.
+[00:10:53.000 - 00:10:57.000] Vintage and, um, vintage and luxury just skews small.
+[00:10:57.000 - 00:10:58.000] Like it's right.
+[00:10:58.000 - 00:11:05.000] Of course, which makes so much sense, but it's obviously like not an entry point item that you're like within 30 seconds.
+[00:11:05.000 - 00:11:07.000] I want to buy this dress.
+[00:11:07.000 - 00:11:09.000] Like you have to know your measurements.
+[00:11:09.000 - 00:11:10.000] You need to know like what you want.
+[00:11:10.000 - 00:11:17.000] So definitely interesting within, within the luxury category where we'd go for like live shopping.
+[00:11:17.000 - 00:11:29.000] I think one of the reasons it's so trust that eBay is so trusted in that space, especially with high end is their verified programs and where they, where they authenticate it.
+[00:11:29.000 - 00:11:35.000] And they've actually gone and bought some of the technology that allows you to authenticate like a lot, a lot of that stuff.
+[00:11:35.000 - 00:11:38.000] So like, I can give you like a real world example.
+[00:11:38.000 - 00:11:40.000] I collect like Stone Island jackets.
+[00:11:40.000 - 00:11:44.000] They actually own the technology to authenticate them now.
+[00:11:44.000 - 00:11:47.000] Um, but I, I don't buy from some of the buyers.
+[00:11:47.000 - 00:11:53.000] I used to, the dealers I used to buy from, and I buy it from eBay, even though it's more expensive because you get that authentication.
+[00:11:53.000 - 00:11:54.000] Interesting.
+[00:11:54.000 - 00:11:58.000] I think that's where the trust comes from in the, in the high end.
+[00:11:58.000 - 00:11:59.000] Yeah.
+[00:11:59.000 - 00:12:00.000] Yeah.
+[00:12:00.000 - 00:12:01.000] You can get verified.
+[00:12:01.000 - 00:12:03.000] You can get verified on other platforms as well.
+[00:12:03.000 - 00:12:04.000] Wow.
+[00:12:04.000 - 00:12:06.000] I think it's more trusted though.
+[00:12:06.000 - 00:12:07.000] Yeah.
+[00:12:07.000 - 00:12:08.000] It's my gut feel.
+[00:12:08.000 - 00:12:09.000] Yeah.
+[00:12:09.000 - 00:12:10.000] Yeah.
+[00:12:10.000 - 00:12:13.000] Because I think it's, it's longer established as a retailer.
+[00:12:13.000 - 00:12:21.000] And so for some reason, the psychology is if eBay does it, you know, as opposed to like some of the newer platforms, that's interesting.
+[00:12:21.000 - 00:12:22.000] Yeah.
+[00:12:22.000 - 00:12:23.000] Yeah.
+[00:12:23.000 - 00:12:24.000] Yeah.
+[00:12:24.000 - 00:12:25.000] Yeah.
+[00:12:25.000 - 00:12:33.000] I think I also saw with eBay live specifically, they have to send the product somewhere to be authenticated by someone on the eBay team.
+[00:12:33.000 - 00:12:35.000] So that will know that they aren't getting scammed.
+[00:12:35.000 - 00:12:38.000] I think that's how the real, real works too, which is interesting.
+[00:12:38.000 - 00:12:39.000] Yeah.
+[00:12:39.000 - 00:12:40.000] Yeah.
+[00:12:40.000 - 00:12:41.000] Yeah.
+[00:12:41.000 - 00:12:42.000] Yeah.
+[00:12:42.000 - 00:12:43.000] Yeah.
+[00:12:43.000 - 00:12:44.000] Exactly.
+[00:12:44.000 - 00:12:45.000] Okay.
+[00:12:45.000 - 00:12:46.000] Perfect.
+[00:12:46.000 - 00:12:47.000] Okay.
+[00:12:47.000 - 00:12:49.000] Quick run through of the different platforms.
+[00:12:49.000 - 00:12:53.000] Looked at a few more than these, but these were the ones that bubbled up to the top.
+[00:12:53.000 - 00:13:00.000] That's where there was the most conversation, I think kind of goes without saying, depending on what their need is, they're going to different places.
+[00:13:00.000 - 00:13:12.000] Instagram feels very much like an aspirational platform where people are going to look at this luxury fashion that they want to be able to one day, like make themselves or like have these products themselves.
+[00:13:12.000 - 00:13:23.000] TikTok is a lot about like discovery of the products, people getting a little bit more into the conversation, trends around the bags, like bag maxing, the bag charms, unboxing videos.
+[00:13:23.000 - 00:13:25.000] Facebook is all about community.
+[00:13:25.000 - 00:13:29.000] I found there were a couple of groups that were specific to a brand.
+[00:13:29.000 - 00:13:32.000] Like there is a Facebook group all about coach bags.
+[00:13:32.000 - 00:13:40.000] There is one all about Louis Vuitton bags, about people talking about it, selling them with each other, cleaning it, things along those lines.
+[00:13:40.000 - 00:13:46.000] Yeah. YouTube is all about showing off the collection, the long form review of it, aware test, shopping.
+[00:13:46.000 - 00:13:56.000] I was always thought interesting on YouTube and on TikTok with a lot of debates, this goes back into luxury, becoming a little bit more accessible about like old money versus new money in the world of luxury.
+[00:13:56.000 - 00:13:59.000] But maybe that's a side tangent. I thought it was very interesting.
+[00:13:59.000 - 00:14:00.000] It is interesting.
+[00:14:00.000 - 00:14:08.000] Reddit, all about the reviews, people asking about their experiences, comparing reels to fakes, what's a good dupe, things along those lines.
+[00:14:08.000 - 00:14:17.000] This is a new one. I found purse forum in my search and it's very similar to a Reddit type space, but it's just for luxury handbags and jewelry.
+[00:14:17.000 - 00:14:25.000] And they're all these like different blog posts, I guess, or threads that go really deep into the making of each item.
+[00:14:25.000 - 00:14:28.000] And people can go in and they can be chit chatting about like Van Cleef just came out.
+[00:14:28.000 - 00:14:33.000] I don't remember the names, like they're like the flower type charm that they're known for.
+[00:14:33.000 - 00:14:37.000] They came out with a new one in pink. There was like a whole thread post about that.
+[00:14:37.000 - 00:14:40.000] People getting in talking about how the necklace is made.
+[00:14:40.000 - 00:14:41.000] So cool.
+[00:14:41.000 - 00:14:42.000] I thought that was really interesting.
+[00:14:42.000 - 00:14:50.000] And then Discord in the world of fashion, there were a handful of servers where people can sell and buy.
+[00:14:50.000 - 00:14:59.000] But for the most part, when it came to fashion, it was really heavily influenced by streetwear, which is an entirely different category.
+[00:14:59.000 - 00:15:05.000] I feel like that makes sense in my head from the perspective of just the way that Discord looks and feels.
+[00:15:05.000 - 00:15:08.000] It doesn't feel like a place where you'd want to.
+[00:15:08.000 - 00:15:14.000] Maybe this is just a personal opinion, but like buy a Louis Vuitton bag or like a luxury purchase.
+[00:15:14.000 - 00:15:17.000] It doesn't feel like warm and inviting.
+[00:15:17.000 - 00:15:18.000] Exactly.
+[00:15:18.000 - 00:15:23.000] This is super interesting and definitely in line with like how I would look for things when I was on coach.
+[00:15:23.000 - 00:15:26.000] So like this makes sense.
+[00:15:26.000 - 00:15:29.000] Um, did you get, you see anything on dupes?
+[00:15:29.000 - 00:15:40.000] Because if you remember talking to like the, the dudes, um, like acceptance of dupes in this conversation, and does that lead to any behaviors on certain platforms more than others?
+[00:15:40.000 - 00:15:44.000] I think there's a lot about dupes on.
+[00:15:44.000 - 00:15:45.000] Yeah.
+[00:15:45.000 - 00:15:46.000] Dupes on Tik Tok.
+[00:15:46.000 - 00:15:50.000] I saw a little bit of that conversation on Reddit as well.
+[00:15:50.000 - 00:15:52.000] Actually, if we go to the next slide, I think.
+[00:15:52.000 - 00:15:53.000] Dupes.
+[00:15:53.000 - 00:15:54.000] Dupes.
+[00:15:54.000 - 00:15:55.000] Dupes.
+[00:15:55.000 - 00:15:56.000] With a P, not a D.
+[00:15:56.000 - 00:15:57.000] Sorry.
+[00:15:57.000 - 00:15:58.000] Yeah, yeah, yeah.
+[00:15:58.000 - 00:16:00.000] We'll mess with George later.
+[00:16:00.000 - 00:16:01.000] We'll mess with the dudes later.
+[00:16:01.000 - 00:16:08.000] There are a few dudes in the conversation with authoritative voices, but yeah, this middle one, I think.
+[00:16:08.000 - 00:16:09.000] Sorry.
+[00:16:09.000 - 00:16:11.000] Um, it's going down the line.
+[00:16:11.000 - 00:16:14.000] Halls and collections are very popular.
+[00:16:14.000 - 00:16:15.000] Yeah.
+[00:16:15.000 - 00:16:20.000] Very aspirational content of drives people towards the brand and makes them want to be an owner of it.
+[00:16:20.000 - 00:16:22.000] A lot of content about quality and craftsmanship.
+[00:16:22.000 - 00:16:25.000] The one on the left hand side, I believe is from Tik Tok.
+[00:16:25.000 - 00:16:31.000] There are a lot of people talking about how close a dupe is to the main bag on there.
+[00:16:31.000 - 00:16:43.000] And then just like shopping blogs and story times, things that again, maybe not from the buyer standpoint, but from the experience standpoint, makes luxury fashion more accessible to people because they feel like they can come along for the ride.
+[00:16:43.000 - 00:16:51.000] Of being in a buying these products or like getting invited back to the room and air meds and like being shown a bag of things along those lines.
+[00:16:51.000 - 00:16:52.000] Okay, that's very cool.
+[00:16:52.000 - 00:16:55.000] Um, um, Caitlin and Sophie.
+[00:16:55.000 - 00:17:00.000] Um, when you look at this content probably feels very similar to what you guys are saying as well.
+[00:17:00.000 - 00:17:01.000] Right.
+[00:17:01.000 - 00:17:02.000] Yeah.
+[00:17:02.000 - 00:17:08.000] Um, I, I, I, uh, there's a lot of content on there about like how the content does really well on this.
+[00:17:08.000 - 00:17:10.000] It's like how to spot a fake as well.
+[00:17:10.000 - 00:17:22.000] Like with that culture, like, yeah, either just from like the first look or then just like dropping a, like a, we talked about van Kee's basic, like the, the sound of it or the feel of it or the rest of it, which does really, really well.
+[00:17:22.000 - 00:17:24.000] Um, yeah.
+[00:17:24.000 - 00:17:25.000] Yeah.
+[00:17:25.000 - 00:17:34.000] And I think that allows us to then kind of like go into like really, um, leverage that authority on, uh, verification.
+[00:17:34.000 - 00:17:35.000] Yeah.
+[00:17:35.000 - 00:17:36.000] Yeah.
+[00:17:36.000 - 00:17:41.000] And I've also been seeing quite a few content pieces on restoration specifically.
+[00:17:41.000 - 00:17:54.000] So that garners a lot of views and a lot of engagement as well for people bringing in their Hermes and getting it repainted or like a bucket or, you know, uh, and I think that's also something really interesting.
+[00:17:54.000 - 00:18:05.000] I, um, one thing for us to think about longer term, as we start moving to the content strategy that you saw them ask immediately about, um, that can sound like a very big deliverable.
+[00:18:05.000 - 00:18:12.000] But I think if we think of the content strategy as the signals of the type of content, we need to go out to be a part of the conversations initially.
+[00:18:12.000 - 00:18:20.000] And then just talk about what might be some of the nuances of how this comes to life in one market versus the other, I think we're, we're in the right place.
+[00:18:20.000 - 00:18:28.000] Um, I just really immediately wanted to like stop them from thinking our content strategy is like 20 this and that, right.
+[00:18:28.000 - 00:18:33.000] And like here are content pillars, but more of like, here are the signals and the starting points and conversation looks like.
+[00:18:33.000 - 00:18:36.000] And what authority within its spaces starts to look like.
+[00:18:36.000 - 00:18:41.000] So with that sort of context, I think what's helpful is when you look at this and you're like, yeah, yeah, yeah.
+[00:18:41.000 - 00:18:43.000] We see similar stuff.
+[00:18:43.000 - 00:18:46.000] There might be a couple of things that you see that are different.
+[00:18:46.000 - 00:18:48.000] And then like, that just becomes another slide.
+[00:18:48.000 - 00:18:51.000] Like, here's what we feel like we have in common.
+[00:18:51.000 - 00:18:57.000] Here's what we might see a little bit more of in our markets.
+[00:18:57.000 - 00:19:00.000] Because it almost could be like the brief that you then put the link when you want.
+[00:19:00.000 - 00:19:01.000] That's exactly it.
+[00:19:01.000 - 00:19:02.000] That's exactly it.
+[00:19:02.000 - 00:19:05.000] And then those become the signals of like how we start to deploy.
+[00:19:05.000 - 00:19:11.000] And then we use our infinity loop to then allow us to like deviate markets if necessary.
+[00:19:11.000 - 00:19:13.000] I know you've been waiting very patiently.
+[00:19:13.000 - 00:19:14.000] Yeah.
+[00:19:14.000 - 00:19:15.000] I'm so sorry, Hannah.
+[00:19:15.000 - 00:19:19.000] I know I think Andrew's been waiting longer.
+[00:19:19.000 - 00:19:20.000] Oh, okay.
+[00:19:20.000 - 00:19:26.000] Well, all I was going to say is I think if the clients ask us about dupe culture, and I don't want to like get go too into it.
+[00:19:26.000 - 00:19:33.000] But like, I think eBay should have the stance if we're asked of like not being a part of that.
+[00:19:33.000 - 00:19:34.000] Like people.
+[00:19:34.000 - 00:19:35.000] Yeah, that's interesting.
+[00:19:35.000 - 00:19:41.000] But I don't think that I think that in order to be trusted, we need to talk about like, how we are like.
+[00:19:41.000 - 00:19:42.000] The real real.
+[00:19:42.000 - 00:19:44.000] Authenticating the real stuff.
+[00:19:44.000 - 00:19:45.000] Yeah.
+[00:19:45.000 - 00:19:49.000] Would be my like for live for like searching and finding.
+[00:19:49.000 - 00:19:55.000] Of course, people are going to like find dupes and maybe we can have that on our but for like eBay live specifically.
+[00:19:55.000 - 00:19:57.000] That would be my initial like take.
+[00:19:57.000 - 00:19:58.000] Yeah.
+[00:19:58.000 - 00:19:59.000] Okay.
+[00:19:59.000 - 00:20:17.000] I would say it sounds like it is, but we need to put data against like the conversation and the real opportunity.
+[00:20:17.000 - 00:20:22.000] And I think one of the things they like about it is it seems like there may be margin in this space and it's growing.
+[00:20:22.000 - 00:20:24.000] So they would like to know what involvement is.
+[00:20:24.000 - 00:20:27.000] But Andrew, the answer to that question.
+[00:20:27.000 - 00:20:31.000] And I'm saying this in like the kindest way possible is why you're in the room.
+[00:20:31.000 - 00:20:35.000] Because at work, we're going to try to need, we want to try to figure out where the priorities lie.
+[00:20:35.000 - 00:20:40.000] And so right now we're having a very qualitative discussion of like, what's the conversation look like?
+[00:20:40.000 - 00:20:42.000] What might be the nuances by market?
+[00:20:42.000 - 00:20:44.000] Like, what do we think opportunities lie?
+[00:20:44.000 - 00:20:46.000] But we're going to have to overlay that for sure.
+[00:20:46.000 - 00:20:47.000] Cool.
+[00:20:47.000 - 00:20:48.000] Okay.
+[00:20:48.000 - 00:20:51.000] Maybe, maybe you're going to come on to this.
+[00:20:51.000 - 00:20:57.000] Is there any, is there any content with people talking about the actual way that they buy?
+[00:20:57.000 - 00:21:02.000] Like converting new to like secondhand or like buying live?
+[00:21:02.000 - 00:21:05.000] Like, like what, what are we seeing in that space?
+[00:21:05.000 - 00:21:12.000] I think with that, it falls a little bit under like the shopping vlog and story time category.
+[00:21:12.000 - 00:21:22.000] For the most part, what I was seeing was people talking about their experiences going into a store and buying a bag or just like the aftermath.
+[00:21:22.000 - 00:21:24.000] Like here is what I bought.
+[00:21:24.000 - 00:21:29.000] But I could look a little bit deeper into stuff about live shopping.
+[00:21:29.000 - 00:21:30.000] Yeah.
+[00:21:30.000 - 00:21:31.000] Yeah.
+[00:21:31.000 - 00:21:35.000] Something that's also big is employees having their own handles now.
+[00:21:35.000 - 00:21:46.000] Um, I know that that's something that like when we were on coach, we like had our own strategy where we'd have like three camera employees where they talk about products way in depth.
+[00:21:46.000 - 00:21:48.000] And that's like, that's huge.
+[00:21:48.000 - 00:21:52.000] And it got tons of impressions.
+[00:21:52.000 - 00:21:57.000] It's kind of like, it's the same as like the lab coat with like dermatologists.
+[00:21:57.000 - 00:22:06.000] People love to see someone like in a store, like with gloves on and like really, really, you know, like souped up, like.
+[00:22:06.000 - 00:22:07.000] Yeah.
+[00:22:07.000 - 00:22:10.000] Basically what Caitlin said, like you're in Europe as well.
+[00:22:10.000 - 00:22:18.000] And I guess in the UK and in Germany, you have a lot of the secondhand vintage luxury shops, which do a whole like, this is the new bag.
+[00:22:18.000 - 00:22:23.000] It's just was dropped to come by the shop, go see it, check it out, like experience it yourself.
+[00:22:23.000 - 00:22:30.000] But I think that's where Instagram plays a big role in like showcasing these items.
+[00:22:30.000 - 00:22:31.000] Yeah.
+[00:22:31.000 - 00:22:32.000] Okay.
+[00:22:32.000 - 00:22:33.000] Okay.
+[00:22:33.000 - 00:22:34.000] Okay.
+[00:22:34.000 - 00:22:36.000] Should we maybe skip this for now?
+[00:22:36.000 - 00:22:37.000] Yeah.
+[00:22:37.000 - 00:22:41.000] I would say just for the sake of time, right?
+[00:22:41.000 - 00:22:44.000] Like we just went through one community and we're like 30 minutes into it.
+[00:22:44.000 - 00:22:47.000] Like we, we can, I think we could do the same thing here.
+[00:22:47.000 - 00:22:51.000] Maybe there's, there may be more time we need to get together.
+[00:22:51.000 - 00:22:52.000] I'm just saying.
+[00:22:52.000 - 00:23:07.000] But the other thing is, is we maybe just want to talk about our highlights and then let's save a little bit of time at the end about like what next steps need to look like in terms of getting from here to what starts to look like the recommendations needed.
+[00:23:07.000 - 00:23:08.000] Okay.
+[00:23:08.000 - 00:23:11.000] We already talked about this slide.
+[00:23:11.000 - 00:23:13.000] eBay live, TikTok live, whatnot.
+[00:23:13.000 - 00:23:14.000] Okay.
+[00:23:17.000 - 00:23:22.000] We're this audience I found in the, well, age wise.
+[00:23:22.000 - 00:23:29.000] It feels like it's kind of split like Gen Z, young millennials, audience of older millennials.
+[00:23:29.000 - 00:23:30.000] They're looking for different things.
+[00:23:30.000 - 00:23:34.000] The sneaker conversation is very heavily dominated by men.
+[00:23:34.000 - 00:23:45.000] There are women in the conversation, just not nearly as much as a streetwear conversation, which does feel a lot more equal in terms of gender and more gender fluid space for Gen Z, young millennials.
+[00:23:45.000 - 00:23:47.000] I think it's a lot of that aspirational stuff.
+[00:23:47.000 - 00:23:51.000] Again, like the get ready with me, the unboxings, they're discovering new trends.
+[00:23:51.000 - 00:24:04.000] And I feel like people who are a little bit on the older millennial side are looking for again that authentication, the reviews of quality logistics about releases and more.
+[00:24:04.000 - 00:24:05.000] Okay.
+[00:24:05.000 - 00:24:08.000] Did they already, should we also ask?
+[00:24:08.000 - 00:24:11.000] They already said something about it not being a priority.
+[00:24:11.000 - 00:24:12.000] Do we know why?
+[00:24:12.000 - 00:24:17.000] They're just not seeing like marginal like growth.
+[00:24:17.000 - 00:24:23.000] I don't know, but that's, um, may not be.
+[00:24:23.000 - 00:24:27.000] Maybe let's move on to collectibles and cards, if that's all right.
+[00:24:27.000 - 00:24:28.000] Sorry, Kelly.
+[00:24:28.000 - 00:24:29.000] I know it's like.
+[00:24:29.000 - 00:24:32.000] No, it's a good point to bring up.
+[00:24:32.000 - 00:24:33.000] Okay.
+[00:24:33.000 - 00:24:35.000] You want me to, we have watches and coins next.
+[00:24:35.000 - 00:24:36.000] You want me to skip to collectibles?
+[00:24:36.000 - 00:24:38.000] Yeah, let's go to collectibles.
+[00:24:38.000 - 00:24:39.000] Okay.
+[00:24:47.000 - 00:24:48.000] It's not me, right?
+[00:24:48.000 - 00:24:49.000] It's still loading.
+[00:24:49.000 - 00:24:50.000] Okay.
+[00:24:50.000 - 00:24:51.000] No, it's me.
+[00:24:51.000 - 00:24:52.000] Thanks.
+[00:24:52.000 - 00:24:54.000] I have noticed on collectibles and cards.
+[00:24:54.000 - 00:24:55.000] I don't know if you've noticed this either.
+[00:24:55.000 - 00:25:01.000] It's just like, there's a lot of enthusiasts out there, but they're not getting that many views.
+[00:25:01.000 - 00:25:02.000] Mm-hmm.
+[00:25:02.000 - 00:25:08.000] So it's like a very, very engaged community, but there's not many of them.
+[00:25:08.000 - 00:25:13.000] Do you think that's because there's so many of them?
+[00:25:13.000 - 00:25:14.000] Yeah.
+[00:25:14.000 - 00:25:16.000] Is it a supply demand issue?
+[00:25:16.000 - 00:25:21.000] It's like, there's more supply than there is demand for like, like, why would I follow George?
+[00:25:21.000 - 00:25:22.000] He's just a dude.
+[00:25:22.000 - 00:25:23.000] Right?
+[00:25:23.000 - 00:25:24.000] Like, I want.
+[00:25:24.000 - 00:25:25.000] Just a dude with some cards.
+[00:25:25.000 - 00:25:26.000] Yeah, exactly.
+[00:25:26.000 - 00:25:27.000] A dude with some cards.
+[00:25:27.000 - 00:25:28.000] Yeah.
+[00:25:28.000 - 00:25:32.000] And I guess like, what I've noticed is that there's just so much unboxing in there.
+[00:25:32.000 - 00:25:33.000] That's like where the attention is.
+[00:25:33.000 - 00:25:34.000] Yeah.
+[00:25:34.000 - 00:25:36.000] We're never going to be able to do unboxing, right?
+[00:25:36.000 - 00:25:39.000] That's not the point of eBay Live.
+[00:25:39.000 - 00:25:40.000] Mm-hmm.
+[00:25:40.000 - 00:25:43.000] So I think finding our niche there where there's like existing attention is a bit hard.
+[00:25:43.000 - 00:25:44.000] Tell me more.
+[00:25:44.000 - 00:25:45.000] Why can't we do unboxing?
+[00:25:45.000 - 00:25:52.000] I'm not just doing like the cards that you want to trade rather than unboxing a 10 pack
+[00:25:52.000 - 00:25:53.000] of like things?
+[00:25:53.000 - 00:25:58.000] I will push back a little bit on that because like, I don't know, it's whatnot or other streaming.
+[00:25:58.000 - 00:26:05.000] Like you can buy the pack itself and whatever, they open it live for you and whatever was in the pack, it's yours.
+[00:26:05.000 - 00:26:06.000] You know what I mean?
+[00:26:06.000 - 00:26:11.000] So it's still like a risk, but you're still buying the pack and seeing, enjoying the opening with everybody in the community.
+[00:26:11.000 - 00:26:12.000] Okay.
+[00:26:12.000 - 00:26:13.000] Yeah.
+[00:26:13.000 - 00:26:14.000] Okay.
+[00:26:14.000 - 00:26:15.000] Got it.
+[00:26:15.000 - 00:26:16.000] Got it.
+[00:26:16.000 - 00:26:17.000] Yeah.
+[00:26:17.000 - 00:26:18.000] I mean, that's interesting.
+[00:26:18.000 - 00:26:24.000] I mean, I was watching ESPN the other day and they did like, they opened a pack of sports cards at the end.
+[00:26:24.000 - 00:26:27.000] And I'm like, what is going on in culture right now?
+[00:26:27.000 - 00:26:28.000] Yeah.
+[00:26:28.000 - 00:26:40.000] So, so George, like I, you've been a part of this and I would just say like, maybe the good thing to hear about is, and you can educate us on is where's eBay in this company?
+[00:26:40.000 - 00:26:42.000] Where's eBay in this conversation right now?
+[00:26:42.000 - 00:26:44.000] And where the activity is taking place?
+[00:26:44.000 - 00:26:47.000] And what might be some of the biggest gaps they need to fill?
+[00:26:47.000 - 00:26:48.000] Gotcha.
+[00:26:48.000 - 00:26:49.000] Okay.
+[00:26:49.000 - 00:26:51.000] If you want to go straight to eBay, I can tell you what they use it for.
+[00:26:51.000 - 00:26:55.000] Like the collectors use it for, thank you actually, Hannah.
+[00:26:55.000 - 00:26:56.000] Yes.
+[00:26:56.000 - 00:26:59.000] The community also making sure that they're checking prices.
+[00:26:59.000 - 00:27:03.000] So live buying sits with them when it comes to that, when it comes to live.
+[00:27:03.000 - 00:27:09.000] But when it comes to like eBay itself, what they do top of mind, in my opinion, what I've been seeing when it comes to their content is checking
+[00:27:10.000 - 00:27:14.000] the price, checking the value when it comes to like something new that they're having or unlocking.
+[00:27:14.000 - 00:27:22.000] When they want something to go check online to see how much it costs to make sure that they're buying it from someone, from someone in front of them at the correct price, not overpaying for it.
+[00:27:22.000 - 00:27:23.000] You know what I mean?
+[00:27:23.000 - 00:27:29.000] So it's kind of like, one, live is community because you're either opening or seeing what people get.
+[00:27:29.000 - 00:27:32.000] And then eBay itself is just like fact checking, right?
+[00:27:32.000 - 00:27:40.000] Making sure that you're not overpaying or making sure just validating that what you're selling, even if you're a seller, that you're not overpricing it.
+[00:27:40.000 - 00:27:52.000] It's like that there are checks and balances, I guess, to see how much not only a card is valued if you're buying it, but also potentially how much it is if, you know, there's no track record of it.
+[00:27:52.000 - 00:27:55.000] Like guesstimating based on other cards that are similar to it.
+[00:27:55.000 - 00:28:00.000] And by the way, this is just focused on like sports card sports cards.
+[00:28:00.000 - 00:28:07.000] We're going to talk about like TGC and Pokemon later, and that's very similar, but it does have some different caveats when it comes to like collecting itself.
+[00:28:07.000 - 00:28:09.000] Okay. Yeah.
+[00:28:09.000 - 00:28:18.000] It's interesting that now that we're talking about that, that eBay is almost like the, the trusted like marker of what is true.
+[00:28:18.000 - 00:28:30.000] Like, I definitely use that in my own life of like, well, if it's 50 bucks on eBay, then I'm like, I'm, they're not, you know, stealing from me if it's 50 in the store.
+[00:28:30.000 - 00:28:31.000] Yeah.
+[00:28:31.000 - 00:28:43.000] I have a funny feeling that might differ in UQ in particular, because I think people see generally in life, see eBay is more expensive than vintage.
+[00:28:43.000 - 00:28:44.000] Whoa.
+[00:28:44.000 - 00:28:45.000] Whoa.
+[00:28:45.000 - 00:28:46.000] 100%.
+[00:28:46.000 - 00:28:47.000] Wow.
+[00:28:47.000 - 00:28:49.000] Unlock, baby.
+[00:28:49.000 - 00:28:50.000] Unlock.
+[00:28:50.000 - 00:28:51.000] That's good.
+[00:28:51.000 - 00:28:59.000] Also, like, whilst we're on sports cards, like, is that a thing in UK, Europe, Germany, like, Caitlin, Sophie, like, is it big?
+[00:28:59.000 - 00:29:01.000] Is it as big as it is in the US?
+[00:29:01.000 - 00:29:06.000] Like, my gut feeling, no, but that's based on my own prejudice rather than any information.
+[00:29:06.000 - 00:29:07.000] I don't know what the size is.
+[00:29:07.000 - 00:29:09.000] Wait, what do you have against Americans?
+[00:29:09.000 - 00:29:11.000] Like, I'm just kidding.
+[00:29:11.000 - 00:29:13.000] The prejudice is against sports cards now.
+[00:29:13.000 - 00:29:14.000] Sports cards, yeah.
+[00:29:14.000 - 00:29:15.000] Oh, okay.
+[00:29:15.000 - 00:29:16.000] Yeah.
+[00:29:16.000 - 00:29:17.000] The sports cards collection.
+[00:29:17.000 - 00:29:20.000] The prejudice is against nerds, David.
+[00:29:20.000 - 00:29:21.000] Yeah.
+[00:29:21.000 - 00:29:22.000] Yeah.
+[00:29:22.000 - 00:29:24.000] Premier League sports cards are a thing.
+[00:29:24.000 - 00:29:25.000] Right.
+[00:29:25.000 - 00:29:26.000] Yeah.
+[00:29:26.000 - 00:29:27.000] Yeah.
+[00:29:27.000 - 00:29:28.000] Yeah.
+[00:29:28.000 - 00:29:35.000] My understanding is, culturally, it's almost like, how do we make it our own, but, like, pick something that's a cultural phenomenon elsewhere and make it.
+[00:29:35.000 - 00:29:42.000] Now that you say that, I've got a friend that spent £3,000 on Panini stickers on eBay over the World Cup.
+[00:29:42.000 - 00:29:43.000] So, yes.
+[00:29:43.000 - 00:29:44.000] Yeah.
+[00:29:44.000 - 00:29:45.000] That's wild.
+[00:29:45.000 - 00:29:46.000] No!
+[00:29:46.000 - 00:29:47.000] Who got one?
+[00:29:47.000 - 00:29:48.000] Why would you do that?
+[00:29:48.000 - 00:29:49.000] £3,000 is amazing.
+[00:29:49.000 - 00:29:50.000] That's amazing.
+[00:29:50.000 - 00:29:54.000] I do think the World Cup did help.
+[00:29:54.000 - 00:30:01.000] Because there used to be that behaviour of you would get the World Cup, like, catalogue and you would collect the players and put it in.
+[00:30:01.000 - 00:30:08.000] And I think that started to help with, like, card culture and there was, like, an inflection point of those two behaviours coming together.
+[00:30:08.000 - 00:30:09.000] We used to have Panini.
+[00:30:09.000 - 00:30:10.000] We used to have Panini.
+[00:30:10.000 - 00:30:12.000] I don't know if you guys have Panini sticker books.
+[00:30:12.000 - 00:30:13.000] Yeah.
+[00:30:13.000 - 00:30:14.000] Yeah.
+[00:30:14.000 - 00:30:15.000] Okay.
+[00:30:15.000 - 00:30:17.000] It kind of died, but it really came back in this World Cup, actually.
+[00:30:17.000 - 00:30:19.000] It really did, didn't it?
+[00:30:19.000 - 00:30:20.000] Yeah.
+[00:30:20.000 - 00:30:24.000] You know, what's the difference between that and collecting, like, sports cards, which I love?
+[00:30:24.000 - 00:30:30.000] It's like that kind of touches on, like, Pokemon, which is master setting, making sure you have everything, and that's your goal, right?
+[00:30:30.000 - 00:30:33.000] What's master setting, you nerd?
+[00:30:33.000 - 00:30:34.000] Wait, sorry.
+[00:30:34.000 - 00:30:36.000] What was that master setting thing, George?
+[00:30:36.000 - 00:30:37.000] No, poor George.
+[00:30:37.000 - 00:30:39.000] I do love George.
+[00:30:39.000 - 00:30:40.000] That's why he picks on me.
+[00:30:40.000 - 00:30:41.000] This is just love.
+[00:30:41.000 - 00:30:44.000] But no, no, no, seriously, like, that's the goal, right?
+[00:30:44.000 - 00:30:56.000] Sometimes when it comes to collecting sports cards, you're focused on, Cortez, you broke it down perfectly, it's either a team, a new player, because that can be an investment, or it can be also just a player you love, right?
+[00:30:56.000 - 00:31:02.000] And this all fluctuates kind of differently from Pokemon because it depends on performance, right?
+[00:31:02.000 - 00:31:05.000] If a team's performing better, it's going to be more valuable.
+[00:31:05.000 - 00:31:07.000] There's also some history to it, right?
+[00:31:07.000 - 00:31:10.000] Because you think about, like, when it comes to Pokemon, there are made-up characters.
+[00:31:10.000 - 00:31:13.000] When it comes to, like, any type of TGC game, it's made-up stuff.
+[00:31:13.000 - 00:31:16.000] So there's no, like, crazy history behind it.
+[00:31:16.000 - 00:31:20.000] Like, Jalen Brunson, if you guys know, the Knicks are going crazy right now.
+[00:31:20.000 - 00:31:27.000] That card might be valued at nothing two years ago, but now it's, like, worth so much because it's part of history, right?
+[00:31:27.000 - 00:31:28.000] Right.
+[00:31:28.000 - 00:31:29.000] So, yeah, that was something interesting, too.
+[00:31:29.000 - 00:31:33.000] Like, just this historic connection that sports cards have that Pokemon does not.
+[00:31:33.000 - 00:31:35.000] So just touching on that.
+[00:31:35.000 - 00:31:36.000] Right.
+[00:31:36.000 - 00:31:38.000] Like, there's a context there.
+[00:31:38.000 - 00:31:42.000] Whereas for Pokemon, it's almost, like, I think of it like Harry Potter and what house are you?
+[00:31:42.000 - 00:31:44.000] Are you a Slytherin or, like, whatever?
+[00:31:44.000 - 00:31:49.000] And it's just, like, people have their favorites and identify and then they're spiritually loyal.
+[00:31:49.000 - 00:31:50.000] Yeah.
+[00:31:50.000 - 00:31:56.000] So it's like people are collecting, like, doing whole, like, YouTube, like, not TikTok channels on collecting a specific team.
+[00:31:56.000 - 00:31:57.000] Yeah.
+[00:31:57.000 - 00:32:01.000] So you've got a crossover of, like, interest groups there that people who support the team.
+[00:32:01.000 - 00:32:02.000] Yeah.
+[00:32:02.000 - 00:32:03.000] There's some deep psychology there.
+[00:32:03.000 - 00:32:04.000] Yeah.
+[00:32:04.000 - 00:32:07.000] Like, what team are you and how loyal are you and why?
+[00:32:07.000 - 00:32:12.000] Are we looking at, sorry, are we looking at sports memorabilia as well?
+[00:32:12.000 - 00:32:18.000] Because I would suspect football shirts and classic football shirts are going to be a big thing in Europe.
+[00:32:18.000 - 00:32:19.000] Yeah.
+[00:32:19.000 - 00:32:20.000] Yeah.
+[00:32:20.000 - 00:32:26.000] Um, I, I, I, that's why I think the, there was that push on collectibles.
+[00:32:26.000 - 00:32:27.000] Yeah.
+[00:32:27.000 - 00:32:35.000] Because to me, collectible, like, that is a world of you're collecting icon, like, there's cards, which is one of, like, iconic things that you can own.
+[00:32:35.000 - 00:32:36.000] Right.
+[00:32:36.000 - 00:32:40.000] And then there's the hats and the jerseys and the whatever, like the cleats and blah, blah, blah, blah.
+[00:32:40.000 - 00:32:43.000] So the bats, there's just a million, one thing that bottle heads.
+[00:32:43.000 - 00:32:45.000] We love, we love us and bubble heads over here.
+[00:32:45.000 - 00:32:48.000] Or even when you show up with the figurines and everything, like just.
+[00:32:48.000 - 00:32:49.000] Oh yeah.
+[00:32:49.000 - 00:32:50.000] And stuff.
+[00:32:50.000 - 00:32:51.000] Yeah.
+[00:32:51.000 - 00:32:56.000] So that's like, that's another, like one of those where it becomes a rabbit hole of like, how many things do you look into?
+[00:32:56.000 - 00:33:04.000] Um, but, uh, yeah, that'll be, I think, I think the behaviors we would assume in the U S is there's.
+[00:33:04.000 - 00:33:10.000] There's, there's a lot of collectible and sports paraphernalia just from our fanatics work that we've done.
+[00:33:10.000 - 00:33:16.000] Uh, we used to have a, uh, uh, content series called will, will they sign it?
+[00:33:16.000 - 00:33:32.000] And so imagine a, a Liverpool, uh, fan goes and walks up to Pep Guardiola with a, with a, with a Liverpool jersey and asks for his autograph and gives them the Liverpool jersey.
+[00:33:32.000 - 00:33:36.000] Like would Pep sign that, you know, maybe not.
+[00:33:36.000 - 00:33:40.000] Um, so, uh, anyway, there's, there's a lot there.
+[00:33:40.000 - 00:33:41.000] Okay.
+[00:33:41.000 - 00:33:47.000] You know, when it comes to sports card, the other thing we have to, uh, watch out for, you just called it out was fanatics live.
+[00:33:47.000 - 00:33:50.000] Cause they're getting a little bit popular now and they're all about sports.
+[00:33:50.000 - 00:33:51.000] Yeah.
+[00:33:51.000 - 00:33:52.000] Exactly.
+[00:33:52.000 - 00:33:53.000] Yeah.
+[00:33:53.000 - 00:33:54.000] Yeah.
+[00:33:54.000 - 00:33:55.000] I get it.
+[00:33:55.000 - 00:33:57.000] So the, the UK version of that will be match worn shirts.
+[00:33:57.000 - 00:34:04.000] So you can buy signed shirts at eBay, but there's a platform called match worn shirts where they will actually buy the shirts before they're worn.
+[00:34:04.000 - 00:34:07.000] And at the end of the match, they put them up for people.
+[00:34:07.000 - 00:34:13.000] You know, the, the interesting thing is, is the competitors tell you a lot about maybe the nuanced behaviors and the preferences of the market.
+[00:34:13.000 - 00:34:14.000] Right.
+[00:34:14.000 - 00:34:23.000] Um, because I think, um, like the idea of here's the Jersey by this player for this match.
+[00:34:23.000 - 00:34:28.000] And the lore of how that player performed in that match brings the value up.
+[00:34:28.000 - 00:34:35.000] Whereas I would say in the U S it's like, you get assigned Jersey, but it's not about like any game per se.
+[00:34:35.000 - 00:34:36.000] Yeah.
+[00:34:36.000 - 00:34:37.000] You know what I mean?
+[00:34:37.000 - 00:34:45.000] So I think there's something really, you get, you get that, you get that in Europe as well, but match worn ones are, are, are like, especially as you say something happens.
+[00:34:45.000 - 00:34:46.000] Yeah.
+[00:34:46.000 - 00:34:47.000] All right.
+[00:34:47.000 - 00:34:48.000] Alan, you know, what's crazy about that?
+[00:34:48.000 - 00:34:52.000] You just called it out, which is, um, I've been seeing, you know, new cards when it comes to sports and they're out.
+[00:34:52.000 - 00:34:56.000] And they're actually like putting parts of the jerseys inside the cards.
+[00:34:56.000 - 00:34:57.000] Right.
+[00:34:57.000 - 00:34:59.000] You can have part of that memorabilia, but it's still a collectible card.
+[00:34:59.000 - 00:35:01.000] So it's kind of like fusing both.
+[00:35:01.000 - 00:35:02.000] Right.
+[00:35:02.000 - 00:35:03.000] It's crazy.
+[00:35:03.000 - 00:35:05.000] Wait, Disney's playing in this world.
+[00:35:05.000 - 00:35:06.000] Yes.
+[00:35:06.000 - 00:35:07.000] They actually have their own train.
+[00:35:07.000 - 00:35:11.000] Well, remember how we had that conversation with the team about like, um, what do you say?
+[00:35:11.000 - 00:35:15.000] Like, um, George Washington having his own credit, uh, trading card.
+[00:35:15.000 - 00:35:16.000] Right.
+[00:35:16.000 - 00:35:21.000] So now like even Disney's getting into it, like making, uh, trading cards for all their characters having.
+[00:35:21.000 - 00:35:26.000] Uh, but yeah, just, just hitting on that.
+[00:35:26.000 - 00:35:33.000] Um, so yeah, that's the one thing I just want to make sure that I mean, when you like TGC and Pokemon, when it comes to GTC just means trading card games.
+[00:35:33.000 - 00:35:34.000] So like all of these are in play.
+[00:35:34.000 - 00:35:37.000] The strongest one obviously is Pokemon.
+[00:35:37.000 - 00:35:39.000] That's why we were going to focus on that one.
+[00:35:39.000 - 00:35:42.000] But also just wanted to call out like, uh, Yu-Gi-Oh! is nostalgic.
+[00:35:42.000 - 00:35:43.000] It's on a down.
+[00:35:43.000 - 00:35:44.000] I'll be honest with you.
+[00:35:44.000 - 00:35:45.000] I don't see a lot of that.
+[00:35:45.000 - 00:35:50.000] When it comes to the League of Legends that just has a big following when it comes to the gaming community.
+[00:35:50.000 - 00:35:52.000] One piece is the one thing that's on the rise right now.
+[00:35:52.000 - 00:35:53.000] Like crazy.
+[00:35:53.000 - 00:35:54.000] Go ahead, Hannah.
+[00:35:54.000 - 00:35:55.000] I was just going to ask.
+[00:35:55.000 - 00:36:07.000] So then when you, and this is literally just me asking for your opinion, but like if we were to do, let's say a live show or like a eBay live about cards, would it be for TCG cards?
+[00:36:07.000 - 00:36:10.000] Or would it be Pokemon, Riftbound, Magic, The Gathering?
+[00:36:10.000 - 00:36:11.000] Yeah.
+[00:36:11.000 - 00:36:12.000] Would you break it down?
+[00:36:12.000 - 00:36:13.000] Yeah.
+[00:36:13.000 - 00:36:14.000] Yeah.
+[00:36:14.000 - 00:36:15.000] Yeah.
+[00:36:15.000 - 00:36:16.000] Yeah.
+[00:36:16.000 - 00:36:17.000] Yeah.
+[00:36:17.000 - 00:36:18.000] Wow.
+[00:36:18.000 - 00:36:19.000] So there's a lot of sub communities maybe.
+[00:36:19.000 - 00:36:20.000] Yeah.
+[00:36:20.000 - 00:36:21.000] And is there overlap?
+[00:36:21.000 - 00:36:25.000] Like if you're a Pokemon person, you're not playing lore canon.
+[00:36:25.000 - 00:36:26.000] Not necessarily.
+[00:36:26.000 - 00:36:28.000] So that also depends.
+[00:36:28.000 - 00:36:32.000] Cause Pokemon is actually like a, like a card game and a lot of people play for it.
+[00:36:32.000 - 00:36:37.000] One piece is also has like tournaments and stuff like that, but people are collecting it for its value.
+[00:36:37.000 - 00:36:39.000] It's more like, um, investment.
+[00:36:39.000 - 00:36:42.000] Cause these cards can go up to, you know, five figures, like 10 Gs.
+[00:36:42.000 - 00:36:43.000] Right.
+[00:36:43.000 - 00:36:45.000] Um, when it comes to Disney, I think it's just the fandom.
+[00:36:45.000 - 00:36:46.000] You know what I mean?
+[00:36:46.000 - 00:36:47.000] Yeah.
+[00:36:47.000 - 00:36:48.000] It's not about the price or the value.
+[00:36:48.000 - 00:36:52.000] It's more like, Hey, can I collect all the Mickey cards or all the, my favorite character cards?
+[00:36:52.000 - 00:36:54.000] Is it about like playing like the surprise?
+[00:36:54.000 - 00:36:55.000] Yeah, yeah, exactly.
+[00:36:55.000 - 00:36:57.000] It's all about pulling, honestly.
+[00:36:57.000 - 00:36:58.000] Okay.
+[00:36:58.000 - 00:36:59.000] Yeah.
+[00:36:59.000 - 00:37:00.000] Even Magic the Gathering.
+[00:37:00.000 - 00:37:01.000] Like that's so old school.
+[00:37:01.000 - 00:37:02.000] You think about it, right?
+[00:37:02.000 - 00:37:09.000] But I don't know if you guys remember from last year, like they had this epic release where they released one of one card for Lord of the Rings.
+[00:37:09.000 - 00:37:10.000] And that was crazy.
+[00:37:10.000 - 00:37:12.000] Fun fact, Post Malone owns that.
+[00:37:12.000 - 00:37:13.000] So it's just how crazy that is.
+[00:37:13.000 - 00:37:14.000] Two million dollars, by the way.
+[00:37:14.000 - 00:37:15.000] It's insane.
+[00:37:15.000 - 00:37:16.000] Okay.
+[00:37:16.000 - 00:37:26.000] So if we were to do like a pooling type EBIT, but we wouldn't want to pull those cards because that would defeat the purpose of like selling them.
+[00:37:26.000 - 00:37:27.000] It depends though.
+[00:37:27.000 - 00:37:31.000] If you buy the pack that it comes from, then that card technically belongs to you because you bought the pack.
+[00:37:31.000 - 00:37:34.000] That's what we were talking about, like opening and stuff like that.
+[00:37:34.000 - 00:37:35.000] Hmm.
+[00:37:35.000 - 00:37:36.000] Yeah.
+[00:37:36.000 - 00:37:37.000] Okay.
+[00:37:37.000 - 00:37:38.000] Fascinating.
+[00:37:38.000 - 00:37:39.000] This world is so interesting.
+[00:37:39.000 - 00:37:40.000] Yeah.
+[00:37:40.000 - 00:37:43.000] There's also like other ways of like, like sellers doing it online.
+[00:37:43.000 - 00:37:50.000] They open each pack and then they just sell their cards that they, you know, they don't need or want because they already have a couple because imagine how much you're opening.
+[00:37:50.000 - 00:37:51.000] Right.
+[00:37:51.000 - 00:37:53.000] And they just sell it on websites like whatnot at discount.
+[00:37:53.000 - 00:37:58.000] That way they get back to the community and you know, they're not stuck with so much overlap or so much cards.
+[00:37:58.000 - 00:38:00.000] It's wild, isn't it?
+[00:38:00.000 - 00:38:02.000] Because it's like, as you said, it's a game.
+[00:38:02.000 - 00:38:05.000] It's also a thing like people are enthusiastic about collect.
+[00:38:05.000 - 00:38:06.000] Yeah.
+[00:38:06.000 - 00:38:07.000] It's also currency as well.
+[00:38:07.000 - 00:38:08.000] It's crazy.
+[00:38:08.000 - 00:38:11.000] And there's an element of gambling in there.
+[00:38:11.000 - 00:38:12.000] Oh, 100%.
+[00:38:12.000 - 00:38:16.000] Some people like the surprise of like, does this thing have value?
+[00:38:16.000 - 00:38:19.000] And then other people see the value and want it.
+[00:38:19.000 - 00:38:20.000] Yep.
+[00:38:20.000 - 00:38:23.000] Because they see it as an opportunity to invest, right?
+[00:38:23.000 - 00:38:26.000] Oh, it's an easy end to like, I can.
+[00:38:28.000 - 00:38:29.000] Yeah.
+[00:38:29.000 - 00:38:30.000] Yeah.
+[00:38:30.000 - 00:38:31.000] Yeah.
+[00:38:31.000 - 00:38:32.000] Yeah.
+[00:38:32.000 - 00:38:33.000] Yeah.
+[00:38:33.000 - 00:38:34.000] Yeah.
+[00:38:34.000 - 00:38:35.000] Yeah.
+[00:38:35.000 - 00:38:36.000] Yeah.
+[00:38:36.000 - 00:38:37.000] Yeah.
+[00:38:37.000 - 00:38:38.000] Yeah.
+[00:38:38.000 - 00:38:39.000] Yeah.
+[00:38:39.000 - 00:38:40.000] Yeah.
+[00:38:40.000 - 00:38:41.000] Yeah.
+[00:38:41.000 - 00:38:42.000] Yeah.
+[00:38:42.000 - 00:38:43.000] Yeah.
+[00:38:43.000 - 00:38:44.000] Yeah.
+[00:38:44.000 - 00:38:45.000] Yeah.
+[00:38:45.000 - 00:38:46.000] Yeah.
+[00:38:46.000 - 00:38:47.000] Yeah.
+[00:38:47.000 - 00:38:48.000] Yeah.
+[00:38:48.000 - 00:38:49.000] Yeah.
+[00:38:49.000 - 00:38:50.000] Yeah.
+[00:38:50.000 - 00:38:51.000] Yeah.
+[00:38:51.000 - 00:38:53.000] Yeah.
+[00:38:53.000 - 00:38:54.000] Yeah.
+[00:38:54.000 - 00:38:55.000] Yeah.
+[00:38:55.000 - 00:38:56.000] Yeah.
+[00:38:56.000 - 00:38:57.000] Yeah.

@@ -1,0 +1,4 @@
+{
+  "time": "2026-09-27T17:11:46.619418+00:00",
+  "note": "No paid retry. The response cites the parent TikTok caption supplied in parent_source_context. Validator now accepts explicit parent IDs separately from comment IDs. Character-offset quotes are extracted verbatim from the original field and marked when outside predefined boundaries. Raw Gemini response is unchanged. Parent citations are counted separately from comment citations."
+}

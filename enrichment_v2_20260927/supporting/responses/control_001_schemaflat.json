@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"rows\":[{\"evidence_id\":\"R1\",\"speaker_role\":\"creator\",\"ebay_role\":\"not mentioned\",\"named_platforms\":[],\"live_stance\":\"not applicable\",\"motive\":\"collecting\",\"frustration\":\"none stated\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"none stated\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"R2\",\"speaker_role\":\"unclear\",\"ebay_role\":\"not mentioned\",\"named_platforms\":[],\"live_stance\":\"not applicable\",\"motive\":\"none stated\",\"frustration\":\"none stated\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"none stated\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"comment_text:0\",\"confidence\":\"high\"},{\"evidence_id\":\"R3\",\"speaker_role\":\"creator\",\"ebay_role\":\"not mentioned\",\"named_platforms\":[],\"live_stance\":\"not applicable\",\"motive\":\"none stated\",\"frustration\":\"none stated\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"none stated\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"R4\",\"speaker_role\":\"seller\",\"ebay_role\":\"selling venue\",\"named_platforms\":[\"eBay\"],\"live_stance\":\"not applicable\",\"motive\":\"none stated\",\"frustration\":\"The poster expresses hesitation to sell expensive items due to concerns about buyers making bogus complaints to get items for free or discounted, and the platform giving buyers too much power.\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"none stated\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"text:0\",\"confidence\":\"high\"},{\"evidence_id\":\"R5\",\"speaker_role\":\"creator\",\"ebay_role\":\"not mentioned\",\"named_platforms\":[],\"live_stance\":\"not applicable\",\"motive\":\"none stated\",\"frustration\":\"none stated\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"none stated\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"R6\",\"speaker_role\":\"unclear\",\"ebay_role\":\"policy discussion\",\"named_platforms\":[\"eBay\"],\"live_stance\":\"not applicable\",\"motive\":\"none stated\",\"frustration\":\"none stated\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"none stated\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"text:0\",\"confidence\":\"high\"},{\"evidence_id\":\"R7\",\"speaker_role\":\"collector\",\"ebay_role\":\"not mentioned\",\"named_platforms\":[],\"live_stance\":\"not applicable\",\"motive\":\"collecting\",\"frustration\":\"none stated\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"US\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"R8\",\"speaker_role\":\"creator\",\"ebay_role\":\"purchase source\",\"named_platforms\":[\"eBay\"],\"live_stance\":\"not applicable\",\"motive\":\"thrifting\",\"frustration\":\"none stated\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"none stated\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"R9\",\"speaker_role\":\"creator\",\"ebay_role\":\"not mentioned\",\"named_platforms\":[],\"live_stance\":\"not applicable\",\"motive\":\"none stated\",\"frustration\":\"none stated\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"none stated\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"},{\"evidence_id\":\"R10\",\"speaker_role\":\"creator\",\"ebay_role\":\"not mentioned\",\"named_platforms\":[],\"live_stance\":\"not applicable\",\"motive\":\"none stated\",\"frustration\":\"none stated\",\"sponsored_or_brand\":\"unclear\",\"geo_signal\":\"none stated\",\"chat_type\":\"none stated\",\"unexpected_live_signal\":false,\"quote_span_id\":\"caption:0\",\"confidence\":\"high\"}]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 4283,
+    "candidatesTokenCount": 933,
+    "totalTokenCount": 6236,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4283
+      }
+    ],
+    "thoughtsTokenCount": 1020,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "7FC5auXjCartz7IP1e390Aw"
+}

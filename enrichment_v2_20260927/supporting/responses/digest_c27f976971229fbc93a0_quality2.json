@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"findings\": [\n    {\n      \"kind\": \"position\",\n      \"claim\": \"One commenter expresses admiration for the sourcing strategy involving a 'church group,' describing it as 'next level.'\",\n      \"speaker_role\": \"unknown\",\n      \"evidence_ids\": [\n        \"youtube_comment:UgwLsrtFDEq6e_c_UZ14AaABAg\"\n      ],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"shared_knowledge\",\n      \"claim\": \"A seller details their sourcing strategy, buying kitchen appliances from two thrift stores on half-off days for an average of $5.00 each and selling them on eBay for $50+ within a few weeks.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\n        \"youtube_comment:UgwETYx7CbITdO2ZxIN4AaABAg\"\n      ],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"shared_knowledge\",\n      \"claim\": \"A seller reports successfully selling Bose speakers and notes that 'That pod sells great,' indicating good market performance for the item.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\n        \"youtube_comment:UgwOVPUV0VXpJTQ99Dx4AaABAg\"\n      ],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"frustration\",\n      \"claim\": \"A seller asks if DVD/VCR combo players are selling slower or at a lower price, noting their own experience of items 'hanging around longer then i typically would even with dropped pricing lately.'\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\n        \"youtube_comment:UgyU7UFYkWrVFLZnf-N4AaABAg\"\n      ],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"motivation\",\n      \"claim\": \"One commenter requests a detailed video explaining the poster's pricing strategy, including discounting timelines and percentages.\",\n      \"speaker_role\": \"unknown\",\n      \"evidence_ids\": [\n        \"youtube_comment:UgzZ_MBiIBhYjol7Fzl4AaABAg\"\n      ],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"platform_mechanic\",\n      \"claim\": \"One commenter asks for advice on whether to relist an item or update the quantity from zero to one after a cancellation.\",\n      \"speaker_role\": \"unknown\",\n      \"evidence_ids\": [\n        \"youtube_comment:Ugz3SVgHs-WsMvqtLvJ4AaABAg\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"quotes\": [\n    {\n      \"evidence_id\": \"youtube_comment:UgwLsrtFDEq6e_c_UZ14AaABAg\",\n      \"span_id\": \"comment_text:0\"\n    },\n    {\n      \"evidence_id\": \"youtube_comment:UgwETYx7CbITdO2ZxIN4AaABAg\",\n      \"span_id\": \"comment_text:180\"\n    },\n    {\n      \"evidence_id\": \"youtube_comment:UgwOVPUV0VXpJTQ99Dx4AaABAg\",\n      \"span_id\": \"comment_text:0\"\n    },\n    {\n      \"evidence_id\": \"youtube_comment:UgyU7UFYkWrVFLZnf-N4AaABAg\",\n      \"span_id\": \"comment_text:0\"\n    },\n    {\n      \"evidence_id\": \"youtube_comment:UgzZ_MBiIBhYjol7Fzl4AaABAg\",\n      \"span_id\": \"comment_text:0\"\n    },\n    {\n      \"evidence_id\": \"youtube_comment:Ugz3SVgHs-WsMvqtLvJ4AaABAg\",\n      \"span_id\": \"comment_text:0\"\n    }\n  ],\n  \"resolution\": {\n    \"observed\": false,\n    \"description\": \"No resolution was observed in the provided comments.\",\n    \"evidence_ids\": []\n  },\n  \"limitations\": [\n    \"The dates for all comments are unverified.\",\n    \"The immediate parent context for all comments is missing, making it difficult to determine if they are direct replies or general comments.\",\n    \"The specific platform for selling kitchen appliances is only mentioned as eBay by one speaker, not all.\",\n    \"The context of 'sourcing at the church group' is not detailed.\",\n    \"The specific platform for the pricing strategy question is not explicitly stated, though the video title mentions eBay.\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 3368,
+    "candidatesTokenCount": 1102,
+    "totalTokenCount": 5383,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 3368
+      }
+    ],
+    "thoughtsTokenCount": 913,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "Ik-5asrpAYTPz7IPxZfy6AU"
+}

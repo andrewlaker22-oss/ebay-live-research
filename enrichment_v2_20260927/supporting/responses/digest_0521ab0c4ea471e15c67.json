@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"position\",\"claim\":\"The seller is concerned because their funds were put on hold again after the watch was authenticated through eBay's Authenticity Guarantee, despite an eBay agent advising them not to worry.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R1\"],\"confidence\":\"high\"},{\"kind\":\"platform_mechanic\",\"claim\":\"An eBay agent reportedly instructed the buyer to open a return request but not print a shipping label, instead filing a police report and submitting it to eBay.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R1\"],\"confidence\":\"high\"},{\"kind\":\"shared_knowledge\",\"claim\":\"Several commenters advise the seller that their responsibility ends once the watch is authenticated, and they should be protected by eBay from chargebacks or refunds.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R2\",\"R5\"],\"confidence\":\"high\"},{\"kind\":\"platform_mechanic\",\"claim\":\"One commenter explains that funds being on hold is a standard process when a case is opened, and it should eventually close in the seller's favor.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R3\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"The seller expresses confusion about why their funds are on hold again if they are not responsible for the empty package issue.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R1\"],\"confidence\":\"high\"},{\"kind\":\"chat_pattern\",\"claim\":\"The seller expresses gratitude to other users for their advice and clarification regarding the eBay process.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R4\",\"R6\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"R1\",\"span_id\":\"text:180\"},{\"evidence_id\":\"R1\",\"span_id\":\"text:540\"},{\"evidence_id\":\"R2\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R3\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R5\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R6\",\"span_id\":\"text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"The outcome of the seller's case regarding the empty package and held funds is not observed in the provided conversation.\",\"evidence_ids\":[]},\"limitations\":[\"The advice provided is from unknown Reddit users, not official eBay support.\",\"The conversation does not include the buyer's perspective or actions beyond what the seller reports.\",\"The specific eBay policies referenced are not directly quoted or verified.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 2907,
+    "candidatesTokenCount": 513,
+    "totalTokenCount": 4270,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2907
+      }
+    ],
+    "thoughtsTokenCount": 850,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "ZVG5aqahPOTzz7IPnKPpqAs"
+}

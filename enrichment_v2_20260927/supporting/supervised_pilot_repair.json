@@ -1,0 +1,4 @@
+{
+  "time": "2026-09-27T17:09:41.210506+00:00",
+  "note": "Codex inspected the first response: repeated escaped tabs exhausted the output cap. Cost $0.02137570 retained; raw response preserved. Replace free-generated quotes with exact source-span selectors and enforce array limits. One supervised replacement pilot request under the same $8 cap. No automatic retry policy changed; unknown/quota/billing errors remain terminal."
+}

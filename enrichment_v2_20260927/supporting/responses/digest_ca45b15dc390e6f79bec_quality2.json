@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\": [{\"kind\": \"frustration\", \"claim\": \"Two commenters express skepticism or nervousness regarding the authenticity of items, particularly when prices seem low or items appear brand new.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459179971980002090\", \"tiktok_comment:7459219394766390046\"], \"confidence\": \"high\"}, {\"kind\": \"shared_knowledge\", \"claim\": \"One commenter reports verifying a Louis Vuitton bag's authenticity by checking its serial number, which indicated its manufacturing date and location.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459220443791573790\"], \"confidence\": \"high\"}, {\"kind\": \"position\", \"claim\": \"Two commenters report successfully purchasing multiple Louis Vuitton items, with one noting a total cost under a grand for three bags and another paying $317 for one.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459220443791573790\", \"tiktok_comment:7459205802831282986\"], \"confidence\": \"high\"}, {\"kind\": \"platform_mechanic\", \"claim\": \"Commenters share advice on using eBay's features, such as sorting by lowest price, toggling on \\\"authenticity guarantee,\\\" and accessing advanced search options on mobile.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459176438118368042\", \"tiktok_comment:7459424958164501294\"], \"confidence\": \"high\"}, {\"kind\": \"position\", \"claim\": \"One commenter states that \\\"Japanese ebay is the BEST,\\\" while another suggests that Mercari also has a Japan setting for shopping.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459273183214158634\", \"tiktok_comment:7459207657515434795\"], \"confidence\": \"high\"}, {\"kind\": \"motivation\", \"claim\": \"One commenter expresses that they would have never found this type of information on Instagram and values TikTok for such discoveries.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459400437982135083\"], \"confidence\": \"high\"}], \"quotes\": [{\"evidence_id\": \"tiktok_comment:7459179971980002090\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459220443791573790\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459176438118368042\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459273183214158634\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459207657515434795\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459400437982135083\", \"span_id\": \"comment_text:0\"}], \"resolution\": {\"observed\": false, \"description\": \"Not observed.\", \"evidence_ids\": []}, \"limitations\": [\"The collected comments do not provide details on the specific items purchased beyond \\\"LVs\\\" or \\\"Louis Vuitton bag.\\\"\", \"The comments do not specify the exact eBay or Mercari sites (e.g., ebay.com, ebay.jp) being referenced.\", \"The confidence in authenticity checks relies solely on the commenter's statement of checking a serial number, not external verification.\", \"The comments do not provide information on shipping times, seller communication, or return experiences.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 5804,
+    "candidatesTokenCount": 974,
+    "totalTokenCount": 7746,
+    "cachedContentTokenCount": 850,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5804
+      }
+    ],
+    "cacheTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 850
+      }
+    ],
+    "thoughtsTokenCount": 968,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "K0-5ap3yNr38qtsPmPLAuA4"
+}

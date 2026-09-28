@@ -1,0 +1,16 @@
+{
+  "state": "COMPLETE",
+  "done": true,
+  "rows": 1007,
+  "valid_rows": 1007,
+  "errors": [],
+  "output": "C:\\Users\\andre\\Documents\\ebay_research\\flash_batch_runs\\tiktok_direct_ebay_1007_20260925\\FINAL_1007_direct_eBay_TikTok_videos_Flash_Batch_communities_topics.csv",
+  "usage": {
+    "promptTokenCount": 310640,
+    "candidatesTokenCount": 155825,
+    "thoughtsTokenCount": 0
+  },
+  "estimated_batch_usd": 0.408661875,
+  "original_unchanged": true,
+  "review": "Schema and row preservation checked. Spot-check meaning before checking off the dataset."
+}

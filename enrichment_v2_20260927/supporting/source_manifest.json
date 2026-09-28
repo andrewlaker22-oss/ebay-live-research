@@ -1,0 +1,58 @@
+[
+  {
+    "tab": "TikTok Direct eBay",
+    "file": "C:\\Users\\andre\\Documents\\ebay_research\\finalized\\FINAL_1007_direct_eBay_TikTok_videos_Flash_Batch_communities_topics.csv",
+    "copy": "C:\\Users\\andre\\Documents\\ebay_research\\enrichment_v2_20260927\\original_copies\\FINAL_1007_direct_eBay_TikTok_videos_Flash_Batch_communities_topics.csv",
+    "sha256": "50fb50e00ababd451015826fb9c5869b8a2f2b7c1551789f62eeb34b2527cd0e",
+    "rows": 1007
+  },
+  {
+    "tab": "TikTok Communities",
+    "file": "C:\\Users\\andre\\Documents\\ebay_research\\finalized\\FINAL_914_community_TikTok_videos_Flash_Batch_communities_topics.csv",
+    "copy": "C:\\Users\\andre\\Documents\\ebay_research\\enrichment_v2_20260927\\original_copies\\FINAL_914_community_TikTok_videos_Flash_Batch_communities_topics.csv",
+    "sha256": "5a629690b41074a8f2687cf641ab364e336371fa13c1b4b1d95fd3333e6fd525",
+    "rows": 914
+  },
+  {
+    "tab": "TikTok Comments",
+    "file": "C:\\Users\\andre\\Documents\\ebay_research\\finalized\\FINAL_500_TikTok_comments_50_videos_Flash_Batch_communities_topics.csv",
+    "copy": "C:\\Users\\andre\\Documents\\ebay_research\\enrichment_v2_20260927\\original_copies\\FINAL_500_TikTok_comments_50_videos_Flash_Batch_communities_topics.csv",
+    "sha256": "3b9e43535a5817ab8ea6e66df38683333216caedb0d1683e7b502c841a2ab906",
+    "rows": 500
+  },
+  {
+    "tab": "Reddit Broad",
+    "file": "C:\\Users\\andre\\Documents\\ebay_research\\finalized\\FINAL_100_Reddit_conversations_1998_comments_Flash_Batch_communities_topics.csv",
+    "copy": "C:\\Users\\andre\\Documents\\ebay_research\\enrichment_v2_20260927\\original_copies\\FINAL_100_Reddit_conversations_1998_comments_Flash_Batch_communities_topics.csv",
+    "sha256": "cfa14bd57f68457025e05aa0bfe77c16902ff54897ee71fa3321d7a5b5478609",
+    "rows": 2098
+  },
+  {
+    "tab": "Reddit eBay",
+    "file": "C:\\Users\\andre\\Documents\\ebay_research\\finalized\\FINAL_137_rEbay_posts_632_comments_Flash_Batch_communities_topics.csv",
+    "copy": "C:\\Users\\andre\\Documents\\ebay_research\\enrichment_v2_20260927\\original_copies\\FINAL_137_rEbay_posts_632_comments_Flash_Batch_communities_topics.csv",
+    "sha256": "42bddb91a773500def69bb2ac796f202798dcb4528a69bb16fa8ff4da4bdb58a",
+    "rows": 769
+  },
+  {
+    "tab": "YouTube Videos",
+    "file": "C:\\Users\\andre\\Documents\\ebay_research\\finalized\\FINAL_248_YouTube_video_titles_Flash_Batch_communities_topics.csv",
+    "copy": "C:\\Users\\andre\\Documents\\ebay_research\\enrichment_v2_20260927\\original_copies\\FINAL_248_YouTube_video_titles_Flash_Batch_communities_topics.csv",
+    "sha256": "fa96183b8e795cea8c5b0554e715cff9112beb354e2e642584c3a4c12e6c1d94",
+    "rows": 248
+  },
+  {
+    "tab": "YouTube Comments",
+    "file": "C:\\Users\\andre\\Documents\\ebay_research\\finalized\\FINAL_1407_YouTube_comments_Flash_Batch_communities_topics.csv",
+    "copy": "C:\\Users\\andre\\Documents\\ebay_research\\enrichment_v2_20260927\\original_copies\\FINAL_1407_YouTube_comments_Flash_Batch_communities_topics.csv",
+    "sha256": "a008bc25c2d6e42fbc402ba8beb42856634846b4a30a5c78078928979a34884b",
+    "rows": 1407
+  },
+  {
+    "tab": "YouTube Live Chat",
+    "file": "C:\\Users\\andre\\Documents\\ebay_research\\finalized\\FINAL_1435_YouTube_live_chat_rows_Flash_Batch_communities_topics.csv",
+    "copy": "C:\\Users\\andre\\Documents\\ebay_research\\enrichment_v2_20260927\\original_copies\\FINAL_1435_YouTube_live_chat_rows_Flash_Batch_communities_topics.csv",
+    "sha256": "869355095c71c40312b80f7da35c483e41c3ebe928f06297601482172615740c",
+    "rows": 1435
+  }
+]

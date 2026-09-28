@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"platform_mechanic\",\"claim\":\"The TikTok video caption states a price of 4500 for a 3-piece Labubu doll set.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"tiktok_video:local_16e7309a12013a8aea1bc09ec7fdb3297b27c958ed88d52b673ec2846c5ecfa7\"],\"confidence\":\"high\"},{\"kind\":\"chat_pattern\",\"claim\":\"Multiple users are asking for the price of the Labubu dolls despite the price being listed in the video caption.\",\"speaker_role\":\"buyer\",\"evidence_ids\":[\"tiktok_comment:7548092220253438726\",\"tiktok_comment:7535802024676459282\",\"tiktok_comment:7536862377342878471\",\"tiktok_comment:7561766836045398805\"],\"confidence\":\"high\"},{\"kind\":\"motivation\",\"claim\":\"Some users express a desire to purchase the Labubu dolls.\",\"speaker_role\":\"buyer\",\"evidence_ids\":[\"tiktok_comment:7531879334803751681\",\"tiktok_comment:7527911801608110866\",\"tiktok_comment:7548092220253438726\"],\"confidence\":\"high\"},{\"kind\":\"counterexample\",\"claim\":\"One user claims to have purchased a pink Labubu doll for Rs 2500, which is different from the price stated in the video caption.\",\"speaker_role\":\"buyer\",\"evidence_ids\":[\"tiktok_comment:7536841183874040584\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"A user's parents believe the dolls contain 'jins' and are trying to haunt them, preventing the user from buying.\",\"speaker_role\":\"buyer\",\"evidence_ids\":[\"tiktok_comment:7539023278191903506\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"tiktok_video:local_16e7309a12013a8aea1bc09ec7fdb3297b27c958ed88d52b673ec2846c5ecfa7\",\"span_id\":\"caption:24\"},{\"evidence_id\":\"tiktok_comment:7548092220253438726\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"tiktok_comment:7531879334803751681\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"tiktok_comment:7536841183874040584\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"tiktok_comment:7539023278191903506\",\"span_id\":\"comment_text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The conversation is limited to comments on a single TikTok video.\",\"The provided data does not include any direct replies from the seller to the comments.\",\"The meaning of some comments is unclear due to language or brevity.\",\"The exact currency for the prices mentioned is not explicitly stated in all comments, though the video caption implies a currency.\",\"The context of the 'jins' claim is not further elaborated within the provided comments.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 4439,
+    "candidatesTokenCount": 846,
+    "totalTokenCount": 5285,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4439
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "8k25ap3rOcfjqtsPmdzC6Aw"
+}

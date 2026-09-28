@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"shared_knowledge\",\"claim\":\"Commenters discuss the variability of sales times on eBay, noting that some items sell quickly while others can remain in inventory for years.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R1\",\"R3\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"One commenter successfully sold a magnalite roaster for a significant profit on eBay the day after purchasing it at an estate sale.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R2\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"A commenter expresses that views and watchers on eBay do not seem to correlate with sales.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R3\"],\"confidence\":\"high\"},{\"kind\":\"motivation\",\"claim\":\"Several commenters indicate that the video content is helpful and will influence their thrifting and selling strategies.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R4\",\"R7\",\"R8\"],\"confidence\":\"high\"},{\"kind\":\"shared_knowledge\",\"claim\":\"One commenter reports successfully finding items, such as vintage Apple computer cables, that were discussed in the video shortly after watching.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R5\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"A commenter finds it difficult to part with desirable items they have found.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R6\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"A commenter notes that their local Goodwill store has significantly higher prices compared to what is shown in the video.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R9\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"One commenter reports making quick profits by flipping vinyl records purchased on Record Store Day.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R10\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"R1\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R2\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R3\",\"span_id\":\"comment_text:180\"},{\"evidence_id\":\"R5\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R6\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R9\",\"span_id\":\"comment_text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The dates for all comments are unverified.\",\"The speaker roles are inferred as 'unknown' as no explicit roles are provided.\",\"The immediate parent for each reply is missing, preventing analysis of direct conversational flow.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 3291,
+    "candidatesTokenCount": 547,
+    "totalTokenCount": 4753,
+    "cachedContentTokenCount": 776,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 3291
+      }
+    ],
+    "cacheTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 776
+      }
+    ],
+    "thoughtsTokenCount": 915,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "lVG5auiFOemtz7IP_LTQ6A0"
+}

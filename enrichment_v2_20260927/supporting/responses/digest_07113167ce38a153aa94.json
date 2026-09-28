@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"position\",\"claim\":\"A poster expresses concern that eBay is \\\"totally fine\\\" with obvious AI-generated pictures being used to represent items for sale, specifically trading cards, despite a report, and fears buyers will lose money.\",\"speaker_role\":\"poster\",\"evidence_ids\":[\"R1\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"One commenter alleges that eBay's customer service agents are also AI.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R4\"],\"confidence\":\"medium\"},{\"kind\":\"platform_mechanic\",\"claim\":\"A participant discusses that eBay's AI often fails to identify listing violations, citing personal experience with reporting uncensored nudes.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R5\"],\"confidence\":\"high\"},{\"kind\":\"platform_mechanic\",\"claim\":\"One commenter speculates that if a seller uses AI pictures for trading cards and the item goes through eBay's authentication process, it will likely fail, leading to the seller losing money and the card being returned or destroyed if counterfeit.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R5\"],\"confidence\":\"medium\"},{\"kind\":\"chat_pattern\",\"claim\":\"Some commenters ask for more context or make sarcastic remarks about the original post's missing image.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R2\",\"R3\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"R1\",\"span_id\":\"text:180\"},{\"evidence_id\":\"R4\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R5\",\"span_id\":\"text:180\"},{\"evidence_id\":\"R5\",\"span_id\":\"text:360\"},{\"evidence_id\":\"R2\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R3\",\"span_id\":\"text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The conversation is limited to a few Reddit users.\",\"Some claims about eBay's processes are speculative.\",\"The original AI picture in question is not provided.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 2325,
+    "candidatesTokenCount": 433,
+    "totalTokenCount": 3572,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2325
+      }
+    ],
+    "thoughtsTokenCount": 814,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "fVG5avmPM-2fz7IPxY6l4QY"
+}

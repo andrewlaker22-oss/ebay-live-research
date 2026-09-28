@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"findings\": [\n    {\n      \"kind\": \"frustration\",\n      \"claim\": \"One seller expresses frustration with rude buyers on eBay who demand discounts for slow shipment or threaten to cancel orders, especially for unique items.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"R1\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"position\",\n      \"claim\": \"A seller reports cancelling orders and blocking buyers who are rude or attempt to bypass a block, stating they will not cater to such behavior.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"R1\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"platform_mechanic\",\n      \"claim\": \"Sellers discuss the ability to block buyers on eBay and note instances where buyers attempt to bypass these blocks.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"R1\", \"R6\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"shared_knowledge\",\n      \"claim\": \"Sellers discuss a common buyer tactic of requesting significant discounts by claiming an item is for a Christmas present.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"R3\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"counterexample\",\n      \"claim\": \"One seller indicates they are willing to offer courtesies, such as faster shipping at their own expense, if a customer expresses an urgent need politely.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"R4\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"frustration\",\n      \"claim\": \"One seller describes buyers who become angry and ask to be blocked, only to later inquire why they cannot make a purchase.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"R6\"],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"quotes\": [\n    {\n      \"evidence_id\": \"R1\",\n      \"span_id\": \"title:0\"\n    },\n    {\n      \"evidence_id\": \"R1\",\n      \"span_id\": \"text:180\"\n    },\n    {\n      \"evidence_id\": \"R3\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"R4\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"R5\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"R6\",\n      \"span_id\": \"text:0\"\n    }\n  ],\n  \"resolution\": {\n    \"observed\": false,\n    \"description\": \"No resolution is observed; the conversation describes ongoing frustrations and practices among sellers.\",\n    \"evidence_ids\": []\n  },\n  \"limitations\": [\n    \"The specific items being sold are not detailed.\",\n    \"The exact nature of the 'rudeness' is only partially described.\",\n    \"The conversation is limited to a small number of Reddit users.\",\n    \"The full context of buyer-seller interactions is not provided.\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 2937,
+    "candidatesTokenCount": 765,
+    "totalTokenCount": 4500,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2937
+      }
+    ],
+    "thoughtsTokenCount": 798,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "hVG5apbhCuzzz7IPsP-mgQo"
+}

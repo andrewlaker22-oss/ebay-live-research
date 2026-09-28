@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"rows\": [\n    {\n      \"evidence_id\": \"reddit:t1_o6wty4l\",\n      \"communities\": [\"Luxury Fashion\", \"Sneakers/Streetwear\", \"General marketplace\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The commenter discusses selling various types of clothing, including vintage tees, Y2K pieces, luxury designer brands, and technical wear, and mentions selling on eBay and Posh.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_ojbl6p5\",\n      \"communities\": [\"Luxury Fashion\", \"General marketplace\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The comment discusses the price range and selling of a watch on eBay.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_p5gwdxj\",\n      \"communities\": [\"Luxury Fashion\", \"General marketplace\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The commenter discusses an issue with an eBay transaction related to selling watches.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nn4r4bn\",\n      \"communities\": [\"General marketplace\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The commenter discusses a general selling strategy related to shipping costs on a marketplace like Whatnot.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"evidence_id\": \"reddit:t3_1ot63kf\",\n      \"communities\": [\"TCG/Pokemon\", \"General marketplace\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The post describes ordering a 'PSA 9 Ethan’s Ho-Oh' card on eBay and issues with delivery and refunds.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"evidence_id\": \"reddit:t3_1o6m3c3\",\n      \"communities\": [\"Sports Cards\", \"General marketplace\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The post discusses a 'BGS Gold Shimmer Cal Raleigh' baseball card listed on eBay that the poster believes is fake or AI-generated.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nqyur7f\",\n      \"communities\": [\"Luxury Fashion\", \"General marketplace\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The commenter compares prices for a 'powermatic PRX' watch on eBay and Joma.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_oyhqtml\",\n      \"communities\": [\"General marketplace\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The commenter discusses inventory management and customer satisfaction for live selling shows, likely on a platform like Whatnot mentioned in the parent title.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_o4pxs5k\",\n      \"communities\": [\"Sports Cards\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The comment is a name in a thread discussing a card sold on eBay, as indicated by the parent title 'Update on the card I sold to Ryan Gusto’s dad on EBay'.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_oooicwr\",\n      \"communities\": [\"TCG/Pokemon\"],\n      \"source_sufficient\": true,\n      \"reason\": \"The commenter discusses the condition of a 'Pokemon Card' in a thread where an eBay buyer is claiming a childhood card is fake.\",\n      \"confidence\": \"high\"\n    }\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 3549,
+    "candidatesTokenCount": 864,
+    "totalTokenCount": 5261,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 3549
+      }
+    ],
+    "thoughtsTokenCount": 848,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "s0-5arvnG5PxqtsP1b2E4Aw"
+}

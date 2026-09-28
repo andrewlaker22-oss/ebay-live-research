@@ -1,0 +1,4 @@
+{
+  "time": "2026-09-27T17:21:33.326802+00:00",
+  "note": "Provider rejected constrained request with HTTP 400. Original request preserved; its $0.0197617 allowance remains held conservatively. Use short request-local IDs with a saved reversible source mapping to reduce schema complexity and prevent long-ID copying mistakes. No evidence text or original IDs changed in exports. Supervised request-format repair, not automatic retry."
+}

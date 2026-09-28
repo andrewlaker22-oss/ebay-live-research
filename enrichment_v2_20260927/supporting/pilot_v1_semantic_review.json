@@ -1,0 +1,18 @@
+{
+  "time": "2026-09-27T17:14:03.574109+00:00",
+  "approved": false,
+  "notes": "Pilot v1 is NOT approved for analysis: individual reported delays became a generalized average; alleged authenticity was described as confirmed; ambiguous exclamation became bidding frustration; past 2025/2026 dates were called future. Preserve all v1 outputs and costs, label them superseded. Revise attribution/date/context instructions and enable 1024 thinking tokens. Re-test the SAME ten groups once under the existing $8 cap; this is a supervised prompt revision, not automatic error retries.",
+  "jobs": [
+    "digest_8ae4278e072e0110c591",
+    "digest_ca45b15dc390e6f79bec",
+    "digest_dc3a54c11ccb10162889",
+    "digest_ebaf00abc51f58f58440",
+    "digest_b9cba462d7025a1d8dde",
+    "digest_c27f976971229fbc93a0",
+    "digest_1f34cb311c82d81732fe",
+    "digest_4d52f3606c7f7ddca762",
+    "digest_5a7873eacbe9e0ba6d1e",
+    "digest_1b56c4f882e2d79515c1_repair1"
+  ],
+  "spend_so_far": 0.0835375
+}

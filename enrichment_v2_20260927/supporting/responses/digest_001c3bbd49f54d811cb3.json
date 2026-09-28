@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"motivation\",\"claim\":\"The original poster is seeking stories from users who have received fake items from platforms like StockX, GOAT, or eBay.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R1\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"One commenter states that the authenticity of shoes does not matter to them, provided the shoes are durable.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R2\"],\"confidence\":\"high\"},{\"kind\":\"shared_knowledge\",\"claim\":\"One commenter suggests that it has become difficult for people to distinguish between legitimate and fake items, likening it to AI.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R3\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"R1\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R2\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R3\",\"span_id\":\"comment_text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The dataset consists of only a few short comments, limiting the depth of analysis.\",\"The dates for the comments are unverified.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1792,
+    "candidatesTokenCount": 248,
+    "totalTokenCount": 2805,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1792
+      }
+    ],
+    "thoughtsTokenCount": 765,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "9FC5asnPL7esz7IP04S4gA4"
+}

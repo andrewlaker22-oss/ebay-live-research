@@ -1,0 +1,4 @@
+{
+  "time": "2026-09-27T17:22:50.744045+00:00",
+  "note": "Captured Google INVALID_ARGUMENT: constrained schema has too many serving states. Remove API-side enum/array bounds only; keep the exact same strict local validators, short-ID mapping and allowed values in instructions. Preserve rejected requests and their conservative allowances. One supervised schema repair, no automatic retry."
+}

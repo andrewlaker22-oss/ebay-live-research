@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"frustration\",\"claim\":\"The seller is facing a dispute over a $1k trading card lost in customs and is concerned about losing money, especially since they are currently out of work.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R1\"],\"confidence\":\"high\"},{\"kind\":\"position\",\"claim\":\"The seller believes that if USPS loses a package after it has been scanned, USPS is responsible for the refund.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"R1\"],\"confidence\":\"high\"},{\"kind\":\"shared_knowledge\",\"claim\":\"Several commenters question the seller's decision to ship a $1k package without adequate insurance, noting that standard coverage for the shipping method used is significantly less.\",\"speaker_role\":\"collector\",\"evidence_ids\":[\"R2\",\"R3\",\"R6\"],\"confidence\":\"high\"},{\"kind\":\"shared_knowledge\",\"claim\":\"Multiple commenters criticize the seller for shipping a $1k trading card in an envelope, suggesting a more secure packaging method like a box.\",\"speaker_role\":\"collector\",\"evidence_ids\":[\"R4\",\"R5\"],\"confidence\":\"high\"},{\"kind\":\"platform_mechanic\",\"claim\":\"One commenter states that the buyer is entitled to a refund if they never received the card, regardless of the shipping issue.\",\"speaker_role\":\"collector\",\"evidence_ids\":[\"R6\"],\"confidence\":\"high\"},{\"kind\":\"platform_mechanic\",\"claim\":\"A commenter advises that it is the seller's responsibility to handle the issue with USPS once the buyer receives a refund.\",\"speaker_role\":\"collector\",\"evidence_ids\":[\"R6\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"R1\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R1\",\"span_id\":\"text:180\"},{\"evidence_id\":\"R1\",\"span_id\":\"text:360\"},{\"evidence_id\":\"R2\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R3\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R4\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R5\",\"span_id\":\"text:0\"},{\"evidence_id\":\"R6\",\"span_id\":\"text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The collected data does not include the buyer's perspective on the dispute.\",\"The outcome of the dispute or the seller's interaction with USPS is not observed.\",\"The exact terms of USPS insurance for this specific service are not verified by external sources.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 2907,
+    "candidatesTokenCount": 528,
+    "totalTokenCount": 4278,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2907
+      }
+    ],
+    "thoughtsTokenCount": 843,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "-lC5ara2Gp7rqtsPotns2As"
+}

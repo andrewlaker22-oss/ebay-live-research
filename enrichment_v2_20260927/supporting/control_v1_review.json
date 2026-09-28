@@ -1,0 +1,4 @@
+{
+  "time": "2026-09-27T17:19:39.335813+00:00",
+  "notes": "First control batch had one truncated long evidence ID. Its content also inferred named platforms from the collection tab and confused eBay role with speaker role. Preserve output; do not use in final handoff. Use per-request ID enums and row count constraints, controlled role/sponsorship fields, and explicit-source-only platform naming. One supervised revised batch of the same ten rows under the same shared cap."
+}

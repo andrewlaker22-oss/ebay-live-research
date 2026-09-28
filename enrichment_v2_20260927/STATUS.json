@@ -1,0 +1,56 @@
+{
+  "state": "STOPPED",
+  "detail": "ValueError: result.findings[2].kind: invalid enum",
+  "updated": "2026-09-27T17:26:05.069598+00:00",
+  "model": "gemini-2.5-flash",
+  "budget_cap_usd": 8.0,
+  "usage_based_cost_usd": 0.2640562,
+  "reserved_or_uncertain_usd": 0.03935642,
+  "jobs": [
+    {
+      "stage": "blind",
+      "status": "done",
+      "count": 1
+    },
+    {
+      "stage": "blind",
+      "status": "pending",
+      "count": 39
+    },
+    {
+      "stage": "control",
+      "status": "done",
+      "count": 1
+    },
+    {
+      "stage": "control",
+      "status": "pending",
+      "count": 29
+    },
+    {
+      "stage": "control",
+      "status": "superseded",
+      "count": 3
+    },
+    {
+      "stage": "digests",
+      "status": "done",
+      "count": 24
+    },
+    {
+      "stage": "digests",
+      "status": "inflight",
+      "count": 1
+    },
+    {
+      "stage": "digests",
+      "status": "pending",
+      "count": 456
+    },
+    {
+      "stage": "digests",
+      "status": "superseded",
+      "count": 11
+    }
+  ]
+}

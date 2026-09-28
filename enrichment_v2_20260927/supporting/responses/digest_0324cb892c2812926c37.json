@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"motivation\",\"claim\":\"One commenter expresses a need for a comprehensive video tutorial on setting up an eBay account from A to Z.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R1\"],\"confidence\":\"high\"},{\"kind\":\"motivation\",\"claim\":\"Another commenter requests a new video.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R3\"],\"confidence\":\"high\"},{\"kind\":\"motivation\",\"claim\":\"A commenter specifically asks for a video tutorial on how to create a Japan eBay account with a 50k selling limit.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R4\"],\"confidence\":\"high\"},{\"kind\":\"chat_pattern\",\"claim\":\"One commenter expresses gratitude.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"R2\"],\"confidence\":\"high\"}],\"quotes\":[{\"evidence_id\":\"R1\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R2\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R3\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"R4\",\"span_id\":\"comment_text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The dates for the comments are unverified.\",\"The immediate parent context for each comment is missing.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1745,
+    "candidatesTokenCount": 272,
+    "totalTokenCount": 3005,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1745
+      }
+    ],
+    "thoughtsTokenCount": 988,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "T1G5atCRGISc6dkP-fme2A8"
+}

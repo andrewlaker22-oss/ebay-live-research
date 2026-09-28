@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\": [{\"kind\": \"motivation\", \"claim\": \"Some buyers are motivated to find authentic Louis Vuitton bags at lower prices.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459220443791573790\", \"tiktok_comment:7459205802831282986\"], \"confidence\": \"high\"}, {\"kind\": \"frustration\", \"claim\": \"Buyers express concern about the authenticity of designer bags, especially if they appear new but are sold at low prices.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459179971980002090\", \"tiktok_comment:7459219394766390046\"], \"confidence\": \"high\"}, {\"kind\": \"shared_knowledge\", \"claim\": \"Some users believe that Japanese eBay is a good source for vintage designer items.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459273183214158634\"], \"confidence\": \"high\"}, {\"kind\": \"platform_mechanic\", \"claim\": \"Users share tips for navigating eBay, such as sorting by price and toggling on the \\\"authenticity guarantee\\\" feature.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459176438118368042\"], \"confidence\": \"high\"}, {\"kind\": \"platform_mechanic\", \"claim\": \"Users discuss how to access advanced search options on eBay via phone by changing to classic view.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459424958164501294\"], \"confidence\": \"high\"}, {\"kind\": \"shared_knowledge\", \"claim\": \"Mercari is mentioned as another platform with a Japan setting for finding items.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459207657515434795\"], \"confidence\": \"high\"}, {\"kind\": \"position\", \"claim\": \"One buyer confirmed the authenticity of a purchased Louis Vuitton bag by checking its serial number.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459220443791573790\"], \"confidence\": \"high\"}, {\"kind\": \"motivation\", \"claim\": \"Users appreciate TikTok for providing information they might not find on other platforms like Instagram.\", \"speaker_role\": \"buyer\", \"evidence_ids\": [\"tiktok_comment:7459400437982135083\"], \"confidence\": \"high\"}], \"quotes\": [{\"evidence_id\": \"tiktok_comment:7459179971980002090\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459220443791573790\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459273183214158634\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459176438118368042\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459424958164501294\", \"span_id\": \"comment_text:0\"}, {\"evidence_id\": \"tiktok_comment:7459400437982135083\", \"span_id\": \"comment_text:0\"}], \"resolution\": {\"observed\": false, \"description\": \"not observed\", \"evidence_ids\": []}, \"limitations\": [\"The conversation is limited to comments on a single TikTok video, which may not represent broader opinions.\", \"The provided data does not include the original video content, which could offer additional context.\", \"The comments are from a specific time frame and may not reflect current trends or platform features.\", \"Speaker roles are inferred from comment content and may not be exhaustive or entirely accurate.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 5564,
+    "candidatesTokenCount": 995,
+    "totalTokenCount": 6559,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5564
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "Xk65arnSFeODmtkPw4yFoAU"
+}

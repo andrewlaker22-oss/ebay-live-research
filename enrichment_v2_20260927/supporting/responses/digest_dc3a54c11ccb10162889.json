@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\": [{\"kind\": \"position\", \"claim\": \"A seller on eBay was scammed by a buyer who returned a counterfeit Pokemon card after purchasing a genuine one.\", \"speaker_role\": \"seller\", \"evidence_ids\": [\"reddit:t3_1pbo9ic\"], \"confidence\": \"high\"}, {\"kind\": \"platform_mechanic\", \"claim\": \"The seller accepted a return on eBay, which led to receiving a counterfeit card instead of the original.\", \"speaker_role\": \"seller\", \"evidence_ids\": [\"reddit:t3_1pbo9ic\"], \"confidence\": \"high\"}, {\"kind\": \"shared_knowledge\", \"claim\": \"Other users suggest reporting the mail fraud to the postmaster or federal authorities, as it is considered a federal offense.\", \"speaker_role\": \"unknown\", \"evidence_ids\": [\"reddit:t1_nrs1x36\", \"reddit:t1_nrs9lk7\", \"reddit:t1_nrsepwc\", \"reddit:t1_nrsqd5s\", \"reddit:t1_nrthi3q\", \"reddit:t1_nrwkhg2\"], \"confidence\": \"high\"}, {\"kind\": \"platform_mechanic\", \"claim\": \"eBay is investigating the situation after the seller made a report, with the seller hoping not to have to refund the buyer.\", \"speaker_role\": \"seller\", \"evidence_ids\": [\"reddit:t1_nrrxyjg\"], \"confidence\": \"high\"}, {\"kind\": \"shared_knowledge\", \"claim\": \"Some users believe that even if eBay's automated system sides with the buyer, calling them to contest it might result in eBay paying out of pocket to the seller.\", \"speaker_role\": \"unknown\", \"evidence_ids\": [\"reddit:t1_nrrzn21\"], \"confidence\": \"medium\"}, {\"kind\": \"motivation\", \"claim\": \"The original poster is sharing their experience to warn others about the scammer and hopes their post gets acknowledged.\", \"speaker_role\": \"seller\", \"evidence_ids\": [\"reddit:t3_1pbo9ic\", \"reddit:t1_nrrzx05\"], \"confidence\": \"high\"}, {\"kind\": \"chat_pattern\", \"claim\": \"Several users directly mention or tag the alleged scammer's Reddit username, u/GameMasterPat, in the comments.\", \"speaker_role\": \"unknown\", \"evidence_ids\": [\"reddit:t1_nrs0u2k\", \"reddit:t1_nrs6u4a\", \"reddit:t1_nrs7eol\", \"reddit:t1_nrsc9ei\", \"reddit:t1_nrs9mbm\", \"reddit:t1_nrsy1yz\"], \"confidence\": \"high\"}], \"quotes\": [{\"evidence_id\": \"reddit:t3_1pbo9ic\", \"span_id\": \"text:360\"}, {\"evidence_id\": \"reddit:t3_1pbo9ic\", \"span_id\": \"text:180\"}, {\"evidence_id\": \"reddit:t1_nrs1x36\", \"span_id\": \"text:0\"}, {\"evidence_id\": \"reddit:t1_nrrxyjg\", \"span_id\": \"text:0\"}, {\"evidence_id\": \"reddit:t1_nrrzn21\", \"span_id\": \"text:0\"}, {\"evidence_id\": \"reddit:t1_nrs6u4a\", \"span_id\": \"text:0\"}], \"resolution\": {\"observed\": false, \"description\": \"Not observed.\", \"evidence_ids\": []}, \"limitations\": [\"The conversation is from a single Reddit thread and may not represent broader community opinions.\", \"The outcome of the eBay investigation and any legal actions is not provided in the collected data.\", \"The identity of the alleged scammer on Reddit and eBay is inferred by commenters, not confirmed by the platform.\", \"The exact nature of the 'Dawn SIR card' and its value are not detailed.\", \"The collected data does not include any direct responses from the alleged scammer.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 8859,
+    "candidatesTokenCount": 891,
+    "totalTokenCount": 9750,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 8859
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "ZE65au-rMs74qtsP553RuAE"
+}

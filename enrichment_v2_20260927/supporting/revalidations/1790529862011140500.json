@@ -1,0 +1,8 @@
+{
+  "time": "2026-09-27T17:24:22.011140+00:00",
+  "note": "Revalidated preserved complete responses without paid retries. Extra exact source quotes are a formatting warning, not an evidence failure. All retained with explicit format_warnings; no findings or source text deleted. ID, quote, row coverage and schema checks remain enforced.",
+  "jobs": [
+    "digest_011da327a5d646d38220"
+  ],
+  "previous_stop": "ValueError: Digest length limits exceeded"
+}

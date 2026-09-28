@@ -1,0 +1,26 @@
+[
+  {
+    "job_id": "digest_1f34cb311c82d81732fe_quality2",
+    "evidence_ids": ["youtube_comment:Ugyf5205ZedROVY_vId4AaABAg"],
+    "exclude_until_checked": true,
+    "note": "Gemini paraphrase says avoid direct shipping. The source instead claims PO boxes permit direct shipping to bypass authentication. Do not use the paraphrase or treat this unverified advice as platform policy. Read the source."
+  },
+  {
+    "job_id": "digest_5a7873eacbe9e0ba6d1e_quality2",
+    "evidence_ids": ["youtube_live:RHonjdvsRRY:1077", "youtube_live:RHonjdvsRRY:1078"],
+    "exclude_until_checked": true,
+    "note": "Numerical chat messages are ambiguous. They may be prices or bids, but must not be counted as verified bids or purchases. The digest itself notes this uncertainty."
+  },
+  {
+    "job_id": "digest_ca45b15dc390e6f79bec_quality2",
+    "evidence_ids": ["tiktok_comment:7459220443791573790"],
+    "exclude_until_checked": false,
+    "note": "The commenter reports checking a serial/date code. Neither that action nor the AI paraphrase verifies that the handbag is authentic. Retain as a buyer-reported belief and purchase."
+  },
+  {
+    "job_id": "digest_8ae4278e072e0110c591_quality2",
+    "evidence_ids": ["tiktok_comment:7536841183874040584"],
+    "exclude_until_checked": false,
+    "note": "Caption price 4500 is for a three-piece set; comment price Rs 2500 refers to a pink item of unspecified quantity. Do not treat this as a like-for-like price comparison."
+  }
+]

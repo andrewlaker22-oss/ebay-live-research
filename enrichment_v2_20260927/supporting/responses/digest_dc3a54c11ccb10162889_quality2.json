@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"findings\": [\n    {\n      \"kind\": \"position\",\n      \"claim\": \"One seller reports being scammed on eBay after selling a 'Dawn SIR card' and receiving a counterfeit card back during a return process.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"reddit:t3_1pbo9ic\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"platform_mechanic\",\n      \"claim\": \"The seller initiated a report, and eBay is reportedly investigating the situation, with the seller hoping not to have to compensate the buyer.\",\n      \"speaker_role\": \"seller\",\n      \"evidence_ids\": [\"reddit:t1_nrrxyjg\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"shared_knowledge\",\n      \"claim\": \"Several commenters advise the seller to report the incident as mail fraud to the postmaster or federal authorities, suggesting it is a federal offense and a crime.\",\n      \"speaker_role\": \"unknown\",\n      \"evidence_ids\": [\"reddit:t1_nrs1x36\", \"reddit:t1_nrs9lk7\", \"reddit:t1_nrsepwc\", \"reddit:t1_nrsqd5s\", \"reddit:t1_nrthi3q\", \"reddit:t1_nrwkhg2\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"shared_knowledge\",\n      \"claim\": \"One commenter suggests that if eBay's automated system sides with the buyer, the seller should call to contest it, as eBay might pay out of pocket.\",\n      \"speaker_role\": \"unknown\",\n      \"evidence_ids\": [\"reddit:t1_nrrzn21\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"chat_pattern\",\n      \"claim\": \"Multiple commenters tagged a Reddit user, u/GameMasterPat, believing them to be the alleged eBay scammer, and expressed negative sentiments or challenged them.\",\n      \"speaker_role\": \"unknown\",\n      \"evidence_ids\": [\"reddit:t1_nrs0u2k\", \"reddit:t1_nrs6u4a\", \"reddit:t1_nrrtl0q\", \"reddit:t1_nrrwrtc\", \"reddit:t1_nrs7eol\", \"reddit:t1_nrs9mbm\"],\n      \"confidence\": \"high\"\n    },\n    {\n      \"kind\": \"counterexample\",\n      \"claim\": \"One commenter, after tagging the alleged scammer, claimed that 'it was his son on ebay', potentially deflecting the accusation.\",\n      \"speaker_role\": \"unknown\",\n      \"evidence_ids\": [\"reddit:t1_nrsc9ei\"],\n      \"confidence\": \"medium\"\n    },\n    {\n      \"kind\": \"motivation\",\n      \"claim\": \"One commenter added the alleged scammer to a block list to avoid future issues.\",\n      \"speaker_role\": \"unknown\",\n      \"evidence_ids\": [\"reddit:t1_nrry3ov\"],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"quotes\": [\n    {\n      \"evidence_id\": \"reddit:t3_1pbo9ic\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"reddit:t3_1pbo9ic\",\n      \"span_id\": \"text:360\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nrrxyjg\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nrs1x36\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nrrzn21\",\n      \"span_id\": \"text:0\"\n    },\n    {\n      \"evidence_id\": \"reddit:t1_nrsc9ei\",\n      \"span_id\": \"text:0\"\n    }\n  ],\n  \"resolution\": {\n    \"observed\": false,\n    \"description\": \"The outcome of the eBay investigation or any legal actions is not observed in the provided text.\",\n    \"evidence_ids\": []\n  },\n  \"limitations\": [\n    \"The authenticity of the returned card is based solely on the seller's claim.\",\n    \"The identity of the alleged scammer on Reddit and eBay is inferred by commenters, not confirmed.\",\n    \"The conversation does not include any direct statements from the alleged scammer.\",\n    \"The actual eBay policy or resolution process is not detailed, only commenter advice.\",\n    \"The full context of the alleged scammer's past actions is not provided, only implied by commenters.\"\n  ]\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 9099,
+    "candidatesTokenCount": 1112,
+    "totalTokenCount": 11233,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 9099
+      }
+    ],
+    "thoughtsTokenCount": 1022,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "NU-5apXKM7b9qtsPlZ3zyAo"
+}

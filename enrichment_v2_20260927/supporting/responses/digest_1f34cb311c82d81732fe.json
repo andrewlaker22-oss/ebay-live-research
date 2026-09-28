@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\":[{\"kind\":\"frustration\",\"claim\":\"Sellers report that eBay's authentication service has damaged valuable trading cards, leading to a decrease in their potential resale value.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"youtube_comment:UgwMZJkFRvRYo929_IR4AaABAg\",\"youtube_comment:Ugxf10qYlgAU2IW1_3R4AaABAg\",\"youtube_comment:UgxT5qAV4jpKW60MoUB4AaABAg\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"Buyers have received packages from eBay authentication that were either empty or contained items with damaged packaging, such as cards hanging out of sleeves.\",\"speaker_role\":\"buyer\",\"evidence_ids\":[\"youtube_comment:UgyzItjVn8VudcI_pF54AaABAg\",\"youtube_comment:UgxAb09SNubgLsOScmt4AaABAg\"],\"confidence\":\"high\"},{\"kind\":\"platform_mechanic\",\"claim\":\"eBay's authentication terms state that any items considered \\\"gifts\\\" sent with a purchase will be discarded during the authentication process.\",\"speaker_role\":\"seller\",\"evidence_ids\":[\"youtube_comment:UgyAxpk2iGPoxRu0A614AaABAg\"],\"confidence\":\"high\"},{\"kind\":\"shared_knowledge\",\"claim\":\"A workaround for eBay's authentication process for cards over $250.00 is to ship to a PO Box, which may allow direct shipping and bypass the authentication center.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"youtube_comment:Ugyf5205ZedROVY_vId4AaABAg\"],\"confidence\":\"medium\"},{\"kind\":\"frustration\",\"claim\":\"The authentication process adds an average of 8 extra days for packages to arrive.\",\"speaker_role\":\"buyer\",\"evidence_ids\":[\"youtube_comment:UgxAb09SNubgLsOScmt4AaABAg\"],\"confidence\":\"high\"},{\"kind\":\"frustration\",\"claim\":\"There is a perception that entities like PSA and Fanatics are immune to legal action, contributing to a sense of injustice.\",\"speaker_role\":\"unknown\",\"evidence_ids\":[\"youtube_comment:UgxYEXDXDWSVi1wR2Jh4AaABAg\"],\"confidence\":\"low\"}],\"quotes\":[{\"evidence_id\":\"youtube_comment:UgyzItjVn8VudcI_pF54AaABAg\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"youtube_comment:UgwMZJkFRvRYo929_IR4AaABAg\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"youtube_comment:UgyAxpk2iGPoxRu0A614AaABAg\",\"span_id\":\"comment_text:360\"},{\"evidence_id\":\"youtube_comment:UgxAb09SNubgLsOScmt4AaABAg\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"youtube_comment:Ugyf5205ZedROVY_vId4AaABAg\",\"span_id\":\"comment_text:0\"},{\"evidence_id\":\"youtube_comment:UgxYEXDXDWSVi1wR2Jh4AaABAg\",\"span_id\":\"comment_text:0\"}],\"resolution\":{\"observed\":false,\"description\":\"not observed\",\"evidence_ids\":[]},\"limitations\":[\"The dates of the comments are unverified.\",\"The conversation is limited to YouTube comments on a single video.\",\"Speaker roles are inferred from comment content and may not be exhaustive.\",\"The provided content does not include the original video's content, which could offer additional context.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 3620,
+    "candidatesTokenCount": 787,
+    "totalTokenCount": 4407,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 3620
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "2025asPUNNGd6dkP95jpiQ4"
+}

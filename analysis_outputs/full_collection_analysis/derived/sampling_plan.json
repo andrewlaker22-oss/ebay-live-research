@@ -1,0 +1,32 @@
+{
+  "seed": 20260928,
+  "cap_unique_rows": 1200,
+  "control_reserve": 100,
+  "control_strata": {
+    "tt_direct": 15,
+    "tt_comm": 15,
+    "tt_comments": 10,
+    "rd_broad": 20,
+    "rd_ebay": 10,
+    "yt_titles": 8,
+    "yt_comments": 12,
+    "yt_chat": 10
+  },
+  "control_keyword_screen": "\\blive\\b|livestream|whatnot|tiktok ?shop|authentic|counterfeit|\\bfake\\b|\\bscam|\\bbreaks?\\b|rip.?n.?ship|ebay ?live|fanatics",
+  "control_pool_size": 6848,
+  "control_selected": 100,
+  "control_outside_seven_labels": 100,
+  "overlap_with_enrichment_control_completed_rows": [],
+  "routed_reading_plan_by_dataset": {
+    "tt_direct": 190,
+    "tt_comm": 160,
+    "tt_comments": 110,
+    "rd_broad": 300,
+    "rd_ebay": 90,
+    "yt_titles": 90,
+    "yt_comments": 150,
+    "yt_chat": 110
+  },
+  "routed_selection_rule": "Per community section: candidate rows = label-routed rows (AI-coded) UNION keyword hits in source text; deduplicated; seeded random sample within candidates with deliberate inclusion of low-view/low-score rows, contradicting keyword hits, parent/context rows and every dataset that has candidates. Not most-liked-first.",
+  "read_definition": "A row counts as read only when its source text was printed and read in this run (register: reviewed_evidence.csv). Text longer than the print limit (350 chars for comments/chat/captions, 900 for posts/titles context) is marked truncated."
+}

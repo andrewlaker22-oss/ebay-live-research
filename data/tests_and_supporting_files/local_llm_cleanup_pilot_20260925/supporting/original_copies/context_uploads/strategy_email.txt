@@ -1,0 +1,76 @@
+None selected
+
+Skip to content
+Using VaynerX Mail with screen readers
+
+1 of 37,880
+eBay — Bringing Analytics Into the Community / Ecosystem Work
+Inbox
+Summarize this email
+
+David Cortes <david.cortes@vaynermedia.com>
+4:33 PM (21 minutes ago)
+to Carly, me, Abby, Alix, David, Hannah, George, Kelley, Sean, Allan, Caitlin, Sofie
+
+Hi Andy & Carly,
+
+I wanted to pull you more directly into the eBay work because I think the analytics piece is going to be instrumental in helping us get from where we are today to an actual recommendation.
+
+A little context since you’re joining this part of the process later:
+
+We’ve been doing a fairly deep look at the communities that exist around eBay’s business — sports cards, TCG/Pokémon, luxury, watches, coins, sneakers/streetwear, etc. — across the US, UK and Germany. The teams are looking at where these communities spend their attention, how they behave across platforms, what content earns attention, who the authoritative voices are, and how commerce/Live already shows up.
+
+There’s some really interesting stuff emerging. We’re seeing that different platforms play very different roles depending on the community; some behaviors travel across markets while others are highly culturally specific; and some communities already have behaviors that feel very close to what eBay Live could enable.
+
+But the thing I want to make sure we don’t do is simply come back to the client with six interesting community audits and say, “These are all opportunities.”
+
+The hard part — and ultimately the strategy — is deciding where eBay should actually invest.
+
+That’s where I think you guys become incredibly important.
+
+Right now, we have one side of the equation starting to take shape: the community opportunity. We can see where there is attention, momentum, interesting behavior, content velocity, existing commerce behavior, etc.
+
+What we need to put against that is the eBay business opportunity.
+
+Ideally, I’d love for us to build as complete a picture as we reasonably can around things like:
+
+Current scale by category/community — GMV, buyers, sellers, transactions, etc.
+Growth trajectory — what is growing, flat or declining, ideally by market.
+Live performance — where Live already has traction and what that traction looks like.
+Buyer dynamics — existing eBay customers vs. areas that could help acquire new audiences.
+Seller/supply strength — where eBay already has meaningful inventory and seller advantage.
+Competitive position / right to win — where eBay has strength versus competitors and where there may be whitespace.
+Headroom / TAM — where there is meaningful opportunity beyond the business eBay has today.
+Any useful economics such as ASP, value, repeat behavior, conversion, etc., where available.
+I don’t expect us to have every one of those data points for every community. Part of what I’d love your help with is determining which measures actually matter and what we can realistically get our hands on.
+
+Ultimately, I think we’re trying to create a decision framework that brings together three things:
+
+Community Opportunity × eBay Business Opportunity × eBay Right to Play
+
+That should allow us to make some harder choices.
+
+Rather than saying every community matters, we should be able to say: these are the communities we believe eBay should disproportionately invest in now; these are important but require a different level/type of participation; and these are areas we should continue to watch, learn from or test.
+
+And from there, a lot of the other strategic decisions become easier.
+
+If a community has a strong business opportunity, strong attention/behavior and a credible role for eBay, what should eBay actually do there? Which platforms matter? What kind of content should we create? What role should sellers and creators play? Is there a Live opportunity? Does it live within @eBay or @eBayLive, or is there eventually enough scale and distinct behavior to justify something more dedicated?
+
+So I see your work less as an analytics appendix to the strategy and more as one of the inputs that helps us make the strategy.
+
+The client has indicated they can help us with category and market data, and we should absolutely identify what we need from them rather than trying to solve everything ourselves. I’d love your help determining what questions we should be asking, what data we already have access to, and ultimately how we turn the quantitative and qualitative signals into a simple prioritization model we can actually use.
+
+Happy to walk you through the community work and where the strategy currently stands. But wanted to give you the broader context first because I think this could be a really important part of where we land.
+
+Thanks for jumping in — really appreciate the help here.  We will be sending you more onboarding documents tomorrow.
+
+David Cortes
+SVP, Strategy
+
+david.cortes@vaynermedia.com
+APAC | EMEA | LATAM | NA
+vaynermedia.com 
+
+
+
+

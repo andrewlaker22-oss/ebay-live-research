@@ -1,0 +1,81 @@
+dataset,community,independent_units,dependent_units
+tt_direct,Sports Cards,19,0
+tt_direct,TCG/Pokemon,77,0
+tt_direct,Sneakers/Streetwear,145,0
+tt_direct,Luxury Fashion,144,0
+tt_direct,Electronics,157,0
+tt_direct,Toys/Collectibles,118,0
+tt_direct,Coins,0,0
+tt_direct,Other / emerging,367,0
+tt_direct,General marketplace,77,0
+tt_direct,Unclear,9,0
+tt_comm,Sports Cards,62,0
+tt_comm,TCG/Pokemon,87,0
+tt_comm,Sneakers/Streetwear,88,0
+tt_comm,Luxury Fashion,61,0
+tt_comm,Electronics,188,0
+tt_comm,Toys/Collectibles,137,0
+tt_comm,Coins,1,0
+tt_comm,Other / emerging,316,0
+tt_comm,General marketplace,1,0
+tt_comm,Unclear,25,0
+tt_comments,Sports Cards,0,10
+tt_comments,TCG/Pokemon,0,50
+tt_comments,Sneakers/Streetwear,0,114
+tt_comments,Luxury Fashion,0,49
+tt_comments,Electronics,0,55
+tt_comments,Toys/Collectibles,0,97
+tt_comments,Coins,0,0
+tt_comments,Other / emerging,0,83
+tt_comments,General marketplace,0,12
+tt_comments,Unclear,0,34
+rd_broad,Sports Cards,18,362
+rd_broad,TCG/Pokemon,22,515
+rd_broad,Sneakers/Streetwear,3,37
+rd_broad,Luxury Fashion,12,191
+rd_broad,Electronics,9,118
+rd_broad,Toys/Collectibles,5,72
+rd_broad,Coins,2,34
+rd_broad,Other / emerging,17,302
+rd_broad,General marketplace,22,526
+rd_broad,Unclear,2,70
+rd_ebay,Sports Cards,4,16
+rd_ebay,TCG/Pokemon,15,59
+rd_ebay,Sneakers/Streetwear,2,11
+rd_ebay,Luxury Fashion,8,29
+rd_ebay,Electronics,9,40
+rd_ebay,Toys/Collectibles,7,27
+rd_ebay,Coins,2,9
+rd_ebay,Other / emerging,25,59
+rd_ebay,General marketplace,63,374
+rd_ebay,Unclear,2,7
+yt_titles,Sports Cards,23,0
+yt_titles,TCG/Pokemon,29,0
+yt_titles,Sneakers/Streetwear,18,0
+yt_titles,Luxury Fashion,18,0
+yt_titles,Electronics,16,0
+yt_titles,Toys/Collectibles,17,0
+yt_titles,Coins,0,0
+yt_titles,Other / emerging,29,0
+yt_titles,General marketplace,109,0
+yt_titles,Unclear,4,0
+yt_comments,Sports Cards,0,137
+yt_comments,TCG/Pokemon,0,225
+yt_comments,Sneakers/Streetwear,0,111
+yt_comments,Luxury Fashion,0,113
+yt_comments,Electronics,0,64
+yt_comments,Toys/Collectibles,0,62
+yt_comments,Coins,0,0
+yt_comments,Other / emerging,0,227
+yt_comments,General marketplace,0,412
+yt_comments,Unclear,0,138
+yt_chat,Sports Cards,0,777
+yt_chat,TCG/Pokemon,0,319
+yt_chat,Sneakers/Streetwear,0,0
+yt_chat,Luxury Fashion,0,0
+yt_chat,Electronics,0,3
+yt_chat,Toys/Collectibles,0,7
+yt_chat,Coins,0,0
+yt_chat,Other / emerging,0,36
+yt_chat,General marketplace,0,149
+yt_chat,Unclear,0,137

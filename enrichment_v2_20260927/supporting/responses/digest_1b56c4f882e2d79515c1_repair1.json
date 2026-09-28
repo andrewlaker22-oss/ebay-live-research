@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"findings\": [{\"kind\": \"position\", \"claim\": \"The original poster believes a Rolex Yacht-Master listed on eBay is 100% fake due to discrepancies in the movement, engravings, and alignment of text.\", \"speaker_role\": \"collector\", \"evidence_ids\": [\"reddit:t3_1oqfzzy\"], \"confidence\": \"high\"}, {\"kind\": \"platform_mechanic\", \"claim\": \"eBay's authentication service is intended to catch fake items, and listings can proceed to sale with an \\\"authenticity guaranteed\\\" label even if reported as counterfeit.\", \"speaker_role\": \"collector\", \"evidence_ids\": [\"reddit:t3_1oqfzzy\"], \"confidence\": \"high\"}, {\"kind\": \"frustration\", \"claim\": \"The original poster is frustrated that eBay did not remove a reported counterfeit listing, suggesting the platform relies solely on its authentication service.\", \"speaker_role\": \"collector\", \"evidence_ids\": [\"reddit:t3_1oqfzzy\"], \"confidence\": \"high\"}, {\"kind\": \"shared_knowledge\", \"claim\": \"Genuine Rolex 3235 movements use a free sprung balance, while replica watches often use a cheaper, easier-to-manufacture regulated balance.\", \"speaker_role\": \"collector\", \"evidence_ids\": [\"reddit:t3_1oqfzzy\"], \"confidence\": \"high\"}, {\"kind\": \"position\", \"claim\": \"Another user agrees with the assessment that the watch is fake, specifically noting the presence of a regulator in the movement picture.\", \"speaker_role\": \"unknown\", \"evidence_ids\": [\"reddit:t1_nnj2u4k\"], \"confidence\": \"high\"}, {\"kind\": \"frustration\", \"claim\": \"A user expresses anger that eBay no longer removes reported fake watches, even obvious ones, and questions the infallibility of human authenticators.\", \"speaker_role\": \"unknown\", \"evidence_ids\": [\"reddit:t1_nnkr87o\"], \"confidence\": \"high\"}, {\"kind\": \"motivation\", \"claim\": \"The original poster's motivation for reporting the fake listing is to prevent someone from being \\\"screwed over\\\" by purchasing a counterfeit item.\", \"speaker_role\": \"collector\", \"evidence_ids\": [\"reddit:t3_1oqfzzy\"], \"confidence\": \"high\"}, {\"kind\": \"counterexample\", \"claim\": \"One user initially suggested the seller looked legitimate and advised using a credit card for double protection, before the watch was confirmed fake.\", \"speaker_role\": \"unknown\", \"evidence_ids\": [\"reddit:t1_nniqs9r\"], \"confidence\": \"high\"}], \"quotes\": [{\"evidence_id\": \"reddit:t3_1oqfzzy\", \"span_id\": \"text:180\"}, {\"evidence_id\": \"reddit:t3_1oqfzzy\", \"span_id\": \"text:900\"}, {\"evidence_id\": \"reddit:t3_1oqfzzy\", \"span_id\": \"text:2340\"}, {\"evidence_id\": \"reddit:t3_1oqfzzy\", \"span_id\": \"text:3060\"}, {\"evidence_id\": \"reddit:t1_nnj2u4k\", \"span_id\": \"text:0\"}, {\"evidence_id\": \"reddit:t1_nnkr87o\", \"span_id\": \"text:0\"}], \"resolution\": {\"observed\": false, \"description\": \"Not observed.\", \"evidence_ids\": []}, \"limitations\": [\"The conversation is limited to a single Reddit thread and may not represent broader opinions.\", \"The long-term outcome for the buyer after authentication is not observed.\", \"The seller's intent (knowingly selling a fake vs. unaware) is not definitively resolved.\", \"The effectiveness of eBay's authentication service in this specific case is not yet known.\"]}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 4876,
+    "candidatesTokenCount": 832,
+    "totalTokenCount": 5708,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4876
+      }
+    ],
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "1k25atOwFI7kqtsPp4WDiAk"
+}

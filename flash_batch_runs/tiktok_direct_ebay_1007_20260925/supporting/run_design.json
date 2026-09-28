@@ -1,0 +1,30 @@
+{
+  "model": "gemini-3.8-flash",
+  "method": "Google Batch API",
+  "input_columns": [
+    "caption",
+    "ad_description",
+    "ebay_item"
+  ],
+  "output_columns": [
+    "flash_community",
+    "flash_specific_category",
+    "flash_topic",
+    "flash_short_summary",
+    "flash_confidence",
+    "flash_evidence_row_id"
+  ],
+  "rows": 1007,
+  "videos": 1007,
+  "requests": 101,
+  "thinking": "low",
+  "batch_rates_usd_per_million": {
+    "input": 0.375,
+    "output_including_thinking": 1.875
+  },
+  "planning_estimate_usd": [
+    0.25,
+    0.6
+  ],
+  "note": "One approved CSV only. No automatic paid retries or next-dataset processing. Existing AI tags are not independently verified video evidence."
+}
