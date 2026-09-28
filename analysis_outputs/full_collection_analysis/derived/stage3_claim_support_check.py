@@ -1,4 +1,5 @@
-"""Claim support check (beyond ID resolution). For every row cited in claim_ledger.csv, a key phrase taken from the
+"""Citation/phrase check (mechanical; renamed after the checker handback of 2026-09-28). It verifies phrase PRESENCE in the read window only, not that the inference, identity, category or causal claim is correct; substantive review stays with the checker. Original docstring follows.
+Claim support check (beyond ID resolution). For every row cited in claim_ledger.csv, a key phrase taken from the
 row's READ WINDOW (the first read_chars characters that were printed and read in this run; see reviewed_evidence.csv)
 must be present in that window. A phrase is the specific words that make the row support the claim it is cited for,
 not a topic word. Rows whose phrase is missing, or whose window does not carry the support, are flagged per claim.
@@ -11,6 +12,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 IDX = pd.read_csv(os.path.join(HERE, "unified_evidence_index.csv"), dtype=str, keep_default_na=False)
 REG = pd.read_csv(os.path.join(HERE, "..", "reviewed_evidence.csv"), dtype=str, keep_default_na=False)
 READ_CHARS = REG.groupby("evidence_id").read_chars.apply(lambda s: max(int(x) for x in s)).to_dict()
+TRUNC = {e: (g.read_chars.astype(int).max() < len(IDX.set_index("evidence_id").text.get(e, ""))) and not (g.truncated.str.lower() == "false").any() for e, g in REG.groupby("evidence_id")}
 ROW = {r.evidence_id: r for r in IDX.drop_duplicates("evidence_id").itertuples()}
 SHARED = set(IDX[IDX.file == "rd_broad"].evidence_id) & set(IDX[IDX.file == "rd_ebay"].evidence_id)
 def norm(s): return re.sub(r"\s+", " ", s.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')).strip()
@@ -221,20 +223,21 @@ for c in led:
         if miss: missing.append({"id": eid, "phrases_not_in_read_window": miss})
     authors = sorted({author(e) for e in ids})
     shared = [e for e in ids + cids if e in SHARED]
-    status = "supported" if not missing and not nokey else "FLAGGED"
-    if c["Claim ID"] in FLAGS: status = "supported with notes" if status == "supported" else "FLAGGED"
+    status = "phrase check passed; substantive review pending" if not missing and not nokey else "PHRASE MISSING: flag"
+    if c["Claim ID"] in FLAGS: status = "phrase check passed with notes; substantive review pending" if status.startswith("phrase check passed") else "PHRASE MISSING: flag"
     if not ids: status = "code count (no cited rows)"
     report[c["Claim ID"]] = {"status": status, "rows_checked": checked, "missing": missing, "no_key_phrase": nokey,
-                             "distinct_authors": len(authors), "authors": authors, "shared_reddit_rows": shared, "notes": FLAGS.get(c["Claim ID"], [])}
-    c["Support check"] = status + (f"; {len(missing)} row(s) missing phrase" if missing else "") + (f"; {len(nokey)} row(s) without key phrase" if nokey else "") + ("; notes: " + " | ".join(FLAGS[c["Claim ID"]]) if c["Claim ID"] in FLAGS else "")
+                             "distinct_authors": len(authors), "authors": authors, "ids": ids + cids, "truncated_read_rows": [e for e in ids + cids if TRUNC.get(e, False)], "shared_reddit_rows": shared, "notes": FLAGS.get(c["Claim ID"], [])}
+    c["Citation/phrase check (mechanical)"] = status + (f"; {len(missing)} row(s) missing phrase" if missing else "") + (f"; {len(nokey)} row(s) without key phrase" if nokey else "") + ("; notes: " + " | ".join(FLAGS[c["Claim ID"]]) if c["Claim ID"] in FLAGS else "")
+    c["Truncated-read rows among cited (full text not read unless re-read)"] = str(sum(1 for e in ids + cids if TRUNC.get(e, False))) + "/" + str(len(ids + cids))
     c["Distinct authors behind cited rows"] = f"{len(authors)} ({', '.join(a.split(':',1)[1] for a in authors)})" if authors else ""
     c["Shared Reddit rows cited"] = "; ".join(shared) if shared else "none"
     new_rows.append(c)
 json.dump(report, open(os.path.join(HERE, "stage3_claim_support_report.json"), "w"), indent=1)
 with open(os.path.join(HERE, "..", "claim_ledger.csv"), "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=list(new_rows[0].keys())); w.writeheader(); w.writerows(new_rows)
-tot = len(report); ok = sum(v["status"].startswith("supported") for v in report.values())
-print(f"claims {tot}; supported {ok}; flagged {sum(v['status']=='FLAGGED' for v in report.values())}; code-count {sum(v['status'].startswith('code') for v in report.values())}")
+tot = len(report); ok = sum(v["status"].startswith("phrase check passed") for v in report.values())
+print(f"claims {tot}; phrase check passed {ok}; flagged {sum(v['status'].startswith('PHRASE') for v in report.values())}; code-count {sum(v['status'].startswith('code') for v in report.values())}; truncated-read cited rows {sum(1 for e in set(e for v in report.values() for e in v.get('ids', [])) if TRUNC.get(e))}")
 for k, v in report.items():
     if v["missing"] or v["no_key_phrase"]:
         print(k, v["status"], json.dumps(v["missing"])[:600], v["no_key_phrase"][:5])

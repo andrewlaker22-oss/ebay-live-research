@@ -1,11 +1,12 @@
 {
  "XC-F1": {
-  "status": "supported with notes",
-  "rows_checked": 30,
+  "status": "phrase check passed with notes; substantive review pending",
+  "rows_checked": 31,
   "missing": [],
   "no_key_phrase": [],
-  "distinct_authors": 25,
+  "distinct_authors": 26,
   "authors": [
+   "reddit:Nighttime_Ninja_5893",
    "reddit:TopicActual",
    "reddit:sharpie_da_p",
    "tiktok:abughazi277",
@@ -32,6 +33,46 @@
    "youtube-commenter:@TheRepoMan360",
    "youtube-commenter:@whatevertheshit"
   ],
+  "ids": [
+   "tiktok_video:local_c67838ae2adfd72a953a41d8235469d9f84250b5d84fd3bd0730cba35da103ef",
+   "tiktok_video:local_88af59ae9a2fa322212e2c329b587b18d8ed944d676cd9e0e6716bcc388db04f",
+   "tiktok_video:local_e9c4f012cf86f5f7fa3865c61be45b12bfab9472fd72a5915d4b0a79c0e8b299",
+   "tiktok_video:local_da33bf27eaa5bf7d7831bc3cfed79ec4e31bd8ab04e1278c036ea74605ff020e",
+   "tiktok_video:local_8c6ebc992b6110b1bd4e0cf74809ea7d1b866d105e4a57329f13b1efaf7506d4",
+   "tiktok_video:local_30074f1583efcfb4aad49ff70664596a9f392c9126d6949e054fc772d2706b7f",
+   "tiktok_video:local_0f95bcedae470924ff9ae778f25d16d6ec80acf973be2784193b8a601006f3de",
+   "tiktok_video:local_e74400576be7640392b593b2c0fb91d4de32cebee15a55d68b09762416b6e628",
+   "tiktok_video:local_c782f692bc978712553acc428d84478c360c37b87d09db49380b52f9c7e7ffe6",
+   "tiktok_video:local_627a60aa32564e1765c07b784adc7847a1e261d24042134c5aefff9396f73bd6",
+   "tiktok_video:local_08c305fe10f02e9da6cd1106830e4d5afb2ecd6566b30a50c1909b0e6c6af89f",
+   "tiktok_video:local_0a5a262f3aea878b77373b9e0995a0c00f0f768574288919baee14f293d0a9a3",
+   "tiktok_video:local_57f2669b2b4fbea8985a3fb3d96af8a784a7d757ac84e5efed712cd847089831",
+   "tiktok_video:local_f76262022d76f3c6cc8bc0539be77f7d7a20b5e0412c12f2f899731385872b17",
+   "tiktok_video:local_63c645f28c308b02d9f1e46d2941920b624b0a856df26617477548b829ee6cae",
+   "tiktok_video:local_e1a367bc55ce75a0f43f151080b6e16c5d159ed94d4119413eab444363f63672",
+   "tiktok_video:local_51ab5800ba9189e3523179e838ff72ba69ed0a16f7f64c69878b5f2e594de755",
+   "tiktok_video:local_447635e84544972027c69f6ac1e6192795bca96d68aa3ef867b94bfdfdde130b",
+   "tiktok_video:local_ef97316133dd506a0e663cf2c1d1c294c58cf077e8580508ea7015471420d73f",
+   "tiktok_video:local_8ab883e5b6de9a3d366deedffd5c45e1cd2e5691bb0011b800a4d100a73b040a",
+   "tiktok_video:local_ae88b4846925f57aeaaaa8c0bc7f2496cb6f0e7e7fa2b38416af0c1c635e2191",
+   "tiktok_video:local_dc6720288fd76eea647275bdfe8a3601229db1c22da4104ec7bb465f7c4ca1b2",
+   "reddit:t3_1vub4yy",
+   "reddit:t3_1pttt05",
+   "reddit:t1_nvjpmsu",
+   "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg",
+   "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg",
+   "reddit:t1_p56jodo",
+   "reddit:t1_p50mp5r",
+   "youtube_video:P-F3SpVz-CQ",
+   "reddit:t1_p56yrbz"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_88af59ae9a2fa322212e2c329b587b18d8ed944d676cd9e0e6716bcc388db04f",
+   "tiktok_video:local_da33bf27eaa5bf7d7831bc3cfed79ec4e31bd8ab04e1278c036ea74605ff020e",
+   "tiktok_video:local_f76262022d76f3c6cc8bc0539be77f7d7a20b5e0412c12f2f899731385872b17",
+   "tiktok_video:local_51ab5800ba9189e3523179e838ff72ba69ed0a16f7f64c69878b5f2e594de755",
+   "tiktok_video:local_8ab883e5b6de9a3d366deedffd5c45e1cd2e5691bb0011b800a4d100a73b040a"
+  ],
   "shared_reddit_rows": [],
   "notes": [
    "local_e1a367bc: the caption is a hashtag mention (#ebaylivestream) with no announcement; role unknown. Statement corrected: 8 untagged captions are announcements or a tool ad, 1 is a hashtag-only mention.",
@@ -39,7 +80,7 @@
   ]
  },
  "XC-F2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 30,
   "missing": [],
   "no_key_phrase": [],
@@ -72,13 +113,60 @@
    "youtube-commenter:@MoDzAudio",
    "youtube-commenter:@jerseyneil1"
   ],
+  "ids": [
+   "reddit:t3_1todhm0",
+   "reddit:t3_1r8eukv",
+   "reddit:t3_1u2j162",
+   "reddit:t3_1o7ekel",
+   "youtube_comment:UgySNeVlZQU48YJR_Dd4AaABAg",
+   "reddit:t1_niwjhum",
+   "reddit:t1_ovl1bk3",
+   "reddit:t1_ns0iwn6",
+   "reddit:t1_ns19b9p",
+   "reddit:t1_odl74kz",
+   "reddit:t1_odkd14k",
+   "reddit:t3_1s8y9k4",
+   "reddit:t3_1q53zhu",
+   "youtube_comment:Ugy-N4vfOHdqoFxnakZ4AaABAg",
+   "reddit:t1_p5ij8ks",
+   "reddit:t3_1tz0dbm",
+   "youtube_comment:Ugy1zfbMf-NlX2W_69p4AaABAg",
+   "youtube_comment:UgwAqcvWStAcfOH6nl94AaABAg",
+   "reddit:t1_ofgfyui",
+   "reddit:t1_opkfisj",
+   "reddit:t1_p7yaxpk",
+   "reddit:t3_1qpssd0",
+   "tiktok_video:local_a210513c87638e131a381011464f3c91b4a7507f4bd1ef2693f741a2be1f261c",
+   "reddit:t3_1llzc73",
+   "reddit:t1_n03y0q8",
+   "reddit:t1_n03l086",
+   "reddit:t1_njn42rr",
+   "reddit:t1_o65m5pj",
+   "reddit:t1_o64ua2i",
+   "reddit:t3_1om25vd"
+  ],
+  "truncated_read_rows": [
+   "reddit:t3_1r8eukv",
+   "reddit:t1_ovl1bk3",
+   "reddit:t1_ns19b9p",
+   "reddit:t3_1s8y9k4",
+   "reddit:t1_p5ij8ks",
+   "reddit:t3_1tz0dbm",
+   "reddit:t1_ofgfyui",
+   "reddit:t3_1llzc73",
+   "reddit:t1_n03l086",
+   "reddit:t1_njn42rr",
+   "reddit:t1_o65m5pj",
+   "reddit:t1_o64ua2i",
+   "reddit:t3_1om25vd"
+  ],
   "shared_reddit_rows": [
    "reddit:t3_1u2j162"
   ],
   "notes": []
  },
  "XC-F3": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 9,
   "missing": [],
   "no_key_phrase": [],
@@ -92,6 +180,22 @@
    "reddit:roxywalker",
    "reddit:sharpie_da_p"
   ],
+  "ids": [
+   "reddit:t1_owwn39k",
+   "reddit:t1_omvn0rt",
+   "reddit:t1_oeva9nx",
+   "reddit:t1_oydr557",
+   "reddit:t1_oyo6r47",
+   "reddit:t3_1vub4yy",
+   "reddit:t1_p50jtgt",
+   "reddit:t1_oyfrxmd",
+   "reddit:t1_p4zsiqf"
+  ],
+  "truncated_read_rows": [
+   "reddit:t1_owwn39k",
+   "reddit:t1_omvn0rt",
+   "reddit:t1_oeva9nx"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
@@ -102,11 +206,13 @@
   "no_key_phrase": [],
   "distinct_authors": 0,
   "authors": [],
+  "ids": [],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "XC-F5": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 9,
   "missing": [],
   "no_key_phrase": [],
@@ -122,11 +228,26 @@
    "tiktok:schatzjaegerjr",
    "tiktok:sophieloshier"
   ],
+  "ids": [
+   "tiktok_video:local_061e0f6f9b783fca632ad1cc60868277921695a253562cd97a8f735514b85af8",
+   "tiktok_video:local_e1b518bb12ea89e7544409cb64029950f5745507369bd200d16240f7053dc2ec",
+   "tiktok_video:local_39bd7ce14f69545359d9593775c3c87817a1979231709044bba25548684744a1",
+   "tiktok_video:local_4e90086ba29711ca9484bb9f85d61efc17878f8361fa5c081162fbe06cccfde1",
+   "tiktok_video:local_e9c4f012cf86f5f7fa3865c61be45b12bfab9472fd72a5915d4b0a79c0e8b299",
+   "tiktok_video:local_db4809acd5d0539e2ea4bccf0c3bb0b0244e5ad6fbc35283e9f5c9caefa79f72",
+   "tiktok_video:local_4defa3ab36606c90aaa4e18935301126242dbfe0423cea2c8e11aa0a2777f0d9",
+   "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778",
+   "reddit:t1_omyw8vx"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_4e90086ba29711ca9484bb9f85d61efc17878f8361fa5c081162fbe06cccfde1",
+   "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "SC-F1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 15,
   "missing": [],
   "no_key_phrase": [],
@@ -145,6 +266,28 @@
    "tiktok:kingofthekards",
    "tiktok:synergycards"
   ],
+  "ids": [
+   "tiktok_video:local_9cc53f16b5a9d3f86ac5c5a4d135d659be319a3e3e6d0c515748b3c4541e05b3",
+   "tiktok_video:local_496c6391555f2f4dd9958b3281c74342cabd8badd63444a0e3341b508d75dfa9",
+   "tiktok_video:local_41e91d5641b31b2478e864d575ba0a6aea3c4b4f0bb2bf78ddbfd364e1dc1770",
+   "tiktok_video:local_332a15b59821a217fec37ae2242091a8e105f87fea47a2eb9c2e2df5ac726246",
+   "reddit:t3_1todhm0",
+   "reddit:t3_1om25vd",
+   "reddit:t3_1u5s64o",
+   "reddit:t3_1uvql6e",
+   "reddit:t3_1om8vct",
+   "reddit:t3_1o6m3c3",
+   "reddit:t3_1qkscsr",
+   "reddit:t3_1thre78",
+   "reddit:t1_niwjhum",
+   "reddit:t1_ovl1bk3",
+   "reddit:t3_1r1a00m"
+  ],
+  "truncated_read_rows": [
+   "reddit:t3_1om25vd",
+   "reddit:t3_1o6m3c3",
+   "reddit:t1_ovl1bk3"
+  ],
   "shared_reddit_rows": [
    "reddit:t3_1u5s64o",
    "reddit:t3_1om8vct"
@@ -152,7 +295,7 @@
   "notes": []
  },
  "SC-F2": {
-  "status": "supported with notes",
+  "status": "phrase check passed with notes; substantive review pending",
   "rows_checked": 22,
   "missing": [],
   "no_key_phrase": [],
@@ -166,13 +309,43 @@
    "youtube-channel:TRIKE Sports Cards",
    "youtube-channel:Wayne Collection"
   ],
+  "ids": [
+   "tiktok_video:local_a45d15cb095327354f6eefce9abb111ada63c2cc2aa60f59ebefcad0352c71e2",
+   "tiktok_video:local_ddb3b62a73219178d0b5da761e558331c5b8912c43e70b4ec3829ccd7230b183",
+   "tiktok_video:local_475e17ccc95775985f118c87c4050bd1ad2f7cdf4cbfd6ff8c443accca94b11e",
+   "tiktok_video:local_345a885eec51cda70280fe41d9d8a44231583b22d69b07f11112dc53d65671e0",
+   "youtube_video:_rDm8b0LVNQ",
+   "youtube_video:iPU9AoWlaBw",
+   "youtube_video:LPZ7wtjacn4",
+   "youtube_video:EfYNvpJtWmQ",
+   "youtube_video:bElKFZcvfg0",
+   "youtube_video:zlDlWR6W7h0",
+   "youtube_video:sWYyT7Ex69o",
+   "youtube_video:Srwgb5wXrZw",
+   "youtube_video:bPXCFwpSq8c",
+   "youtube_video:tSw3RM7K1xM",
+   "youtube_video:Zjj_1OX-Gbs",
+   "youtube_video:FaILPcpLD1s",
+   "youtube_video:SzVWf_A4BUo",
+   "youtube_video:MtNpAZWnn6I",
+   "youtube_video:xeMKnCDtNhM",
+   "youtube_video:QyAXNatU8Mo",
+   "tiktok_video:local_d15330509e53c653d0d84112e31a0027be86c3ebfc90683f877af230b1cfd8e3",
+   "reddit:t1_p50mp5r"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_ddb3b62a73219178d0b5da761e558331c5b8912c43e70b4ec3829ccd7230b183",
+   "tiktok_video:local_475e17ccc95775985f118c87c4050bd1ad2f7cdf4cbfd6ff8c443accca94b11e",
+   "tiktok_video:local_345a885eec51cda70280fe41d9d8a44231583b22d69b07f11112dc53d65671e0",
+   "tiktok_video:local_d15330509e53c653d0d84112e31a0027be86c3ebfc90683f877af230b1cfd8e3"
+  ],
   "shared_reddit_rows": [],
   "notes": [
    "Repeated creators: the 4 read TikTok Shop captions are one creator (burtonbreaks); the 10 eBay-break titles come from 4 channels (Bomber Sports Cards 5, Roper's Rips 3, Best Card Breaks 1, SD Breaks 1); the entertainment titles come from 2 channels (TRIKE 3, Wayne Collection 3)."
   ]
  },
  "SC-F3": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 1,
   "missing": [],
   "no_key_phrase": [],
@@ -180,11 +353,15 @@
   "authors": [
    "youtube-commenter:@TheRepoMan360"
   ],
+  "ids": [
+   "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "SC-F4": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 12,
   "missing": [],
   "no_key_phrase": [],
@@ -202,11 +379,31 @@
    "reddit:cornyape",
    "reddit:tungdiep"
   ],
+  "ids": [
+   "reddit:t1_oydr557",
+   "reddit:t1_oyo6r47",
+   "reddit:t1_oz5yrln",
+   "reddit:t1_oyfrxmd",
+   "reddit:t1_p1ynv3d",
+   "reddit:t1_omvn0rt",
+   "reddit:t1_owwn39k",
+   "reddit:t1_p7hz8rr",
+   "reddit:t1_p7hxipn",
+   "reddit:t1_p7nasw9",
+   "reddit:t1_no39bxl",
+   "reddit:t1_nn69yj9"
+  ],
+  "truncated_read_rows": [
+   "reddit:t1_omvn0rt",
+   "reddit:t1_owwn39k",
+   "reddit:t1_p7nasw9",
+   "reddit:t1_nn69yj9"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "SC-F5": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -215,11 +412,18 @@
    "tiktok:burtonbreaks",
    "tiktok:ynadamashalamadrid"
   ],
+  "ids": [
+   "tiktok_video:local_0f3f1249ce15b9d745a17fe29d951047d6893d3b02276edb3b97d3c62b5e050b",
+   "tiktok_video:local_a45d15cb095327354f6eefce9abb111ada63c2cc2aa60f59ebefcad0352c71e2"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_0f3f1249ce15b9d745a17fe29d951047d6893d3b02276edb3b97d3c62b5e050b"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "SC-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 5,
   "missing": [],
   "no_key_phrase": [],
@@ -230,11 +434,22 @@
    "tiktok:chipsrippn",
    "tiktok:juwhang"
   ],
+  "ids": [
+   "reddit:t3_1todhm0",
+   "tiktok_video:local_a42343e416b932055ae2bc5e940f2a7b3a05db08a82a6f2140fa2e656b70c75f",
+   "tiktok_video:local_edf5696ec12bbfb6b9f0a437b3d18de42fe31557babf2fba3bb5e95a50a18c0c",
+   "reddit:t1_niwjhum",
+   "reddit:t1_ovl1bk3"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_a42343e416b932055ae2bc5e940f2a7b3a05db08a82a6f2140fa2e656b70c75f",
+   "reddit:t1_ovl1bk3"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "SC-H2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 3,
   "missing": [],
   "no_key_phrase": [],
@@ -244,11 +459,17 @@
    "tiktok:doubleyoicards",
    "tiktok:synergycards"
   ],
+  "ids": [
+   "tiktok_video:local_496c6391555f2f4dd9958b3281c74342cabd8badd63444a0e3341b508d75dfa9",
+   "tiktok_video:local_41e91d5641b31b2478e864d575ba0a6aea3c4b4f0bb2bf78ddbfd364e1dc1770",
+   "reddit:t3_1vub4yy"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "PK-F1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 10,
   "missing": [],
   "no_key_phrase": [],
@@ -262,11 +483,29 @@
    "tiktok:stinszn",
    "tiktok:sujoee"
   ],
+  "ids": [
+   "tiktok_video:local_1459027233631e98693c123858c3bf0452a74d9523669429c2f7a5ea79dcca08",
+   "tiktok_video:local_4b8b0af81b73929295327284e2ad87673d1c8cb539b3bf4b824d4d9fae707704",
+   "tiktok_video:local_2a99087ef9862b8bf038d9f9d8b28b279658f739f138e4f1f9452d4f64b63780",
+   "tiktok_video:local_cbfaedb7e7662b23fe2d4b46f26821e197819a9457399b48fa74329d388dc7be",
+   "tiktok_video:local_de2688c18ad4d5bf2f3387b9ae724cb47042387b9c92b3305f361f00fee18afa",
+   "tiktok_video:local_d780fa1b1c4c85170b7c05ad0e1743574791d31d4c9a2ff66f345266e6f53aa7",
+   "tiktok_video:local_4e77c895243ae8d1ded3c0c389df02b2c57ea76f737adaecbb673f46583ffb7b",
+   "tiktok_video:local_4e90086ba29711ca9484bb9f85d61efc17878f8361fa5c081162fbe06cccfde1",
+   "tiktok_video:local_0bfd1c9e119a18b2f385c1494b75b70bbcfbda1e509aed5c111540a47ea5af20",
+   "tiktok_video:local_53082fbbc8746c750ac14bfa62cecdb893e9de49acad1a19f148d82f41e4f4f7"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_2a99087ef9862b8bf038d9f9d8b28b279658f739f138e4f1f9452d4f64b63780",
+   "tiktok_video:local_4e77c895243ae8d1ded3c0c389df02b2c57ea76f737adaecbb673f46583ffb7b",
+   "tiktok_video:local_4e90086ba29711ca9484bb9f85d61efc17878f8361fa5c081162fbe06cccfde1",
+   "tiktok_video:local_0bfd1c9e119a18b2f385c1494b75b70bbcfbda1e509aed5c111540a47ea5af20"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "PK-F2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 14,
   "missing": [],
   "no_key_phrase": [],
@@ -286,13 +525,40 @@
    "reddit:pepperthief11",
    "youtube-commenter:@JJfreshOfficial"
   ],
+  "ids": [
+   "reddit:t3_1pbo9ic",
+   "reddit:t3_1qd1fa4",
+   "reddit:t3_1u15aox",
+   "reddit:t3_1r8eukv",
+   "reddit:t3_1u2j162",
+   "reddit:t3_1r3ngpa",
+   "reddit:t3_1qvaf6c",
+   "reddit:t3_1o7ekel",
+   "reddit:t1_njn3ck9",
+   "youtube_comment:UgySNeVlZQU48YJR_Dd4AaABAg",
+   "reddit:t1_o64ybsb",
+   "reddit:t1_o64htk9",
+   "reddit:t1_o64o8wg",
+   "reddit:t1_o9yqku1"
+  ],
+  "truncated_read_rows": [
+   "reddit:t3_1pbo9ic",
+   "reddit:t3_1qd1fa4",
+   "reddit:t3_1u15aox",
+   "reddit:t3_1r8eukv",
+   "reddit:t3_1r3ngpa",
+   "reddit:t3_1qvaf6c",
+   "reddit:t1_o64ybsb",
+   "reddit:t1_o64htk9",
+   "reddit:t1_o64o8wg"
+  ],
   "shared_reddit_rows": [
    "reddit:t3_1u2j162"
   ],
   "notes": []
  },
  "PK-F3": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 3,
   "missing": [],
   "no_key_phrase": [],
@@ -302,11 +568,17 @@
    "tiktok-commenter:exoticmorty",
    "tiktok-commenter:veddady"
   ],
+  "ids": [
+   "tiktok_comment:7686279334882460446",
+   "tiktok_comment:7686267440066134814",
+   "youtube_live:19bmF518whA:1393"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "PK-F4": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 5,
   "missing": [],
   "no_key_phrase": [],
@@ -318,11 +590,24 @@
    "tiktok:pokeswpz",
    "tiktok:tidycollectables"
   ],
+  "ids": [
+   "tiktok_video:local_88af59ae9a2fa322212e2c329b587b18d8ed944d676cd9e0e6716bcc388db04f",
+   "tiktok_video:local_da33bf27eaa5bf7d7831bc3cfed79ec4e31bd8ab04e1278c036ea74605ff020e",
+   "tiktok_video:local_8ab883e5b6de9a3d366deedffd5c45e1cd2e5691bb0011b800a4d100a73b040a",
+   "tiktok_video:local_51ab5800ba9189e3523179e838ff72ba69ed0a16f7f64c69878b5f2e594de755",
+   "tiktok_video:local_e1a367bc55ce75a0f43f151080b6e16c5d159ed94d4119413eab444363f63672"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_88af59ae9a2fa322212e2c329b587b18d8ed944d676cd9e0e6716bcc388db04f",
+   "tiktok_video:local_da33bf27eaa5bf7d7831bc3cfed79ec4e31bd8ab04e1278c036ea74605ff020e",
+   "tiktok_video:local_8ab883e5b6de9a3d366deedffd5c45e1cd2e5691bb0011b800a4d100a73b040a",
+   "tiktok_video:local_51ab5800ba9189e3523179e838ff72ba69ed0a16f7f64c69878b5f2e594de755"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "PK-F5": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 5,
   "missing": [],
   "no_key_phrase": [],
@@ -334,11 +619,23 @@
    "reddit:icantsppell",
    "youtube-commenter:@Drew-Bravo"
   ],
+  "ids": [
+   "reddit:t1_o9yqku1",
+   "reddit:t1_oqnhajy",
+   "reddit:t1_oony44l",
+   "reddit:t3_1pcpv9c",
+   "youtube_comment:UgxYEXDXDWSVi1wR2Jh4AaABAg"
+  ],
+  "truncated_read_rows": [
+   "reddit:t1_oqnhajy",
+   "reddit:t1_oony44l",
+   "reddit:t3_1pcpv9c"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "PK-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -347,11 +644,16 @@
    "tiktok:deeppocketmonster",
    "tiktok:sujoee"
   ],
+  "ids": [
+   "tiktok_video:local_1459027233631e98693c123858c3bf0452a74d9523669429c2f7a5ea79dcca08",
+   "tiktok_video:local_4b8b0af81b73929295327284e2ad87673d1c8cb539b3bf4b824d4d9fae707704"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "PK-H2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 1,
   "missing": [],
   "no_key_phrase": [],
@@ -359,11 +661,15 @@
   "authors": [
    "reddit:gazillionaire1"
   ],
+  "ids": [
+   "reddit:t1_njn3ck9"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "SN-F1": {
-  "status": "supported with notes",
+  "status": "phrase check passed with notes; substantive review pending",
   "rows_checked": 16,
   "missing": [],
   "no_key_phrase": [],
@@ -384,13 +690,35 @@
    "tiktok:tracenew66",
    "youtube-commenter:@MoDzAudio"
   ],
+  "ids": [
+   "tiktok_video:local_13d7da97af48c02c84bedfee7fc47a0a04e2c1697109b8e388215f6314abfb9e",
+   "tiktok_video:local_53a90dd568b6fc681bbbc189c61c75a312a07a22a07d5c03965ed61b0c915a2b",
+   "tiktok_video:local_7551ae4b38154198cb22fca8dd31c51ac0f9b6f2792c1c619e7c264e023e77c2",
+   "tiktok_video:local_39bd7ce14f69545359d9593775c3c87817a1979231709044bba25548684744a1",
+   "tiktok_video:local_e1b518bb12ea89e7544409cb64029950f5745507369bd200d16240f7053dc2ec",
+   "tiktok_video:local_bf98b74df4e3e5bcb83c006ac379d8da8368147147fd27f47810bdf2fed053d9",
+   "tiktok_video:local_3663ef62f58286de01387c4ebafba32c316f93e43fa2ce61b2ec3618606ad05a",
+   "reddit:t3_1nzw8nl",
+   "reddit:t1_niwc5vg",
+   "reddit:t3_1s8y9k4",
+   "reddit:t3_1q53zhu",
+   "reddit:t1_ns0iwn6",
+   "reddit:t1_ns19b9p",
+   "youtube_comment:Ugy-N4vfOHdqoFxnakZ4AaABAg",
+   "tiktok_video:local_9834883a31b26545d1be859a03a72cdb489521b328417a43e7a8249b6d0b8fe1",
+   "tiktok_video:local_70b7ebe20ee81271bc5e3b2b08960a6ac11222c00542eecaab7b9a4b19891bf4"
+  ],
+  "truncated_read_rows": [
+   "reddit:t3_1s8y9k4",
+   "reddit:t1_ns19b9p"
+  ],
   "shared_reddit_rows": [],
   "notes": [
    "t1_ns0iwn6 and t3_1pcpv9c (cited in PK-F5) are the same person (DeGuyWithDeOpinion): one AU buyer, not two."
   ]
  },
  "SN-F2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 4,
   "missing": [],
   "no_key_phrase": [],
@@ -400,11 +728,20 @@
    "reddit:mikeybo2004",
    "youtube-commenter:@bigwig2258"
   ],
+  "ids": [
+   "youtube_comment:UgxbPBFfSv3Tyf-ofop4AaABAg",
+   "reddit:t1_odl74kz",
+   "reddit:t1_odkd14k",
+   "reddit:t1_ns19b9p"
+  ],
+  "truncated_read_rows": [
+   "reddit:t1_ns19b9p"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "SN-F3": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 4,
   "missing": [],
   "no_key_phrase": [],
@@ -415,11 +752,18 @@
    "tiktok:kishamameridian",
    "tiktok:tracenew66"
   ],
+  "ids": [
+   "tiktok_video:local_7551ae4b38154198cb22fca8dd31c51ac0f9b6f2792c1c619e7c264e023e77c2",
+   "tiktok_video:local_e1b518bb12ea89e7544409cb64029950f5745507369bd200d16240f7053dc2ec",
+   "tiktok_video:local_39bd7ce14f69545359d9593775c3c87817a1979231709044bba25548684744a1",
+   "reddit:t1_ns0iwn6"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "SN-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -428,11 +772,18 @@
    "reddit:KingJason31",
    "tiktok:kishamameridian"
   ],
+  "ids": [
+   "tiktok_video:local_39bd7ce14f69545359d9593775c3c87817a1979231709044bba25548684744a1",
+   "reddit:t1_ns19b9p"
+  ],
+  "truncated_read_rows": [
+   "reddit:t1_ns19b9p"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "SN-H2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 1,
   "missing": [],
   "no_key_phrase": [],
@@ -440,11 +791,15 @@
   "authors": [
    "tiktok:flyshtdrew"
   ],
+  "ids": [
+   "tiktok_video:local_70b7ebe20ee81271bc5e3b2b08960a6ac11222c00542eecaab7b9a4b19891bf4"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "LX-HB-F1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 11,
   "missing": [],
   "no_key_phrase": [],
@@ -462,19 +817,35 @@
    "youtube-channel:Jay",
    "youtube-channel:Takireaaa"
   ],
+  "ids": [
+   "tiktok_video:local_e355b2cca0668449f435497d0fa11615ca35a5528a3be768c863ef76c5b6ae3d",
+   "tiktok_video:local_0bd4eacddc0258a05c80bada442bde34fdf384a4a1fbd9d14460b7b3b7f412b1",
+   "tiktok_video:local_d6e870d2c623ba4eeb158e7c5b550e4be05537271113b9d9d6118101f4307e3c",
+   "tiktok_video:local_71ce9e5c54daf89257545d03a2cc77974cd7b32b3f2241e76a7728912d7fc6a2",
+   "tiktok_video:local_d0324d979a188f4e8e2c7164ff6103d224c57713a362d43e6a9b06dd4460883e",
+   "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778",
+   "tiktok_video:local_cdcaeca83e9c10478867330a5338e43a1b9b05fc43987c8ba100ba36fc95ab09",
+   "youtube_video:-TgKIoItPPM",
+   "youtube_video:8ATRm1Bp1sU",
+   "reddit:t1_ofgfyui",
+   "tiktok_video:local_5afb86bf92bfa35ff8ff15568958d2214e8b3755ed7fbf639db59cc37b3ba2cb"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_71ce9e5c54daf89257545d03a2cc77974cd7b32b3f2241e76a7728912d7fc6a2",
+   "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778",
+   "reddit:t1_ofgfyui"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "LX-HB-F2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 11,
   "missing": [],
   "no_key_phrase": [],
-  "distinct_authors": 10,
+  "distinct_authors": 8,
   "authors": [
-   "reddit:Comfortable_Chef_364",
    "reddit:ExtraGib",
-   "reddit:User264785824",
    "reddit:Visit_Excellent",
    "reddit:petrifiedpunkx",
    "reddit:qsx11",
@@ -483,11 +854,30 @@
    "tiktok:qcconsigns",
    "youtube-commenter:@MDR6531-hn2yz"
   ],
+  "ids": [
+   "reddit:t1_ofgfyui",
+   "reddit:t3_1sbzdvx",
+   "reddit:t3_1shwwz7",
+   "youtube_comment:UgwAqcvWStAcfOH6nl94AaABAg",
+   "reddit:t3_1qpssd0",
+   "reddit:t1_p8kecsh",
+   "tiktok_video:local_a210513c87638e131a381011464f3c91b4a7507f4bd1ef2693f741a2be1f261c",
+   "tiktok_video:local_3e70873d7b6e8f9c43b0617116235378aaaeaa7b32dbeef01152e123342811f2",
+   "youtube_comment:UgwAqcvWStAcfOH6nl94AaABAg",
+   "reddit:t1_opkfisj",
+   "reddit:t1_p7yaxpk"
+  ],
+  "truncated_read_rows": [
+   "reddit:t1_ofgfyui",
+   "reddit:t3_1sbzdvx",
+   "reddit:t3_1shwwz7",
+   "tiktok_video:local_3e70873d7b6e8f9c43b0617116235378aaaeaa7b32dbeef01152e123342811f2"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "LX-HB-F3": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 5,
   "missing": [],
   "no_key_phrase": [],
@@ -497,6 +887,14 @@
    "reddit:KarmatheGOAT01",
    "reddit:rickabe"
   ],
+  "ids": [
+   "reddit:t3_1oe3rv0",
+   "reddit:t1_nkykxsw",
+   "reddit:t1_nlai4ln",
+   "reddit:t1_nkynsy1",
+   "reddit:t1_p5gv32z"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [
    "reddit:t3_1oe3rv0",
    "reddit:t1_nkykxsw",
@@ -505,7 +903,7 @@
   "notes": []
  },
  "LX-HB-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -514,11 +912,19 @@
    "tiktok:annava__",
    "tiktok:kellahawk"
   ],
+  "ids": [
+   "tiktok_video:local_71ce9e5c54daf89257545d03a2cc77974cd7b32b3f2241e76a7728912d7fc6a2",
+   "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_71ce9e5c54daf89257545d03a2cc77974cd7b32b3f2241e76a7728912d7fc6a2",
+   "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "LX-HB-H2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 3,
   "missing": [],
   "no_key_phrase": [],
@@ -528,20 +934,28 @@
    "tiktok:luxuryharborus",
    "youtube-channel:Luxury Designer Bag"
   ],
+  "ids": [
+   "tiktok_video:local_0ada9f218a43775e20e0a39e87901a6e07bdc5d396cfa1244fc1cd11da08cc90",
+   "youtube_video:P-F3SpVz-CQ",
+   "tiktok_video:local_cec361e65637851079915daae0a0dc7c3fc3fcb628354621fe87857f5bd7465e"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "LX-W-F1": {
-  "status": "supported with notes",
-  "rows_checked": 16,
+  "status": "phrase check passed with notes; substantive review pending",
+  "rows_checked": 18,
   "missing": [],
   "no_key_phrase": [],
-  "distinct_authors": 14,
+  "distinct_authors": 16,
   "authors": [
    "reddit:Bithbo",
+   "reddit:Comfortable_Chef_364",
    "reddit:NeutralMilkHotel_00",
    "reddit:Rangercleo1",
    "reddit:ShallotStrong3227",
+   "reddit:User264785824",
    "reddit:Willing_Crew_8055",
    "reddit:improvthismoment",
    "reddit:itworkaccount_new",
@@ -553,13 +967,41 @@
    "youtube-commenter:@MDR6531-hn2yz",
    "youtube-commenter:@jerseyneil1"
   ],
+  "ids": [
+   "reddit:t3_1vweez9",
+   "reddit:t1_p5gahje",
+   "reddit:t1_p5gb6s4",
+   "reddit:t1_p5gbcao",
+   "reddit:t1_p5ij8ks",
+   "reddit:t3_1tz0dbm",
+   "reddit:t1_oq7fajb",
+   "reddit:t3_1oqfzzy",
+   "reddit:t3_1p7d9qr",
+   "reddit:t1_nqybkth",
+   "youtube_comment:Ugy1zfbMf-NlX2W_69p4AaABAg",
+   "youtube_comment:UgwAqcvWStAcfOH6nl94AaABAg",
+   "reddit:t1_p5gv32z",
+   "tiktok_video:local_ac2e94cb73e26ece12c3779f78bd128648d8c86c4cd5d5008976d88c2608809f",
+   "tiktok_video:local_d21a49d827bd1ff3d5b5004547870111d9efcccf4c3776a5dc29c18fc750a6a4",
+   "reddit:t1_opkfisj",
+   "reddit:t1_p7yaxpk",
+   "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg"
+  ],
+  "truncated_read_rows": [
+   "reddit:t3_1vweez9",
+   "reddit:t1_p5ij8ks",
+   "reddit:t3_1tz0dbm",
+   "reddit:t1_oq7fajb",
+   "reddit:t3_1oqfzzy",
+   "reddit:t3_1p7d9qr"
+  ],
   "shared_reddit_rows": [],
   "notes": [
    "local_d21a49d8 is hashtags only (#watchhospital \u2026 #ebay); 'watch repair' is inferred from the hashtag and handle, not stated. t1_p5gb6s4 and t1_p5gbcao are the same commenter (improvthismoment)."
   ]
  },
  "LX-W-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 4,
   "missing": [],
   "no_key_phrase": [],
@@ -569,11 +1011,20 @@
    "youtube-channel:Brian E. Niskala",
    "youtube-commenter:@jerseyneil1"
   ],
+  "ids": [
+   "reddit:t1_p5ij8ks",
+   "youtube_comment:Ugy1zfbMf-NlX2W_69p4AaABAg",
+   "youtube_video:hWJ0uGyO1Pk",
+   "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg"
+  ],
+  "truncated_read_rows": [
+   "reddit:t1_p5ij8ks"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "LX-VD-F1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 6,
   "missing": [],
   "no_key_phrase": [],
@@ -586,11 +1037,20 @@
    "tiktok:nixscents",
    "youtube-channel:TheFragranceStandard"
   ],
+  "ids": [
+   "tiktok_video:local_d886ed8f744638875812a74795906be056da863f84761aec80f66b8728729033",
+   "tiktok_video:local_061e0f6f9b783fca632ad1cc60868277921695a253562cd97a8f735514b85af8",
+   "tiktok_video:local_43581f51c83927d2be62c2bf6038cca40e6ba00e48c3d5c209e519df071e3c63",
+   "tiktok_video:local_714e362b6b93a783bb048370192c054431ce9c2f374d775653839d3c72ccfa62",
+   "tiktok_video:local_43dc3f742c4fca48a55be512fbc647cb122edf2d481045c7d4164d36fbd245e2",
+   "youtube_video:urGSyXd0wCo"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "EL-F1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 19,
   "missing": [],
   "no_key_phrase": [],
@@ -615,11 +1075,36 @@
    "tiktok:thegizmogarage",
    "tiktok:topfoxdeals"
   ],
+  "ids": [
+   "tiktok_video:local_71c0aed93a91f43015cd7d4da3074e2108d8c22e4b45737a10d60fb9ad802cc0",
+   "tiktok_video:local_ced297394efad9a77f06400da71cd123c622b33df4e1d7f2d2456e4163c2ed8a",
+   "tiktok_video:local_c31e30959548adcde9b9081a868319f77d47317e4d16759af2e143aad793a0de",
+   "tiktok_video:local_b905f0ac85d9216c8f32df4f1e0131448f8e1bec843fc7e65a966d9743920c7f",
+   "tiktok_video:local_03bf92808684d4ed2a7ffeb76d334106289c4f6d07feb48f1ee3e9071460a7c9",
+   "tiktok_video:local_27a9e453accd09c6c23abfded25afc2db55d0d1d539a269bd778d41ce18dba2d",
+   "tiktok_video:local_58c394ee4f577092a40022d8db608a0f70f88ecef87b49c4b8809d6d2e7d3f0f",
+   "tiktok_video:local_ffb785432e3e2fd93c80aa382d8015d349cbd43b7e9f30f8b3b0f3a7e9f9f47c",
+   "tiktok_video:local_af01bbb0745cf633ad07f33595c83e920db9c30291fb98739e02db9c93644661",
+   "tiktok_video:local_d1016b2aee1111928e29c17a34d80f530eaa0f0e1a9b771d10b7d861eafc0bf9",
+   "tiktok_video:local_6ef354d11a5fe232218e48d6419048e1ba19dac971095ded4820dc9d7d9915bd",
+   "tiktok_video:local_ce987d6e44b76413c7d1dc5e830d12a4940adb3b8ef521cd9b218af71e8ffbcc",
+   "reddit:t3_1wphbkz",
+   "tiktok_video:local_dfb628f8bb2528eda2e0c09cdd1c37ee5d10b81a9dc5b79057def1c35b7de5bf",
+   "tiktok_video:local_2346635f9946fbb4f862e6f20fdb41841c56b99e66af17a06fbccea788ef078c",
+   "reddit:t3_1r91qdw",
+   "reddit:t3_1ojc3n1",
+   "reddit:t1_nm1ytgc",
+   "tiktok_video:local_372655ccab8e088f9d883944f2aa9ddbd04dcc0fb5e4da02ee00ccd7e6b4f6b7"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_03bf92808684d4ed2a7ffeb76d334106289c4f6d07feb48f1ee3e9071460a7c9",
+   "reddit:t3_1wphbkz"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "EL-F2": {
-  "status": "supported with notes",
+  "status": "phrase check passed with notes; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -627,13 +1112,21 @@
   "authors": [
    "tiktok:finestflips"
   ],
+  "ids": [
+   "tiktok_video:local_03bf92808684d4ed2a7ffeb76d334106289c4f6d07feb48f1ee3e9071460a7c9",
+   "tiktok_video:local_1af7f3b9b2f226d2dfc118b7c2a482f970c087887b59c198e3fa21a131695c14"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_03bf92808684d4ed2a7ffeb76d334106289c4f6d07feb48f1ee3e9071460a7c9",
+   "tiktok_video:local_1af7f3b9b2f226d2dfc118b7c2a482f970c087887b59c198e3fa21a131695c14"
+  ],
   "shared_reddit_rows": [],
   "notes": [
    "Repeated creator: both what-sold rows are one creator (finestflips)."
   ]
  },
  "EL-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 4,
   "missing": [],
   "no_key_phrase": [],
@@ -644,11 +1137,21 @@
    "tiktok:salemtechsperts",
    "tiktok:thegizmogarage"
   ],
+  "ids": [
+   "tiktok_video:local_c31e30959548adcde9b9081a868319f77d47317e4d16759af2e143aad793a0de",
+   "tiktok_video:local_6ef354d11a5fe232218e48d6419048e1ba19dac971095ded4820dc9d7d9915bd",
+   "reddit:t3_1wphbkz",
+   "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5"
+  ],
+  "truncated_read_rows": [
+   "reddit:t3_1wphbkz",
+   "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "EL-H2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 4,
   "missing": [],
   "no_key_phrase": [],
@@ -658,11 +1161,18 @@
    "tiktok:itssarahgracee",
    "tiktok:topfoxdeals"
   ],
+  "ids": [
+   "tiktok_video:local_ffb785432e3e2fd93c80aa382d8015d349cbd43b7e9f30f8b3b0f3a7e9f9f47c",
+   "tiktok_video:local_af01bbb0745cf633ad07f33595c83e920db9c30291fb98739e02db9c93644661",
+   "tiktok_video:local_27a9e453accd09c6c23abfded25afc2db55d0d1d539a269bd778d41ce18dba2d",
+   "tiktok_video:local_dfb628f8bb2528eda2e0c09cdd1c37ee5d10b81a9dc5b79057def1c35b7de5bf"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "TY-F1": {
-  "status": "supported with notes",
+  "status": "phrase check passed with notes; substantive review pending",
   "rows_checked": 32,
   "missing": [],
   "no_key_phrase": [],
@@ -696,6 +1206,53 @@
    "tiktok:uzirpudding",
    "tiktok:wellslifka"
   ],
+  "ids": [
+   "tiktok_video:local_d18974a6d89427cdf38d9f43ce12f094884ee774baa0c7172838fccf7af3fa8d",
+   "tiktok_video:local_a379d2916057f327ccd77622fa131c4a6068268a70c7fc6886987e715890590e",
+   "tiktok_video:local_0e1abd6b9be087b8243cec21e63f33dbacd357eb359cb36bfd2caa74cc17d16e",
+   "tiktok_video:local_631e6ad9caedbe5ed0602d9223359e1490afbf8b118d142f055c8cfb4000562b",
+   "tiktok_video:local_3ca5b7c3bad19a465db8699f62a9b255f8ec4863c0777d93f1abc8d293f7afd9",
+   "tiktok_video:local_bf4de5e601a75a64b5d24a9e51671538941f4e4c97d5f4daefab36823c0bd03e",
+   "tiktok_video:local_4472cc815eceb65ba2bb52daedeadfe527f6b7a76fcab9955aff7e8464e8a4b0",
+   "tiktok_video:local_cfb33c9b1b580c0ddf5d85d2c053bc2f35ddb299978f82a81e62cdb9c889c98e",
+   "tiktok_video:local_9aa09393c4e511f1b9711e378d2c72a569fdaf876b6858066bbbcfffb248f875",
+   "tiktok_video:local_e46e35faa1add5a6e765a1cffd18e55b9223d41ba447580b1155d732886c877e",
+   "reddit:t3_1skd4mg",
+   "reddit:t3_1txny14",
+   "reddit:t1_opzx1zy",
+   "reddit:t1_odxel8c",
+   "tiktok_video:local_352f0ba98a361347b2fd78a2ba7547d65cc4f52f091c7ae6fca37204b252d66a",
+   "tiktok_video:local_4defa3ab36606c90aaa4e18935301126242dbfe0423cea2c8e11aa0a2777f0d9",
+   "tiktok_video:local_e3650793a27711c0b8beebc170244673f262e68c216611a4dda227ffff49fe23",
+   "tiktok_video:local_45817e9aa1a1ae683f282e3d2b5acf290a88f9b479faec5abe5f1b2d79b3b992",
+   "tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f",
+   "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5",
+   "tiktok_video:local_13a61846bf301004ba3aad841138b6a9242040be233733d75a62cbd2e183c143",
+   "tiktok_video:local_667ec305f0a6ffc24213c189d63809ff03b0baeb0d06ad27d8b224ef993d57f2",
+   "tiktok_video:local_1244835c61b6d87d69beb86d5f2dd21417c366acae25a54b6dba59335f235595",
+   "tiktok_video:local_7d25e976f18e82140000bbdc3695d32d8e3e5491b2d373be2858d881a0702a12",
+   "tiktok_video:local_17dd25520748e0c98e498efbcd040975a57cff0833bf4f8ff1c66d74bc501b40",
+   "tiktok_video:local_1af7f3b9b2f226d2dfc118b7c2a482f970c087887b59c198e3fa21a131695c14",
+   "tiktok_video:local_3135e0e8ffd4ecd274fa377ca352d09c345a4447be1c4f730fb8a696d0cc0b54",
+   "tiktok_video:local_24b4ad5ae83bdff6de0bac99c3eddbc8d8ca31abff5d3f97e08b707f1766b62c",
+   "tiktok_video:local_11c6d0893a1b25476d633ebd84d66f2428ee027c5d0d72c8ba0c83d71cce1b80",
+   "tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f",
+   "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5",
+   "tiktok_video:local_4472cc815eceb65ba2bb52daedeadfe527f6b7a76fcab9955aff7e8464e8a4b0"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_4472cc815eceb65ba2bb52daedeadfe527f6b7a76fcab9955aff7e8464e8a4b0",
+   "reddit:t3_1skd4mg",
+   "reddit:t3_1txny14",
+   "tiktok_video:local_e3650793a27711c0b8beebc170244673f262e68c216611a4dda227ffff49fe23",
+   "tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f",
+   "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5",
+   "tiktok_video:local_13a61846bf301004ba3aad841138b6a9242040be233733d75a62cbd2e183c143",
+   "tiktok_video:local_1af7f3b9b2f226d2dfc118b7c2a482f970c087887b59c198e3fa21a131695c14",
+   "tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f",
+   "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5",
+   "tiktok_video:local_4472cc815eceb65ba2bb52daedeadfe527f6b7a76fcab9955aff7e8464e8a4b0"
+  ],
   "shared_reddit_rows": [],
   "notes": [
    "Repeated creator: the two train captions naming eBay (local_99a07423, local_3cc532cf) are from two creators (idktrains, robertscreations); local_13a61846 and local_4defa3ab are also idktrains. Statement corrected to name creators.",
@@ -703,7 +1260,7 @@
   ]
  },
  "TY-F2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -712,11 +1269,16 @@
    "tiktok-commenter:rbyxqb",
    "tiktok:mlpkingdom"
   ],
+  "ids": [
+   "tiktok_video:local_6db83504746b2179c840f96de558d4ea154cdc62a532455040761a4d05dc8628",
+   "tiktok_comment:7641731808408814367"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "TY-F3": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 1,
   "missing": [],
   "no_key_phrase": [],
@@ -724,11 +1286,15 @@
   "authors": [
    "tiktok:whatnot"
   ],
+  "ids": [
+   "tiktok_video:local_7f7b4dda73c9c16a9bc3f8d09c5b6f4228f4f9c25ca2c64bd8d55eaf69098beb"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "TY-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -737,11 +1303,16 @@
    "tiktok-commenter:rbyxqb",
    "tiktok:mlpkingdom"
   ],
+  "ids": [
+   "tiktok_video:local_6db83504746b2179c840f96de558d4ea154cdc62a532455040761a4d05dc8628",
+   "tiktok_comment:7641731808408814367"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "TY-H2": {
-  "status": "supported with notes",
+  "status": "phrase check passed with notes; substantive review pending",
   "rows_checked": 4,
   "missing": [],
   "no_key_phrase": [],
@@ -750,13 +1321,24 @@
    "tiktok:idktrains",
    "tiktok:robertscreations"
   ],
+  "ids": [
+   "tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f",
+   "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5",
+   "tiktok_video:local_13a61846bf301004ba3aad841138b6a9242040be233733d75a62cbd2e183c143",
+   "tiktok_video:local_4defa3ab36606c90aaa4e18935301126242dbfe0423cea2c8e11aa0a2777f0d9"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f",
+   "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5",
+   "tiktok_video:local_13a61846bf301004ba3aad841138b6a9242040be233733d75a62cbd2e183c143"
+  ],
   "shared_reddit_rows": [],
   "notes": [
    "As TY-F1: eBay is named in captions from two train creators, one of whom (idktrains) also runs a shop."
   ]
  },
  "CN-F1": {
-  "status": "supported with notes",
+  "status": "phrase check passed with notes; substantive review pending",
   "rows_checked": 11,
   "missing": [],
   "no_key_phrase": [],
@@ -774,13 +1356,32 @@
    "reddit:wastingtime101-",
    "tiktok:patchpursuit4"
   ],
+  "ids": [
+   "tiktok_video:local_6bcfb3ca36f1de6ab1a9e560fc29e6f65251e6e533eeff7850d8e7196c2de920",
+   "reddit:t3_1llzc73",
+   "reddit:t1_n03y0q8",
+   "reddit:t1_n03l086",
+   "reddit:t1_n03q3iy",
+   "reddit:t3_1ufxb7r",
+   "reddit:t1_otwj817",
+   "reddit:t3_1qcvle6",
+   "reddit:t1_n04bfny",
+   "reddit:t1_oygq7h6",
+   "reddit:t1_p515n9w"
+  ],
+  "truncated_read_rows": [
+   "reddit:t3_1llzc73",
+   "reddit:t1_n03l086",
+   "reddit:t3_1ufxb7r",
+   "reddit:t1_otwj817"
+  ],
   "shared_reddit_rows": [],
   "notes": [
    "local_6bcfb3ca asks whether police departments give collectors free coins; 'challenge coin' is inferred from the patch-collector context, not stated."
   ]
  },
  "CN-F2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 6,
   "missing": [],
   "no_key_phrase": [],
@@ -791,11 +1392,20 @@
    "reddit:roxywalker",
    "reddit:sharpie_da_p"
   ],
+  "ids": [
+   "reddit:t3_1vub4yy",
+   "reddit:t1_p4zsiqf",
+   "reddit:t1_p50jtgt",
+   "reddit:t1_p56jodo",
+   "reddit:t1_p4zsiqf",
+   "reddit:t1_p50mp5r"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "CN-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -804,11 +1414,16 @@
    "reddit:coinversenow",
    "reddit:sharpie_da_p"
   ],
+  "ids": [
+   "reddit:t3_1vub4yy",
+   "reddit:t1_oygq7h6"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "AB-TV-F1": {
-  "status": "supported with notes",
+  "status": "phrase check passed with notes; substantive review pending",
   "rows_checked": 12,
   "missing": [],
   "no_key_phrase": [],
@@ -827,13 +1442,30 @@
    "tiktok:thicknickthrifts",
    "tiktok:zzzwatson"
   ],
+  "ids": [
+   "tiktok_video:local_cabc61bdcf2f7581719a931ad3d8ef0568000307d6bf2bc603ed9531a9a318c2",
+   "tiktok_video:local_9c4a18de8056465ce2ce1d0e095a8d872918ec1261a4efcbe0d836718f81a828",
+   "tiktok_video:local_0474b1922c45991bcc8a7c67d8289186886c37f2ba93bec25672ff78c62fbc34",
+   "tiktok_video:local_db4809acd5d0539e2ea4bccf0c3bb0b0244e5ad6fbc35283e9f5c9caefa79f72",
+   "tiktok_video:local_8ecc6ac81ece1ee81ac8f6b1370c22d6d54150b50bb0a4a555379190e2fccbc8",
+   "tiktok_video:local_cff44bceaac66b8ad165b9518d4c2660432055a5b346144497e50d9f33659d3b",
+   "tiktok_video:local_13745f76e8b76f1e41808b01681db53dd3e29e10c2ec8e6b1d1091111bfaffc2",
+   "tiktok_video:local_bcddb583dd2616e718fd0bac16794dcacf93dc7a8aef026b994b2c47c00afd41",
+   "tiktok_video:local_145097e1e6748f5565951f7bc4fd08917fcedd07d8831b5b3806eeeabb5612ce",
+   "tiktok_video:local_6fd1307421f1643d5f896d91385ad0a4b004e2f6adfa9bbfc782465b2e13c788",
+   "tiktok_video:local_9520b23f6c4cda1161c67fdc86b8d503f961445e20d7fe6b093131c9720f33cb",
+   "tiktok_video:local_1e0184bc8d4960c56fcf0a8850afbd26d214c3fff259dc1b77808f6857279cf8"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_1e0184bc8d4960c56fcf0a8850afbd26d214c3fff259dc1b77808f6857279cf8"
+  ],
   "shared_reddit_rows": [],
   "notes": [
    "local_8ecc6ac8 is a Vinted haul in French and does not name eBay; it is cited for the Vinted-alongside-eBay point only. local_bcddb583 carries #AD (promotion)."
   ]
  },
  "AB-TV-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -842,11 +1474,16 @@
    "tiktok:dineinherecontent",
    "tiktok:selloutartist"
   ],
+  "ids": [
+   "tiktok_video:local_0474b1922c45991bcc8a7c67d8289186886c37f2ba93bec25672ff78c62fbc34",
+   "tiktok_video:local_6fd1307421f1643d5f896d91385ad0a4b004e2f6adfa9bbfc782465b2e13c788"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "AB-PP-F1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 12,
   "missing": [],
   "no_key_phrase": [],
@@ -863,11 +1500,31 @@
    "tiktok:unfilteredmelanin",
    "tiktok:victoriotober"
   ],
+  "ids": [
+   "tiktok_video:local_5cc71701df7c8785be053042df8e46c3a2d57f90c64879e7b65d6926bc807af7",
+   "tiktok_video:local_6bcfb3ca36f1de6ab1a9e560fc29e6f65251e6e533eeff7850d8e7196c2de920",
+   "tiktok_video:local_dbb48dcc855d90f67532b728324753a8a812ea4087108ad8a461ffbf3c255214",
+   "tiktok_video:local_a203c31dbb4f693ef44ac8f4e296790aef4b98a1d64f0c0e83a80668c28eff77",
+   "tiktok_video:local_0089e5d66d193282b94abaaca0c8d154ee5b248f4ac7c820e6abffae917f572e",
+   "tiktok_video:local_5cdeaba681d63e879143662d336f59f4251ba637e747f46ffa02d3031bd21280",
+   "tiktok_video:local_c5f1342441d7f21cf5f3d31ebc14f7d67b338b6b90de0bbefa0e26e67ebdb380",
+   "tiktok_video:local_b441c9453ba84ed26f090036522ce6e167cbb290c7afe26fe20dfede2d15cf5c",
+   "tiktok_video:local_11c6d0893a1b25476d633ebd84d66f2428ee027c5d0d72c8ba0c83d71cce1b80",
+   "tiktok_video:local_8a4ab98cbc2e83e1edafa248cc513d2f092eab6ca7b5c3b0dafac7a9d9354638",
+   "tiktok_video:local_b441c9453ba84ed26f090036522ce6e167cbb290c7afe26fe20dfede2d15cf5c",
+   "tiktok_video:local_11c6d0893a1b25476d633ebd84d66f2428ee027c5d0d72c8ba0c83d71cce1b80"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_dbb48dcc855d90f67532b728324753a8a812ea4087108ad8a461ffbf3c255214",
+   "tiktok_video:local_b441c9453ba84ed26f090036522ce6e167cbb290c7afe26fe20dfede2d15cf5c",
+   "tiktok_video:local_8a4ab98cbc2e83e1edafa248cc513d2f092eab6ca7b5c3b0dafac7a9d9354638",
+   "tiktok_video:local_b441c9453ba84ed26f090036522ce6e167cbb290c7afe26fe20dfede2d15cf5c"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "AB-PM-F1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 5,
   "missing": [],
   "no_key_phrase": [],
@@ -879,11 +1536,23 @@
    "tiktok:totally_gadgets",
    "tiktok:vintagemoontravels"
   ],
+  "ids": [
+   "tiktok_video:local_e4b6e7361e2a648dcd9d1a0be33d972c2578dd8f32d4f73d27e4dc7deecbc770",
+   "tiktok_video:local_4492b026b178e25d65dee6905c45ae5817dd746db0e29c89d46274c01f332fcb",
+   "tiktok_video:local_4a91348fca3a55dbc810d99f2ad82e321b56b0cffd54470d54c2b4b7e3a4d028",
+   "tiktok_video:local_e4e363d373910e9e65c47159e6f7958f630cb4c5456e12e4960926724191b947",
+   "tiktok_video:local_8459de44190ad122e439d6a0707c479c0304fce60bdc5e22d9d485d7008f1748"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_e4b6e7361e2a648dcd9d1a0be33d972c2578dd8f32d4f73d27e4dc7deecbc770",
+   "tiktok_video:local_4492b026b178e25d65dee6905c45ae5817dd746db0e29c89d46274c01f332fcb",
+   "tiktok_video:local_8459de44190ad122e439d6a0707c479c0304fce60bdc5e22d9d485d7008f1748"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "AB-PA-F1": {
-  "status": "supported with notes",
+  "status": "phrase check passed with notes; substantive review pending",
   "rows_checked": 11,
   "missing": [],
   "no_key_phrase": [],
@@ -901,6 +1570,22 @@
    "tiktok:richoffparts",
    "tiktok:the_grim_reefer.x_x"
   ],
+  "ids": [
+   "tiktok_video:local_1dd1a5d8575044db0f91979fd604a3a08348a7c841c96c5ba1a478e2a9decd46",
+   "tiktok_video:local_daced285e1fbec1ec9488db43f80123543157c2d25a55eff7784a0c02313e5a7",
+   "tiktok_video:local_fe0afbcf4604177204c3d11455bef9b3a9b19a5ce6acad18bf89fe1262fbf60a",
+   "tiktok_video:local_b80372eecb87237235a1301f8a15be9de0f2a12aaf73f479a489d223694b1fab",
+   "tiktok_video:local_a72c7e8c99fcde6837849b177435d284bcbd7f3fca56c3a313d472514289eb0c",
+   "tiktok_video:local_a4d892642962b0a7d32571bfc1c14d321fd8736103723ac30541948ec7ba5728",
+   "tiktok_video:local_21b424cbe81a956038ec7ce483cc6a462fb8d0d27d4e8ae1abd8f5ad14275bf4",
+   "tiktok_video:local_97b9ca83e668d2dc00a03f5f4f5c361370e9500a5dd6d9db1727780c8cb0ba7c",
+   "reddit:t3_1qjabr7",
+   "reddit:t1_o0zedv8",
+   "reddit:t1_olpp167"
+  ],
+  "truncated_read_rows": [
+   "tiktok_video:local_daced285e1fbec1ec9488db43f80123543157c2d25a55eff7784a0c02313e5a7"
+  ],
   "shared_reddit_rows": [
    "reddit:t3_1qjabr7"
   ],
@@ -909,7 +1594,7 @@
   ]
  },
  "AB-PA-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 2,
   "missing": [],
   "no_key_phrase": [],
@@ -918,13 +1603,18 @@
    "reddit:c3powil",
    "tiktok:the_grim_reefer.x_x"
   ],
+  "ids": [
+   "reddit:t3_1qjabr7",
+   "tiktok_video:local_b80372eecb87237235a1301f8a15be9de0f2a12aaf73f479a489d223694b1fab"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [
    "reddit:t3_1qjabr7"
   ],
   "notes": []
  },
  "AB-SL-F1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 18,
   "missing": [],
   "no_key_phrase": [],
@@ -946,11 +1636,32 @@
    "youtube-commenter:@anonymousnostalgia7674",
    "youtube-commenter:@whatevertheshit"
   ],
+  "ids": [
+   "reddit:t3_1wfp5sj",
+   "reddit:t1_p9o48gb",
+   "reddit:t1_p9ojy91",
+   "reddit:t1_p7xb529",
+   "reddit:t1_ocus8sv",
+   "reddit:t1_p50jtgt",
+   "reddit:t1_pa2yhrf",
+   "reddit:t3_1s5ae92",
+   "youtube_comment:UgxbPcydBm_M7LfisLt4AaABAg",
+   "reddit:t1_p56yrbz",
+   "reddit:t1_p50mp5r",
+   "reddit:t3_1vub4yy",
+   "reddit:t3_1pttt05",
+   "reddit:t1_nvjpmsu",
+   "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg",
+   "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg",
+   "reddit:t1_p50mp5r",
+   "reddit:t1_p4zsiqf"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "AB-SL-F2": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 6,
   "missing": [],
   "no_key_phrase": [],
@@ -961,11 +1672,24 @@
    "reddit:Rancidintentions",
    "reddit:bophus-again"
   ],
+  "ids": [
+   "reddit:t1_omuylg3",
+   "reddit:t1_p7hxipn",
+   "reddit:t1_no39bxl",
+   "reddit:t1_nseqlli",
+   "reddit:t1_nn69yj9",
+   "reddit:t1_oyfrxmd"
+  ],
+  "truncated_read_rows": [
+   "reddit:t1_omuylg3",
+   "reddit:t1_nseqlli",
+   "reddit:t1_nn69yj9"
+  ],
   "shared_reddit_rows": [],
   "notes": []
  },
  "AB-SL-F3": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 9,
   "missing": [],
   "no_key_phrase": [],
@@ -980,11 +1704,23 @@
    "youtube-channel:eBay Live UK",
    "youtube-channel:ebay"
   ],
+  "ids": [
+   "youtube_live:wbUy3gK7kFE:690",
+   "youtube_live:wbUy3gK7kFE:708",
+   "youtube_live:wbUy3gK7kFE:709",
+   "youtube_video:Eq1xymBqpnk",
+   "youtube_video:EtOrAojxRqI",
+   "youtube_video:myCuDV9-2-M",
+   "youtube_video:d3uHPsnoITc",
+   "youtube_video:DjsWZaPwMQs",
+   "youtube_video:y-NqOxTOXP0"
+  ],
+  "truncated_read_rows": [],
   "shared_reddit_rows": [],
   "notes": []
  },
  "AB-SL-H1": {
-  "status": "supported",
+  "status": "phrase check passed; substantive review pending",
   "rows_checked": 6,
   "missing": [],
   "no_key_phrase": [],
@@ -996,6 +1732,18 @@
    "reddit:sharpie_da_p",
    "youtube-commenter:@TheRepoMan360",
    "youtube-commenter:@whatevertheshit"
+  ],
+  "ids": [
+   "reddit:t3_1vub4yy",
+   "reddit:t3_1pttt05",
+   "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg",
+   "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg",
+   "reddit:t1_owwn39k",
+   "reddit:t1_omvn0rt"
+  ],
+  "truncated_read_rows": [
+   "reddit:t1_owwn39k",
+   "reddit:t1_omvn0rt"
   ],
   "shared_reddit_rows": [],
   "notes": []

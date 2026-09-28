@@ -2,8 +2,8 @@
  "documents": {
   "REPORT_full_collection.md": {
    "summary": {
-    "tokens": 516,
-    "resolved": 515,
+    "tokens": 519,
+    "resolved": 518,
     "ambiguous": 0,
     "unresolved": 1
    },
@@ -316,6 +316,16 @@
       "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg"
      ],
      "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p56jodo",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p56jodo"
+     ],
+     "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
@@ -2506,16 +2516,6 @@
       "tiktok_video:local_218e99dbcc43d15140a9ed1eac16ad3f338c9e05dafe54984ede22b36f859df5"
      ],
      "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "reddit:t1_p56jodo",
-     "kind": "full",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p56jodo"
-     ],
-     "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
@@ -4029,6 +4029,16 @@
      "shared_reddit_row": false
     },
     {
+     "token": "local_e1a367bc",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e1a367bc55ce75a0f43f151080b6e16c5d159ed94d4119413eab444363f63672"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
      "token": "local_98348833",
      "kind": "local_prefix",
      "status": "unresolved",
@@ -4407,26 +4417,6 @@
      "shared_reddit_row": true
     },
     {
-     "token": "t1_opkfisj",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_opkfisj"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p7yaxpk",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p7yaxpk"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
      "token": "t3_1qpssd0",
      "kind": "reddit_bare",
      "status": "resolved",
@@ -4484,6 +4474,26 @@
       "reddit:t3_1tz0dbm"
      ],
      "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_opkfisj",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_opkfisj"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p7yaxpk",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7yaxpk"
+     ],
+     "file": "rd_ebay",
      "shared_reddit_row": false
     },
     {
@@ -4817,6 +4827,16 @@
      "shared_reddit_row": false
     },
     {
+     "token": "t1_p56jodo",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p56jodo"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
      "token": "t3_1pttt05",
      "kind": "reddit_bare",
      "status": "resolved",
@@ -4942,6 +4962,16 @@
      "status": "resolved",
      "matches": [
       "reddit:t3_1shwwz7"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p8kecsh",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p8kecsh"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -5180,18 +5210,49 @@
   },
   "OVERVIEW_full_collection.md": {
    "summary": {
-    "tokens": 0,
-    "resolved": 0,
+    "tokens": 3,
+    "resolved": 3,
     "ambiguous": 0,
     "unresolved": 0
    },
    "problems": [],
-   "rows": []
+   "rows": [
+    {
+     "token": "reddit:t1_ns19b9p",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_ns19b9p"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_comment:7641731808408814367",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_comment:7641731808408814367"
+     ],
+     "file": "tt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1llzc73",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1llzc73"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    }
+   ]
   },
   "claim_ledger.csv": {
    "summary": {
-    "tokens": 426,
-    "resolved": 425,
+    "tokens": 427,
+    "resolved": 426,
     "ambiguous": 0,
     "unresolved": 1
    },
@@ -5474,6 +5535,16 @@
       "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg"
      ],
      "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p56jodo",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p56jodo"
+     ],
+     "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
@@ -7697,16 +7768,6 @@
      "shared_reddit_row": false
     },
     {
-     "token": "reddit:t1_p56jodo",
-     "kind": "full",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p56jodo"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
      "token": "tiktok_video:local_cabc61bdcf2f7581719a931ad3d8ef0568000307d6bf2bc603ed9531a9a318c2",
      "kind": "full",
      "status": "resolved",
@@ -8247,6 +8308,16 @@
      "shared_reddit_row": false
     },
     {
+     "token": "local_e1a367bc",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e1a367bc55ce75a0f43f151080b6e16c5d159ed94d4119413eab444363f63672"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
      "token": "local_98348833",
      "kind": "local_prefix",
      "status": "unresolved",
@@ -8285,11 +8356,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t1_p50mp5r",
+     "token": "t3_1pttt05",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_p50mp5r"
+      "reddit:t3_1pttt05"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -8305,11 +8376,21 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t3_1pttt05",
+     "token": "t1_p56jodo",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t3_1pttt05"
+      "reddit:t1_p56jodo"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p50mp5r",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p50mp5r"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -8322,6 +8403,26 @@
       "reddit:t1_nvjpmsu"
      ],
      "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_opkfisj",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_opkfisj"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p7yaxpk",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7yaxpk"
+     ],
+     "file": "rd_ebay",
      "shared_reddit_row": false
     },
     {
@@ -8512,26 +8613,6 @@
       "reddit:t1_ofgfyui"
      ],
      "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_opkfisj",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_opkfisj"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p7yaxpk",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p7yaxpk"
-     ],
-     "file": "rd_ebay",
      "shared_reddit_row": false
     },
     {
@@ -9245,16 +9326,6 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t1_p56jodo",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p56jodo"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
      "token": "t3_1qjabr7",
      "kind": "reddit_bare",
      "status": "resolved",
@@ -9282,6 +9353,36 @@
       "reddit:t1_olpp167"
      ],
      "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_ocus8sv",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_ocus8sv"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t3_1s5ae92",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1s5ae92"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_pa2yhrf",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_pa2yhrf"
+     ],
+     "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
@@ -9325,41 +9426,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t3_1s5ae92",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1s5ae92"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
      "token": "t1_p56yrbz",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
       "reddit:t1_p56yrbz"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_ocus8sv",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_ocus8sv"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_pa2yhrf",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_pa2yhrf"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -9385,26 +9456,6 @@
      "shared_reddit_row": false
     },
     {
-     "token": "Ugy-N4vf",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:Ugy-N4vfOHdqoFxnakZ4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "UgxbPcy",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgxbPcydBm_M7LfisLt4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
      "token": "UgzrDtVVH",
      "kind": "ytc_prefix",
      "status": "resolved",
@@ -9420,6 +9471,26 @@
      "status": "resolved",
      "matches": [
       "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "Ugy-N4vf",
+     "kind": "ytc_prefix",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:Ugy-N4vfOHdqoFxnakZ4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "UgxbPcy",
+     "kind": "ytc_prefix",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgxbPcydBm_M7LfisLt4AaABAg"
      ],
      "file": "yt_comments",
      "shared_reddit_row": false
@@ -9468,8 +9539,8 @@
   },
   "stage3_evidence_checks.md": {
    "summary": {
-    "tokens": 62,
-    "resolved": 61,
+    "tokens": 81,
+    "resolved": 80,
     "ambiguous": 0,
     "unresolved": 1
    },
@@ -9492,6 +9563,86 @@
       "tiktok_video:local_9834883a31b26545d1be859a03a72cdb489521b328417a43e7a8249b6d0b8fe1"
      ],
      "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1vub4yy",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1vub4yy"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_opkfisj",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_opkfisj"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p7yaxpk",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7yaxpk"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1qpssd0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1qpssd0"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_njn3ck9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_njn3ck9"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_ocus8sv",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_ocus8sv"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_n04bfny",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_n04bfny"
+     ],
+     "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
@@ -10070,6 +10221,116 @@
       "reddit:t1_oy4j16b"
      ],
      "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t3_1pttt05",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1pttt05"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t3_1vub4yy",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1vub4yy"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p56jodo",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p56jodo"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t3_1wfp5sj",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1wfp5sj"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p9o48gb",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p9o48gb"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p9ojy91",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p9ojy91"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p7xb529",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7xb529"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p50jtgt",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p50jtgt"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_pa2yhrf",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_pa2yhrf"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "UgzrDtVVH",
+     "kind": "ytc_prefix",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "UgzfGt8L5",
+     "kind": "ytc_prefix",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg"
+     ],
+     "file": "yt_comments",
      "shared_reddit_row": false
     },
     {
