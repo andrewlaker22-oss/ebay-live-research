@@ -40,7 +40,7 @@ Live GMV, buyer counts and repeat rates by category; seller supply per category;
 | 51 / 8,339 rows name eBay Live; 4 first-person buyer accounts, all friction | Buyer voice on eBay Live is nearly absent from social pulls; the client's own data is the only source |
 | 13 / 22 eBay Live TikTok captions are paid partnerships | Tagged partner content is the visible eBay Live presence on TikTok |
 | 297 rows name authentication; 91 read; defenders and complaints in the same threads | AG is the trust battleground; a count of the balance needs the other 206 rows read (proposal P6) |
-| 1 creator behind all 7 "daily breaks in our TikTok Shop" captions | TikTok Shop break promotion is one breaker, not a movement, in this pull |
+| 1 creator behind all 7 "daily breaks located in our tiktok shop" captions | TikTok Shop break promotion is one breaker, not a movement, in this pull |
 | 0 rows for Premier League and match-worn; 18 for coins | Those client questions need different collection, not more analysis of this one |
 
 ## Next
