@@ -136,7 +136,7 @@ Vintage designer clothing is buyer finds and label education: "Most vintage desi
 5. Competitor behaviours. Pop Mart retail and drop shops; Mercari via JPfans proxies; Facebook Marketplace; TikTok Shop plush and pendants; Whatnot's own TikTok reach (a 12.1M-view explainer whose top comments reject the hobby).
 6. Sellers, creators, content. Existing: collection displays that trigger "Sell it" and "ILL TAKE THEM" replies; opening series; lot-buying how-tos; show coverage and layout videos (trains); "does it run" tests on used trains. Makers: collectors, a Pop Mart-themed unboxing account (whether it is Pop Mart itself is unverified), resellers, model-railroad shops and show organisers.
 7. Live connection, tests.
-   - TY-H1 "The collection goes up for sale live" on a collector's own handle, routed to eBay Live, mirrors the MLP reaction; unproven that commenters follow to a marketplace. Outcome: share of chat "I'll take it" converting to bids (business data).
+   - TY-H1 "The collection goes up for sale live" on a collector's own handle, routed to eBay Live, mirrors the MLP reaction; unproven that commenters follow to a marketplace. Outcome: share of chat offers to buy converting to bids (business data).
    - TY-H2 Model trains: real US community content, a DE-language tag, and eBay named twice as the buying venue for used units; no live link in read rows. A discovery question (what do train buyers check before buying used, and is eBay where they buy?) rather than a Live format yet.
    - Contradiction: the largest toy attention in the collection (the Labubu explainer) is not a collector audience; reach is not community.
 
