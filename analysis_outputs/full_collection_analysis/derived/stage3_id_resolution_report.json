@@ -1,14 +1,3073 @@
 {
  "documents": {
-  "stage2_provisional.md": {
+  "REPORT_full_collection.md": {
    "summary": {
-    "tokens": 83,
-    "resolved": 83,
+    "tokens": 513,
+    "resolved": 512,
     "ambiguous": 0,
-    "unresolved": 0
+    "unresolved": 1
    },
-   "problems": [],
+   "problems": [
+    {
+     "token": "local_98348833",
+     "kind": "local_prefix",
+     "status": "unresolved",
+     "matches": [],
+     "file": "",
+     "shared_reddit_row": false
+    }
+   ],
    "rows": [
+    {
+     "token": "tiktok_comment:7686279334882460446",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_comment:7686279334882460446"
+     ],
+     "file": "tt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_comment:7686267440066134814",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_comment:7686267440066134814"
+     ],
+     "file": "tt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_comment:7641731808408814367",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_comment:7641731808408814367"
+     ],
+     "file": "tt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_c67838ae2adfd72a953a41d8235469d9f84250b5d84fd3bd0730cba35da103ef",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_c67838ae2adfd72a953a41d8235469d9f84250b5d84fd3bd0730cba35da103ef"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_88af59ae9a2fa322212e2c329b587b18d8ed944d676cd9e0e6716bcc388db04f",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_88af59ae9a2fa322212e2c329b587b18d8ed944d676cd9e0e6716bcc388db04f"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_e9c4f012cf86f5f7fa3865c61be45b12bfab9472fd72a5915d4b0a79c0e8b299",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e9c4f012cf86f5f7fa3865c61be45b12bfab9472fd72a5915d4b0a79c0e8b299"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_da33bf27eaa5bf7d7831bc3cfed79ec4e31bd8ab04e1278c036ea74605ff020e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_da33bf27eaa5bf7d7831bc3cfed79ec4e31bd8ab04e1278c036ea74605ff020e"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_8c6ebc992b6110b1bd4e0cf74809ea7d1b866d105e4a57329f13b1efaf7506d4",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_8c6ebc992b6110b1bd4e0cf74809ea7d1b866d105e4a57329f13b1efaf7506d4"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_30074f1583efcfb4aad49ff70664596a9f392c9126d6949e054fc772d2706b7f",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_30074f1583efcfb4aad49ff70664596a9f392c9126d6949e054fc772d2706b7f"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_0f95bcedae470924ff9ae778f25d16d6ec80acf973be2784193b8a601006f3de",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_0f95bcedae470924ff9ae778f25d16d6ec80acf973be2784193b8a601006f3de"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_e74400576be7640392b593b2c0fb91d4de32cebee15a55d68b09762416b6e628",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e74400576be7640392b593b2c0fb91d4de32cebee15a55d68b09762416b6e628"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_c782f692bc978712553acc428d84478c360c37b87d09db49380b52f9c7e7ffe6",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_c782f692bc978712553acc428d84478c360c37b87d09db49380b52f9c7e7ffe6"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_627a60aa32564e1765c07b784adc7847a1e261d24042134c5aefff9396f73bd6",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_627a60aa32564e1765c07b784adc7847a1e261d24042134c5aefff9396f73bd6"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_08c305fe10f02e9da6cd1106830e4d5afb2ecd6566b30a50c1909b0e6c6af89f",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_08c305fe10f02e9da6cd1106830e4d5afb2ecd6566b30a50c1909b0e6c6af89f"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_0a5a262f3aea878b77373b9e0995a0c00f0f768574288919baee14f293d0a9a3",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_0a5a262f3aea878b77373b9e0995a0c00f0f768574288919baee14f293d0a9a3"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_57f2669b2b4fbea8985a3fb3d96af8a784a7d757ac84e5efed712cd847089831",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_57f2669b2b4fbea8985a3fb3d96af8a784a7d757ac84e5efed712cd847089831"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_f76262022d76f3c6cc8bc0539be77f7d7a20b5e0412c12f2f899731385872b17",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_f76262022d76f3c6cc8bc0539be77f7d7a20b5e0412c12f2f899731385872b17"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_63c645f28c308b02d9f1e46d2941920b624b0a856df26617477548b829ee6cae",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_63c645f28c308b02d9f1e46d2941920b624b0a856df26617477548b829ee6cae"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_e1a367bc55ce75a0f43f151080b6e16c5d159ed94d4119413eab444363f63672",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e1a367bc55ce75a0f43f151080b6e16c5d159ed94d4119413eab444363f63672"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_51ab5800ba9189e3523179e838ff72ba69ed0a16f7f64c69878b5f2e594de755",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_51ab5800ba9189e3523179e838ff72ba69ed0a16f7f64c69878b5f2e594de755"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_447635e84544972027c69f6ac1e6192795bca96d68aa3ef867b94bfdfdde130b",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_447635e84544972027c69f6ac1e6192795bca96d68aa3ef867b94bfdfdde130b"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_ef97316133dd506a0e663cf2c1d1c294c58cf077e8580508ea7015471420d73f",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_ef97316133dd506a0e663cf2c1d1c294c58cf077e8580508ea7015471420d73f"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_8ab883e5b6de9a3d366deedffd5c45e1cd2e5691bb0011b800a4d100a73b040a",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_8ab883e5b6de9a3d366deedffd5c45e1cd2e5691bb0011b800a4d100a73b040a"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_ae88b4846925f57aeaaaa8c0bc7f2496cb6f0e7e7fa2b38416af0c1c635e2191",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_ae88b4846925f57aeaaaa8c0bc7f2496cb6f0e7e7fa2b38416af0c1c635e2191"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_dc6720288fd76eea647275bdfe8a3601229db1c22da4104ec7bb465f7c4ca1b2",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_dc6720288fd76eea647275bdfe8a3601229db1c22da4104ec7bb465f7c4ca1b2"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1vub4yy",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1vub4yy"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1pttt05",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1pttt05"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_nvjpmsu",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_nvjpmsu"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p50mp5r",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p50mp5r"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:P-F3SpVz-CQ",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:P-F3SpVz-CQ"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p56yrbz",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p56yrbz"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1todhm0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1todhm0"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1r8eukv",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1r8eukv"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1u2j162",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1u2j162"
+     ],
+     "file": "rd_broad+rd_ebay",
+     "shared_reddit_row": true
+    },
+    {
+     "token": "reddit:t3_1o7ekel",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1o7ekel"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:UgySNeVlZQU48YJR_Dd4AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgySNeVlZQU48YJR_Dd4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_niwjhum",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_niwjhum"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_ovl1bk3",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_ovl1bk3"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_ns0iwn6",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_ns0iwn6"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_ns19b9p",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_ns19b9p"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_odl74kz",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_odl74kz"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_odkd14k",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_odkd14k"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1s8y9k4",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1s8y9k4"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1q53zhu",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1q53zhu"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:Ugy-N4vfOHdqoFxnakZ4AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:Ugy-N4vfOHdqoFxnakZ4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p5ij8ks",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p5ij8ks"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1tz0dbm",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1tz0dbm"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:Ugy1zfbMf-NlX2W_69p4AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:Ugy1zfbMf-NlX2W_69p4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:UgwAqcvWStAcfOH6nl94AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgwAqcvWStAcfOH6nl94AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_ofgfyui",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_ofgfyui"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_opkfisj",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_opkfisj"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p7yaxpk",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7yaxpk"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1qpssd0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1qpssd0"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_a210513c87638e131a381011464f3c91b4a7507f4bd1ef2693f741a2be1f261c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_a210513c87638e131a381011464f3c91b4a7507f4bd1ef2693f741a2be1f261c"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1llzc73",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1llzc73"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_n03y0q8",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_n03y0q8"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_n03l086",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_n03l086"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_njn42rr",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_njn42rr"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_o65m5pj",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o65m5pj"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_o64ua2i",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o64ua2i"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1om25vd",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1om25vd"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_owwn39k",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_owwn39k"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_omvn0rt",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_omvn0rt"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_oeva9nx",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oeva9nx"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_oydr557",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oydr557"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_oyo6r47",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oyo6r47"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p50jtgt",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p50jtgt"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_oyfrxmd",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oyfrxmd"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p4zsiqf",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p4zsiqf"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_061e0f6f9b783fca632ad1cc60868277921695a253562cd97a8f735514b85af8",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_061e0f6f9b783fca632ad1cc60868277921695a253562cd97a8f735514b85af8"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_e1b518bb12ea89e7544409cb64029950f5745507369bd200d16240f7053dc2ec",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e1b518bb12ea89e7544409cb64029950f5745507369bd200d16240f7053dc2ec"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_39bd7ce14f69545359d9593775c3c87817a1979231709044bba25548684744a1",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_39bd7ce14f69545359d9593775c3c87817a1979231709044bba25548684744a1"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_4e90086ba29711ca9484bb9f85d61efc17878f8361fa5c081162fbe06cccfde1",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_4e90086ba29711ca9484bb9f85d61efc17878f8361fa5c081162fbe06cccfde1"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_db4809acd5d0539e2ea4bccf0c3bb0b0244e5ad6fbc35283e9f5c9caefa79f72",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_db4809acd5d0539e2ea4bccf0c3bb0b0244e5ad6fbc35283e9f5c9caefa79f72"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_4defa3ab36606c90aaa4e18935301126242dbfe0423cea2c8e11aa0a2777f0d9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_4defa3ab36606c90aaa4e18935301126242dbfe0423cea2c8e11aa0a2777f0d9"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_omyw8vx",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_omyw8vx"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_9cc53f16b5a9d3f86ac5c5a4d135d659be319a3e3e6d0c515748b3c4541e05b3",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_9cc53f16b5a9d3f86ac5c5a4d135d659be319a3e3e6d0c515748b3c4541e05b3"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_496c6391555f2f4dd9958b3281c74342cabd8badd63444a0e3341b508d75dfa9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_496c6391555f2f4dd9958b3281c74342cabd8badd63444a0e3341b508d75dfa9"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_41e91d5641b31b2478e864d575ba0a6aea3c4b4f0bb2bf78ddbfd364e1dc1770",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_41e91d5641b31b2478e864d575ba0a6aea3c4b4f0bb2bf78ddbfd364e1dc1770"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_332a15b59821a217fec37ae2242091a8e105f87fea47a2eb9c2e2df5ac726246",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_332a15b59821a217fec37ae2242091a8e105f87fea47a2eb9c2e2df5ac726246"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1u5s64o",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1u5s64o"
+     ],
+     "file": "rd_broad+rd_ebay",
+     "shared_reddit_row": true
+    },
+    {
+     "token": "reddit:t3_1uvql6e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1uvql6e"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1om8vct",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1om8vct"
+     ],
+     "file": "rd_broad+rd_ebay",
+     "shared_reddit_row": true
+    },
+    {
+     "token": "reddit:t3_1o6m3c3",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1o6m3c3"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1qkscsr",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1qkscsr"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1thre78",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1thre78"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1r1a00m",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1r1a00m"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_a45d15cb095327354f6eefce9abb111ada63c2cc2aa60f59ebefcad0352c71e2",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_a45d15cb095327354f6eefce9abb111ada63c2cc2aa60f59ebefcad0352c71e2"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_ddb3b62a73219178d0b5da761e558331c5b8912c43e70b4ec3829ccd7230b183",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_ddb3b62a73219178d0b5da761e558331c5b8912c43e70b4ec3829ccd7230b183"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_475e17ccc95775985f118c87c4050bd1ad2f7cdf4cbfd6ff8c443accca94b11e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_475e17ccc95775985f118c87c4050bd1ad2f7cdf4cbfd6ff8c443accca94b11e"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_345a885eec51cda70280fe41d9d8a44231583b22d69b07f11112dc53d65671e0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_345a885eec51cda70280fe41d9d8a44231583b22d69b07f11112dc53d65671e0"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:_rDm8b0LVNQ",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:_rDm8b0LVNQ"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:iPU9AoWlaBw",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:iPU9AoWlaBw"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:LPZ7wtjacn4",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:LPZ7wtjacn4"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:EfYNvpJtWmQ",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:EfYNvpJtWmQ"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:bElKFZcvfg0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:bElKFZcvfg0"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:zlDlWR6W7h0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:zlDlWR6W7h0"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:sWYyT7Ex69o",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:sWYyT7Ex69o"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:Srwgb5wXrZw",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:Srwgb5wXrZw"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:bPXCFwpSq8c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:bPXCFwpSq8c"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:tSw3RM7K1xM",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:tSw3RM7K1xM"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:Zjj_1OX-Gbs",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:Zjj_1OX-Gbs"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:FaILPcpLD1s",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:FaILPcpLD1s"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:SzVWf_A4BUo",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:SzVWf_A4BUo"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:MtNpAZWnn6I",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:MtNpAZWnn6I"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:xeMKnCDtNhM",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:xeMKnCDtNhM"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:QyAXNatU8Mo",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:QyAXNatU8Mo"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_d15330509e53c653d0d84112e31a0027be86c3ebfc90683f877af230b1cfd8e3",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_d15330509e53c653d0d84112e31a0027be86c3ebfc90683f877af230b1cfd8e3"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_oz5yrln",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oz5yrln"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p1ynv3d",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p1ynv3d"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p7hz8rr",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7hz8rr"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p7hxipn",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7hxipn"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p7nasw9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7nasw9"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_no39bxl",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_no39bxl"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_nn69yj9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_nn69yj9"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_0f3f1249ce15b9d745a17fe29d951047d6893d3b02276edb3b97d3c62b5e050b",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_0f3f1249ce15b9d745a17fe29d951047d6893d3b02276edb3b97d3c62b5e050b"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_a42343e416b932055ae2bc5e940f2a7b3a05db08a82a6f2140fa2e656b70c75f",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_a42343e416b932055ae2bc5e940f2a7b3a05db08a82a6f2140fa2e656b70c75f"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_edf5696ec12bbfb6b9f0a437b3d18de42fe31557babf2fba3bb5e95a50a18c0c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_edf5696ec12bbfb6b9f0a437b3d18de42fe31557babf2fba3bb5e95a50a18c0c"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_1459027233631e98693c123858c3bf0452a74d9523669429c2f7a5ea79dcca08",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_1459027233631e98693c123858c3bf0452a74d9523669429c2f7a5ea79dcca08"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_4b8b0af81b73929295327284e2ad87673d1c8cb539b3bf4b824d4d9fae707704",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_4b8b0af81b73929295327284e2ad87673d1c8cb539b3bf4b824d4d9fae707704"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_2a99087ef9862b8bf038d9f9d8b28b279658f739f138e4f1f9452d4f64b63780",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_2a99087ef9862b8bf038d9f9d8b28b279658f739f138e4f1f9452d4f64b63780"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_cbfaedb7e7662b23fe2d4b46f26821e197819a9457399b48fa74329d388dc7be",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_cbfaedb7e7662b23fe2d4b46f26821e197819a9457399b48fa74329d388dc7be"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_de2688c18ad4d5bf2f3387b9ae724cb47042387b9c92b3305f361f00fee18afa",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_de2688c18ad4d5bf2f3387b9ae724cb47042387b9c92b3305f361f00fee18afa"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_d780fa1b1c4c85170b7c05ad0e1743574791d31d4c9a2ff66f345266e6f53aa7",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_d780fa1b1c4c85170b7c05ad0e1743574791d31d4c9a2ff66f345266e6f53aa7"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_4e77c895243ae8d1ded3c0c389df02b2c57ea76f737adaecbb673f46583ffb7b",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_4e77c895243ae8d1ded3c0c389df02b2c57ea76f737adaecbb673f46583ffb7b"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_0bfd1c9e119a18b2f385c1494b75b70bbcfbda1e509aed5c111540a47ea5af20",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_0bfd1c9e119a18b2f385c1494b75b70bbcfbda1e509aed5c111540a47ea5af20"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_53082fbbc8746c750ac14bfa62cecdb893e9de49acad1a19f148d82f41e4f4f7",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_53082fbbc8746c750ac14bfa62cecdb893e9de49acad1a19f148d82f41e4f4f7"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1pbo9ic",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1pbo9ic"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1qd1fa4",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1qd1fa4"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1u15aox",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1u15aox"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1r3ngpa",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1r3ngpa"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1qvaf6c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1qvaf6c"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_njn3ck9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_njn3ck9"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_o64ybsb",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o64ybsb"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_o64htk9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o64htk9"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_o64o8wg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o64o8wg"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_o9yqku1",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o9yqku1"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_live:19bmF518whA:1393",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_live:19bmF518whA:1393"
+     ],
+     "file": "yt_chat",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_oqnhajy",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oqnhajy"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_oony44l",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oony44l"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1pcpv9c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1pcpv9c"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:UgxYEXDXDWSVi1wR2Jh4AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgxYEXDXDWSVi1wR2Jh4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_13d7da97af48c02c84bedfee7fc47a0a04e2c1697109b8e388215f6314abfb9e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_13d7da97af48c02c84bedfee7fc47a0a04e2c1697109b8e388215f6314abfb9e"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_53a90dd568b6fc681bbbc189c61c75a312a07a22a07d5c03965ed61b0c915a2b",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_53a90dd568b6fc681bbbc189c61c75a312a07a22a07d5c03965ed61b0c915a2b"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_7551ae4b38154198cb22fca8dd31c51ac0f9b6f2792c1c619e7c264e023e77c2",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_7551ae4b38154198cb22fca8dd31c51ac0f9b6f2792c1c619e7c264e023e77c2"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_bf98b74df4e3e5bcb83c006ac379d8da8368147147fd27f47810bdf2fed053d9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_bf98b74df4e3e5bcb83c006ac379d8da8368147147fd27f47810bdf2fed053d9"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_3663ef62f58286de01387c4ebafba32c316f93e43fa2ce61b2ec3618606ad05a",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_3663ef62f58286de01387c4ebafba32c316f93e43fa2ce61b2ec3618606ad05a"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1nzw8nl",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1nzw8nl"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_niwc5vg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_niwc5vg"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_9834883a31b26545d1be859a03a72cdb489521b328417a43e7a8249b6d0b8fe1",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_9834883a31b26545d1be859a03a72cdb489521b328417a43e7a8249b6d0b8fe1"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_70b7ebe20ee81271bc5e3b2b08960a6ac11222c00542eecaab7b9a4b19891bf4",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_70b7ebe20ee81271bc5e3b2b08960a6ac11222c00542eecaab7b9a4b19891bf4"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:UgxbPBFfSv3Tyf-ofop4AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgxbPBFfSv3Tyf-ofop4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_e355b2cca0668449f435497d0fa11615ca35a5528a3be768c863ef76c5b6ae3d",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e355b2cca0668449f435497d0fa11615ca35a5528a3be768c863ef76c5b6ae3d"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_0bd4eacddc0258a05c80bada442bde34fdf384a4a1fbd9d14460b7b3b7f412b1",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_0bd4eacddc0258a05c80bada442bde34fdf384a4a1fbd9d14460b7b3b7f412b1"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_d6e870d2c623ba4eeb158e7c5b550e4be05537271113b9d9d6118101f4307e3c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_d6e870d2c623ba4eeb158e7c5b550e4be05537271113b9d9d6118101f4307e3c"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_71ce9e5c54daf89257545d03a2cc77974cd7b32b3f2241e76a7728912d7fc6a2",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_71ce9e5c54daf89257545d03a2cc77974cd7b32b3f2241e76a7728912d7fc6a2"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_d0324d979a188f4e8e2c7164ff6103d224c57713a362d43e6a9b06dd4460883e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_d0324d979a188f4e8e2c7164ff6103d224c57713a362d43e6a9b06dd4460883e"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_cdcaeca83e9c10478867330a5338e43a1b9b05fc43987c8ba100ba36fc95ab09",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_cdcaeca83e9c10478867330a5338e43a1b9b05fc43987c8ba100ba36fc95ab09"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:-TgKIoItPPM",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:-TgKIoItPPM"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:8ATRm1Bp1sU",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:8ATRm1Bp1sU"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_5afb86bf92bfa35ff8ff15568958d2214e8b3755ed7fbf639db59cc37b3ba2cb",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_5afb86bf92bfa35ff8ff15568958d2214e8b3755ed7fbf639db59cc37b3ba2cb"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1sbzdvx",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1sbzdvx"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1shwwz7",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1shwwz7"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p8kecsh",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p8kecsh"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_3e70873d7b6e8f9c43b0617116235378aaaeaa7b32dbeef01152e123342811f2",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_3e70873d7b6e8f9c43b0617116235378aaaeaa7b32dbeef01152e123342811f2"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1oe3rv0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1oe3rv0"
+     ],
+     "file": "rd_broad+rd_ebay",
+     "shared_reddit_row": true
+    },
+    {
+     "token": "reddit:t1_nkykxsw",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_nkykxsw"
+     ],
+     "file": "rd_broad+rd_ebay",
+     "shared_reddit_row": true
+    },
+    {
+     "token": "reddit:t1_nlai4ln",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_nlai4ln"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_nkynsy1",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_nkynsy1"
+     ],
+     "file": "rd_broad+rd_ebay",
+     "shared_reddit_row": true
+    },
+    {
+     "token": "reddit:t1_p5gv32z",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p5gv32z"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_0ada9f218a43775e20e0a39e87901a6e07bdc5d396cfa1244fc1cd11da08cc90",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_0ada9f218a43775e20e0a39e87901a6e07bdc5d396cfa1244fc1cd11da08cc90"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_cec361e65637851079915daae0a0dc7c3fc3fcb628354621fe87857f5bd7465e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_cec361e65637851079915daae0a0dc7c3fc3fcb628354621fe87857f5bd7465e"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1vweez9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1vweez9"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p5gahje",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p5gahje"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p5gb6s4",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p5gb6s4"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p5gbcao",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p5gbcao"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_oq7fajb",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oq7fajb"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1oqfzzy",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1oqfzzy"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1p7d9qr",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1p7d9qr"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_nqybkth",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_nqybkth"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_ac2e94cb73e26ece12c3779f78bd128648d8c86c4cd5d5008976d88c2608809f",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_ac2e94cb73e26ece12c3779f78bd128648d8c86c4cd5d5008976d88c2608809f"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_d21a49d827bd1ff3d5b5004547870111d9efcccf4c3776a5dc29c18fc750a6a4",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_d21a49d827bd1ff3d5b5004547870111d9efcccf4c3776a5dc29c18fc750a6a4"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:hWJ0uGyO1Pk",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:hWJ0uGyO1Pk"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_d886ed8f744638875812a74795906be056da863f84761aec80f66b8728729033",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_d886ed8f744638875812a74795906be056da863f84761aec80f66b8728729033"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_43581f51c83927d2be62c2bf6038cca40e6ba00e48c3d5c209e519df071e3c63",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_43581f51c83927d2be62c2bf6038cca40e6ba00e48c3d5c209e519df071e3c63"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_714e362b6b93a783bb048370192c054431ce9c2f374d775653839d3c72ccfa62",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_714e362b6b93a783bb048370192c054431ce9c2f374d775653839d3c72ccfa62"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_43dc3f742c4fca48a55be512fbc647cb122edf2d481045c7d4164d36fbd245e2",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_43dc3f742c4fca48a55be512fbc647cb122edf2d481045c7d4164d36fbd245e2"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:urGSyXd0wCo",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:urGSyXd0wCo"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_71c0aed93a91f43015cd7d4da3074e2108d8c22e4b45737a10d60fb9ad802cc0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_71c0aed93a91f43015cd7d4da3074e2108d8c22e4b45737a10d60fb9ad802cc0"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_ced297394efad9a77f06400da71cd123c622b33df4e1d7f2d2456e4163c2ed8a",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_ced297394efad9a77f06400da71cd123c622b33df4e1d7f2d2456e4163c2ed8a"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_c31e30959548adcde9b9081a868319f77d47317e4d16759af2e143aad793a0de",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_c31e30959548adcde9b9081a868319f77d47317e4d16759af2e143aad793a0de"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_b905f0ac85d9216c8f32df4f1e0131448f8e1bec843fc7e65a966d9743920c7f",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_b905f0ac85d9216c8f32df4f1e0131448f8e1bec843fc7e65a966d9743920c7f"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_03bf92808684d4ed2a7ffeb76d334106289c4f6d07feb48f1ee3e9071460a7c9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_03bf92808684d4ed2a7ffeb76d334106289c4f6d07feb48f1ee3e9071460a7c9"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_27a9e453accd09c6c23abfded25afc2db55d0d1d539a269bd778d41ce18dba2d",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_27a9e453accd09c6c23abfded25afc2db55d0d1d539a269bd778d41ce18dba2d"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_58c394ee4f577092a40022d8db608a0f70f88ecef87b49c4b8809d6d2e7d3f0f",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_58c394ee4f577092a40022d8db608a0f70f88ecef87b49c4b8809d6d2e7d3f0f"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_ffb785432e3e2fd93c80aa382d8015d349cbd43b7e9f30f8b3b0f3a7e9f9f47c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_ffb785432e3e2fd93c80aa382d8015d349cbd43b7e9f30f8b3b0f3a7e9f9f47c"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_af01bbb0745cf633ad07f33595c83e920db9c30291fb98739e02db9c93644661",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_af01bbb0745cf633ad07f33595c83e920db9c30291fb98739e02db9c93644661"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_d1016b2aee1111928e29c17a34d80f530eaa0f0e1a9b771d10b7d861eafc0bf9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_d1016b2aee1111928e29c17a34d80f530eaa0f0e1a9b771d10b7d861eafc0bf9"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_6ef354d11a5fe232218e48d6419048e1ba19dac971095ded4820dc9d7d9915bd",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_6ef354d11a5fe232218e48d6419048e1ba19dac971095ded4820dc9d7d9915bd"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_ce987d6e44b76413c7d1dc5e830d12a4940adb3b8ef521cd9b218af71e8ffbcc",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_ce987d6e44b76413c7d1dc5e830d12a4940adb3b8ef521cd9b218af71e8ffbcc"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1wphbkz",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1wphbkz"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_dfb628f8bb2528eda2e0c09cdd1c37ee5d10b81a9dc5b79057def1c35b7de5bf",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_dfb628f8bb2528eda2e0c09cdd1c37ee5d10b81a9dc5b79057def1c35b7de5bf"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_2346635f9946fbb4f862e6f20fdb41841c56b99e66af17a06fbccea788ef078c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_2346635f9946fbb4f862e6f20fdb41841c56b99e66af17a06fbccea788ef078c"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1r91qdw",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1r91qdw"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1ojc3n1",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1ojc3n1"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_nm1ytgc",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_nm1ytgc"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_372655ccab8e088f9d883944f2aa9ddbd04dcc0fb5e4da02ee00ccd7e6b4f6b7",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_372655ccab8e088f9d883944f2aa9ddbd04dcc0fb5e4da02ee00ccd7e6b4f6b7"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_1af7f3b9b2f226d2dfc118b7c2a482f970c087887b59c198e3fa21a131695c14",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_1af7f3b9b2f226d2dfc118b7c2a482f970c087887b59c198e3fa21a131695c14"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_d18974a6d89427cdf38d9f43ce12f094884ee774baa0c7172838fccf7af3fa8d",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_d18974a6d89427cdf38d9f43ce12f094884ee774baa0c7172838fccf7af3fa8d"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_a379d2916057f327ccd77622fa131c4a6068268a70c7fc6886987e715890590e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_a379d2916057f327ccd77622fa131c4a6068268a70c7fc6886987e715890590e"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_0e1abd6b9be087b8243cec21e63f33dbacd357eb359cb36bfd2caa74cc17d16e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_0e1abd6b9be087b8243cec21e63f33dbacd357eb359cb36bfd2caa74cc17d16e"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_631e6ad9caedbe5ed0602d9223359e1490afbf8b118d142f055c8cfb4000562b",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_631e6ad9caedbe5ed0602d9223359e1490afbf8b118d142f055c8cfb4000562b"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_3ca5b7c3bad19a465db8699f62a9b255f8ec4863c0777d93f1abc8d293f7afd9",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_3ca5b7c3bad19a465db8699f62a9b255f8ec4863c0777d93f1abc8d293f7afd9"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_bf4de5e601a75a64b5d24a9e51671538941f4e4c97d5f4daefab36823c0bd03e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_bf4de5e601a75a64b5d24a9e51671538941f4e4c97d5f4daefab36823c0bd03e"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_4472cc815eceb65ba2bb52daedeadfe527f6b7a76fcab9955aff7e8464e8a4b0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_4472cc815eceb65ba2bb52daedeadfe527f6b7a76fcab9955aff7e8464e8a4b0"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_cfb33c9b1b580c0ddf5d85d2c053bc2f35ddb299978f82a81e62cdb9c889c98e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_cfb33c9b1b580c0ddf5d85d2c053bc2f35ddb299978f82a81e62cdb9c889c98e"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_9aa09393c4e511f1b9711e378d2c72a569fdaf876b6858066bbbcfffb248f875",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_9aa09393c4e511f1b9711e378d2c72a569fdaf876b6858066bbbcfffb248f875"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_e46e35faa1add5a6e765a1cffd18e55b9223d41ba447580b1155d732886c877e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e46e35faa1add5a6e765a1cffd18e55b9223d41ba447580b1155d732886c877e"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1skd4mg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1skd4mg"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1txny14",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1txny14"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_opzx1zy",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_opzx1zy"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_odxel8c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_odxel8c"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_352f0ba98a361347b2fd78a2ba7547d65cc4f52f091c7ae6fca37204b252d66a",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_352f0ba98a361347b2fd78a2ba7547d65cc4f52f091c7ae6fca37204b252d66a"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_e3650793a27711c0b8beebc170244673f262e68c216611a4dda227ffff49fe23",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e3650793a27711c0b8beebc170244673f262e68c216611a4dda227ffff49fe23"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_45817e9aa1a1ae683f282e3d2b5acf290a88f9b479faec5abe5f1b2d79b3b992",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_45817e9aa1a1ae683f282e3d2b5acf290a88f9b479faec5abe5f1b2d79b3b992"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_13a61846bf301004ba3aad841138b6a9242040be233733d75a62cbd2e183c143",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_13a61846bf301004ba3aad841138b6a9242040be233733d75a62cbd2e183c143"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_667ec305f0a6ffc24213c189d63809ff03b0baeb0d06ad27d8b224ef993d57f2",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_667ec305f0a6ffc24213c189d63809ff03b0baeb0d06ad27d8b224ef993d57f2"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_1244835c61b6d87d69beb86d5f2dd21417c366acae25a54b6dba59335f235595",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_1244835c61b6d87d69beb86d5f2dd21417c366acae25a54b6dba59335f235595"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_7d25e976f18e82140000bbdc3695d32d8e3e5491b2d373be2858d881a0702a12",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_7d25e976f18e82140000bbdc3695d32d8e3e5491b2d373be2858d881a0702a12"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_17dd25520748e0c98e498efbcd040975a57cff0833bf4f8ff1c66d74bc501b40",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_17dd25520748e0c98e498efbcd040975a57cff0833bf4f8ff1c66d74bc501b40"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_3135e0e8ffd4ecd274fa377ca352d09c345a4447be1c4f730fb8a696d0cc0b54",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_3135e0e8ffd4ecd274fa377ca352d09c345a4447be1c4f730fb8a696d0cc0b54"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_24b4ad5ae83bdff6de0bac99c3eddbc8d8ca31abff5d3f97e08b707f1766b62c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_24b4ad5ae83bdff6de0bac99c3eddbc8d8ca31abff5d3f97e08b707f1766b62c"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_11c6d0893a1b25476d633ebd84d66f2428ee027c5d0d72c8ba0c83d71cce1b80",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_11c6d0893a1b25476d633ebd84d66f2428ee027c5d0d72c8ba0c83d71cce1b80"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_6db83504746b2179c840f96de558d4ea154cdc62a532455040761a4d05dc8628",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_6db83504746b2179c840f96de558d4ea154cdc62a532455040761a4d05dc8628"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_7f7b4dda73c9c16a9bc3f8d09c5b6f4228f4f9c25ca2c64bd8d55eaf69098beb",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_7f7b4dda73c9c16a9bc3f8d09c5b6f4228f4f9c25ca2c64bd8d55eaf69098beb"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_6bcfb3ca36f1de6ab1a9e560fc29e6f65251e6e533eeff7850d8e7196c2de920",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_6bcfb3ca36f1de6ab1a9e560fc29e6f65251e6e533eeff7850d8e7196c2de920"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_n03q3iy",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_n03q3iy"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1ufxb7r",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1ufxb7r"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_otwj817",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_otwj817"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1qcvle6",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1qcvle6"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_n04bfny",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_n04bfny"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_oygq7h6",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oygq7h6"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p515n9w",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p515n9w"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_218e99dbcc43d15140a9ed1eac16ad3f338c9e05dafe54984ede22b36f859df5",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_218e99dbcc43d15140a9ed1eac16ad3f338c9e05dafe54984ede22b36f859df5"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p56jodo",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p56jodo"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_cabc61bdcf2f7581719a931ad3d8ef0568000307d6bf2bc603ed9531a9a318c2",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_cabc61bdcf2f7581719a931ad3d8ef0568000307d6bf2bc603ed9531a9a318c2"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_9c4a18de8056465ce2ce1d0e095a8d872918ec1261a4efcbe0d836718f81a828",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_9c4a18de8056465ce2ce1d0e095a8d872918ec1261a4efcbe0d836718f81a828"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_0474b1922c45991bcc8a7c67d8289186886c37f2ba93bec25672ff78c62fbc34",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_0474b1922c45991bcc8a7c67d8289186886c37f2ba93bec25672ff78c62fbc34"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_8ecc6ac81ece1ee81ac8f6b1370c22d6d54150b50bb0a4a555379190e2fccbc8",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_8ecc6ac81ece1ee81ac8f6b1370c22d6d54150b50bb0a4a555379190e2fccbc8"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_cff44bceaac66b8ad165b9518d4c2660432055a5b346144497e50d9f33659d3b",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_cff44bceaac66b8ad165b9518d4c2660432055a5b346144497e50d9f33659d3b"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_13745f76e8b76f1e41808b01681db53dd3e29e10c2ec8e6b1d1091111bfaffc2",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_13745f76e8b76f1e41808b01681db53dd3e29e10c2ec8e6b1d1091111bfaffc2"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_bcddb583dd2616e718fd0bac16794dcacf93dc7a8aef026b994b2c47c00afd41",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_bcddb583dd2616e718fd0bac16794dcacf93dc7a8aef026b994b2c47c00afd41"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_145097e1e6748f5565951f7bc4fd08917fcedd07d8831b5b3806eeeabb5612ce",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_145097e1e6748f5565951f7bc4fd08917fcedd07d8831b5b3806eeeabb5612ce"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_6fd1307421f1643d5f896d91385ad0a4b004e2f6adfa9bbfc782465b2e13c788",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_6fd1307421f1643d5f896d91385ad0a4b004e2f6adfa9bbfc782465b2e13c788"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_9520b23f6c4cda1161c67fdc86b8d503f961445e20d7fe6b093131c9720f33cb",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_9520b23f6c4cda1161c67fdc86b8d503f961445e20d7fe6b093131c9720f33cb"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_1e0184bc8d4960c56fcf0a8850afbd26d214c3fff259dc1b77808f6857279cf8",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_1e0184bc8d4960c56fcf0a8850afbd26d214c3fff259dc1b77808f6857279cf8"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_5cc71701df7c8785be053042df8e46c3a2d57f90c64879e7b65d6926bc807af7",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_5cc71701df7c8785be053042df8e46c3a2d57f90c64879e7b65d6926bc807af7"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_dbb48dcc855d90f67532b728324753a8a812ea4087108ad8a461ffbf3c255214",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_dbb48dcc855d90f67532b728324753a8a812ea4087108ad8a461ffbf3c255214"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_a203c31dbb4f693ef44ac8f4e296790aef4b98a1d64f0c0e83a80668c28eff77",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_a203c31dbb4f693ef44ac8f4e296790aef4b98a1d64f0c0e83a80668c28eff77"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_0089e5d66d193282b94abaaca0c8d154ee5b248f4ac7c820e6abffae917f572e",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_0089e5d66d193282b94abaaca0c8d154ee5b248f4ac7c820e6abffae917f572e"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_5cdeaba681d63e879143662d336f59f4251ba637e747f46ffa02d3031bd21280",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_5cdeaba681d63e879143662d336f59f4251ba637e747f46ffa02d3031bd21280"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_c5f1342441d7f21cf5f3d31ebc14f7d67b338b6b90de0bbefa0e26e67ebdb380",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_c5f1342441d7f21cf5f3d31ebc14f7d67b338b6b90de0bbefa0e26e67ebdb380"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_b441c9453ba84ed26f090036522ce6e167cbb290c7afe26fe20dfede2d15cf5c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_b441c9453ba84ed26f090036522ce6e167cbb290c7afe26fe20dfede2d15cf5c"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_8a4ab98cbc2e83e1edafa248cc513d2f092eab6ca7b5c3b0dafac7a9d9354638",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_8a4ab98cbc2e83e1edafa248cc513d2f092eab6ca7b5c3b0dafac7a9d9354638"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_e4b6e7361e2a648dcd9d1a0be33d972c2578dd8f32d4f73d27e4dc7deecbc770",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e4b6e7361e2a648dcd9d1a0be33d972c2578dd8f32d4f73d27e4dc7deecbc770"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_4492b026b178e25d65dee6905c45ae5817dd746db0e29c89d46274c01f332fcb",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_4492b026b178e25d65dee6905c45ae5817dd746db0e29c89d46274c01f332fcb"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_4a91348fca3a55dbc810d99f2ad82e321b56b0cffd54470d54c2b4b7e3a4d028",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_4a91348fca3a55dbc810d99f2ad82e321b56b0cffd54470d54c2b4b7e3a4d028"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_e4e363d373910e9e65c47159e6f7958f630cb4c5456e12e4960926724191b947",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e4e363d373910e9e65c47159e6f7958f630cb4c5456e12e4960926724191b947"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_8459de44190ad122e439d6a0707c479c0304fce60bdc5e22d9d485d7008f1748",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_8459de44190ad122e439d6a0707c479c0304fce60bdc5e22d9d485d7008f1748"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_1dd1a5d8575044db0f91979fd604a3a08348a7c841c96c5ba1a478e2a9decd46",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_1dd1a5d8575044db0f91979fd604a3a08348a7c841c96c5ba1a478e2a9decd46"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_daced285e1fbec1ec9488db43f80123543157c2d25a55eff7784a0c02313e5a7",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_daced285e1fbec1ec9488db43f80123543157c2d25a55eff7784a0c02313e5a7"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_fe0afbcf4604177204c3d11455bef9b3a9b19a5ce6acad18bf89fe1262fbf60a",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_fe0afbcf4604177204c3d11455bef9b3a9b19a5ce6acad18bf89fe1262fbf60a"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_b80372eecb87237235a1301f8a15be9de0f2a12aaf73f479a489d223694b1fab",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_b80372eecb87237235a1301f8a15be9de0f2a12aaf73f479a489d223694b1fab"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_a72c7e8c99fcde6837849b177435d284bcbd7f3fca56c3a313d472514289eb0c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_a72c7e8c99fcde6837849b177435d284bcbd7f3fca56c3a313d472514289eb0c"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_a4d892642962b0a7d32571bfc1c14d321fd8736103723ac30541948ec7ba5728",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_a4d892642962b0a7d32571bfc1c14d321fd8736103723ac30541948ec7ba5728"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_21b424cbe81a956038ec7ce483cc6a462fb8d0d27d4e8ae1abd8f5ad14275bf4",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_21b424cbe81a956038ec7ce483cc6a462fb8d0d27d4e8ae1abd8f5ad14275bf4"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "tiktok_video:local_97b9ca83e668d2dc00a03f5f4f5c361370e9500a5dd6d9db1727780c8cb0ba7c",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_97b9ca83e668d2dc00a03f5f4f5c361370e9500a5dd6d9db1727780c8cb0ba7c"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1qjabr7",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1qjabr7"
+     ],
+     "file": "rd_broad+rd_ebay",
+     "shared_reddit_row": true
+    },
+    {
+     "token": "reddit:t1_o0zedv8",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o0zedv8"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_olpp167",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_olpp167"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1wfp5sj",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1wfp5sj"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p9o48gb",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p9o48gb"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p9ojy91",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p9ojy91"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_p7xb529",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7xb529"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_ocus8sv",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_ocus8sv"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_pa2yhrf",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_pa2yhrf"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t3_1s5ae92",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1s5ae92"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_comment:UgxbPcydBm_M7LfisLt4AaABAg",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgxbPcydBm_M7LfisLt4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_omuylg3",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_omuylg3"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "reddit:t1_nseqlli",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_nseqlli"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_live:wbUy3gK7kFE:690",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_live:wbUy3gK7kFE:690"
+     ],
+     "file": "yt_chat",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_live:wbUy3gK7kFE:708",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_live:wbUy3gK7kFE:708"
+     ],
+     "file": "yt_chat",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_live:wbUy3gK7kFE:709",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_live:wbUy3gK7kFE:709"
+     ],
+     "file": "yt_chat",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:Eq1xymBqpnk",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:Eq1xymBqpnk"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:EtOrAojxRqI",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:EtOrAojxRqI"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:myCuDV9-2-M",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:myCuDV9-2-M"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:d3uHPsnoITc",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:d3uHPsnoITc"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:DjsWZaPwMQs",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:DjsWZaPwMQs"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "youtube_video:y-NqOxTOXP0",
+     "kind": "full",
+     "status": "resolved",
+     "matches": [
+      "youtube_video:y-NqOxTOXP0"
+     ],
+     "file": "yt_titles",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_c67838ae",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_c67838ae2adfd72a953a41d8235469d9f84250b5d84fd3bd0730cba35da103ef"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
     {
      "token": "local_9cc53f16",
      "kind": "local_prefix",
@@ -40,976 +3099,6 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_a42343e4",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_a42343e416b932055ae2bc5e940f2a7b3a05db08a82a6f2140fa2e656b70c75f"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_14590272",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_1459027233631e98693c123858c3bf0452a74d9523669429c2f7a5ea79dcca08"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_4b8b0af8",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_4b8b0af81b73929295327284e2ad87673d1c8cb539b3bf4b824d4d9fae707704"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_d780fa1b",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_d780fa1b1c4c85170b7c05ad0e1743574791d31d4c9a2ff66f345266e6f53aa7"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_4e90086b",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_4e90086ba29711ca9484bb9f85d61efc17878f8361fa5c081162fbe06cccfde1"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_0bfd1c9e",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_0bfd1c9e119a18b2f385c1494b75b70bbcfbda1e509aed5c111540a47ea5af20"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_53082fbb",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_53082fbbc8746c750ac14bfa62cecdb893e9de49acad1a19f148d82f41e4f4f7"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_da33bf27",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_da33bf27eaa5bf7d7831bc3cfed79ec4e31bd8ab04e1278c036ea74605ff020e"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_39bd7ce1",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_39bd7ce14f69545359d9593775c3c87817a1979231709044bba25548684744a1"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_e1b518bb",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_e1b518bb12ea89e7544409cb64029950f5745507369bd200d16240f7053dc2ec"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_bf98b74d",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_bf98b74df4e3e5bcb83c006ac379d8da8368147147fd27f47810bdf2fed053d9"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_0bd4eacd",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_0bd4eacddc0258a05c80bada442bde34fdf384a4a1fbd9d14460b7b3b7f412b1"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_71ce9e5c",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_71ce9e5c54daf89257545d03a2cc77974cd7b32b3f2241e76a7728912d7fc6a2"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_f59398a7",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_0ada9f21",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_0ada9f218a43775e20e0a39e87901a6e07bdc5d396cfa1244fc1cd11da08cc90"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_ac2e94cb",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_ac2e94cb73e26ece12c3779f78bd128648d8c86c4cd5d5008976d88c2608809f"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_d886ed8f",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_d886ed8f744638875812a74795906be056da863f84761aec80f66b8728729033"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_061e0f6f",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_061e0f6f9b783fca632ad1cc60868277921695a253562cd97a8f735514b85af8"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_9520b23f",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_9520b23f6c4cda1161c67fdc86b8d503f961445e20d7fe6b093131c9720f33cb"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_1e0184bc",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_1e0184bc8d4960c56fcf0a8850afbd26d214c3fff259dc1b77808f6857279cf8"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1vub4yy",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1vub4yy"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1pttt05",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1pttt05"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1todhm0",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1todhm0"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1om25vd",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1om25vd"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1u5s64o",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1u5s64o"
-     ],
-     "file": "rd_broad+rd_ebay",
-     "shared_reddit_row": true
-    },
-    {
-     "token": "t3_1uvql6e",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1uvql6e"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1om8vct",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1om8vct"
-     ],
-     "file": "rd_broad+rd_ebay",
-     "shared_reddit_row": true
-    },
-    {
-     "token": "t3_1o6m3c3",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1o6m3c3"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1qkscsr",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1qkscsr"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1thre78",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1thre78"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_oydr557",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_oydr557"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_oyo6r47",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_oyo6r47"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p7hz8rr",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p7hz8rr"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_oz5yrln",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_oz5yrln"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_oyfrxmd",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_oyfrxmd"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_omuylg3",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_omuylg3"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p7hxipn",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p7hxipn"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1pbo9ic",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1pbo9ic"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1r8eukv",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1r8eukv"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1u2j162",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1u2j162"
-     ],
-     "file": "rd_broad+rd_ebay",
-     "shared_reddit_row": true
-    },
-    {
-     "token": "t3_1qvaf6c",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1qvaf6c"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1o7ekel",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1o7ekel"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_njn3ck9",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_njn3ck9"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1uug0m0",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1uug0m0"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_niwc5vg",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_niwc5vg"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1s8y9k4",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1s8y9k4"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1q53zhu",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1q53zhu"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_nxxo1bg",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_nxxo1bg"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_odl74kz",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_odl74kz"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_odkd14k",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_odkd14k"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_ofgfyui",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_ofgfyui"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1oe3rv0",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1oe3rv0"
-     ],
-     "file": "rd_broad+rd_ebay",
-     "shared_reddit_row": true
-    },
-    {
-     "token": "t1_opkfisj",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_opkfisj"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p7yaxpk",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p7yaxpk"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1vweez9",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1vweez9"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p5gahje",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p5gahje"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p5ij8ks",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p5ij8ks"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1tz0dbm",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1tz0dbm"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1oqfzzy",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1oqfzzy"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1p7d9qr",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1p7d9qr"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_nqybkth",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_nqybkth"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_nm1ytgc",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_nm1ytgc"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_o5r4nt4",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_o5r4nt4"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1r6l7fu",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1r6l7fu"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_n03y0q8",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_n03y0q8"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_n03l086",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_n03l086"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_n03q3iy",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_n03q3iy"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_otwj817",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_otwj817"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p4zsiqf",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p4zsiqf"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1qjabr7",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1qjabr7"
-     ],
-     "file": "rd_broad+rd_ebay",
-     "shared_reddit_row": true
-    },
-    {
-     "token": "t1_o0zedv8",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_o0zedv8"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_olpp167",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_olpp167"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1wfp5sj",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1wfp5sj"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p7xb529",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p7xb529"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p9ojy91",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p9ojy91"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "UgzrDtVVH",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "UgxUAxsB",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgxUAxsBByhft3opmtN4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "Ugz5nBxn",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:Ugz5nBxnGuEJJr0XJgx4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "UgxbPBFf",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgxbPBFfSv3Tyf-ofop4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "UgyCv7jiwL",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgyCv7jiwL0xRZbhEih4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    }
-   ]
-  },
-  "stage2_notes_running.md": {
-   "summary": {
-    "tokens": 266,
-    "resolved": 265,
-    "ambiguous": 0,
-    "unresolved": 1
-   },
-   "problems": [
-    {
-     "token": "local_98348833",
-     "kind": "local_prefix",
-     "status": "unresolved",
-     "matches": [],
-     "file": "",
-     "shared_reddit_row": false
-    }
-   ],
-   "rows": [
-    {
-     "token": "tiktok_video:local_9cc53f16b5a9d3f86ac5c5a4d135d659be319a3e3e6d0c515748b3c4541e05b3",
-     "kind": "full",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_9cc53f16b5a9d3f86ac5c5a4d135d659be319a3e3e6d0c515748b3c4541e05b3"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg",
-     "kind": "full",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg",
-     "kind": "full",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_345a885e",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_345a885eec51cda70280fe41d9d8a44231583b22d69b07f11112dc53d65671e0"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_475e17cc",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_475e17ccc95775985f118c87c4050bd1ad2f7cdf4cbfd6ff8c443accca94b11e"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_ddb3b62a",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_ddb3b62a73219178d0b5da761e558331c5b8912c43e70b4ec3829ccd7230b183"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_d1533050",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_d15330509e53c653d0d84112e31a0027be86c3ebfc90683f877af230b1cfd8e3"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_496c6391",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_496c6391555f2f4dd9958b3281c74342cabd8badd63444a0e3341b508d75dfa9"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_41e91d56",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_41e91d5641b31b2478e864d575ba0a6aea3c4b4f0bb2bf78ddbfd364e1dc1770"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_269d32a2",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_269d32a294e7b4c1777110884c032ef3b7079e1b77832931372c36e08220cc71"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_0c7068bd",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_0c7068bd66adbd9f6889de009cdb83a68a1fb7cd4e7db790be8ae018b72d17de"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_8b66314b",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_8b66314bd9cbba5051e223b8e0befddc4c414b78b7c756d704b646cd0b83d2c5"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_bef65052",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_bef65052c81361e7914b344c7faea7590c4f63488e3315c85c6f37847db951d4"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_0e4db252",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_0e4db252261e21416499001341a4c8a2e09d47b011d1b8484f105f84b72bfeb5"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_a42343e4",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_a42343e416b932055ae2bc5e940f2a7b3a05db08a82a6f2140fa2e656b70c75f"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
      "token": "local_edf5696e",
      "kind": "local_prefix",
      "status": "resolved",
@@ -1020,33 +3109,23 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_0f3f1249",
+     "token": "local_332a15b5",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_0f3f1249ce15b9d745a17fe29d951047d6893d3b02276edb3b97d3c62b5e050b"
+      "tiktok_video:local_332a15b59821a217fec37ae2242091a8e105f87fea47a2eb9c2e2df5ac726246"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_a42343e4",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_a42343e416b932055ae2bc5e940f2a7b3a05db08a82a6f2140fa2e656b70c75f"
      ],
      "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_4b8b0af8",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_4b8b0af81b73929295327284e2ad87673d1c8cb539b3bf4b824d4d9fae707704"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_4e77c895",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_4e77c895243ae8d1ded3c0c389df02b2c57ea76f737adaecbb673f46583ffb7b"
-     ],
-     "file": "tt_comm",
      "shared_reddit_row": false
     },
     {
@@ -1060,23 +3139,13 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_2a99087e",
+     "token": "local_4b8b0af8",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_2a99087ef9862b8bf038d9f9d8b28b279658f739f138e4f1f9452d4f64b63780"
+      "tiktok_video:local_4b8b0af81b73929295327284e2ad87673d1c8cb539b3bf4b824d4d9fae707704"
      ],
      "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_cbfaedb7",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_cbfaedb7e7662b23fe2d4b46f26821e197819a9457399b48fa74329d388dc7be"
-     ],
-     "file": "tt_direct",
      "shared_reddit_row": false
     },
     {
@@ -1120,41 +3189,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_53082fbb",
+     "token": "local_88af59ae",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_53082fbbc8746c750ac14bfa62cecdb893e9de49acad1a19f148d82f41e4f4f7"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_2c10d7f6",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_2c10d7f6d3d07af614f54ed83d28505fe82c36a59f8692a47e0315e47b26a2b2"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_dad0a740",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_dad0a7408cb3bae2a543a3284d3c8df544a7d962ce108c47175fb4f3fa4cdd51"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_8c6ebc99",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_8c6ebc992b6110b1bd4e0cf74809ea7d1b866d105e4a57329f13b1efaf7506d4"
+      "tiktok_video:local_88af59ae9a2fa322212e2c329b587b18d8ed944d676cd9e0e6716bcc388db04f"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1170,13 +3209,43 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_13d7da97",
+     "token": "local_8ab883e5",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_13d7da97af48c02c84bedfee7fc47a0a04e2c1697109b8e388215f6314abfb9e"
+      "tiktok_video:local_8ab883e5b6de9a3d366deedffd5c45e1cd2e5691bb0011b800a4d100a73b040a"
      ],
      "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_51ab5800",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_51ab5800ba9189e3523179e838ff72ba69ed0a16f7f64c69878b5f2e594de755"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_9834883a",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_9834883a31b26545d1be859a03a72cdb489521b328417a43e7a8249b6d0b8fe1"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_70b7ebe2",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_70b7ebe20ee81271bc5e3b2b08960a6ac11222c00542eecaab7b9a4b19891bf4"
+     ],
+     "file": "tt_comm",
      "shared_reddit_row": false
     },
     {
@@ -1190,11 +3259,21 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_7551ae4b",
+     "token": "local_13d7da97",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_7551ae4b38154198cb22fca8dd31c51ac0f9b6f2792c1c619e7c264e023e77c2"
+      "tiktok_video:local_13d7da97af48c02c84bedfee7fc47a0a04e2c1697109b8e388215f6314abfb9e"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_bf98b74d",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_bf98b74df4e3e5bcb83c006ac379d8da8368147147fd27f47810bdf2fed053d9"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1220,109 +3299,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_7c8c1fef",
+     "token": "local_63c645f2",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_7c8c1fef12c4ccff84122c6eb5b8f44de7c87d2577a3fb785bc33861994f3041"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_eec0e229",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_eec0e22940e1f09085c235ee08466d44bf0bb7d503a5ec6b02f7eee29d5d3e67"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_bf98b74d",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_bf98b74df4e3e5bcb83c006ac379d8da8368147147fd27f47810bdf2fed053d9"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_3a88a92b",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_3a88a92b305c98311d7c76d3c0b3082536e00460583236390e0955d5a04c2c82"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_98348833",
-     "kind": "local_prefix",
-     "status": "unresolved",
-     "matches": [],
-     "file": "",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_70b7ebe2",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_70b7ebe20ee81271bc5e3b2b08960a6ac11222c00542eecaab7b9a4b19891bf4"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_4224b478",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_4224b478b0041ed6712f06af2403b86ef4c70bd97497ecb3f170ac067d5683fa"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_ecf5eb72",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_ecf5eb7253dba504b31774e6a1d1867d309ed7b8d526a784bb0fd731796cfbfa"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_c7313eb2",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_c7313eb2d8643566b601c107434a8e64d34fa5a969a022867363dfdba778e16c"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_b7cc355b",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_b7cc355be2b1a3bd99cebd48643e8b28bc639f7560eed04829a7135c729df4a8"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_e355b2cc",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_e355b2cca0668449f435497d0fa11615ca35a5528a3be768c863ef76c5b6ae3d"
+      "tiktok_video:local_63c645f28c308b02d9f1e46d2941920b624b0a856df26617477548b829ee6cae"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1338,11 +3319,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_d6e870d2",
+     "token": "local_e355b2cc",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_d6e870d2c623ba4eeb158e7c5b550e4be05537271113b9d9d6118101f4307e3c"
+      "tiktok_video:local_e355b2cca0668449f435497d0fa11615ca35a5528a3be768c863ef76c5b6ae3d"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1358,31 +3339,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_d0324d97",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_d0324d979a188f4e8e2c7164ff6103d224c57713a362d43e6a9b06dd4460883e"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
      "token": "local_f59398a7",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
       "tiktok_video:local_f59398a7a4601f508dc9b45bf6288d2846667db04188f5db991635bb86bd2778"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_cdcaeca8",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_cdcaeca83e9c10478867330a5338e43a1b9b05fc43987c8ba100ba36fc95ab09"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1408,6 +3369,26 @@
      "shared_reddit_row": false
     },
     {
+     "token": "local_a210513c",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_a210513c87638e131a381011464f3c91b4a7507f4bd1ef2693f741a2be1f261c"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_3e70873d",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_3e70873d7b6e8f9c43b0617116235378aaaeaa7b32dbeef01152e123342811f2"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
      "token": "local_ac2e94cb",
      "kind": "local_prefix",
      "status": "resolved",
@@ -1428,11 +3409,21 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_2b31c1ac",
+     "token": "local_d886ed8f",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_2b31c1acdabaada671419f349c87b579f5b26c596624a8df167d0924dd9663a2"
+      "tiktok_video:local_d886ed8f744638875812a74795906be056da863f84761aec80f66b8728729033"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_061e0f6f",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_061e0f6f9b783fca632ad1cc60868277921695a253562cd97a8f735514b85af8"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1458,46 +3449,6 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_43581f51",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_43581f51c83927d2be62c2bf6038cca40e6ba00e48c3d5c209e519df071e3c63"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_061e0f6f",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_061e0f6f9b783fca632ad1cc60868277921695a253562cd97a8f735514b85af8"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_9ce6f4d1",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_9ce6f4d15ed9eec637bbc4c5c63cb7bb4d75fc794ec6a90f1286307474ae5646"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_d886ed8f",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_d886ed8f744638875812a74795906be056da863f84761aec80f66b8728729033"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
      "token": "local_71c0aed9",
      "kind": "local_prefix",
      "status": "resolved",
@@ -1508,31 +3459,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_ced29739",
+     "token": "local_2346635f",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_ced297394efad9a77f06400da71cd123c622b33df4e1d7f2d2456e4163c2ed8a"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_be7ae197",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_be7ae1970267ca810c5ceaff413b1332e0f6c1b4264e03e7d142c2bf98ddef06"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_c31e3095",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_c31e30959548adcde9b9081a868319f77d47317e4d16759af2e143aad793a0de"
+      "tiktok_video:local_2346635f9946fbb4f862e6f20fdb41841c56b99e66af17a06fbccea788ef078c"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1548,11 +3479,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_03bf9280",
+     "token": "local_c31e3095",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_03bf92808684d4ed2a7ffeb76d334106289c4f6d07feb48f1ee3e9071460a7c9"
+      "tiktok_video:local_c31e30959548adcde9b9081a868319f77d47317e4d16759af2e143aad793a0de"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1568,21 +3499,21 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_58c394ee",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_58c394ee4f577092a40022d8db608a0f70f88ecef87b49c4b8809d6d2e7d3f0f"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
      "token": "local_dcee2c75",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
       "tiktok_video:local_dcee2c75839a5155605fd0d564d921bf88bd52164d061c9989cb63956ff6bbd3"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_ce987d6e",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_ce987d6e44b76413c7d1dc5e830d12a4940adb3b8ef521cd9b218af71e8ffbcc"
      ],
      "file": "tt_comm",
      "shared_reddit_row": false
@@ -1598,13 +3529,13 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_af01bbb0",
+     "token": "local_dfb628f8",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_af01bbb0745cf633ad07f33595c83e920db9c30291fb98739e02db9c93644661"
+      "tiktok_video:local_dfb628f8bb2528eda2e0c09cdd1c37ee5d10b81a9dc5b79057def1c35b7de5bf"
      ],
-     "file": "tt_comm",
+     "file": "tt_direct",
      "shared_reddit_row": false
     },
     {
@@ -1628,23 +3559,23 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_847b030b",
+     "token": "local_03bf9280",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_847b030bfc5a2948fa154e2f41e7ac9cb0c5dceb154a9a8e0f5c2cd131e87362"
+      "tiktok_video:local_03bf92808684d4ed2a7ffeb76d334106289c4f6d07feb48f1ee3e9071460a7c9"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
     },
     {
-     "token": "local_e5ffc050",
+     "token": "local_3cc532cf",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_e5ffc0503956485053fd47be86c61ed52a5cc2ff5e2bccbe6ef2518649fc5b70"
+      "tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5"
      ],
-     "file": "tt_direct",
+     "file": "tt_comm",
      "shared_reddit_row": false
     },
     {
@@ -1653,46 +3584,6 @@
      "status": "resolved",
      "matches": [
       "tiktok_video:local_d18974a6d89427cdf38d9f43ce12f094884ee774baa0c7172838fccf7af3fa8d"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_a379d291",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_a379d2916057f327ccd77622fa131c4a6068268a70c7fc6886987e715890590e"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_0e1abd6b",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_0e1abd6b9be087b8243cec21e63f33dbacd357eb359cb36bfd2caa74cc17d16e"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_631e6ad9",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_631e6ad9caedbe5ed0602d9223359e1490afbf8b118d142f055c8cfb4000562b"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_3ca5b7c3",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_3ca5b7c3bad19a465db8699f62a9b255f8ec4863c0777d93f1abc8d293f7afd9"
      ],
      "file": "tt_comm",
      "shared_reddit_row": false
@@ -1708,13 +3599,13 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_16e7309a",
+     "token": "local_4472cc81",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_16e7309a12013a8aea1bc09ec7fdb3297b27c958ed88d52b673ec2846c5ecfa7"
+      "tiktok_video:local_4472cc815eceb65ba2bb52daedeadfe527f6b7a76fcab9955aff7e8464e8a4b0"
      ],
-     "file": "tt_comm",
+     "file": "tt_direct",
      "shared_reddit_row": false
     },
     {
@@ -1738,51 +3629,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_9aa09393",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_9aa09393c4e511f1b9711e378d2c72a569fdaf876b6858066bbbcfffb248f875"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_a84c21b5",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_a84c21b56407688c95a977ec5004c41e5bbadb9e423d11da6ab23ef760615ceb"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_e46e35fa",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_e46e35faa1add5a6e765a1cffd18e55b9223d41ba447580b1155d732886c877e"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
      "token": "local_352f0ba9",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
       "tiktok_video:local_352f0ba98a361347b2fd78a2ba7547d65cc4f52f091c7ae6fca37204b252d66a"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_4defa3ab",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_4defa3ab36606c90aaa4e18935301126242dbfe0423cea2c8e11aa0a2777f0d9"
      ],
      "file": "tt_comm",
      "shared_reddit_row": false
@@ -1798,11 +3649,21 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_45817e9a",
+     "token": "local_4defa3ab",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_45817e9aa1a1ae683f282e3d2b5acf290a88f9b479faec5abe5f1b2d79b3b992"
+      "tiktok_video:local_4defa3ab36606c90aaa4e18935301126242dbfe0423cea2c8e11aa0a2777f0d9"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_99a07423",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f"
      ],
      "file": "tt_comm",
      "shared_reddit_row": false
@@ -1828,16 +3689,6 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_7d25e976",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_7d25e976f18e82140000bbdc3695d32d8e3e5491b2d373be2858d881a0702a12"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
      "token": "local_17dd2552",
      "kind": "local_prefix",
      "status": "resolved",
@@ -1855,6 +3706,16 @@
       "tiktok_video:local_1af7f3b9b2f226d2dfc118b7c2a482f970c087887b59c198e3fa21a131695c14"
      ],
      "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_6db83504",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_6db83504746b2179c840f96de558d4ea154cdc62a532455040761a4d05dc8628"
+     ],
+     "file": "tt_comm",
      "shared_reddit_row": false
     },
     {
@@ -1878,6 +3739,26 @@
      "shared_reddit_row": false
     },
     {
+     "token": "local_11c6d089",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_11c6d0893a1b25476d633ebd84d66f2428ee027c5d0d72c8ba0c83d71cce1b80"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_e46e35fa",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_e46e35faa1add5a6e765a1cffd18e55b9223d41ba447580b1155d732886c877e"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
      "token": "local_6bcfb3ca",
      "kind": "local_prefix",
      "status": "resolved",
@@ -1888,31 +3769,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_218e99db",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_218e99dbcc43d15140a9ed1eac16ad3f338c9e05dafe54984ede22b36f859df5"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
      "token": "local_cabc61bd",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
       "tiktok_video:local_cabc61bdcf2f7581719a931ad3d8ef0568000307d6bf2bc603ed9531a9a318c2"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_9c4a18de",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_9c4a18de8056465ce2ce1d0e095a8d872918ec1261a4efcbe0d836718f81a828"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1938,11 +3799,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_8ecc6ac8",
+     "token": "local_145097e1",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_8ecc6ac81ece1ee81ac8f6b1370c22d6d54150b50bb0a4a555379190e2fccbc8"
+      "tiktok_video:local_145097e1e6748f5565951f7bc4fd08917fcedd07d8831b5b3806eeeabb5612ce"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -1968,13 +3829,33 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_bcddb583",
+     "token": "local_9520b23f",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_bcddb583dd2616e718fd0bac16794dcacf93dc7a8aef026b994b2c47c00afd41"
+      "tiktok_video:local_9520b23f6c4cda1161c67fdc86b8d503f961445e20d7fe6b093131c9720f33cb"
      ],
      "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_1e0184bc",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_1e0184bc8d4960c56fcf0a8850afbd26d214c3fff259dc1b77808f6857279cf8"
+     ],
+     "file": "tt_direct",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_6fd13074",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_6fd1307421f1643d5f896d91385ad0a4b004e2f6adfa9bbfc782465b2e13c788"
+     ],
+     "file": "tt_comm",
      "shared_reddit_row": false
     },
     {
@@ -1983,16 +3864,6 @@
      "status": "resolved",
      "matches": [
       "tiktok_video:local_5cc71701df7c8785be053042df8e46c3a2d57f90c64879e7b65d6926bc807af7"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_dbb48dcc",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_dbb48dcc855d90f67532b728324753a8a812ea4087108ad8a461ffbf3c255214"
      ],
      "file": "tt_comm",
      "shared_reddit_row": false
@@ -2028,11 +3899,31 @@
      "shared_reddit_row": false
     },
     {
+     "token": "local_8a4ab98c",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_8a4ab98cbc2e83e1edafa248cc513d2f092eab6ca7b5c3b0dafac7a9d9354638"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
      "token": "local_c5f13424",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
       "tiktok_video:local_c5f1342441d7f21cf5f3d31ebc14f7d67b338b6b90de0bbefa0e26e67ebdb380"
+     ],
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_b441c945",
+     "kind": "local_prefix",
+     "status": "resolved",
+     "matches": [
+      "tiktok_video:local_b441c9453ba84ed26f090036522ce6e167cbb290c7afe26fe20dfede2d15cf5c"
      ],
      "file": "tt_comm",
      "shared_reddit_row": false
@@ -2058,26 +3949,6 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_4a91348f",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_4a91348fca3a55dbc810d99f2ad82e321b56b0cffd54470d54c2b4b7e3a4d028"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_e4e363d3",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_e4e363d373910e9e65c47159e6f7958f630cb4c5456e12e4960926724191b947"
-     ],
-     "file": "tt_comm",
-     "shared_reddit_row": false
-    },
-    {
      "token": "local_8459de44",
      "kind": "local_prefix",
      "status": "resolved",
@@ -2093,16 +3964,6 @@
      "status": "resolved",
      "matches": [
       "tiktok_video:local_1dd1a5d8575044db0f91979fd604a3a08348a7c841c96c5ba1a478e2a9decd46"
-     ],
-     "file": "tt_direct",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "local_daced285",
-     "kind": "local_prefix",
-     "status": "resolved",
-     "matches": [
-      "tiktok_video:local_daced285e1fbec1ec9488db43f80123543157c2d25a55eff7784a0c02313e5a7"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
@@ -2148,23 +4009,61 @@
      "shared_reddit_row": false
     },
     {
-     "token": "local_21b424cb",
+     "token": "local_847b030b",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_21b424cbe81a956038ec7ce483cc6a462fb8d0d27d4e8ae1abd8f5ad14275bf4"
+      "tiktok_video:local_847b030bfc5a2948fa154e2f41e7ac9cb0c5dceb154a9a8e0f5c2cd131e87362"
      ],
      "file": "tt_direct",
      "shared_reddit_row": false
     },
     {
-     "token": "local_97b9ca83",
+     "token": "local_98348833",
+     "kind": "local_prefix",
+     "status": "unresolved",
+     "matches": [],
+     "file": "",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "local_218e99db",
      "kind": "local_prefix",
      "status": "resolved",
      "matches": [
-      "tiktok_video:local_97b9ca83e668d2dc00a03f5f4f5c361370e9500a5dd6d9db1727780c8cb0ba7c"
+      "tiktok_video:local_218e99dbcc43d15140a9ed1eac16ad3f338c9e05dafe54984ede22b36f859df5"
      ],
-     "file": "tt_direct",
+     "file": "tt_comm",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p50mp5r",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p50mp5r"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_owwn39k",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_owwn39k"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_omvn0rt",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_omvn0rt"
+     ],
+     "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
@@ -2218,36 +4117,6 @@
      "shared_reddit_row": true
     },
     {
-     "token": "t3_1rauaq6",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1rauaq6"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1so31lw",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1so31lw"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1qegt3m",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1qegt3m"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
      "token": "t3_1o6m3c3",
      "kind": "reddit_bare",
      "status": "resolved",
@@ -2278,11 +4147,41 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t3_1r1a00m",
+     "token": "t1_niwjhum",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t3_1r1a00m"
+      "reddit:t1_niwjhum"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_ovl1bk3",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_ovl1bk3"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_oydr557",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oydr557"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_oyo6r47",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oyo6r47"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -2308,111 +4207,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t1_p7nasw9",
+     "token": "t1_omuylg3",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_p7nasw9"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p7i71du",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p7i71du"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1uzll95",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1uzll95"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_oydr557",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_oydr557"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_oyo6r47",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_oyo6r47"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_oz5yrln",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_oz5yrln"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_oyfrxmd",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_oyfrxmd"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p1ynv3d",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p1ynv3d"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p7hqpxp",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p7hqpxp"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_ok3zial",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_ok3zial"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1pcpv9c",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1pcpv9c"
+      "reddit:t1_omuylg3"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -2423,46 +4222,6 @@
      "status": "resolved",
      "matches": [
       "reddit:t3_1pbo9ic"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1rwn9r8",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1rwn9r8"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1wpim4j",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1wpim4j"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1qd1fa4",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1qd1fa4"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1u15aox",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1u15aox"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -2488,26 +4247,6 @@
      "shared_reddit_row": true
     },
     {
-     "token": "t3_1r3ngpa",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1r3ngpa"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1wflj0d",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1wflj0d"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
      "token": "t3_1qvaf6c",
      "kind": "reddit_bare",
      "status": "resolved",
@@ -2515,16 +4254,6 @@
       "reddit:t3_1qvaf6c"
      ],
      "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1vv6e60",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1vv6e60"
-     ],
-     "file": "rd_ebay",
      "shared_reddit_row": false
     },
     {
@@ -2548,71 +4277,31 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t3_1uug0m0",
+     "token": "t1_o9yqku1",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t3_1uug0m0"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_o64htk9",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_o64htk9"
+      "reddit:t1_o9yqku1"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
-     "token": "t1_o64o8wg",
+     "token": "t1_ns0iwn6",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_o64o8wg"
+      "reddit:t1_ns0iwn6"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
-     "token": "t1_o65m5pj",
+     "token": "t1_ns19b9p",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_o65m5pj"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_o64ua2i",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_o64ua2i"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_njn42rr",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_njn42rr"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1nzw8nl",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1nzw8nl"
+      "reddit:t1_ns19b9p"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -2638,13 +4327,13 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t1_odkd14k",
+     "token": "t3_1q53zhu",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_odkd14k"
+      "reddit:t3_1q53zhu"
      ],
-     "file": "rd_broad",
+     "file": "rd_ebay",
      "shared_reddit_row": false
     },
     {
@@ -2658,43 +4347,13 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t3_1q53zhu",
+     "token": "t1_odkd14k",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t3_1q53zhu"
+      "reddit:t1_odkd14k"
      ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_nxxo1bg",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_nxxo1bg"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_nxxcn0q",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_nxxcn0q"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1tbjxra",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1tbjxra"
-     ],
-     "file": "rd_ebay",
+     "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
@@ -2718,51 +4377,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t3_1shwwz7",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1shwwz7"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
      "token": "t3_1oe3rv0",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
       "reddit:t3_1oe3rv0"
-     ],
-     "file": "rd_broad+rd_ebay",
-     "shared_reddit_row": true
-    },
-    {
-     "token": "t1_nkykxsw",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_nkykxsw"
-     ],
-     "file": "rd_broad+rd_ebay",
-     "shared_reddit_row": true
-    },
-    {
-     "token": "t1_nlai4ln",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_nlai4ln"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_nkynsy1",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_nkynsy1"
      ],
      "file": "rd_broad+rd_ebay",
      "shared_reddit_row": true
@@ -2788,13 +4407,13 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t3_1vweez9",
+     "token": "t3_1qpssd0",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t3_1vweez9"
+      "reddit:t3_1qpssd0"
      ],
-     "file": "rd_broad",
+     "file": "rd_ebay",
      "shared_reddit_row": false
     },
     {
@@ -2808,21 +4427,21 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t1_p5gb6s4",
+     "token": "t3_1vweez9",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_p5gb6s4"
+      "reddit:t3_1vweez9"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
-     "token": "t1_p5gbcao",
+     "token": "t1_p5gb6s4",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_p5gbcao"
+      "reddit:t1_p5gb6s4"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -2848,21 +4467,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t1_oq7fajb",
+     "token": "t1_p5gv32z",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_oq7fajb"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1oqfzzy",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1oqfzzy"
+      "reddit:t1_p5gv32z"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -2878,23 +4487,13 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t1_nqybkth",
+     "token": "t3_1wphbkz",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_nqybkth"
+      "reddit:t3_1wphbkz"
      ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1uuzsyt",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1uuzsyt"
-     ],
-     "file": "rd_broad",
+     "file": "rd_ebay",
      "shared_reddit_row": false
     },
     {
@@ -2903,16 +4502,6 @@
      "status": "resolved",
      "matches": [
       "reddit:t3_1r91qdw"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1rp5h81",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1rp5h81"
      ],
      "file": "rd_ebay",
      "shared_reddit_row": false
@@ -2938,21 +4527,21 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t3_1r6l7fu",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1r6l7fu"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
      "token": "t1_o5r4nt4",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
       "reddit:t1_o5r4nt4"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t3_1r6l7fu",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1r6l7fu"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -2988,51 +4577,11 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t1_odxel8c",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_odxel8c"
-     ],
-     "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1i6hwn9",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1i6hwn9"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1or5joz",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1or5joz"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
      "token": "t3_1llzc73",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
       "reddit:t3_1llzc73"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_n05i8pk",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_n05i8pk"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -3088,13 +4637,33 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t3_1qcvle6",
+     "token": "t1_n04bfny",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t3_1qcvle6"
+      "reddit:t1_n04bfny"
      ],
-     "file": "rd_ebay",
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_oygq7h6",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oygq7h6"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p515n9w",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p515n9w"
+     ],
+     "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
@@ -3113,36 +4682,6 @@
      "status": "resolved",
      "matches": [
       "reddit:t1_p4zsiqf"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p50jtgt",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p50jtgt"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_p56jodo",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_p56jodo"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t3_1s5ae92",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t3_1s5ae92"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -3175,26 +4714,6 @@
       "reddit:t1_olpp167"
      ],
      "file": "rd_ebay",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_nsx0p9h",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_nsx0p9h"
-     ],
-     "file": "rd_broad",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "t1_omuylg3",
-     "kind": "reddit_bare",
-     "status": "resolved",
-     "matches": [
-      "reddit:t1_omuylg3"
-     ],
-     "file": "rd_broad",
      "shared_reddit_row": false
     },
     {
@@ -3248,11 +4767,31 @@
      "shared_reddit_row": false
     },
     {
-     "token": "t1_pa2yhrf",
+     "token": "t1_p50jtgt",
      "kind": "reddit_bare",
      "status": "resolved",
      "matches": [
-      "reddit:t1_pa2yhrf"
+      "reddit:t1_p50jtgt"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t3_1s5ae92",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1s5ae92"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p56yrbz",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p56yrbz"
      ],
      "file": "rd_broad",
      "shared_reddit_row": false
@@ -3278,31 +4817,151 @@
      "shared_reddit_row": false
     },
     {
-     "token": "Ugy0W2DV",
+     "token": "t1_no39bxl",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_no39bxl"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_nn69yj9",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_nn69yj9"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_o64ybsb",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o64ybsb"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_njn42rr",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_njn42rr"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_o65m5pj",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o65m5pj"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_o64ua2i",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_o64ua2i"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_oyfrxmd",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oyfrxmd"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_oz5yrln",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_oz5yrln"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p1ynv3d",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p1ynv3d"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_p7nasw9",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_p7nasw9"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t3_1shwwz7",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1shwwz7"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t3_1qcvle6",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t3_1qcvle6"
+     ],
+     "file": "rd_ebay",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "t1_pa2yhrf",
+     "kind": "reddit_bare",
+     "status": "resolved",
+     "matches": [
+      "reddit:t1_pa2yhrf"
+     ],
+     "file": "rd_broad",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "UgzrDtVVH",
      "kind": "ytc_prefix",
      "status": "resolved",
      "matches": [
-      "youtube_comment:Ugy0W2DVsiGQ631rSIZ4AaABAg"
+      "youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg"
      ],
      "file": "yt_comments",
      "shared_reddit_row": false
     },
     {
-     "token": "Ugw9MNqd",
+     "token": "UgySNeVlZQU",
      "kind": "ytc_prefix",
      "status": "resolved",
      "matches": [
-      "youtube_comment:Ugw9MNqd1DwnqNkyLuN4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "UgxJt3r8",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgxJt3r82BOBOHGPYq94AaABAg"
+      "youtube_comment:UgySNeVlZQU48YJR_Dd4AaABAg"
      ],
      "file": "yt_comments",
      "shared_reddit_row": false
@@ -3318,86 +4977,6 @@
      "shared_reddit_row": false
     },
     {
-     "token": "UgwMZJkF",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgwMZJkFRvRYo929_IR4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "UgwcR73o",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgwcR73ob2HBRN59eu54AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "Ugz5nBxn",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:Ugz5nBxnGuEJJr0XJgx4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "Ugwlhlr2",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:Ugwlhlr2hoGtmNlZHJ94AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "Ugzakwy5",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:Ugzakwy5sa-rW18rphB4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "UgySykQK",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgySykQKezGuTp4Pfg94AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "UgxYOQeW",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:UgxYOQeWDhWhVfqUrqt4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
-     "token": "Ugz9wuc9",
-     "kind": "ytc_prefix",
-     "status": "resolved",
-     "matches": [
-      "youtube_comment:Ugz9wuc9_Q0t27xqMEl4AaABAg"
-     ],
-     "file": "yt_comments",
-     "shared_reddit_row": false
-    },
-    {
      "token": "UgxbPBFf",
      "kind": "ytc_prefix",
      "status": "resolved",
@@ -3408,33 +4987,83 @@
      "shared_reddit_row": false
     },
     {
-     "token": "UgylQPRj",
+     "token": "Ugy-N4vf",
      "kind": "ytc_prefix",
      "status": "resolved",
      "matches": [
-      "youtube_comment:UgylQPRj1GhmCLIoZeV4AaABAg"
+      "youtube_comment:Ugy-N4vfOHdqoFxnakZ4AaABAg"
      ],
      "file": "yt_comments",
      "shared_reddit_row": false
     },
     {
-     "token": "UgyCv7jiwL",
+     "token": "UgwAqcvW",
      "kind": "ytc_prefix",
      "status": "resolved",
      "matches": [
-      "youtube_comment:UgyCv7jiwL0xRZbhEih4AaABAg"
+      "youtube_comment:UgwAqcvWStAcfOH6nl94AaABAg"
      ],
      "file": "yt_comments",
      "shared_reddit_row": false
     },
     {
-     "token": "Ugw9sPoCM",
+     "token": "Ugy1zfbMf",
      "kind": "ytc_prefix",
      "status": "resolved",
      "matches": [
-      "youtube_comment:Ugw9sPoCMBY6yzXWcid4AaABAg"
+      "youtube_comment:Ugy1zfbMf-NlX2W_69p4AaABAg"
      ],
      "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "UgzfGt8L5",
+     "kind": "ytc_prefix",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "Ugz2G3Pt",
+     "kind": "ytc_prefix",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:Ugz2G3PtLGmLzU4WuXh4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "UgxbPcyd",
+     "kind": "ytc_prefix",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgxbPcydBm_M7LfisLt4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "UgxbPcy",
+     "kind": "ytc_prefix",
+     "status": "resolved",
+     "matches": [
+      "youtube_comment:UgxbPcydBm_M7LfisLt4AaABAg"
+     ],
+     "file": "yt_comments",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "19bmF518whA:1393",
+     "kind": "chat_ref",
+     "status": "resolved",
+     "matches": [
+      "youtube_live:19bmF518whA:1393"
+     ],
+     "file": "yt_chat",
      "shared_reddit_row": false
     },
     {
@@ -3448,11 +5077,21 @@
      "shared_reddit_row": false
     },
     {
-     "token": "8ATRm1Bp1sU",
+     "token": "wbUy3gK7kFE:708",
+     "kind": "chat_ref",
+     "status": "resolved",
+     "matches": [
+      "youtube_live:wbUy3gK7kFE:708"
+     ],
+     "file": "yt_chat",
+     "shared_reddit_row": false
+    },
+    {
+     "token": "P-F3SpVz-CQ",
      "kind": "yt_video_bare",
      "status": "resolved",
      "matches": [
-      "youtube_video:8ATRm1Bp1sU"
+      "youtube_video:P-F3SpVz-CQ"
      ],
      "file": "yt_titles",
      "shared_reddit_row": false
@@ -3488,16 +5127,6 @@
      "shared_reddit_row": false
     },
     {
-     "token": "dBFlKA08zhY",
-     "kind": "yt_video_bare",
-     "status": "resolved",
-     "matches": [
-      "youtube_video:dBFlKA08zhY"
-     ],
-     "file": "yt_titles",
-     "shared_reddit_row": false
-    },
-    {
      "token": "Eq1xymBqpnk",
      "kind": "yt_video_bare",
      "status": "resolved",
@@ -3518,6 +5147,16 @@
      "shared_reddit_row": false
     }
    ]
+  },
+  "OVERVIEW_full_collection.md": {
+   "summary": {
+    "tokens": 0,
+    "resolved": 0,
+    "ambiguous": 0,
+    "unresolved": 0
+   },
+   "problems": [],
+   "rows": []
   },
   "claim_ledger.csv": {
    "summary": {
@@ -8247,9 +9886,14 @@
   }
  },
  "totals": {
-  "unique_tokens": 622,
-  "resolved_unique": 621,
+  "unique_tokens": 541,
+  "resolved_unique": 540,
   "ambiguous": 0,
-  "unresolved": 1
- }
+  "unresolved": 1,
+  "resolved_but_not_in_register": 2
+ },
+ "not_in_register": [
+  "reddit:t1_oy4j16b",
+  "tiktok_video:local_218e99dbcc43d15140a9ed1eac16ad3f338c9e05dafe54984ede22b36f859df5"
+ ]
 }

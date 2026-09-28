@@ -63,6 +63,13 @@ def run(docs):
             if r["status"] != "resolved": print("   ", r["status"], r["kind"], r["token"], r["matches"][:3])
     allrows = {r["token"]: r for dd in report["documents"].values() for r in dd["rows"]}
     report["totals"] = {"unique_tokens": len(allrows), "resolved_unique": sum(r["status"]=="resolved" for r in allrows.values()), "ambiguous": sum(r["status"]=="ambiguous" for r in allrows.values()), "unresolved": sum(r["status"]=="unresolved" for r in allrows.values())}
+    # register check: a resolved row that was never read in this run may be cited only as a code count, never as read
+    regp = os.path.join(HERE, "..", "reviewed_evidence.csv")
+    if os.path.exists(regp):
+        reg = set(pd.read_csv(regp, dtype=str, keep_default_na=False).evidence_id)
+        unread = sorted({r["matches"][0] for r in allrows.values() if r["status"]=="resolved" and not r["matches"][0].startswith("stream:") and r["matches"][0] not in reg})
+        report["totals"]["resolved_but_not_in_register"] = len(unread); report["not_in_register"] = unread
+        print("resolved but NOT in the reading register:", len(unread), unread[:10])
     print("TOTALS", report["totals"])
     json.dump(report, open(os.path.join(HERE, "stage3_id_resolution_report.json"), "w"), indent=1)
     return report
