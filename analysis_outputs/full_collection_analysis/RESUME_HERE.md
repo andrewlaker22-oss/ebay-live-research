@@ -1,9 +1,10 @@
 # RESUME_HERE (compact recovery note)
 
-Updated: 2026-09-28, after Stage 2.
-Current stage: Stage 3 (evidence checks) starting.
+Updated: 2026-09-28, after the first checker handback (cloud session, branch `main-3dv76t`, PR #1).
+Current stage: full-collection analysis DELIVERED, version 2 (provisional, checker-pending). Nothing is running.
 Source manifest: eight CSVs in `finalized/` (sha256 in `enrichment_v2_20260927/supporting/source_manifest.json`); derived lookup `derived/unified_evidence_index.csv`.
-Completed outputs: `stage1_coverage.md`; `stage2_provisional.md` (F/H per community, seven blocks); `stage2_notes_running.md` (fuller quotes); `reviewed_evidence.csv` (register); `derived/stage2_read_*.py` + `derived/strat.py` (read scripts, seeded); root `RESEARCH_CHECKPOINT.md` v6 (v4, v5 preserved here).
-Reading budget: 1,115 / 1,200 unique rows read (100 control included). 85 left for Stage 3 counterevidence reads.
-Blockers: none. No shell on the Windows machine: work happens in the workspace copy and files are written back with the device file tools.
-Exact next action: run counterevidence searches listed at the end of `stage2_provisional.md` (code-retrieved candidates, read ≤85 rows), recount every number with denominators on dedup units, write `derived/stage3_id_resolution.py` and `claim_ledger.csv`, then `stage3_evidence_checks.md`; then Stage 4 (`REPORT_full_collection.md`, `OVERVIEW_full_collection.md`).
+Deliverables (v2): `REPORT_full_collection.md`; `OVERVIEW_full_collection.md` (leads with a per-community summary table); `claim_ledger.csv` (54 claims; columns include Citation/phrase check (mechanical), Truncated-read rows among cited, Distinct authors, Shared Reddit rows); `stage3_evidence_checks.md` (C1–C40; §11 handback). Pre-patch v1 copies: `REPORT_full_collection_v1_2026-09-28_prepatch.md`, `OVERVIEW_full_collection_v1_2026-09-28_prepatch.md`, `claim_ledger_v1_2026-09-28_prepatch.csv`. Checker feedback: `CHECKER_FEEDBACK_full_collection_2026-09-28.md`. Root `RESEARCH_CHECKPOINT.md` v11 (v4–v10 preserved here).
+Reading budget: 1,200 / 1,200 unique rows. 22 cited rows re-read in full for the handback (`derived/stage5_full_reads.py`, register section `S5/fullread`); 76 cited rows remain partially read by the script's definition.
+Checks at delivery: ID resolution over all deliverables (every cited token resolves to one row except the documented Stage 2 typo quoted in a ledger cell); citation/phrase check (mechanical, phrase presence only) 303/303; quote check over report and overview (source quotes verbatim; unmatched phrases are labels and format names).
+Blockers: none. No paid calls, scraping or enrichment ran.
+Exact next action: checker review of the remaining claims and of the v2 corrections; then the business-side join. Further reading beyond re-reads of registered rows needs a budget decision from the user.

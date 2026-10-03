@@ -1143,3 +1143,110 @@ youtube_live:77jAv66lLio:963,yt_chat,chat_message,youtube_stream:77jAv66lLio,CON
 youtube_live:RHonjdvsRRY:1124,yt_chat,chat_message,youtube_stream:RHonjdvsRRY,CONTROL/yt_chat,4,False,control
 youtube_live:RHonjdvsRRY:1135,yt_chat,chat_message,youtube_stream:RHonjdvsRRY,CONTROL/yt_chat,6,False,control
 youtube_live:RHonjdvsRRY:1139,yt_chat,chat_message,youtube_stream:RHonjdvsRRY,CONTROL/yt_chat,6,False,control
+tiktok_video:local_99a0742387d2501f2bf64ff4770214721141d4f776036d5d4aab7e677a306d4f,tt_comm,video,,S3/comm_captions_ebay,400,True,
+tiktok_video:local_3cc532cfb019c7ea875311383c245b93612a512a40a3524f51e38897f7cb34c5,tt_comm,video,,S3/comm_captions_ebay,400,True,
+tiktok_video:local_ce987d6e44b76413c7d1dc5e830d12a4940adb3b8ef521cd9b218af71e8ffbcc,tt_comm,video,,S3/comm_captions_ebay,400,False,
+tiktok_video:local_b441c9453ba84ed26f090036522ce6e167cbb290c7afe26fe20dfede2d15cf5c,tt_comm,video,,S3/comm_captions_ebay,400,True,
+tiktok_video:local_11c6d0893a1b25476d633ebd84d66f2428ee027c5d0d72c8ba0c83d71cce1b80,tt_comm,video,,S3/comm_captions_ebay,149,False,
+tiktok_video:local_332a15b59821a217fec37ae2242091a8e105f87fea47a2eb9c2e2df5ac726246,tt_comm,video,,S3/comm_captions_ebay,400,False,
+tiktok_video:local_5afb86bf92bfa35ff8ff15568958d2214e8b3755ed7fbf639db59cc37b3ba2cb,tt_comm,video,,S3/comm_captions_ebay,400,False,
+tiktok_video:local_6fd1307421f1643d5f896d91385ad0a4b004e2f6adfa9bbfc782465b2e13c788,tt_comm,video,,S3/comm_captions_ebay,400,False,
+reddit:t1_p50mp5r,rd_broad,comment,t3_1vub4yy,S3/ebay_live_unpaid,135,False,
+reddit:t1_p56yrbz,rd_broad,comment,t3_1vub4yy,S3/ebay_live_unpaid,277,False,
+youtube_video:P-F3SpVz-CQ,yt_titles,video,,S3/ebay_live_unpaid,47,False,
+youtube_video:d3uHPsnoITc,yt_titles,video,,S3/ebay_live_unpaid,49,False,
+youtube_video:DjsWZaPwMQs,yt_titles,video,,S3/ebay_live_unpaid,55,False,
+youtube_video:y-NqOxTOXP0,yt_titles,video,,S3/ebay_live_unpaid,34,False,
+youtube_comment:UgxbPcydBm_M7LfisLt4AaABAg,yt_comments,comment,youtube_video:YbavyQqGimg,S3/ebay_live_unpaid,65,False,
+youtube_comment:UgyHUtciql40VkPuLnx4AaABAg,yt_comments,comment,youtube_video:sAY8aGVQafI,S3/ebay_live_unpaid,103,False,
+youtube_comment:UgwEGV5VWEFeN-mMMNd4AaABAg,yt_comments,comment,youtube_video:1rpD90MDjs4,S3/ebay_live_unpaid,269,False,
+reddit:t1_omvn0rt,rd_broad,comment,t3_1tikgey,S3/whatnot_buyer,500,True,
+reddit:t1_no39bxl,rd_broad,comment,t3_1oobr33,S3/whatnot_buyer,406,False,
+reddit:t1_nn69yj9,rd_broad,comment,t3_1oobr33,S3/whatnot_buyer,500,True,
+reddit:t1_owstef0,rd_broad,comment,t3_1usmrm9,S3/whatnot_buyer,500,True,
+reddit:t1_nseqlli,rd_broad,comment,t3_1pertsq,S3/whatnot_buyer,500,True,
+reddit:t1_nsfnog7,rd_broad,comment,t1_nserg6a,S3/whatnot_buyer,500,True,
+reddit:t3_1qpssd0,rd_ebay,post,,S3/whatnot_buyer,500,True,
+reddit:t1_oeva9nx,rd_broad,comment,t3_1sf3asf,S3/live_buyer,500,True,
+reddit:t1_owwn39k,rd_broad,comment,t1_owwjs83,S3/live_buyer,500,True,
+reddit:t3_1ufsqqo,rd_ebay,post,,S3/live_buyer,500,True,
+reddit:t3_1wphbkz,rd_ebay,post,,S3/live_buyer,500,True,
+youtube_comment:Ugy-N4vfOHdqoFxnakZ4AaABAg,yt_comments,comment,youtube_video:_Ze24dhLxYg,S3/live_buyer,282,False,
+tiktok_video:local_4472cc815eceb65ba2bb52daedeadfe527f6b7a76fcab9955aff7e8464e8a4b0,tt_direct,video,,S3/blindbox_ebay_live,400,True,
+tiktok_video:local_c90f2d6a67adb2a65bef2b600a26eae77608937a42d6619024f36844f61382c4,tt_comm,video,,S3/trains_ebay_live,400,True,
+reddit:t1_oy77ngm,rd_broad,comment,t3_1uz4nr6,S3/trains_ebay_live,400,True,
+reddit:t1_o9yqku1,rd_broad,comment,t3_1rrbwwo,S3/other_tcg,197,False,
+reddit:t1_oqnhajy,rd_broad,comment,t1_oqn2zfp,S3/other_tcg,400,True,
+reddit:t1_oony44l,rd_broad,comment,t3_1trdhqk,S3/other_tcg,400,True,
+reddit:t1_ogq1e9t,rd_broad,comment,t3_1so31lw,S3/other_tcg,397,False,
+reddit:t1_ns0iwn6,rd_broad,comment,t1_ns0c05e,S3/other_tcg,229,False,
+reddit:t1_ns19b9p,rd_broad,comment,t3_1pcpv9c,S3/other_tcg,400,True,
+youtube_comment:UgxYEXDXDWSVi1wR2Jh4AaABAg,yt_comments,comment,youtube_video:PyBgrCpJ25I,S3/fanatics,100,False,
+tiktok_video:local_8a4ab98cbc2e83e1edafa248cc513d2f092eab6ca7b5c3b0dafac7a9d9354638,tt_comm,video,,S3/panini,400,True,
+tiktok_video:local_7a9fb12f6e985d38e23775a00932fb9e71fe822f7fb54b82dcef0b72f1dfe143,tt_comm,video,,S3/panini,400,False,
+tiktok_video:local_a45d15cb095327354f6eefce9abb111ada63c2cc2aa60f59ebefcad0352c71e2,tt_comm,video,,S3/panini,400,False,
+tiktok_video:local_7ea8410a391680f2855b36b1fa6856ecbf7501551f8dff659510aaa97ff94e0e,tt_comm,video,,S3/panini,338,False,
+reddit:t1_oo348vm,rd_broad,comment,t3_1todhm0,S3/panini,45,False,
+tiktok_video:local_3663ef62f58286de01387c4ebafba32c316f93e43fa2ce61b2ec3618606ad05a,tt_direct,video,,S3/memorabilia,400,False,
+tiktok_video:local_04c140f3f49825a16a626d84c4f1113868f14121bc734cd5107ef60e6df8144e,tt_direct,video,,S3/memorabilia,400,False,
+tiktok_video:local_b327a2fe2239ca3a92e7670408f78c6f06627e79949d222ce1f98c71a71d2141,tt_comm,video,,S3/memorabilia,400,False,
+reddit:t1_njiirlq,rd_broad,comment,t1_njhny5z,S3/memorabilia,35,False,
+reddit:t1_ovl1bk3,rd_ebay,comment,t3_1unk16p,S3/memorabilia,400,True,
+youtube_comment:Ugy2Vnsm3Yrd_DX6HnN4AaABAg,yt_comments,comment,youtube_video:kG4bWGCW098,S3/memorabilia,92,False,
+tiktok_video:local_37697b3f473ea3378827cddbfeeb7675142264689a0f3a676ef0c0a335365d33,tt_direct,video,,S3/de,400,False,
+tiktok_video:local_2346635f9946fbb4f862e6f20fdb41841c56b99e66af17a06fbccea788ef078c,tt_direct,video,,S3/de,400,False,
+tiktok_video:local_987f90dd5b43b011394bf6f063726abda49ca67707a22c5af3394fbdabe94c16,tt_direct,video,,S3/de,400,True,
+tiktok_video:local_dfb628f8bb2528eda2e0c09cdd1c37ee5d10b81a9dc5b79057def1c35b7de5bf,tt_direct,video,,S3/de,400,False,
+tiktok_video:local_372655ccab8e088f9d883944f2aa9ddbd04dcc0fb5e4da02ee00ccd7e6b4f6b7,tt_comm,video,,S3/de,280,False,
+tiktok_video:local_13a61846bf301004ba3aad841138b6a9242040be233733d75a62cbd2e183c143,tt_comm,video,,S3/de,400,True,
+reddit:t1_omyw8vx,rd_broad,comment,t3_1tikgey,S3/de,198,False,
+youtube_comment:Ugw96YXMursI24UM2EN4AaABAg,yt_comments,comment,youtube_video:dCRQqzVie4k,S3/de,164,False,
+reddit:t1_niwjhum,rd_broad,comment,t1_niit1j2,S3/ag_positive_words,251,False,
+reddit:t1_o64ybsb,rd_broad,comment,t3_1r8eukv,S3/ag_positive_words,450,True,
+reddit:t1_p8kecsh,rd_broad,comment,t1_p8kd4zb,S3/ag_positive_words,112,False,
+reddit:t1_ojrsmf3,rd_broad,comment,t3_1t30nvb,S3/ag_positive_words,450,True,
+reddit:t3_1vsz0h6,rd_ebay,post,,S3/ag_positive_words,450,True,
+reddit:t3_1uz1h4s,rd_ebay,post,,S3/ag_positive_words,450,True,
+reddit:t3_1o2k82u,rd_ebay,post,,S3/ag_positive_words,450,True,
+youtube_comment:Ugw2NyP246LTjLFOziJ4AaABAg,yt_comments,comment,youtube_video:Eh33iq4H0aA,S3/ag_positive_words,150,False,
+youtube_comment:UgwAqcvWStAcfOH6nl94AaABAg,yt_comments,comment,youtube_video:O_O5qTf58zE,S3/ag_positive_words,228,False,
+youtube_comment:UgySNeVlZQU48YJR_Dd4AaABAg,yt_comments,comment,youtube_video:wz6ZI6DO_Ng,S3/ag_positive_words,189,False,
+tiktok_video:local_3e70873d7b6e8f9c43b0617116235378aaaeaa7b32dbeef01152e123342811f2,tt_direct,video,,S3/ag_positive_words,450,True,
+tiktok_video:local_a210513c87638e131a381011464f3c91b4a7507f4bd1ef2693f741a2be1f261c,tt_direct,video,,S3/ag_positive_words,450,False,
+tiktok_video:local_145097e1e6748f5565951f7bc4fd08917fcedd07d8831b5b3806eeeabb5612ce,tt_direct,video,,S3/ebay_praise,400,False,
+tiktok_video:local_ebcdc5db8f6c01191cd0c9b5cb3f9fbfff6e2e0372bb7f58733e56a20532ee35,tt_direct,video,,S3/ebay_praise,400,True,
+tiktok_video:local_7940415e04ff493a4b024c6f8d501da4af5a470c376b6df63230b6079257408d,tt_direct,video,,S3/ebay_praise,224,False,
+youtube_comment:UgwKsy149Nf1udqF3QV4AaABAg,yt_comments,comment,youtube_video:Eh33iq4H0aA,S3/ebay_praise,128,False,
+youtube_comment:UgwTq0VdNA1gfg7-k3F4AaABAg,yt_comments,comment,youtube_video:NQK7EFq70Iw,S3/ebay_praise,400,True,
+youtube_comment:Ugz2G3PtLGmLzU4WuXh4AaABAg,yt_comments,comment,youtube_video:hPeJHZxde78,S3/ebay_praise,321,False,
+reddit:t1_p5gv32z,rd_broad,comment,t3_1vweez9,S3/ebay_praise,155,False,
+reddit:t1_o4z9cng,rd_broad,comment,t3_1q1sicu,S3/ebay_praise,400,True,
+reddit:t1_olp4v3h,rd_ebay,comment,t3_1tcfh46,S3/ebay_praise,139,False,
+reddit:t1_n04bfny,rd_broad,comment,t1_n03uxvt,S3/coins,228,False,
+reddit:t1_p515n9w,rd_broad,comment,t3_1vub4yy,S3/coins,366,False,
+reddit:t1_oygq7h6,rd_broad,comment,t3_1v0mz2g,S3/coins,244,False,
+youtube_comment:Ugy1zfbMf-NlX2W_69p4AaABAg,yt_comments,comment,youtube_video:O_O5qTf58zE,S3/ag_positive_words,318,False,
+youtube_comment:UgyK2W-dcf1603Z-x654AaABAg,yt_comments,comment,youtube_video:Yge9oQXz29U,S3/ag_positive_words,341,False,
+youtube_comment:Ugwl5K9XhXIyxsEUKnV4AaABAg,yt_comments,comment,youtube_video:afclx6NcAAU,S3/ag_positive_words,450,True,
+reddit:t1_n04bfny,rd_broad,comment,t1_n03uxvt,S5/fullread,228,False,checker handback: full text of an already-registered row
+reddit:t1_njn3ck9,rd_broad,comment,t3_1o7ekel,S5/fullread,61,False,checker handback: full text of an already-registered row
+reddit:t3_1wfp5sj,rd_broad,post,,S5/fullread,86,False,checker handback: full text of an already-registered row
+reddit:t1_p9o48gb,rd_broad,comment,t3_1wfp5sj,S5/fullread,667,False,checker handback: full text of an already-registered row
+reddit:t1_p9ojy91,rd_broad,comment,t3_1wfp5sj,S5/fullread,142,False,checker handback: full text of an already-registered row
+reddit:t1_pa2yhrf,rd_broad,comment,t3_1wfp5sj,S5/fullread,290,False,checker handback: full text of an already-registered row
+reddit:t3_1vub4yy,rd_broad,post,,S5/fullread,1083,False,checker handback: full text of an already-registered row
+reddit:t1_p4zsiqf,rd_broad,comment,t3_1vub4yy,S5/fullread,221,False,checker handback: full text of an already-registered row
+reddit:t1_p50jtgt,rd_broad,comment,t3_1vub4yy,S5/fullread,308,False,checker handback: full text of an already-registered row
+reddit:t1_p50mp5r,rd_broad,comment,t3_1vub4yy,S5/fullread,135,False,checker handback: full text of an already-registered row
+reddit:t1_p56jodo,rd_broad,comment,t3_1vub4yy,S5/fullread,118,False,checker handback: full text of an already-registered row
+reddit:t1_p56yrbz,rd_broad,comment,t3_1vub4yy,S5/fullread,277,False,checker handback: full text of an already-registered row
+reddit:t3_1pttt05,rd_broad,post,,S5/fullread,700,False,checker handback: full text of an already-registered row
+reddit:t3_1s5ae92,rd_broad,post,,S5/fullread,1635,False,checker handback: full text of an already-registered row
+reddit:t1_ocus8sv,rd_broad,comment,t3_1s5ae92,S5/fullread,582,False,checker handback: full text of an already-registered row
+reddit:t1_p7xb529,rd_ebay,comment,t3_1w7rdjw,S5/fullread,35,False,checker handback: full text of an already-registered row
+reddit:t1_opkfisj,rd_ebay,comment,t3_1tvx3x9,S5/fullread,163,False,checker handback: full text of an already-registered row
+reddit:t1_p7yaxpk,rd_ebay,comment,t1_p7yakdd,S5/fullread,206,False,checker handback: full text of an already-registered row
+reddit:t3_1qpssd0,rd_ebay,post,,S5/fullread,2198,False,checker handback: full text of an already-registered row
+youtube_comment:UgxbPcydBm_M7LfisLt4AaABAg,yt_comments,comment,youtube_video:YbavyQqGimg,S5/fullread,65,False,checker handback: full text of an already-registered row
+youtube_comment:UgzrDtVVH-e2hHYihvR4AaABAg,yt_comments,comment,youtube_video:UEPtv6iw1EI,S5/fullread,803,False,checker handback: full text of an already-registered row
+youtube_comment:UgzfGt8L5RoXYTzy7Ul4AaABAg,yt_comments,comment,youtube_video:d3uHPsnoITc,S5/fullread,271,False,checker handback: full text of an already-registered row
