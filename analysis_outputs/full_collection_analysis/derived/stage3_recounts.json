@@ -1,0 +1,790 @@
+{
+ "units": {
+  "tt_direct_videos": 1007,
+  "tt_comm_videos": 914,
+  "tt_comments": 500,
+  "tt_comment_parent_videos": 50,
+  "rd_broad_posts": 100,
+  "rd_broad_comments": 1998,
+  "rd_ebay_posts_after_dedup": 130,
+  "rd_ebay_comments_after_dedup": 600,
+  "yt_titles": 248,
+  "yt_comments": 1407,
+  "yt_comment_videos": 192,
+  "chat_messages": 1416,
+  "chat_membership": 2,
+  "chat_super_chat": 1,
+  "chat_system": 10,
+  "chat_error": 6,
+  "chat_streams_with_messages": 9,
+  "reddit_dup_rows_dropped": 39,
+  "total_rows": 8378,
+  "total_unique_ids": 8339
+ },
+ "read": {
+  "unique_rows_read": 1200,
+  "by_file": {
+   "rd_broad": 284,
+   "tt_comm": 180,
+   "tt_direct": 173,
+   "yt_chat": 141,
+   "yt_comments": 125,
+   "rd_ebay": 104,
+   "tt_comments": 100,
+   "yt_titles": 93
+  },
+  "by_file_unit": {
+   "rd_broad/comment": 232,
+   "rd_broad/post": 52,
+   "rd_ebay/comment": 65,
+   "rd_ebay/post": 39,
+   "tt_comm/video": 180,
+   "tt_comments/comment": 100,
+   "tt_direct/video": 173,
+   "yt_chat/chat_message": 141,
+   "yt_comments/comment": 125,
+   "yt_titles/video": 93
+  },
+  "control_rows": 94,
+  "stage3_rows": 85
+ },
+ "ebay_live": {
+  "rows_all_files": 51,
+  "by_file": {
+   "tt_direct": 22,
+   "yt_titles": 13,
+   "rd_broad": 10,
+   "yt_comments": 5,
+   "rd_ebay": 1
+  },
+  "tt_direct_captions": 22,
+  "tt_comm_captions": 0,
+  "tt_direct_captions_promo_tagged": 13,
+  "tt_direct_captions_no_promo_tag": 9,
+  "rows_read": 51,
+  "yt_titles_from_ebay_channels": [
+   {
+    "evidence_id": "youtube_video:d3uHPsnoITc",
+    "channel": "ebay"
+   },
+   {
+    "evidence_id": "youtube_video:DjsWZaPwMQs",
+    "channel": "ebay"
+   },
+   {
+    "evidence_id": "youtube_video:y-NqOxTOXP0",
+    "channel": "eBay Live UK"
+   }
+  ],
+  "top3_views_promo": [
+   {
+    "id": "tiktok_video:local_c67838ae2adfd72a953a41d8235469d9f84250b5d84fd3bd0730cba35da103ef",
+    "views": 9800000.0,
+    "promo_tag": true
+   },
+   {
+    "id": "tiktok_video:local_88af59ae9a2fa322212e2c329b587b18d8ed944d676cd9e0e6716bcc388db04f",
+    "views": 7300000.0,
+    "promo_tag": true
+   },
+   {
+    "id": "tiktok_video:local_e9c4f012cf86f5f7fa3865c61be45b12bfab9472fd72a5915d4b0a79c0e8b299",
+    "views": 1200000.0,
+    "promo_tag": true
+   }
+  ],
+  "tt_direct_caption_list": [
+   {
+    "evidence_id": "tiktok_video:local_08c305fe10f02e9da6cd1106830e4d5afb2ecd6566b30a50c1909b0e6c6af89f",
+    "promo": true,
+    "views": 2162.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_ae88b4846925f57aeaaaa8c0bc7f2496cb6f0e7e7fa2b38416af0c1c635e2191",
+    "promo": false,
+    "views": 129.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_627a60aa32564e1765c07b784adc7847a1e261d24042134c5aefff9396f73bd6",
+    "promo": true,
+    "views": 2757.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_0a5a262f3aea878b77373b9e0995a0c00f0f768574288919baee14f293d0a9a3",
+    "promo": true,
+    "views": 1723.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_e1a367bc55ce75a0f43f151080b6e16c5d159ed94d4119413eab444363f63672",
+    "promo": false,
+    "views": 9100.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_88af59ae9a2fa322212e2c329b587b18d8ed944d676cd9e0e6716bcc388db04f",
+    "promo": true,
+    "views": 7300000.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_e74400576be7640392b593b2c0fb91d4de32cebee15a55d68b09762416b6e628",
+    "promo": true,
+    "views": 14700.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_63c645f28c308b02d9f1e46d2941920b624b0a856df26617477548b829ee6cae",
+    "promo": false,
+    "views": 25600.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_57f2669b2b4fbea8985a3fb3d96af8a784a7d757ac84e5efed712cd847089831",
+    "promo": true,
+    "views": 805.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_30074f1583efcfb4aad49ff70664596a9f392c9126d6949e054fc772d2706b7f",
+    "promo": true,
+    "views": 25200.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_f76262022d76f3c6cc8bc0539be77f7d7a20b5e0412c12f2f899731385872b17",
+    "promo": false,
+    "views": 27900.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_dc6720288fd76eea647275bdfe8a3601229db1c22da4104ec7bb465f7c4ca1b2",
+    "promo": false,
+    "views": 111.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_8ab883e5b6de9a3d366deedffd5c45e1cd2e5691bb0011b800a4d100a73b040a",
+    "promo": false,
+    "views": 195.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_8c6ebc992b6110b1bd4e0cf74809ea7d1b866d105e4a57329f13b1efaf7506d4",
+    "promo": true,
+    "views": 37400.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_da33bf27eaa5bf7d7831bc3cfed79ec4e31bd8ab04e1278c036ea74605ff020e",
+    "promo": true,
+    "views": 134400.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_51ab5800ba9189e3523179e838ff72ba69ed0a16f7f64c69878b5f2e594de755",
+    "promo": false,
+    "views": 3513.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_c782f692bc978712553acc428d84478c360c37b87d09db49380b52f9c7e7ffe6",
+    "promo": true,
+    "views": 10300.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_447635e84544972027c69f6ac1e6192795bca96d68aa3ef867b94bfdfdde130b",
+    "promo": false,
+    "views": 1730.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_e9c4f012cf86f5f7fa3865c61be45b12bfab9472fd72a5915d4b0a79c0e8b299",
+    "promo": true,
+    "views": 1200000.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_0f95bcedae470924ff9ae778f25d16d6ec80acf973be2784193b8a601006f3de",
+    "promo": true,
+    "views": 17800.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_c67838ae2adfd72a953a41d8235469d9f84250b5d84fd3bd0730cba35da103ef",
+    "promo": true,
+    "views": 9800000.0
+   },
+   {
+    "evidence_id": "tiktok_video:local_ef97316133dd506a0e663cf2c1d1c294c58cf077e8580508ea7015471420d73f",
+    "promo": false,
+    "views": 571.0
+   }
+  ]
+ },
+ "ebay_in_captions": {
+  "tt_direct": 684,
+  "tt_comm": 8
+ },
+ "comm_captions_naming_ebay_by_label": {
+  "Sports Cards": {
+   "videos": 62,
+   "naming_ebay": 1
+  },
+  "TCG/Pokemon": {
+   "videos": 87,
+   "naming_ebay": 0
+  },
+  "Sneakers/Streetwear": {
+   "videos": 88,
+   "naming_ebay": 0
+  },
+  "Luxury Fashion": {
+   "videos": 61,
+   "naming_ebay": 1
+  },
+  "Electronics": {
+   "videos": 188,
+   "naming_ebay": 1
+  },
+  "Toys/Collectibles": {
+   "videos": 137,
+   "naming_ebay": 1
+  },
+  "Other / emerging": {
+   "videos": 316,
+   "naming_ebay": 4
+  }
+ },
+ "break_promo": {
+  "tt_captions_daily_breaks_tiktok_shop": 7,
+  "tt_captions_break_and_tiktok_shop": 7,
+  "tt_captions_break_and_whatnot": 2,
+  "tt_captions_break_and_ebay": 1
+ },
+ "yt_sports_cards_breaks_lane": {
+  "videos": 20,
+  "titles_naming_ebay": 14,
+  "ebay_titled_views_min_max": [
+   26.0,
+   74669.0
+  ],
+  "non_ebay_titled_views_min_max": [
+   1031.0,
+   542529.0
+  ],
+  "views_blank": 0,
+  "rows": [
+   {
+    "evidence_id": "youtube_video:xeMKnCDtNhM",
+    "v": 74669.0,
+    "channel": "",
+    "title": "I Bought a Sports Card Mystery Box From a RANDOM eBay Seller\u2026"
+   },
+   {
+    "evidence_id": "youtube_video:eRZFQWjK2yM",
+    "v": 21060.0,
+    "channel": "",
+    "title": "I Found This 20-Year-Old Football Box on eBay..."
+   },
+   {
+    "evidence_id": "youtube_video:QyAXNatU8Mo",
+    "v": 46992.0,
+    "channel": "",
+    "title": "I Bought The SKETCHIEST Sports Card Mystery Boxes on eBay..."
+   },
+   {
+    "evidence_id": "youtube_video:_rDm8b0LVNQ",
+    "v": 53.0,
+    "channel": "",
+    "title": "eBay Thursday 2026 Panini Prizm Baseball 2 Hobby Box Break 9 17 26"
+   },
+   {
+    "evidence_id": "youtube_video:Zjj_1OX-Gbs",
+    "v": 542529.0,
+    "channel": "",
+    "title": "$250 Hobby Boxes vs. $250 Retail Boxes"
+   },
+   {
+    "evidence_id": "youtube_video:iPU9AoWlaBw",
+    "v": 39.0,
+    "channel": "",
+    "title": "eBay Wednesday 2026 Panini Prizm Baseball 2 Hobby Box Break 9 16 26"
+   },
+   {
+    "evidence_id": "youtube_video:S1NuE_wA2Bs",
+    "v": 19754.0,
+    "channel": "",
+    "title": "What Did I Just Find?..."
+   },
+   {
+    "evidence_id": "youtube_video:LPZ7wtjacn4",
+    "v": 40.0,
+    "channel": "",
+    "title": "eBay Sunday 2025 Topps Stadium Club Baseball 4 Hobby Box Break 9 20 26"
+   },
+   {
+    "evidence_id": "youtube_video:5XaYiryTyQQ",
+    "v": 15118.0,
+    "channel": "",
+    "title": "How to SELL Sports Cards REALLY FAST on eBay!"
+   },
+   {
+    "evidence_id": "youtube_video:EfYNvpJtWmQ",
+    "v": 37.0,
+    "channel": "",
+    "title": "2026 Topps Chrome Baseball PYT Hobby Box eBay Break #5"
+   },
+   {
+    "evidence_id": "youtube_video:FaILPcpLD1s",
+    "v": 283653.0,
+    "channel": "",
+    "title": "I Spent $1,000 on Sports Card Mystery Packs and Made $________"
+   },
+   {
+    "evidence_id": "youtube_video:bElKFZcvfg0",
+    "v": 1317.0,
+    "channel": "",
+    "title": "eBay- 2026 Topps Marvel Vault 5 Box Case Pick Your Character!-9/23/26"
+   },
+   {
+    "evidence_id": "youtube_video:zlDlWR6W7h0",
+    "v": 46.0,
+    "channel": "",
+    "title": "eBay Monday 2026 Panini Prizm Baseball 3 Hobby Box Break 9 14 26"
+   },
+   {
+    "evidence_id": "youtube_video:sWYyT7Ex69o",
+    "v": 26.0,
+    "channel": "",
+    "title": "2026 Topps Chrome Baseball PYT Hobby Box eBay Break #1"
+   },
+   {
+    "evidence_id": "youtube_video:SzVWf_A4BUo",
+    "v": 241284.0,
+    "channel": "",
+    "title": "Can We Profit Opening High End Sports Card Boxes?"
+   },
+   {
+    "evidence_id": "youtube_video:MtNpAZWnn6I",
+    "v": 104664.0,
+    "channel": "",
+    "title": "Can I Find Profit in $1 Sports Card Boxes?"
+   },
+   {
+    "evidence_id": "youtube_video:Srwgb5wXrZw",
+    "v": 606.0,
+    "channel": "",
+    "title": "SD SPORTS CARDS: 9.9.26 EBAY LIVE STREAM....w/ D-MO!!!! #boxbreak #sportscards #"
+   },
+   {
+    "evidence_id": "youtube_video:bPXCFwpSq8c",
+    "v": 46.0,
+    "channel": "",
+    "title": "eBay Thursday 2025 26 Panini Origins Basketball 3 Hobby Box Break 9 3 26"
+   },
+   {
+    "evidence_id": "youtube_video:m55lrKxMeJ4",
+    "v": 1031.0,
+    "channel": "",
+    "title": "NFL vs NBA: The Ultimate Walgreens FAIRFIELD Box Battle!"
+   },
+   {
+    "evidence_id": "youtube_video:tSw3RM7K1xM",
+    "v": 43.0,
+    "channel": "",
+    "title": "2026 Topps Chrome Baseball PYT Hobby Box eBay Break #4"
+   }
+  ]
+ },
+ "other_tcg": {
+  "one_piece": {
+   "rows": 4,
+   "by_file": {
+    "rd_broad": 3,
+    "tt_comm": 1
+   }
+  },
+  "lorcana": {
+   "rows": 1,
+   "by_file": {
+    "rd_broad": 1
+   }
+  },
+  "magic_mtg": {
+   "rows": 8,
+   "by_file": {
+    "tt_comm": 4,
+    "rd_broad": 2,
+    "rd_ebay": 2
+   }
+  },
+  "yugioh": {
+   "rows": 4,
+   "by_file": {
+    "rd_broad": 3,
+    "tt_comm": 1
+   }
+  },
+  "riftbound": {
+   "rows": 0,
+   "by_file": {}
+  },
+  "fanatics": {
+   "rows": 2,
+   "by_file": {
+    "tt_comm": 1,
+    "yt_comments": 1
+   }
+  }
+ },
+ "coins": {
+  "rows": 18,
+  "by_file": {
+   "rd_broad": 9,
+   "rd_ebay": 7,
+   "tt_comm": 2
+  },
+  "flash_label_Coins": {
+   "tt_videos": 1,
+   "reddit_posts": 4,
+   "reddit_comments": 43
+  }
+ },
+ "fragrance": {
+  "rows": 14,
+  "by_file": {
+   "yt_comments": 7,
+   "tt_direct": 3,
+   "rd_broad": 2,
+   "rd_ebay": 1,
+   "yt_titles": 1
+  }
+ },
+ "watches": {
+  "rows": 178,
+  "by_file": {
+   "rd_broad": 85,
+   "yt_comments": 41,
+   "tt_comm": 15,
+   "rd_ebay": 14,
+   "tt_direct": 11,
+   "yt_titles": 8,
+   "tt_comments": 2,
+   "yt_chat": 2
+  }
+ },
+ "panini_premier": {
+  "panini": {
+   "rows": 12,
+   "by_file": {
+    "tt_comm": 6,
+    "yt_titles": 4,
+    "tt_direct": 1,
+    "yt_comments": 1
+   }
+  },
+  "premier_league": {
+   "rows": 0,
+   "by_file": {}
+  },
+  "match_worn": {
+   "rows": 0,
+   "by_file": {}
+  },
+  "memorabilia": {
+   "rows": 1,
+   "by_file": {
+    "rd_broad": 1
+   }
+  }
+ },
+ "markets": {
+  "uk_stated": {
+   "rows": 72,
+   "by_file": {
+    "tt_direct": 31,
+    "rd_broad": 18,
+    "yt_comments": 9,
+    "tt_comm": 8,
+    "rd_ebay": 3,
+    "yt_titles": 3
+   }
+  },
+  "de_stated": {
+   "rows": 18,
+   "by_file": {
+    "tt_direct": 6,
+    "rd_broad": 4,
+    "tt_comm": 3,
+    "yt_comments": 3,
+    "rd_ebay": 2
+   }
+  },
+  "au_stated": {
+   "rows": 57,
+   "by_file": {
+    "tt_comm": 21,
+    "rd_broad": 18,
+    "tt_direct": 15,
+    "rd_ebay": 2,
+    "yt_comments": 1
+   },
+   "pattern": "australia|@ebayau|ebay\\.com\\.au|aussie|aest"
+  },
+  "japan_ebay": {
+   "rows": 40,
+   "by_file": {
+    "tt_direct": 25,
+    "tt_comments": 4,
+    "rd_broad": 4,
+    "yt_comments": 3,
+    "rd_ebay": 2,
+    "yt_titles": 2
+   }
+  }
+ },
+ "tt_comments_pre2025": 137,
+ "chat": {
+  "messages": 1416,
+  "host_or_mod_flagged": 329,
+  "member_flagged": 218,
+  "distinct_nonhost_authors": 148,
+  "naming_ebay": 50,
+  "per_stream": [
+   {
+    "video_id": "19bmF518whA",
+    "title": "LIVE Pokemon RIP N SHIP! DESTINED RIVALS ETB HIT OF NIGHT BONUS!",
+    "messages": 247,
+    "host_mod": 60,
+    "naming_ebay": 2,
+    "read": 22
+   },
+   {
+    "video_id": "77jAv66lLio",
+    "title": "9/24 1/2 Signature Class // 1/2 Bowman Chrome (Thur Night eBay Breaks)",
+    "messages": 249,
+    "host_mod": 58,
+    "naming_ebay": 20,
+    "read": 25
+   },
+   {
+    "video_id": "AW9J0zZl0yE",
+    "title": "2022 Bowman Draft Jumbo 2-Box Modified Reno Break",
+    "messages": 65,
+    "host_mod": 60,
+    "naming_ebay": 0,
+    "read": 5
+   },
+   {
+    "video_id": "F13yNlNDTvY",
+    "title": "6/28 Discord Breaks! (eBay Returns Wed)",
+    "messages": 249,
+    "host_mod": 50,
+    "naming_ebay": 14,
+    "read": 13
+   },
+   {
+    "video_id": "GKYH-awLpo0",
+    "title": "eBay- 2025 Bowman Chrome Baseball FIVE CASE Pick Your Player Break #1!",
+    "messages": 205,
+    "host_mod": 0,
+    "naming_ebay": 2,
+    "read": 23
+   },
+   {
+    "video_id": "RHonjdvsRRY",
+    "title": "Bidding on Pok\u00e9mon Card Auctions LIVE \u2014 Slab Hunting on Whatnot | Jul ",
+    "messages": 113,
+    "host_mod": 34,
+    "naming_ebay": 0,
+    "read": 23
+   },
+   {
+    "video_id": "ojbDMXmv-OY",
+    "title": "\ud83d\udd25 Triple Header Break Night B#2103/#2105/2107 NOW LIVE! \ud83d\udd25",
+    "messages": 39,
+    "host_mod": 0,
+    "naming_ebay": 0,
+    "read": 10
+   },
+   {
+    "video_id": "wbUy3gK7kFE",
+    "title": "Live eBay Reseller Q&A | The Nurse Flipper Sonny Las Vegas Pickin Thri",
+    "messages": 248,
+    "host_mod": 66,
+    "naming_ebay": 12,
+    "read": 20
+   },
+   {
+    "video_id": "xEEbvhyMOnE",
+    "title": "Buyaparcel eBay LIVE Spotlight on Dewalt | \u00a31 Auctions | Live ONLY Fla",
+    "messages": 1,
+    "host_mod": 1,
+    "naming_ebay": 0,
+    "read": 0
+   }
+  ]
+ },
+ "authentication_rows": {
+  "all": 297,
+  "by_file": {
+   "rd_broad": 141,
+   "rd_ebay": 67,
+   "yt_comments": 37,
+   "yt_titles": 26,
+   "tt_direct": 25,
+   "tt_comments": 1
+  },
+  "read": 91
+ },
+ "platforms": {
+  "whatnot": {
+   "rows": 181,
+   "by_file": {
+    "rd_broad": 97,
+    "yt_comments": 42,
+    "yt_titles": 28,
+    "tt_direct": 5,
+    "tt_comm": 3,
+    "rd_ebay": 3,
+    "yt_chat": 3
+   }
+  },
+  "tiktok_shop": {
+   "rows": 70,
+   "by_file": {
+    "rd_broad": 28,
+    "tt_comm": 24,
+    "tt_direct": 9,
+    "yt_titles": 7,
+    "yt_comments": 2
+   }
+  },
+  "fanatics_live": {
+   "rows": 0,
+   "by_file": {}
+  },
+  "stockx": {
+   "rows": 26,
+   "by_file": {
+    "yt_comments": 12,
+    "yt_titles": 7,
+    "rd_broad": 6,
+    "tt_direct": 1
+   }
+  },
+  "goat": {
+   "rows": 36,
+   "by_file": {
+    "yt_comments": 9,
+    "rd_broad": 8,
+    "tt_comm": 6,
+    "tt_direct": 5,
+    "yt_titles": 4,
+    "tt_comments": 3,
+    "yt_chat": 1
+   }
+  },
+  "tcgplayer": {
+   "rows": 11,
+   "by_file": {
+    "tt_direct": 4,
+    "tt_comm": 2,
+    "rd_broad": 2,
+    "yt_comments": 2,
+    "tt_comments": 1
+   }
+  },
+  "mercari": {
+   "rows": 24,
+   "by_file": {
+    "tt_direct": 10,
+    "rd_broad": 4,
+    "yt_chat": 4,
+    "rd_ebay": 2,
+    "yt_titles": 2,
+    "tt_comm": 1,
+    "tt_comments": 1
+   }
+  },
+  "vinted": {
+   "rows": 49,
+   "by_file": {
+    "tt_direct": 35,
+    "yt_comments": 7,
+    "rd_broad": 5,
+    "yt_titles": 2
+   }
+  },
+  "depop": {
+   "rows": 42,
+   "by_file": {
+    "tt_direct": 23,
+    "yt_titles": 8,
+    "rd_broad": 5,
+    "tt_comm": 2,
+    "rd_ebay": 2,
+    "yt_comments": 2
+   }
+  },
+  "poshmark": {
+   "rows": 41,
+   "by_file": {
+    "tt_direct": 16,
+    "yt_titles": 15,
+    "rd_ebay": 4,
+    "yt_comments": 4,
+    "rd_broad": 2
+   }
+  },
+  "facebook_marketplace": {
+   "rows": 15,
+   "by_file": {
+    "rd_broad": 9,
+    "yt_comments": 3,
+    "yt_titles": 2,
+    "yt_chat": 1
+   }
+  },
+  "discord": {
+   "rows": 21,
+   "by_file": {
+    "rd_broad": 13,
+    "tt_direct": 3,
+    "yt_chat": 3,
+    "tt_comm": 2
+   }
+  },
+  "purse ?forum": {
+   "rows": 1,
+   "by_file": {
+    "rd_broad": 1
+   }
+  },
+  "chrono24": {
+   "rows": 3,
+   "by_file": {
+    "rd_broad": 3
+   }
+  }
+ },
+ "rd_broad_subreddits": {
+  "Ebay": 22,
+  "whatnotapp": 10,
+  "PokemonTCG": 8,
+  "TikTokshop": 8,
+  "IsMyPokemonCardFake": 6,
+  "baseballcards": 5,
+  "Flipping": 4,
+  "mildlyinfuriating": 3,
+  "Superstonk": 3,
+  "technology": 3,
+  "sportscards": 2,
+  "Watches": 2,
+  "eBaySellerAdvice": 2,
+  "rolex": 2,
+  "handbags": 2,
+  "Sneakers": 2,
+  "interestingasfuck": 1,
+  "BeAmazed": 1,
+  "mildlyinteresting": 1,
+  "Steam": 1,
+  "gaming": 1,
+  "wallstreetbets": 1,
+  "pcmasterrace": 1,
+  "FoundPhotos": 1,
+  "CasualConversation": 1,
+  "UnethicalLifeProTips": 1,
+  "pokemoncardcollectors": 1,
+  "ATBGE": 1,
+  "Gold": 1,
+  "": 1,
+  "basketballcards": 1,
+  "gamecollecting": 1
+ }
+}
