@@ -104,7 +104,7 @@ def extract_report(interaction):
 
 
 def save_outputs(interaction, agent, started_at):
-    base = os.path.join(HERE, f"whatnot_pokemon_report_{stamp()}")
+    base = os.path.join(HERE, f"whatnot_phase1_report_{stamp()}")
     report, cites = extract_report(interaction)
     header = (
         f"<!-- Gemini Deep Research | agent: {agent} | interaction: {getattr(interaction, 'id', '?')} | "
@@ -152,7 +152,7 @@ def poll(client, interaction_id, agent, started_at, max_minutes):
             return 0
         if status in STOP_STATES:
             log(f"The run ended with status '{status}'. Error detail: {getattr(interaction, 'error', None)}")
-            with open(os.path.join(HERE, f"whatnot_pokemon_FAILED_{stamp()}_raw.json"), "w", encoding="utf-8") as f:
+            with open(os.path.join(HERE, f"whatnot_phase1_FAILED_{stamp()}_raw.json"), "w", encoding="utf-8") as f:
                 json.dump(to_jsonable(interaction), f, indent=2, default=str)
             log("Raw response saved for diagnosis. Nothing was retried automatically.")
             return 1
